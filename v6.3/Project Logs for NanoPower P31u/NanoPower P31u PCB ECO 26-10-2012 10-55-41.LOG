@@ -1,0 +1,8 @@
+Added Component: Designator=C100(594D107X9016D2T)
+Added Component: Designator=C101(594D107X9016D2T)
+Added Pin To Net: NetName=VBOOST Pin=C100-1
+Added Pin To Net: NetName=GND Pin=C100-2
+Added Pin To Net: NetName=VBOOST Pin=C101-1
+Added Pin To Net: NetName=GND Pin=C101-2
+Added Class: Name=boost_converters
+Added Room: Name=boost_converters

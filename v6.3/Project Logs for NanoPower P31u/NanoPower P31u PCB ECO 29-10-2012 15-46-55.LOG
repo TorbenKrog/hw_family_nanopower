@@ -1,0 +1,86 @@
+Added Component: Designator=C600(CAPC1608M)
+Added Component: Designator=R600(RESC1608M)
+Added Component: Designator=U600(100T1_N)
+Added Pin To Net: NetName=GND Pin=C600-2
+Added Pin To Net: NetName=VCC_3.3 Pin=U600-10
+Added Pin To Net: NetName=GND Pin=U600-11
+Added Pin To Net: NetName=VCC_3.3 Pin=U600-31
+Added Pin To Net: NetName=GND Pin=U600-32
+Added Pin To Net: NetName=VCC_3.3 Pin=U600-61
+Added Pin To Net: NetName=GND Pin=U600-62
+Added Pin To Net: NetName=VCC_3.3 Pin=U600-80
+Added Pin To Net: NetName=GND Pin=U600-81
+Added Pin To Net: NetName=GND Pin=U600-99
+Added Pin To Net: NetName=AVCC Pin=R600-2
+Added Pin To Net: NetName=AVCC Pin=U600-100
+Added Net: Name=AVCC
+Added Net: Name=ISP_MISO
+Added Net: Name=ISP_MOSI
+Added Pin To Net: NetName=NetC600_1 Pin=C600-1
+Added Pin To Net: NetName=NetC600_1 Pin=R600-1
+Added Pin To Net: NetName=NetC600_1 Pin=U600-98
+Added Net: Name=NetC600_1
+Added Pin To Net: NetName=NetU600_20 Pin=U600-20
+Added Pin To Net: NetName=NetU600_20 Pin=U600-53
+Added Net: Name=NetU600_20
+Added Pin To Net: NetName=NetU600_21 Pin=U600-21
+Added Pin To Net: NetName=NetU600_21 Pin=U600-54
+Added Net: Name=NetU600_21
+Added Pin To Net: NetName=NetU600_22 Pin=U600-22
+Added Pin To Net: NetName=NetU600_22 Pin=U600-55
+Added Net: Name=NetU600_22
+Added Pin To Net: NetName=NetU600_23 Pin=U600-23
+Added Pin To Net: NetName=NetU600_23 Pin=U600-56
+Added Net: Name=NetU600_23
+Added Pin To Net: NetName=NetU600_24 Pin=U600-24
+Added Pin To Net: NetName=NetU600_24 Pin=U600-57
+Added Net: Name=NetU600_24
+Added Pin To Net: NetName=NetU600_25 Pin=U600-25
+Added Pin To Net: NetName=NetU600_25 Pin=U600-58
+Added Net: Name=NetU600_25
+Added Pin To Net: NetName=NetU600_26 Pin=U600-26
+Added Pin To Net: NetName=NetU600_26 Pin=U600-59
+Added Net: Name=NetU600_26
+Added Pin To Net: NetName=NetU600_28 Pin=U600-28
+Added Net: Name=NetU600_28
+Added Pin To Net: NetName=NetU600_30 Pin=U600-30
+Added Net: Name=NetU600_30
+Added Pin To Net: NetName=NetU600_35 Pin=U600-35
+Added Net: Name=NetU600_35
+Added Pin To Net: NetName=NetU600_36 Pin=U600-36
+Added Net: Name=NetU600_36
+Added Pin To Net: NetName=NetU600_37 Pin=U600-37
+Added Net: Name=NetU600_37
+Added Pin To Net: NetName=NetU600_38 Pin=U600-38
+Added Net: Name=NetU600_38
+Added Pin To Net: NetName=NetU600_39 Pin=U600-39
+Added Net: Name=NetU600_39
+Added Pin To Net: NetName=NetU600_40 Pin=U600-40
+Added Net: Name=NetU600_40
+Added Pin To Net: NetName=NetU600_41 Pin=U600-41
+Added Net: Name=NetU600_41
+Added Pin To Net: NetName=NetU600_42 Pin=U600-42
+Added Net: Name=NetU600_42
+Added Pin To Net: NetName=NetU600_70 Pin=U600-70
+Added Net: Name=NetU600_70
+Added Pin To Net: NetName=NetU600_82 Pin=U600-82
+Added Net: Name=NetU600_82
+Added Pin To Net: NetName=NetU600_83 Pin=U600-83
+Added Net: Name=NetU600_83
+Added Pin To Net: NetName=NetU600_84 Pin=U600-84
+Added Net: Name=NetU600_84
+Added Pin To Net: NetName=NetU600_85 Pin=U600-85
+Added Net: Name=NetU600_85
+Added Pin To Net: NetName=NetU600_86 Pin=U600-86
+Added Net: Name=NetU600_86
+Added Pin To Net: NetName=NetU600_87 Pin=U600-87
+Added Net: Name=NetU600_87
+Added Pin To Net: NetName=NetU600_88 Pin=U600-88
+Added Net: Name=NetU600_88
+Added Pin To Net: NetName=NetU600_89 Pin=U600-89
+Added Net: Name=NetU600_89
+Added Net: Name=R\E\S\E\T\
+Added Pin To Net: NetName=SCK Pin=U600-52
+Added Net: Name=SCK
+Added Class: Name=UC
+Added Room: Name=UC

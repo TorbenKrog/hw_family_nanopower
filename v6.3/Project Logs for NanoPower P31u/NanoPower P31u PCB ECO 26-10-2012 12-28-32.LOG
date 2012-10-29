@@ -1,0 +1,144 @@
+Removed Pin From Net: NetName=VBOOST Pin=C100-1
+Removed Pin From Net: NetName=VBOOST Pin=C101-1
+Added Component: Designator=C102(CAPC1608M)
+Added Component: Designator=C103(CAPC1608M)
+Added Component: Designator=C104(CAPC1608M)
+Added Component: Designator=Q100(sot-23)
+Added Component: Designator=Q101(sot-23)
+Added Component: Designator=R100(RESC1608M)
+Added Component: Designator=R101(Footprint 1812)
+Added Component: Designator=R102(RESC1608M)
+Added Component: Designator=R103(RESC1608M)
+Added Component: Designator=R104(RESC1608M)
+Added Component: Designator=R105(RESC1608M)
+Added Component: Designator=R106(RESC1608M)
+Added Component: Designator=R107_B1(Footprint 1812)
+Added Component: Designator=R107_B2(Footprint 1812)
+Added Component: Designator=R107_B3(Footprint 1812)
+Added Component: Designator=R107(Footprint 1812)
+Added Component: Designator=R108(RESC1608M)
+Added Component: Designator=R109(RESC1608M)
+Added Component: Designator=R110(RESC1608M)
+Added Component: Designator=R111(RESC1608M)
+Added Component: Designator=R112(RESC1608M)
+Added Component: Designator=U2_B1(SOT23-5_L)
+Added Component: Designator=U2_B2(SOT23-5_L)
+Added Component: Designator=U2_B3(SOT23-5_L)
+Added Component: Designator=U100(MF05A_N)
+Added Component: Designator=U101(SOT23-5_L)
+Added Component: Designator=U102(SOT23-5_L)
+Added Component: Designator=U103(MF05A_N)
+Added Pin To Net: NetName=GND Pin=C102-2
+Added Pin To Net: NetName=GND Pin=C103-2
+Added Pin To Net: NetName=VBOOST Pin=Q100-2
+Added Pin To Net: NetName=GND Pin=Q100-3
+Added Pin To Net: NetName=VBOOST Pin=R103-1
+Added Pin To Net: NetName=GND Pin=R103-2
+Added Pin To Net: NetName=VBOOST Pin=R105-2
+Added Pin To Net: NetName=GND Pin=R106-1
+Added Pin To Net: NetName=NetC2_B1_1 Pin=R107_B1-2
+Added Pin To Net: NetName=NetC2_B2_1 Pin=R107_B2-2
+Added Pin To Net: NetName=NetC2_B3_1 Pin=R107_B3-2
+Added Pin To Net: NetName=GND Pin=R109-1
+Added Pin To Net: NetName=GND Pin=R111-2
+Added Pin To Net: NetName=GND Pin=U2_B1-1
+Added Pin To Net: NetName=VBOOST Pin=U2_B1-3
+Added Pin To Net: NetName=NetC2_B1_1 Pin=U2_B1-5
+Added Pin To Net: NetName=GND Pin=U2_B2-1
+Added Pin To Net: NetName=VBOOST Pin=U2_B2-3
+Added Pin To Net: NetName=NetC2_B2_1 Pin=U2_B2-5
+Added Pin To Net: NetName=GND Pin=U2_B3-1
+Added Pin To Net: NetName=VBOOST Pin=U2_B3-3
+Added Pin To Net: NetName=NetC2_B3_1 Pin=U2_B3-5
+Added Pin To Net: NetName=GND Pin=U100-2
+Added Pin To Net: NetName=VBOOST Pin=U100-5
+Added Pin To Net: NetName=GND Pin=U101-1
+Added Pin To Net: NetName=GND Pin=U102-1
+Added Pin To Net: NetName=GND Pin=U103-2
+Added Pin To Net: NetName=VBOOST Pin=U103-5
+Added Pin To Net: NetName=NetC100_1 Pin=C100-1
+Added Pin To Net: NetName=NetC100_1 Pin=C101-1
+Added Pin To Net: NetName=NetC100_1 Pin=D1_B1-2
+Added Pin To Net: NetName=NetC100_1 Pin=D1_B2-2
+Added Pin To Net: NetName=NetC100_1 Pin=D1_B3-2
+Added Pin To Net: NetName=NetC100_1 Pin=R101-1
+Added Pin To Net: NetName=NetC100_1 Pin=U101-4
+Added Net: Name=NetC100_1
+Added Pin To Net: NetName=NetC102_1 Pin=C102-1
+Added Pin To Net: NetName=NetC102_1 Pin=Q1_B1-2
+Added Pin To Net: NetName=NetC102_1 Pin=Q1_B2-2
+Added Pin To Net: NetName=NetC102_1 Pin=Q1_B3-2
+Added Pin To Net: NetName=NetC102_1 Pin=R100-2
+Added Net: Name=NetC102_1
+Added Pin To Net: NetName=NetC103_1 Pin=C103-1
+Added Pin To Net: NetName=NetC103_1 Pin=C104-2
+Added Pin To Net: NetName=NetC103_1 Pin=R110-1
+Added Pin To Net: NetName=NetC103_1 Pin=R111-1
+Added Pin To Net: NetName=NetC103_1 Pin=R112-2
+Added Pin To Net: NetName=NetC103_1 Pin=U103-3
+Added Net: Name=NetC103_1
+Added Pin To Net: NetName=NetC104_1 Pin=C104-1
+Added Pin To Net: NetName=NetC104_1 Pin=R112-1
+Added Pin To Net: NetName=NetC104_1 Pin=U103-1
+Added Net: Name=NetC104_1
+Added Pin To Net: NetName=NetQ100_1 Pin=Q100-1
+Added Pin To Net: NetName=NetQ100_1 Pin=Q101-2
+Added Pin To Net: NetName=NetQ100_1 Pin=R104-1
+Added Net: Name=NetQ100_1
+Added Pin To Net: NetName=NetQ101_1 Pin=Q101-1
+Added Pin To Net: NetName=NetQ101_1 Pin=R108-2
+Added Pin To Net: NetName=NetQ101_1 Pin=R110-2
+Added Net: Name=NetQ101_1
+Added Pin To Net: NetName=NetR100_1 Pin=R100-1
+Added Pin To Net: NetName=NetR100_1 Pin=R102-2
+Added Pin To Net: NetName=NetR100_1 Pin=U100-1
+Added Net: Name=NetR100_1
+Added Pin To Net: NetName=NetR102_1 Pin=R102-1
+Added Pin To Net: NetName=NetR102_1 Pin=R108-1
+Added Pin To Net: NetName=NetR102_1 Pin=R109-2
+Added Pin To Net: NetName=NetR102_1 Pin=U100-3
+Added Net: Name=NetR102_1
+Added Pin To Net: NetName=NetR105_1 Pin=R105-1
+Added Pin To Net: NetName=NetR105_1 Pin=R106-2
+Added Pin To Net: NetName=NetR105_1 Pin=U100-4
+Added Pin To Net: NetName=NetR105_1 Pin=U103-4
+Added Net: Name=NetR105_1
+Added Pin To Net: NetName=NetR107_2 Pin=R107-2
+Added Pin To Net: NetName=NetR107_2 Pin=U102-5
+Added Net: Name=NetR107_2
+Added Pin To Net: NetName=NetR107_B1_1 Pin=R107_B1-1
+Added Pin To Net: NetName=NetR107_B1_1 Pin=U2_B1-4
+Added Net: Name=NetR107_B1_1
+Added Pin To Net: NetName=NetR107_B2_1 Pin=R107_B2-1
+Added Pin To Net: NetName=NetR107_B2_1 Pin=U2_B2-4
+Added Net: Name=NetR107_B2_1
+Added Pin To Net: NetName=NetR107_B3_1 Pin=R107_B3-1
+Added Pin To Net: NetName=NetR107_B3_1 Pin=U2_B3-4
+Added Net: Name=NetR107_B3_1
+Added Pin To Net: NetName=NetU2_B1_2 Pin=U2_B1-2
+Added Net: Name=NetU2_B1_2
+Added Pin To Net: NetName=NetU2_B2_2 Pin=U2_B2-2
+Added Net: Name=NetU2_B2_2
+Added Pin To Net: NetName=NetU2_B3_2 Pin=U2_B3-2
+Added Net: Name=NetU2_B3_2
+Added Pin To Net: NetName=NetU101_2 Pin=U101-2
+Added Net: Name=NetU101_2
+Added Pin To Net: NetName=NetU102_2 Pin=U102-2
+Added Net: Name=NetU102_2
+Added Pin To Net: NetName=VBAT Pin=Q101-3
+Added Pin To Net: NetName=VBAT Pin=R101-2
+Added Pin To Net: NetName=VBAT Pin=R104-2
+Added Pin To Net: NetName=VBAT Pin=R107-1
+Added Pin To Net: NetName=VBAT Pin=U101-5
+Added Pin To Net: NetName=VBAT Pin=U102-4
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VCC Pin=U101-3
+Added Pin To Net: NetName=VCC Pin=U102-3
+Added Net: Name=VCC
+Added Class: Name=boost_converters
+Added Member To Class: ClassName=B1 Member=Component R107_B1 (R107) 5m
+Added Member To Class: ClassName=B2 Member=Component R107_B2 (R107) 5m
+Added Member To Class: ClassName=B3 Member=Component R107_B3 (R107) 5m
+Added Member To Class: ClassName=B1 Member=Component U2_B1 (U2) MAX4372H
+Added Member To Class: ClassName=B2 Member=Component U2_B2 (U2) MAX4372H
+Added Member To Class: ClassName=B3 Member=Component U2_B3 (U2) MAX4372H
