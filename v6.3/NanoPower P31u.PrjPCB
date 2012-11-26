@@ -236,6 +236,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for NanoPower P31u\Design Rule Check - NanoPower P31u.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\library\altium\*.*
 IncludeSubFolders=1
