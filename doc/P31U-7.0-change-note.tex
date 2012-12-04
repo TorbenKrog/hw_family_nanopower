@@ -1,0 +1,337 @@
+	%\documentclass[]{article}
+\documentclass[9pt,a4paper]{article}
+
+\usepackage{geometry}
+\geometry{verbose,a4paper,tmargin=3cm,bmargin=3cm,lmargin=2cm,rmargin=2cm,headheight=30.0pt}
+
+\usepackage[table]{xcolor}
+\definecolor{SkyBlue}{HTML}{3465A4}
+\definecolor{DarkSkyBlue}{HTML}{204A87}
+\definecolor{Plum}{HTML}{75507B}
+\definecolor{ScarletRed}{HTML}{CC0000}
+\definecolor{Aluminium1}{HTML}{EEEEEC}
+\definecolor{Aluminium6}{HTML}{2e3436}
+\definecolor{Black}{HTML}{000000}
+
+\usepackage{sectsty}
+\allsectionsfont{\sffamily}
+
+\setlength{\itemsep}{-1pt}
+\usepackage{varioref}
+\usepackage{alltt}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+% use microtype if available
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \usepackage{fontspec}
+  \ifxetex
+    \usepackage{xltxtra,xunicode}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+\usepackage{multirow}
+
+\newcommand{\superscript}[1]{\ensuremath{^{\textrm{#1}}}}
+
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={GomSpace ApS},
+            pdftitle={NanoPower P31U-7.0 Change Note},
+            colorlinks=true,
+            urlcolor=DarkSkyBlue,
+            linkcolor=DarkSkyBlue,
+            pdfborder={0 0 0}}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+
+\usepackage{lastpage} % for the number of the last page in the document
+\usepackage{fancyheadings}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\parbox{5cm}{\includegraphics{img/gomspace_logo.png}}}
+\rhead{\parbox{5cm}{
+\begin{tabular}{lr}	
+    Date   & \today \\
+	Ref:   & GS-CN-P31U70 \\ 
+	Title: & NanoPower P31U-7.0 Change Note
+\end{tabular}}
+}
+\lfoot{\copyright\hspace{1mm}2012 GomSpace ApS}
+\rfoot{Page \thepage\ of \pageref{LastPage}}
+\renewcommand{\footrulewidth}{0.5pt}
+
+
+
+\title{NanoPower P31U-7.0 Change Note}
+\author{GomSpace ApS}
+\date{November 2012}
+
+\begin{document}
+%\maketitle
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\begin{titlepage}
+\begin{center}
+% Upper part of the page
+\includegraphics[width=0.3\textwidth]{./img/board.png}\\[1cm]    
+\textsc{\LARGE GomSpace ApS}\\[1.5cm]
+\textsc{\Large Datasheet}\\[0.5cm]
+% Title
+\HRule \\[0.4cm]
+{ \huge \bfseries NanoPower P31U-7.0 Change Note}\\[0.2cm]
+\input{subtitle.tex}
+\\
+[0.2cm]
+\HRule \\[1.5cm]
+% 
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Doc-ref:} \\
+GS-CN-P31U70
+\end{flushleft}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{Git-ref:} \\
+NA 
+\end{flushright}
+\end{minipage}
+\vfill
+% Bottom of the page
+{\large \today}
+\end{center}
+\end{titlepage}
+
+
+
+{
+\hypersetup{linkcolor=black}
+\newpage
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+\newpage
+\section{Design Upgrade Note NP31U-7.0}
+
+The NanoPower P31U hardware design has undergone an iteration taking it
+from revision 6.1.1 to revision 7.0. This upgrade is motivated by needs
+and wishes regarding both functionality, performance, handling,
+integration, producibility and aesthetics. The motivational factors are
+listed in the categories below. Besides all these factors, the design is
+migrated from Eagle PCB to Altium DXP making future upgrades far less
+painful and much more reliable.
+
+\subsection{Functionality}
+
+It has frequently been inquired as to whether the P31U can be configured
+with an arbitrary assignment of the two regulated output busses to any
+of the six latch-up protected outputs. This is now accommodated through
+a connection matrix. This matrix is made up of current sense resistors
+giving the added benefit of current measurements on each output channel
+which is a desire from the R\&D dept. at GomSpace.
+
+Having the ability to power cycle the entire P31U including internal
+supplies and all external channels is a wish from e.g.~FunCube. This is
+now accommodated by tripping the kill-switch circuit from the uC.
+
+The temperature sensor previously located at boost converter 2 is not
+moved to the measure the temprature of the buck converter's ground
+return plane. Experience has shown that there is only little temperature
+gradient between the three boost converters making three measurements
+somewhat redundant.
+
+\subsection{Performance}
+
+The Maximum Power Point Tracking algorithm has been lacking accuracy and
+performance at high tumbling rates due to triple PV input current
+estimation using just the one ouput current measurement of the battery
+charge converter. This is solved by adding current measurements to all
+PV inputs enabling accurate and fast calculation of input power.
+
+Boost converters in the battery charger used high inductances resulting
+in high DC loss. This is optimised by lowering inductance and hence
+resistance.
+
+The buck converters have also got smaller inductances in order to
+optimise effeciency by minimising DC loss.
+
+A more robust latch-up detection scheme is implemented using a dedicated
+interrupt channel on the uC for each output. This eliminates a large and
+bulky and often unreliable transistor-based detector circuit.
+
+\subsection{Handling}
+
+Some tracks carrying raw battery voltage were very close to mounting
+holes in one corner causing a number of product failures due to short
+circuits when users were less than extremely careful with washers during
+integration. Battery voltage tracks are now kept at a safe distance from
+grounded areas.
+
+The arm jumper at the positive battery terminal was located in a hard to
+reach spot on the PCB making it dangerous to operate the jumper when the
+P31U is integrated in a stack. The jumper is now moved to the edge of
+the board in an area containing no obstacles. This is obtained by
+rotating the battery pack 180 degrees such that + and - now face away
+from the stach connector.
+
+\subsection{Integration}
+
+All connections to and from the board are now through connectors instead
+of the through-hole solder pads used by PV inputs, charge input and
+kill-switch operation. This makes it much more convenient to integrated
+the P31U in a satellite. For the critical PV inputs redundant wiring is
+used - four wires per solar panel instead of two.
+
+Two kill-switch connectors are placed at diagonal corners to enable
+short kill-switch wires.
+
+Connectors for ISP and serial ports are placed at GomSpace standard
+location at one edge of the board to enable programming and debugging of
+a P31U even once integrated into a stack.
+
+\subsection{Producibility}
+
+All through-hole components are replaced by SMD to enable 99\% automated
+assembly.
+
+Outer layer ground planes and supply planes are reshaped to enable
+reflow soldering with automatic component alignment. This is done by
+using symmetric fills and by placing vias outside large solder areas
+such as thermal pads.
+
+The inter-battery cell tab is ommitted by adding this connection on the
+PCB. This means that alle LiIon cells used in GomSpace products can now
+have the same tab configuration enabling mass batch production of tabbed
+batteries. This is possible because of the 180 degree rotation of the
+cells. It adds the benefit of safer soldering of the tabs to the board
+as three of the tabs are using slotted through holes similar to the BP4
+system which minimises the risk of short circuits (a.k.a. arc welding)
+during soldering.
+
+The use of connectors instead of through-hole pads for all external
+connections makes harness construction much easier as we can make cable
+assemblies of pre-crimped wires. This also eliminates the discussion of
+when to conformal coat: Before or after wire soldering.
+
+One glueing work cycle has been eliminated as we nolonger use the
+suspended torus-style inductors.
+
+Inspection (and the occasional replacement) of power deviced in the
+boost converters is greatly improved by not hiding components under the
+huge inductors covered in epoxy. All components are now freely visible
+and can be inspected and indeed replaced in case of a fault.
+
+The kill-switch circuit can now be configured to ``ISIS standard
+lock-less'' without hacking the circuit.
+
+\subsection{Aesthetics}
+
+A high degree of uniformity between similarly functioning sub-part of
+the board has been implemented resulting in an appearance which is
+``easy on the eye'' and gives a quick overview of block functionality.
+
+Tracks and planes on the outside out the board are minimised to yield a
+less confusing appearance.
+
+The screws holding the batteries in place will be counter sunk in the
+bottom side of the board giving a more finished look. It also makes the
+screw head glueing look less messy.
+
+Any sharp corners are rounded to blend into the style of the rest of the
+Nano product family.
+
+\subsection{Change Overview}
+
+\begin{itemize}
+\item
+  Current measurement on all three PV inputs
+\item
+  Current measurement on all six lath-up protected outputs
+\item
+  Optimised latch-up detection
+\item
+  Power cycling ability added to kill-switch. Controlled by uC
+\item
+  Connection matrix enabling any of the two buck converters to feed any
+  of the six latch-up protected output.
+\item
+  Added ISP PicoBlade connector to board edge
+\item
+  Added standard GOSH-enabled serial port to board edge
+\item
+  Batteries rotated 180 degrees to give better access to arm jumper
+\item
+  Battery tabs connected to board using slotted holes for added
+  robustness
+\item
+  Boost converters use smaller SMD inductors for added effeciency and
+  more robust assembly
+\item
+  Boost converter power devised are nolong hidden under epoxy
+\item
+  Buck converters use smaller inductors for higher effeciency
+\item
+  PV inputs now use 4-pin PicoBlade connectors for easy integration and
+  wire redundancy mating 1-1 with new P110 solar panels
+\item
+  Kill-switch connections are now through two 2-pin PicoBlades placed at
+  the cornes where ISIS kill-switches are located
+\item
+  Flight preperation panel connection is now a 6-pin PicoBlade
+\item
+  Microprocessor is upgraded to version with more ADC channels to
+  fasilitate the added current measurements. The core is unchanged
+  (Atmega 8)
+\item
+  The software will nolonger be a custom monolitic blop which has been
+  hard to maintain. The new processor has more memory and enables the
+  use of standard GomSpace libraries including GOSH. This will help keep
+  the P31U up to date as various software libraries mature.
+\item
+  Battery screw heads are countersunk
+\item
+  Board corners are rounded
+\item
+  Old un-used IO connections to the CSK connectors are removed (only
+  used on the the very first P30 built in 2007).
+\item
+  Power point tracking will be able to control the input voltage in the
+  entire range from 0V to a given max instead of the current system
+  which can only increase the voltage relative to a fixed fall-back
+  level (usually called the hardware power point)
+\item
+  Overall quality appearance is improved through strict design and
+  layout philosophy
+\end{itemize}
+
+\begin{table}[b]
+\centering
+\begin{tabular}{| >{\centering\arraybackslash}m{13cm} |}
+\hline
+GomSpace ApS  Niels Jernes Vej 10  9220 Aalborg E  Denmark\newline
+Tel: +45 9635 6111  Fax: +45 9635 4599  Web: www.gomspace.com
+\newline \newline
+The information furnished by GomSpace in this data sheet is believed to be accurate and reliable. However, no responsibility is assumed by GomSpace for its use. GomSpace reserves the right to change circuitry and specifications at any time without notification to the customer. Current sale and delivery conditions can be downloaded from the GomSpace homepage.
+\newline \newline
+2012 GomSpace ApS.\\
+\hline
+\end{tabular}
+\end{table}
+
+
+\end{document}
