@@ -236,6 +236,21 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
+[ProjectVariant1]
+Description=NanoPower P31u-EB
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=BAT100|UniqueId=\AXDPTUTN|Kind=1|AlternatePart= 
+Variation2=Designator=PBAT|UniqueId=\NMYKRBRT|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+Description=NanoPower P31u+BP2
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=PBAT1|UniqueId=\LANUNKCE|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u-RoundHoles.TXT
 DItemRevisionGUID=
