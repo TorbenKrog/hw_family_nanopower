@@ -8,3 +8,4 @@ Known bugs in P31U-7.0 circuits
 - MISO/MOSI swapped in ext. bat. connector. ** FIXED **
 - Add filter to all current measurements. ** FIXED **
 - Add I2C pull-ups. ** FIXED **
+- Add one-shot delay to kiss-switch reset. ** FIXED **
