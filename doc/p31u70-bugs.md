@@ -9,3 +9,5 @@ Known bugs in P31U-7.0 circuits
 - Add filter to all current measurements. ** FIXED **
 - Add I2C pull-ups. ** FIXED **
 - Add one-shot delay to kiss-switch reset. ** FIXED **
+- Add DAC to all PV inputs. ** FIXED **
+- Add analog switch to DAC output to PTT3. ** FEXED **
