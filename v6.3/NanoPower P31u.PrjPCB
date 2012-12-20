@@ -296,30 +296,38 @@ DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.GM10
+DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.GP1
+DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.GP2
+DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.GTL
+DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.LDP
+DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.REP
+DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Project Outputs for NanoPower P31u\NanoPower P31u.RUL
 DItemRevisionGUID=
 
@@ -650,7 +658,7 @@ OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
 Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16777218~1,16842753~1,16842754~1,16777219~1,16842751~1,16908298~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
+Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973832~1,16777217~1,16777218~1,16842753~1,16842754~1,16777219~1,16842751~1,16973833~1,16908298~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
