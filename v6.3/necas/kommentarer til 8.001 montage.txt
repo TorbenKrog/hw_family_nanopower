@@ -1,0 +1,10 @@
+
+
+- Alle vishay 594D tantaler skal touches up med loddeting over hele endekappe og loddeland for at opnå skinnende overflade og tilstrækkelig filling (minimum 0.5mm for disse komponenter jf. ECSS-Q-ST-70-38C afsnit 11.5.2, tabel 11-1.)
+
+- R5_M504, R5_M505, R5_M506, R6_M501, R6_M502, R6_M503 skal loddes mere omhyggeligt for at overholde ECSS-Q-ST-70-38C. Der har ikke været tilstrækkelig varme, så tinnet har ikke vædet godt, og derfor er lodningerne ikke glatte over hele loddelandet samt tilstødende tracks. Desuden bør komponenterne placeres mere omhyggeligt, så de sidder "lige".
+
+- R2_M501 til M506 er erstattet af en kondensator. Skal være 180 ohm.
+
+- U603, U606, U607 skal erstattes med ADG701.
+
