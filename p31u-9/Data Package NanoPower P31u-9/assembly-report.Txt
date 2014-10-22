@@ -1,0 +1,5 @@
+Comments to assembly (NEACS)
+
+- C401 has wrong polarity and must be flipped. Course: Wrong marking on assembly drawing.
+- U700 ground pad is shorted to pin 3. Course: Stencil or soldering process.
+
