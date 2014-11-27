@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=overview.SchDoc|Designator=U_batteries|SchDesignator=U_batteries|FileName=batteries.SchDoc|SymbolType=Normal|RawFileName=batteries.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=overview.SchDoc|Designator=U_heater|SchDesignator=U_heater|FileName=heater.SchDoc|SymbolType=Normal|RawFileName=heater.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=overview.SchDoc|Designator=U_supply|SchDesignator=U_supply|FileName=supply.SchDoc|SymbolType=Normal|RawFileName=supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=overview.SchDoc|Designator=U_ucontroller|SchDesignator=U_ucontroller|FileName=ucontroller.SchDoc|SymbolType=Normal|RawFileName=ucontroller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=overview.SchDoc
