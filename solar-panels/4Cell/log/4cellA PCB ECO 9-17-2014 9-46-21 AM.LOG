@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=NetD3_1 Pin=D3-1
+Removed Pin From Net: NetName=Net*_1 Pin=D3-2
+Removed Pin From Net: NetName=Net*_1 Pin=D5-2
+Removed Pin From Net: NetName=Net*_1 Pin=D6-2
+Removed Pin From Net: NetName=GND Pin=PV2-C1
+Removed Pin From Net: NetName=GND Pin=PV2-C2
+Removed Pin From Net: NetName=GND Pin=PV2-C3
+Removed Member From Class: ClassName=Solar Member=D2
+Removed Member From Class: ClassName=Solar Member=D2
+Removed Member From Class: ClassName=Solar Member=D3
+Removed Member From Class: ClassName=Solar Member=D5
+Removed Member From Class: ClassName=Solar Member=D6
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD7_1

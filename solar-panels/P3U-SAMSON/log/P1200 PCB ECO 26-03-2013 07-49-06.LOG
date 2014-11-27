@@ -1,0 +1,4 @@
+Added Component: Designator=PV27(3G30C-cathode-nobypass)
+Added Component: Designator=PV28(3G30C-cathode-nobypass)
+Added Member To Class: ClassName=Solar Member=Component PV27 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV28 3G30C-cathode

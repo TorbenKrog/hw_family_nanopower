@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=NetD3_1 Pin=PV4-A1
+Removed Pin From Net: NetName=NetD3_1 Pin=PV4-A2
+Removed Pin From Net: NetName=NetD3_1 Pin=PV4-A3
+Removed Pin From Net: NetName=NetD3_2 Pin=S2-3
+Removed Pin From Net: NetName=NetD3_2 Pin=S2-4
+Removed Pin From Net: NetName=NetH2_9 Pin=U2-1
+Removed Pin From Net: NetName=NetH2_10 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-18
+Removed Pin From Net: NetName=GND Pin=U2-19
+Removed Member From Class: ClassName=panel Member=U2
+Change Component DesignItemId : Designator=PV4 Old DesignItemId=3G30C-anode New DesignItemId=3G30C-cathode
+Change Component Footprint: Designator=PV4 Old Footprint=3G30C-ANODE-NOBYPASS New Footprint=3G30C-cathode-nobypass
+Change Component Designator: OldDesignator=* NewDesignator=SUN1
+Added Pin To Net: NetName=NetD3_2 Pin=SUN1-1
+Added Pin To Net: NetName=NetD3_2 Pin=SUN1-2
+Added Pin To Net: NetName=NetPV4_C1 Pin=PV4-C1
+Added Pin To Net: NetName=NetPV4_C1 Pin=PV4-C2
+Added Pin To Net: NetName=NetPV4_C1 Pin=PV4-C3
+Added Pin To Net: NetName=NetPV4_C1 Pin=SUN1-3
+Added Pin To Net: NetName=NetPV4_C1 Pin=SUN1-4
+Added Net: Name=NetPV4_C1
+Added Member To Class: ClassName=panel Member=Component C2 Cap

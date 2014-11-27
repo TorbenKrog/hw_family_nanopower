@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=PV4 Old Footprint=3G30C-cathode-nobypass New Footprint=3G30C-ANODE-NOBYPASS
+Change Component Comment: Designator=PV4 Old Comment=3G30C-cathode New Comment=3G30C-anode

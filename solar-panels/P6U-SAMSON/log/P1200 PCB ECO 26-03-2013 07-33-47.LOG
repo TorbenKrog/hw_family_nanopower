@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetD3_1 Pin=PV4-A1
+Removed Pin From Net: NetName=NetD3_1 Pin=PV4-A2
+Removed Pin From Net: NetName=NetD3_1 Pin=PV4-A3
+Removed Pin From Net: NetName=Net*_3 Pin=PV5-C1
+Removed Pin From Net: NetName=Net*_3 Pin=PV5-C2
+Removed Pin From Net: NetName=Net*_3 Pin=PV5-C3
+Removed Member From Class: ClassName=Solar Member=PV4
+Removed Member From Class: ClassName=Solar Member=PV5
+Added Component: Designator=*(53398-4)
+Added Component: Designator=D3(ss10p4)
+Added Component: Designator=PV1(3G30C-cathode-nobypass)
+Added Component: Designator=PV2(3G30C-cathode-nobypass)
+Added Component: Designator=PV26(3G30C-anode-nobypass)
+Added Component: Designator=S2(53398-4)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=*-4
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=Net*_3 Pin=PV1-C1
+Added Pin To Net: NetName=Net*_3 Pin=PV1-C2
+Added Pin To Net: NetName=Net*_3 Pin=PV1-C3
+Added Pin To Net: NetName=NetD3_1 Pin=PV26-A1
+Added Pin To Net: NetName=NetD3_1 Pin=PV26-A2
+Added Pin To Net: NetName=NetD3_1 Pin=PV26-A3
+Added Pin To Net: NetName=Net*_1 Pin=S2-1
+Added Pin To Net: NetName=Net*_1 Pin=S2-2
+Added Pin To Net: NetName=NetD3_2 Pin=S2-3
+Added Pin To Net: NetName=NetD3_2 Pin=S2-4
+Added Member To Class: ClassName=Solar Member=Component * 53398-4
+Added Member To Class: ClassName=Solar Member=Component D3 D Schottky
+Added Member To Class: ClassName=Solar Member=Component PV1 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV2 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV26 3G30C-anode
+Added Member To Class: ClassName=Solar Member=Component S2 53398-4
