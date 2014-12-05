@@ -117,7 +117,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document7]
-DocumentPath=..\..\library\altium\GSSB-devices.PcbLib
+DocumentPath=P110UC-QB50-large-hole.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,7 +132,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document8]
-DocumentPath=P110UC-QB50-large-hole.PcbDoc
+DocumentPath=P110UC-QB50.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
