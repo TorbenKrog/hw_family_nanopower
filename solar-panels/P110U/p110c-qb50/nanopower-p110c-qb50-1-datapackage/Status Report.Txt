@@ -10,6 +10,7 @@ From  : PCB Document [nanopower-p110c-qb50-1.PcbDoc]
    Generated File[nanopower-p110c-qb50-1.G1]
    Generated File[nanopower-p110c-qb50-1.G2]
    Generated File[nanopower-p110c-qb50-1.GBL]
+   Generated File[nanopower-p110c-qb50-1.GM2]
    Generated File[nanopower-p110c-qb50-1.GM10]
    Generated File[nanopower-p110c-qb50-1.RUL]
    Generated File[nanopower-p110c-qb50-1.EXTREP]
@@ -24,7 +25,7 @@ From  : PCB Document [nanopower-p110c-qb50-1.PcbDoc]
    Generated File[nanopower-p110c-qb50-1.DRR]
 
 
-Files Generated   : 13
+Files Generated   : 14
 Documents Printed : 0
 
-Finished Output Generation At 09:08:59 On 10-12-2014
+Finished Output Generation At 11:05:51 On 10-12-2014

@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: nanopower-p110c-qb50-1.GBR   10-12-2014  11:05:50
+Gerber File Extension Report For: nanopower-bpx-2.GBR   10-12-2014  12:40:28
 ------------------------------------------------------------------------------------------
 
 
@@ -7,9 +7,14 @@ Gerber File Extension Report For: nanopower-p110c-qb50-1.GBR   10-12-2014  11:05
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
-.G1                 Mid-Layer 1                             
-.G2                 Mid-Layer 2                             
+.GP1                Internal Plane 2                        
+.G1                 MidLayer 1                              
+.G2                 MidLayer 2                              
+.GP2                GND                                     
 .GBL                Bottom Layer                            
-.GM2                Mechanical 2                            
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
 .GM10               Mechanical 10                           
 ------------------------------------------------------------------------------------------
