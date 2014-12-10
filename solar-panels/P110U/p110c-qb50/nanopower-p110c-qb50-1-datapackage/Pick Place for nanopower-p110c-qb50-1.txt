@@ -1,0 +1,11 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+SUN1       53398-4           1931.299mil   1181.299mil   1877.165mil   1255.118mil   1877.165mil   1255.118mil  B        270.00 53398-4        
+D1         SLCD61N8          1870.079mil    777.559mil   1870.079mil    856.299mil   1870.079mil    698.819mil  T        180.00 Photo Sen      
+D3         ss10p4            2309.252mil    894.683mil   2214.567mil    894.683mil   2214.567mil    894.683mil  B         90.00 D Schottky     
+PV4        3G30C-cathode-nobypass   2214.567mil   1938.976mil   2273.622mil    3513.78mil   2214.567mil   2746.063mil  T        270.00 3G30C-anode    
+PV5        3G30C-CATHODE-NOBYPASS   1643.701mil   1938.976mil   1584.646mil    364.173mil   1643.701mil   1938.976mil  T         90.00 3G30C-cathode  
+U1         MUA08A_N          1973.032mil    827.165mil   1973.032mil    827.165mil   1890.354mil     788.78mil  B        360.00 LM70CIMM-3     
+C2         CAPC1608M         1968.504mil    925.197mil   1968.504mil    925.197mil   2003.937mil    925.197mil  B        180.00 Cap            
+H2         53398-12          1697.834mil    981.299mil   1751.968mil     710.63mil   1751.968mil     710.63mil  B         90.00 53398-12       
+

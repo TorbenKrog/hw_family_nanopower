@@ -1,0 +1,30 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [nanopower-p110c-qb50-1.PcbDoc]
+   Generated File[Pick Place for nanopower-p110c-qb50-1.txt]
+
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [nanopower-p110c-qb50-1.PcbDoc]
+   Generated File[nanopower-p110c-qb50-1.GTL]
+   Generated File[nanopower-p110c-qb50-1.G1]
+   Generated File[nanopower-p110c-qb50-1.G2]
+   Generated File[nanopower-p110c-qb50-1.GBL]
+   Generated File[nanopower-p110c-qb50-1.GM10]
+   Generated File[nanopower-p110c-qb50-1.RUL]
+   Generated File[nanopower-p110c-qb50-1.EXTREP]
+   Generated File[nanopower-p110c-qb50-1.REP]
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [nanopower-p110c-qb50-1.PcbDoc]
+   Generated File[nanopower-p110c-qb50-1.TXT]
+   Generated File[nanopower-p110c-qb50-1.DRL]
+   Generated File[nanopower-p110c-qb50-1.LDP]
+   Generated File[nanopower-p110c-qb50-1.DRR]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 09:08:59 On 10-12-2014

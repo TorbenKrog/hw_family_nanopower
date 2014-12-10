@@ -20,7 +20,7 @@ OutputMedium4=Generate Files
 OutputMedium4_Type=GeneratedFiles
 OutputType1=Composite
 OutputName1=Composite Drawing
-OutputDocumentPath1=
+OutputDocumentPath1=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName1=
 OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
@@ -31,7 +31,7 @@ OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=15|PrintQuality=600|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 OutputType2=PCB 3D Print
 OutputName2=PCB 3D Prints
-OutputDocumentPath2=
+OutputDocumentPath2=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
@@ -42,7 +42,7 @@ OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 OutputType3=PCB Print
 OutputName3=PCB Prints
-OutputDocumentPath3=
+OutputDocumentPath3=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -64,7 +64,7 @@ OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 OutputType5=Assembly
 OutputName5=Assembly Drawings
-OutputDocumentPath5=
+OutputDocumentPath5=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName5=
 OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
@@ -75,7 +75,7 @@ OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 OutputType6=Pick Place
 OutputName6=Generates pick and place files
-OutputDocumentPath6=
+OutputDocumentPath6=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName6=
 OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
@@ -87,7 +87,7 @@ Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True
 OutputType7=Test Points For Assembly
 OutputName7=Test Point Report
-OutputDocumentPath7=
+OutputDocumentPath7=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName7=
 OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
@@ -97,7 +97,7 @@ OutputEnabled7_OutputMedium4=0
 OutputDefault7=0
 OutputType8=CompositeDrill
 OutputName8=Composite Drill Drawing
-OutputDocumentPath8=
+OutputDocumentPath8=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName8=
 OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
@@ -108,7 +108,7 @@ OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 OutputType9=Drill
 OutputName9=Drill Drawing/Guides
-OutputDocumentPath9=
+OutputDocumentPath9=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName9=
 OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
@@ -119,13 +119,13 @@ OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 OutputType10=Final
 OutputName10=Final Artwork Prints
-OutputDocumentPath10=
+OutputDocumentPath10=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName10=
 OutputEnabled10=1
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=1
 OutputEnabled10_OutputMedium3=0
-OutputEnabled10_OutputMedium4=5
+OutputEnabled10_OutputMedium4=0
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 Configuration10_Name1=OutputConfigurationParameter1
@@ -364,7 +364,7 @@ Configuration10_Name117=OutputConfigurationParameter117
 Configuration10_Item117=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=14|Record=PcbPrintLayer
 OutputType11=Gerber
 OutputName11=Gerber Files
-OutputDocumentPath11=
+OutputDocumentPath11=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName11=
 OutputEnabled11=0
 OutputEnabled11_OutputMedium1=0
@@ -373,10 +373,10 @@ OutputEnabled11_OutputMedium3=0
 OutputEnabled11_OutputMedium4=2
 OutputDefault11=0
 Configuration11_Name1=OutputConfigurationParameter1
-Configuration11_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16777218~1,16777219~1,16777220~1,16777221~1,16777222~1,16777223~1,16777224~1,16777225~1,16777226~1,16777227~1,16842751~1,16908298~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
+Configuration11_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16777218~1,16777219~1,16842751~1,16908298~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
 OutputType12=Mask
 OutputName12=Solder/Paste Mask Prints
-OutputDocumentPath12=
+OutputDocumentPath12=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName12=
 OutputEnabled12=0
 OutputEnabled12_OutputMedium1=0
@@ -387,7 +387,7 @@ OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 OutputType13=NC Drill
 OutputName13=NC Drill Files
-OutputDocumentPath13=
+OutputDocumentPath13=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName13=
 OutputEnabled13=0
 OutputEnabled13_OutputMedium1=0
@@ -399,19 +399,19 @@ Configuration13_Name1=OutputConfigurationParameter1
 Configuration13_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
 OutputType14=ODB
 OutputName14=ODB++ Files
-OutputDocumentPath14=
+OutputDocumentPath14=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName14=
 OutputEnabled14=0
 OutputEnabled14_OutputMedium1=0
 OutputEnabled14_OutputMedium2=0
 OutputEnabled14_OutputMedium3=0
-OutputEnabled14_OutputMedium4=4
+OutputEnabled14_OutputMedium4=0
 OutputDefault14=0
 Configuration14_Name1=OutputConfigurationParameter1
 Configuration14_Item1=AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 2=False|AddToAllPlots_Mechanical 3=False|AddToAllPlots_Mechanical 4=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=True|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=False|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=True|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=True|PlotMidLayer6Plot=True|PlotMidLayer7Plot=True|PlotMidLayer8Plot=True|PlotMidLayer9Plot=True|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
 OutputType15=Plane
 OutputName15=Power-Plane Prints
-OutputDocumentPath15=
+OutputDocumentPath15=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName15=
 OutputEnabled15=0
 OutputEnabled15_OutputMedium1=0
@@ -422,7 +422,7 @@ OutputDefault15=0
 PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 OutputType16=Test Points
 OutputName16=Test Point Report
-OutputDocumentPath16=
+OutputDocumentPath16=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName16=
 OutputEnabled16=0
 OutputEnabled16_OutputMedium1=0
@@ -453,7 +453,7 @@ OutputEnabled18_OutputMedium4=0
 OutputDefault18=0
 OutputType19=Design Rules Check
 OutputName19=Design Rules Check
-OutputDocumentPath19=
+OutputDocumentPath19=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName19=
 OutputEnabled19=0
 OutputEnabled19_OutputMedium1=0
@@ -505,7 +505,7 @@ OutputEnabled23_OutputMedium4=0
 OutputDefault23=0
 OutputType24=PCB Print
 OutputName24=Fitcheck
-OutputDocumentPath24=
+OutputDocumentPath24=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName24=
 OutputEnabled24=0
 OutputEnabled24_OutputMedium1=0
@@ -560,7 +560,7 @@ Configuration24_Name22=OutputConfigurationParameter22
 Configuration24_Item22=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Full|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=MultiLayer|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
 OutputType25=PCB Print
 OutputName25=topfitcheck
-OutputDocumentPath25=
+OutputDocumentPath25=nanopower-p110c-qb50-1.PcbDoc
 OutputVariantName25=
 OutputEnabled25=0
 OutputEnabled25_OutputMedium1=1
@@ -615,7 +615,7 @@ Configuration25_Name22=OutputConfigurationParameter22
 Configuration25_Item22=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Full|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=MultiLayer|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
 
 [PublishSettings]
-PublishMethod2=0
+PublishMethod2=1
 OpenOutput2=0
 PromptOverwrite2=1
 ZoomLevel2=50
@@ -625,7 +625,7 @@ GenerateNetsInfo2=1
 MarkPins2=1
 MarkNetLabels2=1
 MarkPortsId2=1
-OutputFilePath2=Z:\Documents\git\Hardware\solar-panels\P110U\CAM\P110U-SUN-2-artwork.PDF
+OutputFilePath2=\\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\solar-panels\P110U\p110c-qb50\nanopower-p110c-qb50-1-datapackage
 PublishMethod3=2
 OpenOutput3=1
 PromptOverwrite3=1
@@ -640,10 +640,10 @@ WebOutputMediumType3=FS
 OutputDirectory3=F:\git\Hardware\solar-panels\P110U\CAM\WebOutput
 
 [GeneratedFilesSettings]
-RelativeOutputPath4=CAM-SUN
+RelativeOutputPath4=nanopower-p110c-qb50-1-datapackage
 OpenOutputs4=0
 AddToProject4=1
-TimestampFolder4=1
+TimestampFolder4=0
 SeparateFolderForEachOutput4=0
 UseOutputName4=0
 
