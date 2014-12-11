@@ -34,4 +34,4 @@ From  : PCB Document [nanopower-bpx-2.PcbDoc]
 Files Generated   : 20
 Documents Printed : 0
 
-Finished Output Generation At 12:40:29 On 10-12-2014
+Finished Output Generation At 07:27:31 On 11-12-2014

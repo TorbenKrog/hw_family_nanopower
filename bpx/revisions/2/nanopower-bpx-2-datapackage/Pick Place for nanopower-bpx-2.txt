@@ -1,73 +1,73 @@
 Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
 
-C18        C0603K             322.835mil     303.15mil    322.835mil     303.15mil    288.385mil     303.15mil  T        360.00 100nF          
-C19        C0603K             207.677mil    322.834mil    207.677mil    322.834mil    207.677mil    357.284mil  T        270.00 100nF          
-D1         CD1608-0603       1184.053mil    787.402mil   1184.053mil    787.402mil   1184.053mil    753.937mil  T         90.00 CDBU0240       
-C2         C0603K            1218.504mil     696.85mil   1218.504mil     696.85mil   1252.954mil     696.85mil  T        180.00 N.M            
-U10        DGN_MSOP-8_PowerPAD    969.485mil     800.02mil    931.099mil     717.52mil    931.099mil     717.52mil  T         90.00 TPS7A1633DGNT  
-C4         CAPC2012M          141.732mil    326.771mil    141.732mil    326.771mil    141.732mil    364.173mil  T        270.00 2.2uF          
-R2         R0603             1252.954mil    787.397mil   1252.954mil    787.402mil   1252.954mil    753.932mil  T         90.00 0              
-R1         R0603             1087.592mil    904.528mil   1087.598mil    904.528mil   1054.128mil    904.528mil  T        360.00 N.M            
-C1         CAPC2012M         1084.641mil    780.511mil    1084.64mil    780.511mil   1084.641mil    817.912mil  T        270.00 22uF           
-Rbatm      RESC6432M         2186.028mil   1146.653mil   2186.028mil   1146.653mil   2186.028mil   1040.354mil  T         90.00 0.005R         
-Cc1        C0603K            2696.856mil    605.317mil   2696.856mil    605.317mil   2731.306mil    605.317mil  T        180.00 100nF          
-PBAT2      M80-5421442       1632.878mil   1019.684mil   1632.878mil   1063.976mil   1396.658mil    965.551mil  T        180.00 Header 14H     
-Qc1        SOT23-3M          2551.181mil   1003.938mil   2551.181mil   1003.937mil   2590.551mil    966.536mil  T        180.00 FDN5618P       
-U2         MSOP_12           1926.949mil    786.417mil   1846.457mil    850.394mil   1846.457mil    850.394mil  T        360.00 LT4363         
-Qc2        SOT23-3M           2916.34mil   1003.938mil    2916.34mil   1003.937mil    2955.71mil    966.536mil  T        180.00 MMBF170        
-U4         SOT23-5BM         2863.189mil    813.976mil   2863.189mil    813.977mil   2825.787mil    766.732mil  T         90.00 INA169         
-U3         SOT23-5BM         2696.856mil    813.976mil   2696.856mil    813.977mil   2659.454mil    766.732mil  T         90.00 INA169         
-Rc8        RESC1608M         2776.576mil   1003.936mil   2776.576mil   1003.937mil   2776.576mil   1041.337mil  T        270.00 calculate      
-Rc7        RESC1608M         2689.961mil   1003.938mil   2689.961mil   1003.937mil   2689.961mil    966.537mil  T         90.00 300k           
-Rh2        R0603             2902.552mil    305.117mil   2902.557mil    305.117mil   2869.087mil    305.117mil  T        360.00 300k           
-Rh1        R0603             2693.894mil     539.37mil   2693.899mil     539.37mil   2660.429mil     539.37mil  T        360.00 300k           
-Qh2        SO8-POWERPAK      2268.701mil    427.557mil   2161.417mil    500.982mil   2161.417mil    500.982mil  T        360.00 Si7461DP       
-R37        R0603             2144.684mil    899.612mil   2144.684mil    899.607mil   2144.684mil    933.077mil  T        270.00 300k           
-C101       C0603K            2364.172mil   1049.214mil   2364.172mil   1049.214mil   2398.622mil   1049.214mil  T        180.00 NM             
-U1         64M1_M             299.213mil    633.858mil    299.213mil    633.858mil    479.331mil     486.22mil  T        180.00 ATmega128-16AC 
-Y1         FC-135             398.623mil    903.543mil    447.836mil    903.543mil    447.836mil    903.543mil  T        180.00 32.768 kHz     
-CXTAL2     C0603K              349.41mil   1004.921mil     349.41mil   1004.921mil     349.41mil    970.471mil  T         90.00 NM             
-CXTAL1     C0603K             416.339mil   1004.921mil    416.339mil   1004.921mil    416.339mil    970.471mil  T         90.00 NM             
-R3         R0603             1218.508mil    904.528mil   1218.504mil    904.528mil   1251.974mil    904.528mil  T        180.00 N.M            
-C8         CAPC2012M          968.504mil    636.813mil    968.504mil    636.812mil    931.102mil    636.813mil  T        360.00 4.7uF          
-R40        R0603              949.805mil    204.722mil    949.805mil    204.727mil    949.805mil    171.257mil  T         90.00 100k           
-R39        R0603              2059.06mil    897.638mil   2059.055mil    897.638mil   2092.525mil    897.638mil  T        180.00 calculate      
-R38        R0603              565.945mil    354.335mil    565.945mil     354.33mil    565.945mil      387.8mil  T        270.00 2k             
-R17        R0603              188.977mil    939.955mil    188.977mil     939.96mil    188.977mil     906.49mil  T         90.00 100k           
-R16        R0603              146.659mil    209.645mil    146.654mil    209.645mil    180.124mil    209.645mil  T        180.00 100k           
-Rc4        RESC1608M         2863.189mil    675.197mil   2863.189mil    675.197mil    2900.59mil    675.197mil  T        180.00 7k5            
-Q201       SOT23             1062.007mil    204.728mil   1062.007mil    204.728mil   1018.697mil    242.128mil  T        270.00 FDN5618P       
-P2         Picoblade_8_pin    534.457mil    193.897mil    534.457mil    248.031mil    362.212mil    248.031mil  T        360.00 picoblade 8 right
-L3         L1210              972.441mil    433.074mil    972.441mil    433.074mil   1027.561mil    433.074mil  T        180.00 Inductor       
-C21        C0603K             563.977mil    492.126mil    563.977mil    492.126mil    563.977mil    457.676mil  T         90.00 100nF          
-C20        CAPC2012M          987.206mil    328.743mil    987.205mil    328.742mil    949.805mil    328.743mil  T        360.00 1uF            
-C17        C0603K             243.117mil     939.96mil    243.117mil     939.96mil    243.117mil     905.51mil  T         90.00 100nF          
-C16        C0603K             295.279mil     939.96mil    295.279mil     939.96mil    295.279mil     905.51mil  T         90.00 100nF          
-C11        C0603K             322.835mil    354.331mil    322.835mil    354.331mil    288.385mil    354.331mil  T        360.00 100nF          
-C10        C0603K            2144.685mil    780.512mil   2144.685mil    780.512mil   2144.685mil    746.062mil  T         90.00 100nF          
-Cc2        C0603K            2863.189mil    605.317mil   2863.189mil    605.317mil   2897.639mil    605.317mil  T        180.00 100nF          
-U11        SC70-5             968.504mil     536.42mil   1011.811mil     510.83mil   1011.811mil     510.83mil  T        180.00 TPS22945       
-U6         MF03A_N            468.505mil     354.33mil    468.505mil     354.33mil    427.166mil    391.732mil  T        360.00 LM4040AIM3-2.5 
-Q4         PG-TDSON-8        2365.158mil   1360.234mil   2287.402mil    1252.95mil    2289.37mil    1252.95mil  T         90.00 BSC067N06LS3 G 
-C100       C0603K            2063.976mil     782.48mil   2063.976mil     782.48mil   2063.976mil    816.929mil  T        270.00 100nF          
-R100       RESC1608M         2364.173mil   1130.906mil   2364.172mil   1130.906mil   2326.772mil   1130.906mil  T        360.00 10R            
-Qscl       SOT23-3M           779.528mil    370.078mil    779.528mil    370.079mil    740.158mil     407.48mil  T          0.00 TN0200K        
-Qsda       SOT23-3M           779.528mil    503.936mil    779.528mil    503.937mil    740.158mil    541.338mil  T          0.00 TN0200K        
-Rscl       R0603              653.543mil    370.074mil    653.543mil    370.079mil    653.543mil    336.608mil  T         90.00 1.5k           
-Rsda       R0603              653.543mil    503.932mil    653.543mil    503.937mil    653.543mil    470.467mil  T         90.00 1.5k           
-PBAT1      M80-5421442       1632.878mil    556.102mil   1632.878mil    511.811mil   1869.098mil    610.236mil  T        360.00 Header 14H     
-Rc1        RESC1608M         2696.856mil    675.197mil   2696.856mil    675.197mil   2734.256mil    675.197mil  T        180.00 7k5            
-Rks1       RESC1608M         1417.323mil    787.402mil   1417.323mil    787.402mil   1417.323mil    750.001mil  T         90.00 300k           
-Rks3       RESC1608M         1330.708mil    787.402mil   1330.708mil    787.402mil   1330.708mil    750.001mil  T         90.00 NM             
-Qks        SOT23-3M          1549.213mil    787.402mil   1549.213mil    787.402mil   1588.583mil        750mil  T        180.00 FDN5618P       
-Cm1        C0603K            2727.874mil    433.071mil   2727.874mil    433.071mil   2727.874mil    398.621mil  T         90.00 100nF          
-Rm2        RESC1608M          2659.45mil    433.072mil    2659.45mil    433.071mil    2659.45mil    395.671mil  T         90.00 4k7            
-Um1        SOT23-5BM         2529.724mil    433.071mil   2529.724mil    433.071mil   2567.126mil    480.315mil  T        270.00 INA169         
-Qh1        SOT23-3M          2902.558mil    431.101mil   2902.557mil    431.101mil   2865.156mil    391.731mil  T         90.00 MMBF170        
-Rks4       RESC1608M          1782.48mil    787.402mil    1782.48mil    787.402mil    1782.48mil    750.001mil  T         90.00 calculate      
-Rks2       RESC1608M         1694.882mil    787.401mil   1694.882mil    787.402mil   1694.882mil    824.802mil  T        270.00 300k           
-Rh3        R0603             2795.276mil    503.942mil   2795.276mil    503.937mil   2795.276mil    537.407mil  T        270.00 calculate      
-Rm1        CAPC3216L         2161.419mil    610.236mil   2161.419mil    610.236mil   2161.419mil    557.087mil  T         90.00 0.025R         
-PGND1      M80-5430805        798.232mil   1023.622mil    541.342mil    1078.74mil    680.122mil    969.488mil  T        180.00 GNDCON         
 P1         PICOBLADE-09-ST   2530.114mil    204.233mil   2332.874mil    265.748mil   2332.874mil    265.748mil  T        360.00 Header 9       
+PGND1      M80-5430805        798.232mil   1023.622mil    541.342mil    1078.74mil    680.122mil    969.488mil  T        180.00 GNDCON         
+Rm1        CAPC3216L         2161.419mil    610.236mil   2161.419mil    610.236mil   2161.419mil    557.087mil  T         90.00 0.025R         
+Rh3        R0603             2795.276mil    503.942mil   2795.276mil    503.937mil   2795.276mil    537.407mil  T        270.00 calculate      
+Rks2       RESC1608M         1694.882mil    787.401mil   1694.882mil    787.402mil   1694.882mil    824.802mil  T        270.00 300k           
+Rks4       RESC1608M          1782.48mil    787.402mil    1782.48mil    787.402mil    1782.48mil    750.001mil  T         90.00 calculate      
+Qh1        SOT23-3M          2902.558mil    431.101mil   2902.557mil    431.101mil   2865.156mil    391.731mil  T         90.00 MMBF170        
+Um1        SOT23-5BM         2529.724mil    433.071mil   2529.724mil    433.071mil   2567.126mil    480.315mil  T        270.00 INA169         
+Rm2        RESC1608M          2659.45mil    433.072mil    2659.45mil    433.071mil    2659.45mil    395.671mil  T         90.00 4k7            
+Cm1        C0603K            2727.874mil    433.071mil   2727.874mil    433.071mil   2727.874mil    398.621mil  T         90.00 100nF          
+Qks        SOT23-3M          1549.213mil    787.402mil   1549.213mil    787.402mil   1588.583mil        750mil  T        180.00 FDN5618P       
+Rks3       RESC1608M         1330.708mil    787.402mil   1330.708mil    787.402mil   1330.708mil    750.001mil  T         90.00 NM             
+Rks1       RESC1608M         1417.323mil    787.402mil   1417.323mil    787.402mil   1417.323mil    750.001mil  T         90.00 300k           
+Rc1        RESC1608M         2696.856mil    675.197mil   2696.856mil    675.197mil   2734.256mil    675.197mil  T        180.00 7k5            
+PBAT1      M80-5421442       1632.878mil    556.102mil   1632.878mil    511.811mil   1869.098mil    610.236mil  T        360.00 Header 14H     
+Rsda       R0603              653.543mil    503.932mil    653.543mil    503.937mil    653.543mil    470.467mil  T         90.00 1.5k           
+Rscl       R0603              653.543mil    370.074mil    653.543mil    370.079mil    653.543mil    336.608mil  T         90.00 1.5k           
+Qsda       SOT23-3M           779.528mil    503.936mil    779.528mil    503.937mil    740.158mil    541.338mil  T          0.00 TN0200K        
+Qscl       SOT23-3M           779.528mil    370.078mil    779.528mil    370.079mil    740.158mil     407.48mil  T          0.00 TN0200K        
+R100       RESC1608M         2364.173mil   1130.906mil   2364.172mil   1130.906mil   2326.772mil   1130.906mil  T        360.00 10R            
+C100       C0603K            2063.976mil     782.48mil   2063.976mil     782.48mil   2063.976mil    816.929mil  T        270.00 100nF          
+Q4         PG-TDSON-8        2365.158mil   1360.234mil   2287.402mil    1252.95mil    2289.37mil    1252.95mil  T         90.00 BSC067N06LS3 G 
+U6         MF03A_N            468.505mil     354.33mil    468.505mil     354.33mil    427.166mil    391.732mil  T        360.00 LM4040AIM3-2.5 
+U11        SC70-5             968.504mil     536.42mil   1011.811mil     510.83mil   1011.811mil     510.83mil  T        180.00 TPS22945       
+Cc2        C0603K            2863.189mil    605.317mil   2863.189mil    605.317mil   2897.639mil    605.317mil  T        180.00 100nF          
+C10        C0603K            2144.685mil    780.512mil   2144.685mil    780.512mil   2144.685mil    746.062mil  T         90.00 100nF          
+C11        C0603K             322.835mil    354.331mil    322.835mil    354.331mil    288.385mil    354.331mil  T        360.00 100nF          
+C16        C0603K             295.279mil     939.96mil    295.279mil     939.96mil    295.279mil     905.51mil  T         90.00 100nF          
+C17        C0603K             243.117mil     939.96mil    243.117mil     939.96mil    243.117mil     905.51mil  T         90.00 100nF          
+C20        CAPC2012M          987.206mil    328.743mil    987.205mil    328.742mil    949.805mil    328.743mil  T        360.00 1uF            
+C21        C0603K             563.977mil    492.126mil    563.977mil    492.126mil    563.977mil    457.676mil  T         90.00 100nF          
+L3         L1210              972.441mil    433.074mil    972.441mil    433.074mil   1027.561mil    433.074mil  T        180.00 Inductor       
+P2         Picoblade_8_pin    534.457mil    193.897mil    534.457mil    248.031mil    362.212mil    248.031mil  T        360.00 picoblade 8 right
+Q201       SOT23             1062.007mil    204.728mil   1062.007mil    204.728mil   1018.697mil    242.128mil  T        270.00 FDN5618P       
+Rc4        RESC1608M         2863.189mil    675.197mil   2863.189mil    675.197mil    2900.59mil    675.197mil  T        180.00 7k5            
+R16        R0603              146.659mil    209.645mil    146.654mil    209.645mil    180.124mil    209.645mil  T        180.00 100k           
+R17        R0603              188.977mil    939.955mil    188.977mil     939.96mil    188.977mil     906.49mil  T         90.00 100k           
+R38        R0603              565.945mil    354.335mil    565.945mil     354.33mil    565.945mil      387.8mil  T        270.00 2k             
+R39        R0603              2059.06mil    897.638mil   2059.055mil    897.638mil   2092.525mil    897.638mil  T        180.00 calculate      
+R40        R0603              949.805mil    204.722mil    949.805mil    204.727mil    949.805mil    171.257mil  T         90.00 100k           
+C8         CAPC2012M          968.504mil    636.813mil    968.504mil    636.812mil    931.102mil    636.813mil  T        360.00 4.7uF          
+R3         R0603             1218.508mil    904.528mil   1218.504mil    904.528mil   1251.974mil    904.528mil  T        180.00 N.M            
+CXTAL1     C0603K             416.339mil   1004.921mil    416.339mil   1004.921mil    416.339mil    970.471mil  T         90.00 NM             
+CXTAL2     C0603K              349.41mil   1004.921mil     349.41mil   1004.921mil     349.41mil    970.471mil  T         90.00 NM             
+Y1         FC-135             398.623mil    903.543mil    447.836mil    903.543mil    447.836mil    903.543mil  T        180.00 32.768 kHz     
+U1         64M1_M             299.213mil    633.858mil    299.213mil    633.858mil    479.331mil     486.22mil  T        180.00 ATmega128-16AC 
+C101       C0603K            2364.172mil   1049.214mil   2364.172mil   1049.214mil   2398.622mil   1049.214mil  T        180.00 NM             
+R37        R0603             2144.684mil    899.612mil   2144.684mil    899.607mil   2144.684mil    933.077mil  T        270.00 300k           
+Qh2        SO8-POWERPAK      2268.701mil    427.557mil   2161.417mil    500.982mil   2161.417mil    500.982mil  T        360.00 Si7461DP       
+Rh1        R0603             2693.894mil     539.37mil   2693.899mil     539.37mil   2660.429mil     539.37mil  T        360.00 300k           
+Rh2        R0603             2902.552mil    305.117mil   2902.557mil    305.117mil   2869.087mil    305.117mil  T        360.00 300k           
+Rc7        RESC1608M         2689.961mil   1003.938mil   2689.961mil   1003.937mil   2689.961mil    966.537mil  T         90.00 300k           
+Rc8        RESC1608M         2776.576mil   1003.936mil   2776.576mil   1003.937mil   2776.576mil   1041.337mil  T        270.00 calculate      
+U3         SOT23-5BM         2696.856mil    813.976mil   2696.856mil    813.977mil   2659.454mil    766.732mil  T         90.00 INA169         
+U4         SOT23-5BM         2863.189mil    813.976mil   2863.189mil    813.977mil   2825.787mil    766.732mil  T         90.00 INA169         
+Qc2        SOT23-3M           2916.34mil   1003.938mil    2916.34mil   1003.937mil    2955.71mil    966.536mil  T        180.00 MMBF170        
+U2         MSOP_12           1926.949mil    786.417mil   1846.457mil    850.394mil   1846.457mil    850.394mil  T        360.00 LT4363         
+Qc1        SOT23-3M          2551.181mil   1003.938mil   2551.181mil   1003.937mil   2590.551mil    966.536mil  T        180.00 FDN5618P       
+PBAT2      M80-5421442       1632.878mil   1019.684mil   1632.878mil   1063.976mil   1396.658mil    965.551mil  T        180.00 Header 14H     
+Cc1        C0603K            2696.856mil    605.317mil   2696.856mil    605.317mil   2731.306mil    605.317mil  T        180.00 100nF          
+Rbatm      RESC6432M         2186.028mil   1146.653mil   2186.028mil   1146.653mil   2186.028mil   1040.354mil  T         90.00 0.005R         
+C1         CAPC2012M         1084.641mil    780.511mil    1084.64mil    780.511mil   1084.641mil    817.912mil  T        270.00 22uF           
+R1         R0603             1087.592mil    904.528mil   1087.598mil    904.528mil   1054.128mil    904.528mil  T        360.00 N.M            
+R2         R0603             1252.954mil    787.397mil   1252.954mil    787.402mil   1252.954mil    753.932mil  T         90.00 0              
+C4         CAPC2012M          141.732mil    326.771mil    141.732mil    326.771mil    141.732mil    364.173mil  T        270.00 2.2uF          
+U10        DGN_MSOP-8_PowerPAD    969.485mil     800.02mil    931.099mil     717.52mil    931.099mil     717.52mil  T         90.00 TPS7A1633DGNT  
+C2         C0603K            1218.504mil     696.85mil   1218.504mil     696.85mil   1252.954mil     696.85mil  T        180.00 N.M            
+D1         CD1608-0603       1184.053mil    787.402mil   1184.053mil    787.402mil   1184.053mil    753.937mil  T         90.00 CDBU0240       
+C19        C0603K             207.677mil    322.834mil    207.677mil    322.834mil    207.677mil    357.284mil  T        270.00 100nF          
+C18        C0603K             322.835mil     303.15mil    322.835mil     303.15mil    288.385mil     303.15mil  T        360.00 100nF          
 
