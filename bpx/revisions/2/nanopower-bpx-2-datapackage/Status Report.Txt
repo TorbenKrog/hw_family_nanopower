@@ -16,6 +16,7 @@ From  : PCB Document [nanopower-bpx-2.PcbDoc]
    Generated File[nanopower-bpx-2.GTS]
    Generated File[nanopower-bpx-2.GBS]
    Generated File[nanopower-bpx-2.GBP]
+   Generated File[nanopower-bpx-2.GM5]
    Generated File[nanopower-bpx-2.GM10]
    Generated File[nanopower-bpx-2.RUL]
    Generated File[nanopower-bpx-2.EXTREP]
@@ -31,7 +32,7 @@ From  : PCB Document [nanopower-bpx-2.PcbDoc]
    Generated File[nanopower-bpx-2.DRR]
 
 
-Files Generated   : 20
+Files Generated   : 21
 Documents Printed : 0
 
-Finished Output Generation At 07:27:31 On 11-12-2014
+Finished Output Generation At 11:17:20 On 18-12-2014

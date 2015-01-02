@@ -152,9 +152,9 @@ Used DCodes :
     D67
     D68
     D78
-    D83
-    D85
-    D91
+    D80
+    D86
+    D88
     D92
     D93
     D94
@@ -338,6 +338,16 @@ Generating : Bottom Paste
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : nanopower-bpx-2.GM5
+
+    Adding Layer      : Mechanical 5
 
 
 Used DCodes :

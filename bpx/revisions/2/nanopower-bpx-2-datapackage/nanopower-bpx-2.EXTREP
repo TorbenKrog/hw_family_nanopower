@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: nanopower-bpx-2.GBR   11-12-2014  07:27:30
+Gerber File Extension Report For: nanopower-bpx-2.GBR   18-12-2014  11:17:19
 ------------------------------------------------------------------------------------------
 
 
@@ -16,5 +16,6 @@ Layer Extension     Layer Description
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
+.GM5                Mechanical 5                            
 .GM10               Mechanical 10                           
 ------------------------------------------------------------------------------------------
