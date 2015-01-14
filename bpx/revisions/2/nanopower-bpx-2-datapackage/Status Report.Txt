@@ -1,38 +1,10 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : PCB Document [nanopower-bpx-2.PcbDoc]
-   Generated File[Pick Place for nanopower-bpx-2.txt]
-
-Output: Gerber Files
-Type  : Gerber
-From  : PCB Document [nanopower-bpx-2.PcbDoc]
-   Generated File[nanopower-bpx-2.GTL]
-   Generated File[nanopower-bpx-2.GP1]
-   Generated File[nanopower-bpx-2.G1]
-   Generated File[nanopower-bpx-2.G2]
-   Generated File[nanopower-bpx-2.GP2]
-   Generated File[nanopower-bpx-2.GBL]
-   Generated File[nanopower-bpx-2.GTP]
-   Generated File[nanopower-bpx-2.GTS]
-   Generated File[nanopower-bpx-2.GBS]
-   Generated File[nanopower-bpx-2.GBP]
-   Generated File[nanopower-bpx-2.GM5]
-   Generated File[nanopower-bpx-2.GM10]
-   Generated File[nanopower-bpx-2.RUL]
-   Generated File[nanopower-bpx-2.EXTREP]
-   Generated File[nanopower-bpx-2.REP]
-
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [nanopower-bpx-2.PcbDoc]
-   Generated File[nanopower-bpx-2-RoundHoles.TXT]
-   Generated File[nanopower-bpx-2-SlotHoles.TXT]
-   Generated File[nanopower-bpx-2.DRL]
-   Generated File[nanopower-bpx-2.LDP]
-   Generated File[nanopower-bpx-2.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Project [nanopower-bpx-2.PrjPcb]
+   Generated File[Bill of Materials-nanopower-bpx-2.xls]
 
 
-Files Generated   : 21
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 11:17:20 On 18-12-2014
+Finished Output Generation At 14:57:01 On 13-01-2015

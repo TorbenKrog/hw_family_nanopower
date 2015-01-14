@@ -1,17 +1,32 @@
 [OutputJobFile]
 Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
 
 [OutputGroup1]
 Name=Job1.OutJob
 Description=
 TargetOutputMedium=Generate Files
-IncludedInRelease=0
+VariantName=[No Variations]
+VariantScope=1
+CurrentConfigurationName=
 TargetPrinter=NRG MP C4000
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print To GomSpace Printer
 OutputMedium1_Type=Printer
 OutputMedium1_Printer=
-OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
+OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium2=Publish To PDF
 OutputMedium2_Type=Publish
 OutputMedium3=Publish To Web
@@ -20,6 +35,7 @@ OutputMedium4=Generate Files
 OutputMedium4_Type=GeneratedFiles
 OutputType1=Composite
 OutputName1=Composite Drawing
+OutputCategory1=Documentation
 OutputDocumentPath1=
 OutputVariantName1=
 OutputEnabled1=0
@@ -28,7 +44,7 @@ OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=1
 OutputEnabled1_OutputMedium4=0
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration1_Name2=OutputConfigurationParameter2
@@ -55,6 +71,7 @@ Configuration1_Name12=OutputConfigurationParameter12
 Configuration1_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 OutputType2=PCB 3D Print
 OutputName2=PCB 3D Prints
+OutputCategory2=Documentation
 OutputDocumentPath2=
 OutputVariantName2=
 OutputEnabled2=0
@@ -63,9 +80,10 @@ OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=0
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 OutputType3=PCB Print
 OutputName3=PCB Prints
+OutputCategory3=Documentation
 OutputDocumentPath3=
 OutputVariantName3=
 OutputEnabled3=0
@@ -74,9 +92,10 @@ OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 OutputType4=Schematic Print
 OutputName4=Schematic Prints
+OutputCategory4=Documentation
 OutputDocumentPath4=
 OutputVariantName4=
 OutputEnabled4=0
@@ -85,9 +104,10 @@ OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=0
 OutputEnabled4_OutputMedium4=0
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 OutputType5=Assembly
 OutputName5=Assembly Drawings
+OutputCategory5=Assembly
 OutputDocumentPath5=
 OutputVariantName5=
 OutputEnabled5=0
@@ -96,9 +116,10 @@ OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
 OutputEnabled5_OutputMedium4=0
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 OutputType6=Pick Place
 OutputName6=Generates pick and place files
+OutputCategory6=Assembly
 OutputDocumentPath6=
 OutputVariantName6=
 OutputEnabled6=1
@@ -111,6 +132,7 @@ Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True
 OutputType7=Test Points For Assembly
 OutputName7=Test Point Report
+OutputCategory7=Assembly
 OutputDocumentPath7=
 OutputVariantName7=
 OutputEnabled7=0
@@ -121,6 +143,7 @@ OutputEnabled7_OutputMedium4=0
 OutputDefault7=0
 OutputType8=CompositeDrill
 OutputName8=Composite Drill Drawing
+OutputCategory8=Fabrication
 OutputDocumentPath8=
 OutputVariantName8=
 OutputEnabled8=0
@@ -129,9 +152,10 @@ OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
 OutputEnabled8_OutputMedium4=0
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 OutputType9=Drill
 OutputName9=Drill Drawing/Guides
+OutputCategory9=Fabrication
 OutputDocumentPath9=
 OutputVariantName9=
 OutputEnabled9=0
@@ -140,9 +164,10 @@ OutputEnabled9_OutputMedium2=0
 OutputEnabled9_OutputMedium3=0
 OutputEnabled9_OutputMedium4=0
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 OutputType10=Final
 OutputName10=Final Artwork Prints
+OutputCategory10=Fabrication
 OutputDocumentPath10=
 OutputVariantName10=
 OutputEnabled10=0
@@ -151,9 +176,10 @@ OutputEnabled10_OutputMedium2=0
 OutputEnabled10_OutputMedium3=0
 OutputEnabled10_OutputMedium4=0
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 OutputType11=Gerber
 OutputName11=Gerber Files
+OutputCategory11=Fabrication
 OutputDocumentPath11=
 OutputVariantName11=
 OutputEnabled11=1
@@ -166,6 +192,7 @@ Configuration11_Name1=OutputConfigurationParameter1
 Configuration11_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973832~1,16973834~1,16777217~1,16842754~1,16777218~1,16777219~1,16842753~1,16842751~1,16973835~1,16973833~1,16908293~1,16908298~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
 OutputType12=Mask
 OutputName12=Solder/Paste Mask Prints
+OutputCategory12=Fabrication
 OutputDocumentPath12=
 OutputVariantName12=
 OutputEnabled12=0
@@ -174,7 +201,7 @@ OutputEnabled12_OutputMedium2=2
 OutputEnabled12_OutputMedium3=0
 OutputEnabled12_OutputMedium4=0
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 Configuration12_Name1=OutputConfigurationParameter1
 Configuration12_Item1=PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration12_Name2=OutputConfigurationParameter2
@@ -227,6 +254,7 @@ Configuration12_Name25=OutputConfigurationParameter25
 Configuration12_Item25=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer
 OutputType13=NC Drill
 OutputName13=NC Drill Files
+OutputCategory13=Fabrication
 OutputDocumentPath13=
 OutputVariantName13=
 OutputEnabled13=1
@@ -239,6 +267,7 @@ Configuration13_Name1=OutputConfigurationParameter1
 Configuration13_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
 OutputType14=ODB
 OutputName14=ODB++ Files
+OutputCategory14=Fabrication
 OutputDocumentPath14=
 OutputVariantName14=
 OutputEnabled14=0
@@ -249,6 +278,7 @@ OutputEnabled14_OutputMedium4=0
 OutputDefault14=0
 OutputType15=Plane
 OutputName15=Power-Plane Prints
+OutputCategory15=Fabrication
 OutputDocumentPath15=
 OutputVariantName15=
 OutputEnabled15=0
@@ -257,9 +287,10 @@ OutputEnabled15_OutputMedium2=0
 OutputEnabled15_OutputMedium3=0
 OutputEnabled15_OutputMedium4=0
 OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 OutputType16=Test Points
 OutputName16=Test Point Report
+OutputCategory16=Fabrication
 OutputDocumentPath16=
 OutputVariantName16=
 OutputEnabled16=0
@@ -270,6 +301,7 @@ OutputEnabled16_OutputMedium4=0
 OutputDefault16=0
 OutputType17=BOM_PartType
 OutputName17=Bill of Materials
+OutputCategory17=Report
 OutputDocumentPath17=
 OutputVariantName17=
 OutputEnabled17=0
@@ -278,9 +310,24 @@ OutputEnabled17_OutputMedium2=0
 OutputEnabled17_OutputMedium3=0
 OutputEnabled17_OutputMedium4=0
 OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+Configuration17_Name1=ColumnNameFormat
+Configuration17_Item1=CaptionAsName
+Configuration17_Name2=Filter
+Configuration17_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration17_Name3=General
+Configuration17_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=Board Stack Report.XLT|BatchMode=5|FormWidth=1339|FormHeight=930|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration17_Name4=GroupOrder
+Configuration17_Item4=Comment=True|Footprint=True
+Configuration17_Name5=PCBDocument
+Configuration17_Item5=FileName=nanopower-bpx-2.PcbDoc
+Configuration17_Name6=SortOrder
+Configuration17_Item6=Designator=Up|Comment=Up|Footprint=Up
+Configuration17_Name7=VisibleOrder
+Configuration17_Item7=Designator=125|Comment=161|Description=116|Footprint=116|Pins=93|Quantity=116
 OutputType18=ComponentCrossReference
 OutputName18=Component Cross Reference Report
+OutputCategory18=Report
 OutputDocumentPath18=
 OutputVariantName18=
 OutputEnabled18=0
@@ -291,6 +338,7 @@ OutputEnabled18_OutputMedium4=0
 OutputDefault18=0
 OutputType19=Design Rules Check
 OutputName19=Design Rules Check
+OutputCategory19=Validation
 OutputDocumentPath19=
 OutputVariantName19=
 OutputEnabled19=0
@@ -299,9 +347,10 @@ OutputEnabled19_OutputMedium2=0
 OutputEnabled19_OutputMedium3=0
 OutputEnabled19_OutputMedium4=0
 OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 OutputType20=Electrical Rules Check
 OutputName20=Electrical Rules Check
+OutputCategory20=Validation
 OutputDocumentPath20=
 OutputVariantName20=
 OutputEnabled20=0
@@ -310,9 +359,10 @@ OutputEnabled20_OutputMedium2=0
 OutputEnabled20_OutputMedium3=0
 OutputEnabled20_OutputMedium4=0
 OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 OutputType21=ReportHierarchy
 OutputName21=Report Project Hierarchy
+OutputCategory21=Report
 OutputDocumentPath21=
 OutputVariantName21=
 OutputEnabled21=0
@@ -323,6 +373,7 @@ OutputEnabled21_OutputMedium4=0
 OutputDefault21=0
 OutputType22=SimpleBOM
 OutputName22=Simple BOM
+OutputCategory22=Report
 OutputDocumentPath22=
 OutputVariantName22=
 OutputEnabled22=0
@@ -333,6 +384,7 @@ OutputEnabled22_OutputMedium4=0
 OutputDefault22=0
 OutputType23=SinglePinNetReporter
 OutputName23=Report Single Pin Nets
+OutputCategory23=Report
 OutputDocumentPath23=
 OutputVariantName23=
 OutputEnabled23=0
@@ -343,9 +395,21 @@ OutputEnabled23_OutputMedium4=0
 OutputDefault23=0
 
 [PublishSettings]
-PublishMethod2=1
+OutputFilePath2=\\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\bpx\revisions\2\nanopower-bpx-2-datapackage
+ReleaseManaged2=0
+OutputBasePath2=.
+OutputPathMedia2=
+OutputPathMediaValue2=
+OutputPathOutputer2=[Output Type]
+OutputPathOutputerPrefix2=
+OutputPathOutputerValue2=
+OutputFileName2=nanopower-bpx-2-datapackage
+OutputFileNameMulti2=
+UseOutputNameForMulti2=1
+OutputFileNameSpecial2=
 OpenOutput2=0
 PromptOverwrite2=1
+PublishMethod2=1
 ZoomLevel2=50
 FitSCHPrintSizeToDoc2=1
 FitPCBPrintSizeToDoc2=1
@@ -353,10 +417,24 @@ GenerateNetsInfo2=1
 MarkPins2=1
 MarkNetLabels2=1
 MarkPortsId2=1
-OutputFilePath2=\\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\bpx\revisions\2\nanopower-bpx-2-datapackage
-PublishMethod3=2
+GenerateTOC=1
+ShowComponentParameters2=1
+GlobalBookmarks2=0
+OutputFilePath3=
+ReleaseManaged3=0
+OutputBasePath3=Project Outputs for FlexibleBattery4
+OutputPathMedia3=
+OutputPathMediaValue3=
+OutputPathOutputer3=[Output Type]
+OutputPathOutputerPrefix3=
+OutputPathOutputerValue3=
+OutputFileName3=
+OutputFileNameMulti3=
+UseOutputNameForMulti3=1
+OutputFileNameSpecial3=
 OpenOutput3=1
 PromptOverwrite3=1
+PublishMethod3=2
 ZoomLevel3=50
 FitSCHPrintSizeToDoc3=1
 FitPCBPrintSizeToDoc3=1
@@ -366,19 +444,33 @@ MarkNetLabels3=1
 MarkPortsId3=1
 WebOutputMediumType3=FS
 OutputDirectory3=C:\Users\djs\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project Outputs for FlexibleBattery4\WebOutput
+OutputFilePath4=\\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\bpx\revisions\2\nanopower-bpx-2-datapackage\
+ReleaseManaged4=0
+OutputBasePath4=nanopower-bpx-2-datapackage\
+OutputPathMedia4=
+OutputPathMediaValue4=
+OutputPathOutputer4=
+OutputPathOutputerPrefix4=
+OutputPathOutputerValue4=
+OutputFileName4=
+OutputFileNameMulti4=
+UseOutputNameForMulti4=1
+OutputFileNameSpecial4=
+OpenOutput4=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath4=nanopower-bpx-2-datapackage
+RelativeOutputPath2=\\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\bpx\revisions\2\nanopower-bpx-2-datapackage
+OpenOutputs2=0
+RelativeOutputPath3=
+OpenOutputs3=1
+RelativeOutputPath4=\\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\bpx\revisions\2\nanopower-bpx-2-datapackage\
 OpenOutputs4=0
 AddToProject4=0
 TimestampFolder4=0
-SeparateFolderForEachOutput4=0
 UseOutputName4=0
-
-[CAMtasticOutputs]
-OpenODBOutput=False
-OpenGerberOutput=False
-OpenNCDrillOutput=False
-OpenIPCOutput=False
-EnableReload=False
+OpenODBOutput4=0
+OpenGerberOutput4=0
+OpenNCDrillOutput4=0
+OpenIPCOutput4=0
+EnableReload4=0
 

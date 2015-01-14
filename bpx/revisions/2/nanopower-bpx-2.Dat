@@ -1,0 +1,42 @@
+Field=Designator~String~Designator~125|Field=Comment~String~Comment~161|Field=Description~String~Description~116|Field=Footprint~String~Footprint~116|Field=Pins~Integer~Pins~93|Field=Quantity~Integer~Quantity~116|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~nanopower-bpx-2.PrjPcb|ReportField=ProjectFullPath~\\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\bpx\revisions\2\nanopower-bpx-2.PrjPcb|ReportField=Title~Bill of Materials For Project [nanopower-bpx-2.PrjPcb] (PCB Document : nanopower-bpx-2.PcbDoc)|ReportField=TotalQuantity~70|ReportField=ReportTime~14:57:00|ReportField=ReportDate~13-01-2015|ReportField=ReportDateTime~13-01-2015 14:57:00|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-4:MediaType=1:DitherType=10:PaperKind=A3:PrintScaleMode=1|ReportField=DataSourceFileName~nanopower-bpx-2.PrjPcb|ReportField=DataSourceFullPath~\\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\bpx\revisions\2\nanopower-bpx-2.PrjPcb|ReportField=PCBDataSourceFileName~nanopower-bpx-2.PcbDoc|ReportField=PCBDataSourceFullPath~\\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\bpx\revisions\2\nanopower-bpx-2.PcbDoc
+C1|22uF|Capacitor|CAPC2012M|2|1
+C2|N.M|Capacitor|C0603K|2|1
+C4|2.2uF|Capacitor|CAPC2012M|2|1
+C8|4.7uF|Capacitor|CAPC2012M|2|1
+C10, C11, C16, C17, C18, C19, C21, C100, Cc1, Cc2, Cm1|100nF|Capacitor|C0603K|2|11
+C20|1uF|Capacitor|CAPC2012M|2|1
+C101, CXTAL1, CXTAL2|NM|Capacitor|C0603K|2|3
+D1|CDBU0240|Schottky Diode|CD1608-0603|2|1
+L3|Inductor|Inductor|L1210|2|1
+P1|Header 9|Header, 9-Pin|PICOBLADE-09-ST|9|1
+P2|picoblade 8 right|Header, 8-Pin|Picoblade 8 pin|8|1
+PBAT1, PBAT2|Header 14H|Header, 14-Pin, Right Angle|M80-5421442|14|2
+PGND1|GNDCON|M80-5430805|M80-5430805|8|1
+Q4|BSC067N06LS3 G||PG-TDSON-8|8|1
+Q201|FDN5618P|P-Channel MOSFET|SOT23|3|1
+Qc1, Qks|FDN5618P|P-Channel MOSFET|SOT23-3M|3|2
+Qc2, Qh1|MMBF170|N-Channel MOSFET|SOT23-3M|3|2
+Qh2|Si7461DP||SO8-POWERPAK|8|1
+Qscl, Qsda|TN0200K|N-Channel MOSFET|SOT23-3M|3|2
+R1, R3|N.M|Resistor|R0603|2|2
+R2|0|Resistor|R0603|2|1
+R16, R17, R40|100k|Resistor|R0603|2|3
+R37, Rh1, Rh2|300k|Resistor|R0603|2|3
+R38|2k|Resistor|R0603|2|1
+R39, Rh3|calculate|Resistor|R0603|2|2
+R100|10R|Resistor|RESC1608M|2|1
+Rbatm|0.005R|Resistor|RESC6432M|2|1
+Rc1, Rc4|7k5|Resistor|RESC1608M|2|2
+Rc7, Rks1, Rks2|300k|Resistor|RESC1608M|2|3
+Rc8, Rks4|calculate|Resistor|RESC1608M|2|2
+Rks3|NM|Resistor|RESC1608M|2|1
+Rm1|0.025R|Resistor|CAPC3216L|2|1
+Rm2|4k7|Resistor|RESC1608M|2|1
+Rscl, Rsda|1.5k|Resistor|R0603|2|2
+U1|ATmega128-16AC|8-Bit AVR Microcontroller with 128K Bytes of In-System Programmable Flash Memory|64M1_M|64|1
+U2|LT4363||MSOP 12|12|1
+U3, U4, Um1|INA169||SOT23-5BM|5|3
+U6|LM4040AIM3-2.5|Precision Micropower Shunt Voltage Reference|MF03A_N|3|1
+U10|TPS7A1633DGNT||DGN MSOP-8 PowerPAD|9|1
+U11|TPS22945||SC70-5|5|1
+Y1|32.768 kHz|Crystal Oscillator|FC-135|2|1
