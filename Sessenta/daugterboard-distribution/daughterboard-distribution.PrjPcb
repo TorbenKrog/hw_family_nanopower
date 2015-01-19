@@ -72,7 +72,7 @@ DocumentUniqueId=NQVTXDXF
 
 [Document3]
 DocumentPath=Main.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -293,7 +293,7 @@ DocumentUniqueId=XKBQCYPH
 
 [Document16]
 DocumentPath=MCU.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -303,14 +303,14 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXOWATSU
 
 [Document17]
 DocumentPath=PDU.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -320,14 +320,14 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWJROMXV
 
 [Document18]
 DocumentPath=BUCK.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -337,7 +337,7 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NFULLILE
@@ -375,6 +375,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document21]
+DocumentPath=..\..\..\library\altium\device sheets\PDU-sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=x
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KSIIJFEG
 
 [ProjectVariant1]
 Description=NOR-FLASH variant
@@ -1061,6 +1078,11 @@ OutputName5=Footprint Comparison Report
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
+OutputType6=Component states check
+OutputName6=Vault's components states check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
 
 [OutputGroup9]
 Name=Export Outputs
