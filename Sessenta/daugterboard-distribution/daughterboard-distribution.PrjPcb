@@ -1,12 +1,12 @@
 [Design]
 Version=1.0
-HierarchyMode=3
+HierarchyMode=0
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ReleaseVaultGUID=
 ReleaseVaultName=
-ChannelDesignatorFormatString=$Component_$RoomName
-ChannelRoomLevelSeperator=_
+ChannelDesignatorFormatString=$Component.$RoomName
+ChannelRoomLevelSeperator=.
 OpenOutputs=1
 ArchiveProject=0
 TimestampOutput=0
@@ -82,29 +82,12 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=All Nets
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXQCBBAE
 
 [Document4]
-DocumentPath=daughterboard-distribution.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XTHYPNOH
-
-[Document5]
 DocumentPath=daughterboard.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=..\..\..\library\altium\smd.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWGLQDIT
 
-[Document7]
+[Document6]
 DocumentPath=..\..\..\library\altium\HARWIN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=..\..\..\library\altium\smalloutline.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=..\..\..\library\altium\mosfet.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNTDYLJK
 
-[Document10]
+[Document9]
 DocumentPath=..\..\..\library\altium\ax100.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=..\..\..\library\altium\powerpad.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=daughterboard.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=..\..\..\library\altium\PcbLib1-solar.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=..\..\..\library\altium\ADSB_reciever_PCB5.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=..\..\..\library\altium\analog.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,10 +274,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKBQCYPH
 
-[Document16]
+[Document15]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotateStartValue=100
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -303,15 +286,15 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=All Nets
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXOWATSU
 
-[Document17]
+[Document16]
 DocumentPath=PDU.SchDoc
 AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotateStartValue=50
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -319,16 +302,16 @@ AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=All Nets
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWJROMXV
 
-[Document18]
+[Document17]
 DocumentPath=BUCK.SchDoc
 AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotateStartValue=200
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -337,12 +320,12 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=All Nets
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NFULLILE
 
-[Document19]
+[Document18]
 DocumentPath=..\..\..\library\altium\sessentas.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSJUJBYE
 
-[Document20]
+[Document19]
 DocumentPath=..\..\..\library\altium\harwin.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -376,12 +359,12 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
-DocumentPath=..\..\..\library\altium\device sheets\PDU-sheet.SchDoc
+[Document20]
+DocumentPath=P.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
-AnnotateSuffix=x
+AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=5
 DoLibraryUpdate=1
@@ -1140,13 +1123,13 @@ Type26=1
 Type27=1
 Type28=1
 Type29=1
-Type30=0
+Type30=1
 Type31=1
 Type32=1
-Type33=0
-Type34=0
+Type33=1
+Type34=1
 Type35=1
-Type36=0
+Type36=1
 Type37=1
 Type38=1
 Type39=1
@@ -1382,7 +1365,7 @@ CompClassManualEnabled=1
 CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
-NetClassAutoNamedHarnessEnabled=0
+NetClassAutoNamedHarnessEnabled=1
 NetClassManualEnabled=1
 
 [LibraryUpdateOptions]

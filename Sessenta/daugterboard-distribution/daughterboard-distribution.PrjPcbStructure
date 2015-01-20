@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=PDU.SchDoc
-Record=SheetSymbol|Record=SheetSymbol|SourceDocument=PDU.SchDoc|Designator=PDU|SchDesignator=PDU|FileName=PDU-sheet.SchDoc|SymbolType=Device Sheet|RawFileName=PDU-sheet|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=PDU.SchDoc|Designator=P1|SchDesignator=P1|FileName=P.SchDoc|SymbolType=Normal|RawFileName=P.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=PDU.SchDoc|Designator=P2|SchDesignator=P2|FileName=P.SchDoc|SymbolType=Normal|RawFileName=P.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
