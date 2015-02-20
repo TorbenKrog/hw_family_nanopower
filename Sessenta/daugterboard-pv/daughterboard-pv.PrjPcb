@@ -302,6 +302,10 @@ Variation3=Designator=C24|UniqueId=\YILQKDWA|Kind=1|AlternatePart=
 Variation4=Designator=C29|UniqueId=\CNYFFEYK|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ax600\Design Rule Check - daughterboard-pv.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=C:\Program Files\Altium Designer Summer 09\Library\*.*
 IncludeSubFolders=1
