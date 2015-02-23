@@ -47,7 +47,7 @@ AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -238,7 +238,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EXYJGIBE
 
 [Document13]
 DocumentPath=..\..\..\library\altium\Libraries\GomSpace Standard Footprints.PcbLib
