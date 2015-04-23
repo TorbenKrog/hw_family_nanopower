@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=1
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+OutputPath=Project Outputs for nanopower-p31u-11
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -257,6 +257,10 @@ VariationCount=1
 Variation1=Designator=PBAT1|UniqueId=\LANUNKCE|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for nanopower-p31u-11\Design Rule Check - nanopower-p31u-11.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\library\altium\*.*
 IncludeSubFolders=1
@@ -324,7 +328,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for nanopower-p31u-11
 
 [OutputGroup1]
 Name=Netlist Outputs
