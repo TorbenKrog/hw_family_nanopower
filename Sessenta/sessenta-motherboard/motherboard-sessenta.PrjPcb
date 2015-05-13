@@ -71,23 +71,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LWXBOTMU
 
 [Document3]
-DocumentPath=motherboard-2.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=motherboard-sessenta.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=..\..\..\library\altium\nanopower-p31u-10.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=motherboard-sessenta.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=Sheet_i2c_isolator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDCJDMBC
 
-[Document8]
+[Document7]
 DocumentPath=Sheet_power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMGPWSPR
 
-[Document9]
+[Document8]
 DocumentPath=Sheet_rs232.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CIEUGNDQ
 
-[Document10]
+[Document9]
 DocumentPath=Sheet_rs422.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLWPXTBL
 
-[Document11]
+[Document10]
 DocumentPath=Sheet-BPx-BP4-interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MIDLROVS
 
-[Document12]
+[Document11]
 DocumentPath=..\..\..\library\altium\Libraries\GomSpace Connector Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCXHPTFY
 
-[Document13]
+[Document12]
 DocumentPath=..\..\..\library\altium\Libraries\GomSpace Module Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=..\..\..\library\altium\Libraries\GomSpace Standard Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKLRWNAP
 
-[Document15]
+[Document14]
 DocumentPath=..\..\..\library\altium\sessentas.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=P.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NLDTWLUV
 
-[Document17]
+[Document16]
 DocumentPath=Sheet_can.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRYMYPFY
 
-[Document18]
+[Document17]
 DocumentPath=Sheet_adc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJRVGHDW
 
-[Document19]
+[Document18]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -358,6 +341,283 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DHOHEMNH
+
+[Document19]
+DocumentPath=Fab.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=.\FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-motherboard-sessenta.txt
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=.\FabOutputs\NC Drill Files - in\mb-sessenta.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\mb-sessenta.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.G1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G2
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G2
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.G2
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G3
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G3
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.G3
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G4
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G4
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.G4
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G5
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G5
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.G5
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G6
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G6
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.G6
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G7
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G7
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.G7
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G8
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G8
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.G8
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=.\FabOutputs\NC Drill Files - in\mb-sessenta.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\mb-sessenta.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.REP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.REP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.REP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=.\FabOutputs\NC Drill Files - in\mb-sessenta.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\mb-sessenta.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=.\FabOutputs\NC Drill Files - in\mb-sessenta.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\mb-sessenta.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for motherboard\mb-sessenta.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=.\FabOutputs\Pick and place files (Standard) - in\Pick Place for mb-sessenta.txt
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=.\FabOutputs\Pick and place files (Standard) - mm\Pick Place for mb-sessenta.txt
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=C:\Program Files (x86)\Altium Designer Summer 09\Library\*.*
@@ -615,7 +875,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=CutePDF Writer
+TargetPrinter=Ricoh Aficio MP C4500 PCL5c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Test Points
 OutputName1=Test Point Report

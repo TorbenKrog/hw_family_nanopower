@@ -71,23 +71,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WEHGWWBW
 
 [Document3]
-DocumentPath=daughterboard.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=..\..\..\library\altium\nanopower-p31u-10\Fairchild Semiconductor Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UECMNVDS
 
-[Document5]
+[Document4]
 DocumentPath=..\..\..\library\altium\nanopower-p31u-10\nanopower-p31u-10.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VPGRKSST
 
-[Document6]
+[Document5]
 DocumentPath=..\..\..\library\altium\nanopower-p31u-10\nanopower-p31u-10.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=daughterboard.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=daughterboard-pv.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIGBFUNS
 
-[Document9]
+[Document8]
 DocumentPath=..\..\..\library\altium\nanopower-p31u-10.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=b.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWDGQWLL
 
-[Document11]
+[Document10]
 DocumentPath=..\..\..\library\altium\Libraries\GomSpace Connector Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCXHPTFY
 
-[Document12]
+[Document11]
 DocumentPath=..\..\..\library\altium\Libraries\GomSpace Module Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXYJGIBE
 
-[Document13]
+[Document12]
 DocumentPath=..\..\..\library\altium\Libraries\GomSpace Standard Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKLRWNAP
 
-[Document14]
+[Document13]
 DocumentPath=..\..\..\library\altium\smd.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWGLQDIT
 
-[Document15]
+[Document14]
 DocumentPath=..\..\..\library\altium\sessentas.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,6 +274,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSJUJBYE
 
+[Document15]
+DocumentPath=Fab.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 Description=NOR-FLASH variant
 AllowFabrication=0
@@ -301,6 +301,202 @@ Variation2=Designator=BT1|UniqueId=\XLNRSIQL|Kind=1|AlternatePart=
 Variation3=Designator=C24|UniqueId=\YILQKDWA|Kind=1|AlternatePart= 
 Variation4=Designator=C29|UniqueId=\CNYFFEYK|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=.\FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-daughterboard-pv.txt
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pv.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pv.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.G2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.G3
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.G3
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.G4
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.G4
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.G5
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.G5
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.G6
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.G6
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.G7
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.G7
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.G8
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.G8
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pv.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pv.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.REP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.REP
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pv.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pv.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pv.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pv.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pv.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pv.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pv.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pv.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=.\FabOutputs\Pick and place files (Standard) - in\Pick Place for daughterboard-pv.txt
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=.\FabOutputs\Pick and place files (Standard) - mm\Pick Place for daughterboard-pv.txt
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=C:\Program Files\Altium Designer Summer 09\Library\*.*

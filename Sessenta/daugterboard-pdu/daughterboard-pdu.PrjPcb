@@ -393,6 +393,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIGBFUNS
 
+[Document22]
+DocumentPath=Fab.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 Description=NOR-FLASH variant
 AllowFabrication=0
@@ -403,6 +420,202 @@ Variation2=Designator=BT1|UniqueId=\XLNRSIQL|Kind=1|AlternatePart=
 Variation3=Designator=C24|UniqueId=\YILQKDWA|Kind=1|AlternatePart= 
 Variation4=Designator=C29|UniqueId=\CNYFFEYK|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=.\FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-daughterboard-pdu.txt
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G3
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G3
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G4
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G4
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G5
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G5
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G6
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G6
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G7
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G7
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G8
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G8
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.REP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.REP
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=.\FabOutputs\Pick and place files (Standard) - in\Pick Place for daughterboard-pdu.txt
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=.\FabOutputs\Pick and place files (Standard) - mm\Pick Place for daughterboard-pdu.txt
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=C:\Program Files\Altium Designer Summer 09\Library\*.*
