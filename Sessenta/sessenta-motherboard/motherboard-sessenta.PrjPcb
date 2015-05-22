@@ -360,263 +360,191 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=.\FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-motherboard-sessenta.txt
+DocumentPath=FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-motherboard-sessenta.txt
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=.\FabOutputs\NC Drill Files - in\mb-sessenta.DRR
+DocumentPath=FabOutputs\NC Drill Files - in\mb-sessenta.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\mb-sessenta.DRR
+DocumentPath=FabOutputs\NC Drill Files - mm\mb-sessenta.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.DRR
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.EXTREP
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.EXTREP
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.EXTREP
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G1
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G2
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G1
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G2
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.G1
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G3
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G2
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G3
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G2
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G4
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.G2
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G4
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G3
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G5
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G3
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G5
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.G3
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G6
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G4
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G6
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G4
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G7
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.G4
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G7
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G5
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G8
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G5
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G8
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.G5
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G6
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G6
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.G6
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G7
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G7
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.G7
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G8
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G8
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.G8
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GBL
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GBL
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.GBL
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GBP
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GBP
+DocumentPath=FabOutputs\NC Drill Files - in\mb-sessenta.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GBS
+DocumentPath=FabOutputs\NC Drill Files - mm\mb-sessenta.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GBS
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.REP
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GM4
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.REP
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GM4
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.GM4
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GTL
+DocumentPath=FabOutputs\NC Drill Files - in\mb-sessenta.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GTL
+DocumentPath=FabOutputs\NC Drill Files - mm\mb-sessenta.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.GTL
+DocumentPath=FabOutputs\NC Drill Files - in\mb-sessenta.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GTP
+DocumentPath=FabOutputs\NC Drill Files - mm\mb-sessenta.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GTP
+DocumentPath=FabOutputs\Pick and place files (Standard) - in\Pick Place for mb-sessenta.txt
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=.\FabOutputs\NC Drill Files - in\mb-sessenta.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\mb-sessenta.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.REP
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.REP
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.REP
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=.\FabOutputs\NC Drill Files - in\mb-sessenta.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\mb-sessenta.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=.\FabOutputs\NC Drill Files - in\mb-sessenta.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\mb-sessenta.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=Project Outputs for motherboard\mb-sessenta.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=.\FabOutputs\Pick and place files (Standard) - in\Pick Place for mb-sessenta.txt
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=.\FabOutputs\Pick and place files (Standard) - mm\Pick Place for mb-sessenta.txt
+DocumentPath=FabOutputs\Pick and place files (Standard) - mm\Pick Place for mb-sessenta.txt
 DItemRevisionGUID=
 
 [SearchPath1]
