@@ -422,314 +422,626 @@ Variation4=Designator=C29|UniqueId=\CNYFFEYK|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-daughterboard-pdu.txt
+DocumentPath=.\FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-daughterboard-pdu.txt
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-daughterboard-pdu.txt
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\eda\data
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.DRR
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.DRR
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.EXTREP
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.EXTREP
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G1
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G1
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G2
+DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G2
+DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G3
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G3
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G4
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G4
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G5
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G1
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G5
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G1
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G6
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G6
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G1
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G7
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G2
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G7
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G2
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G8
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G2
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G8
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G2
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GBL
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G3
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GBL
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G3
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GBP
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G3
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GBP
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G3
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GBS
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G4
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GBS
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G4
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GM4
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G4
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GM4
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G4
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GTL
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G5
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GTL
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G5
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GTP
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G5
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GTP
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G5
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GTS
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G6
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GTS
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G6
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.LDP
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G6
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.LDP
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G6
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.REP
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G7
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.REP
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G7
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for ax600\daughterboard-pdu.REP
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G7
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.RUL
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G7
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.RUL
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G8
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.TX1
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G8
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.TX1
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G8
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.TX2
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G8
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.TX2
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.TXT
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.TXT
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\bottom\features
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\bottompaste\features
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill1\features
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill2\features
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill\features
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mechanical4\features
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid1\features
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid2\features
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid3\features
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid4\features
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid5\features
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid6\features
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid7\features
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid8\features
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\top\features
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\toppaste\features
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for ax600\odb\matrix\matrix
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=FabOutputs\Pick and place files (Standard) - in\Pick Place for daughterboard-pdu.txt
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=FabOutputs\Pick and place files (Standard) - mm\Pick Place for daughterboard-pdu.txt
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\profile
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\stephdr
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill1\tools
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill2\tools
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument78]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.REP
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.REP
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=.\FabOutputs\ODB++ Files\daughterboard-pdu.REP
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.REP
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.REP
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for ax600\daughterboard-pdu.REP
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid1\features
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid2\features
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid3\features
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid4\features
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid5\features
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid6\features
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid7\features
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid8\features
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\bottompaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill1\features
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill2\features
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mechanical4\features
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid1\features
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid2\features
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid3\features
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid4\features
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid5\features
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid6\features
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid7\features
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid8\features
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Project Outputs for ax600\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=.\FabOutputs\Pick and place files (Standard) - in\Pick Place for daughterboard-pdu.txt
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=.\FabOutputs\Pick and place files (Standard) - mm\Pick Place for daughterboard-pdu.txt
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=FabOutputs\Pick and place files (Standard) - in\Pick Place for daughterboard-pdu.txt
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=FabOutputs\Pick and place files (Standard) - mm\Pick Place for daughterboard-pdu.txt
+DItemRevisionGUID=
+
+[GeneratedDocument147]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument149]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument150]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument151]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument152]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
+DItemRevisionGUID=
+
+[GeneratedDocument153]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument154]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument155]
+DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill2\tools
+DItemRevisionGUID=
+
+[GeneratedDocument156]
 DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
