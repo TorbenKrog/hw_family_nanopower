@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=BPX_2_Job.OutJob
+Name=nanopower-bp-2_Job.OutJob
 Description=
 TargetOutputMedium=Publish To PDF
 VariantName=[No Variations]
@@ -73,7 +73,7 @@ PcbPrintPreferences1=
 OutputType2=PCB 3D Print
 OutputName2=PCB 3D Prints
 OutputCategory2=Documentation
-OutputDocumentPath2=nanopower-bpx-2.PcbDoc
+OutputDocumentPath2=
 OutputVariantName2=
 OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
@@ -81,13 +81,13 @@ OutputEnabled2_OutputMedium2=2
 OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=0
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=3.57|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=3.29|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=30808962|ViewY=15848334|LookAtX=29960630|LookAtY=39547244|LookAtZ=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.02480291286672E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ViewConfig=
 OutputType3=PCB Print
 OutputName3=PCB Prints
 OutputCategory3=Documentation
-OutputDocumentPath3=nanopower-bpx-2.PcbDoc
+OutputDocumentPath3=
 OutputVariantName3=
 OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
@@ -142,7 +142,7 @@ Configuration4_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType5=Assembly
 OutputName5=Assembly Drawings
 OutputCategory5=Assembly
-OutputDocumentPath5=nanopower-bpx-2.PcbDoc
+OutputDocumentPath5=
 OutputVariantName5=
 OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
@@ -382,11 +382,11 @@ Configuration17_Item1=CaptionAsName
 Configuration17_Name2=Filter
 Configuration17_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration17_Name3=General
-Configuration17_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=Board Stack Report.XLT|BatchMode=5|FormWidth=1339|FormHeight=930|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration17_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=Board Stack Report.XLT|BatchMode=5|FormWidth=1339|FormHeight=897|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration17_Name4=GroupOrder
 Configuration17_Item4=Comment=True|Footprint=True
 Configuration17_Name5=PCBDocument
-Configuration17_Item5=FileName=nanopower-bpx-2.PcbDoc
+Configuration17_Item5=FileName=nanopower-bp-2.PcbDoc
 Configuration17_Name6=SortOrder
 Configuration17_Item6=Designator=Up|Comment=Up|Footprint=Up
 Configuration17_Name7=VisibleOrder
