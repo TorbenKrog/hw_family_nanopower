@@ -107,23 +107,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SIYJUEGG
 
 [Document5]
-DocumentPath=Job1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=nanopower-bpx-2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,8 +123,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFXAWEPO
 
-[Document7]
-DocumentPath=nanopower-bpx-2.PcbLib
+[Document6]
+DocumentPath=nanopower-bpx.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -155,10 +138,29 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TKPIYOKY
+DocumentUniqueId=
+
+[ProjectVariant1]
+Description=2S-3P-nanopower-bpx-2
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for FlexibleBattery4\BOM\BOM_2S-3P-nanopower-bpx-2.xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for FlexibleBattery4\BOM\BOM_No Variations_nanopower-bpx.xls
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for FlexibleBattery4\Design Rule Check - nanopower-bpx-2.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for FlexibleBattery4\BOM\nanopower-bpx-2.xls
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -178,9 +180,6 @@ CurrentRevision=
 Variant=[No Variations]
 GenerateBOM=1
 OutputJobsCount=0
-
-[Generic_EDE]
-OutputDir=Project Outputs for FlexibleBattery4
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -212,6 +211,9 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs for FlexibleBattery4
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -823,6 +825,11 @@ OutputName5=Footprint Comparison Report
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
+OutputType6=Component states check
+OutputName6=Vault's components states check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -1506,20 +1513,18 @@ ParameterName78=Temperature
 ParameterUpdate78=1
 ParameterName79=Temperature Coefficient
 ParameterUpdate79=1
-ParameterName80=Temperature Coefficient 
+ParameterName80=Tolerance
 ParameterUpdate80=1
-ParameterName81=Tolerance
+ParameterName81=Value
 ParameterUpdate81=1
-ParameterName82=Value
+ParameterName82=VDS (max)
 ParameterUpdate82=1
-ParameterName83=VDS (max)
+ParameterName83=VGS(th) (max)
 ParameterUpdate83=1
-ParameterName84=VGS(th) (max)
+ParameterName84=VGS(th) (min)
 ParameterUpdate84=1
-ParameterName85=VGS(th) (min)
+ParameterName85=Voltage
 ParameterUpdate85=1
-ParameterName86=Voltage
-ParameterUpdate86=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
