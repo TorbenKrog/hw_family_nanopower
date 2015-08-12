@@ -1,0 +1,30 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: mb-sessenta.PcbDoc   5/13/2015  4:19:40 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : mb-sessenta.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T2        0.8mm (31.496mil)        Round          7                17.00 mm (0.67 Inch)
+T3        1mm (39.37mil)           Round          104              266.70 mm (10.50 Inch)
+T4        1.6mm (62.992mil)        Round          4                109.33 mm (4.30 Inch)
+T5        2.2mm (86.614mil)        Round          2                19.00 mm (0.75 Inch)
+T6        3.2mm (125.984mil)       Round          4                287.13 mm (11.30 Inch)
+T7        4.22mm (166.142mil)      Round          8                321.11 mm (12.64 Inch)
+T8        1.19mm (46.85mil)        Round          16        NPTH   68.00 mm (2.68 Inch)
+---------------------------------------------------------------------------
+Totals                                            145              1088.27 mm (42.85 Inch)
+Layer Pair : Top Layer to Signal Layer 3
+ASCII RoundHoles File : mb-sessenta.TX1
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          80               149.66 mm (5.89 Inch)
+---------------------------------------------------------------------------
+Totals                                            80               149.66 mm (5.89 Inch)
+---------------------------------------------------------------------------
+Totals                                            225              1237.92 mm (48.74 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\HPM\Hardware\nanopower\Sessenta\sessenta-motherboard\mb-sessenta.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=mb-sessenta.txt|DrillLayers=gtl,g4,g6,g3,g8,g9,g5,g7,g2,gbl
+LayersSetName=Top_Signal3_Blind_Vias|DrillFile=mb-sessenta.tx1|DrillLayers=gtl,g4,g6,g3

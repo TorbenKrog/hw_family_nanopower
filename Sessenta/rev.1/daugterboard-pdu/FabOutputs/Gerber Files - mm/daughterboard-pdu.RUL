@@ -1,0 +1,13 @@
+DRC Rules Export File for PCB: C:\Users\HPM\Hardware\nanopower\Sessenta\daugterboard-pdu\daughterboard-pdu.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Top-Bottom|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_Via-Via|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_keep-out|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=Width_RF_50ohm|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_Polygon|Scope=Board|Minimum=8.66
+RuleKind=Clearance|RuleName=Clearance_Free_Pads_1|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_Free_Pads|Scope=Board|Minimum=0.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit_GND_free-Pads|Scope=Board|Allowed=1

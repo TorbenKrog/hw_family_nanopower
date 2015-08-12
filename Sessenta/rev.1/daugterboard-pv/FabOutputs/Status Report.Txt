@@ -1,0 +1,10 @@
+Output: Pick and place files (Standard) - mm
+Type  : Pick Place
+From  : PCB Document [daughterboard-pv.PcbDoc]
+   Generated File[Pick Place for daughterboard-pv.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:22:37 PM On 5/13/2015
