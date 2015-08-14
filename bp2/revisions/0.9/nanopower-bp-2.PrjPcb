@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for FlexibleBattery4
+OutputPath=Project Outputs
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -90,7 +90,11 @@ GenerateClassCluster=0
 DocumentUniqueId=HFXAWEPO
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for FlexibleBattery4\Design Rule Check - nanopower-bp-2.html
+DocumentPath=Project Outputs\BOM\Bill of Materials-nanopower-bp-2.xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs\Design Rule Check - nanopower-bp-2.html
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -110,9 +114,6 @@ CurrentRevision=
 Variant=[No Variations]
 GenerateBOM=1
 OutputJobsCount=0
-
-[Generic_EDE]
-OutputDir=Project Outputs for FlexibleBattery4
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -144,6 +145,9 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs
 
 [OutputGroup1]
 Name=Netlist Outputs
