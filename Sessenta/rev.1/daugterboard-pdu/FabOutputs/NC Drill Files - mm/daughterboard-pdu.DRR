@@ -1,0 +1,38 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: daughterboard-pdu.PcbDoc   6/10/2015  10:42:27 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : daughterboard-pdu.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          72               376.57 mm (14.83 Inch)
+T2        0.4mm (15.748mil)        Round          58               326.32 mm (12.85 Inch)
+T3        1.6mm (62.992mil)        Round          3                107.74 mm (4.24 Inch)
+T4        3.2mm (125.984mil)       Round          4                151.19 mm (5.95 Inch)
+T5        0.84mm (33.071mil)       Round          4         NPTH   27.50 mm (1.08 Inch)
+T6        1.19mm (46.85mil)        Round          4         NPTH   22.50 mm (0.89 Inch)
+---------------------------------------------------------------------------
+Totals                                            145              1011.82 mm (39.84 Inch)
+Layer Pair : Top Layer to Mid-Layer 3
+ASCII RoundHoles File : daughterboard-pdu.TX1
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          422              841.88 mm (33.14 Inch)
+T2        0.4mm (15.748mil)        Round          23               41.10 mm (1.62 Inch)
+---------------------------------------------------------------------------
+Totals                                            445              882.98 mm (34.76 Inch)
+Layer Pair : Mid-Layer 4 to Bottom Layer
+ASCII RoundHoles File : daughterboard-pdu.TX2
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          468              913.36 mm (35.96 Inch)
+---------------------------------------------------------------------------
+Totals                                            468              913.36 mm (35.96 Inch)
+---------------------------------------------------------------------------
+Totals                                            1058             2808.15 mm (110.56 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

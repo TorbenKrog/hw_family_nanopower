@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\HPM\Hardware\nanopower\Sessenta\daugterboard-pdu\daughterboard-pdu.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=daughterboard-pdu.txt|DrillLayers=gtl,g4,g6,g2,g8,g9,g3,g5,g7,gbl
+LayersSetName=Top_Mid_3_Blind_Vias|DrillFile=daughterboard-pdu.tx1|DrillLayers=gtl,g4,g6,g2
+LayersSetName=Mid_4_Bot_Blind_Vias|DrillFile=daughterboard-pdu.tx2|DrillLayers=g3,g5,g7,gbl

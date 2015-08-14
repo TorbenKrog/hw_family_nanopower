@@ -1,0 +1,278 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R34        0402                  54.85mm       8.495mm       54.85mm       8.495mm       54.85mm       8.995mm  B        270.00 Res3           
+P1         TFM-115-02-X-DH      55.765mm      20.055mm       52.45mm      28.945mm       54.01mm      11.165mm  T         90.00 TFM-115-02-L-DH
+D3         CD1608-0603          13.475mm        6.27mm      13.475mm        6.27mm      14.325mm        6.27mm  T        180.00 CDBU0240       
+R53        0402                 31.725mm        3.87mm      31.725mm        3.87mm      31.725mm        4.37mm  T        270.00 Res3           
+R52        0402                  30.65mm        3.87mm       30.65mm        3.87mm       30.65mm        3.37mm  T         90.00 Res3           
+R51        0402                 31.575mm       36.87mm      31.575mm       36.87mm      31.575mm       37.37mm  T        270.00 Res3           
+R50        0402                   30.5mm       36.87mm        30.5mm       36.87mm        30.5mm       36.37mm  T         90.00 Res3           
+C64        1608[0603]            31.55mm       34.82mm       31.55mm       34.82mm       30.85mm       34.82mm  T        360.00 Cap Semi       
+C63        0402                   32.8mm        3.87mm        32.8mm        3.87mm        32.8mm        3.37mm  T         90.00 Cap Semi       
+C62        0402                 32.625mm       36.87mm      32.625mm       36.87mm      32.625mm       36.37mm  T         90.00 Cap Semi       
+U18        MSOP-10              50.625mm      3.7167mm      50.625mm      3.7167mm      48.475mm      4.7167mm  T          0.00 ADS1118        
+U17        MSOP-10               50.15mm       34.77mm       50.15mm       34.77mm          48mm       35.77mm  T          0.00 ADS1118        
+C61        0402                 49.225mm       5.695mm      49.225mm       5.695mm      49.725mm       5.695mm  T        180.00 Cap Semi       
+C60        0402                     52mm       5.695mm          52mm       5.695mm        52.5mm       5.695mm  T        180.00 Cap Semi       
+C59        0402                  47.85mm       37.07mm       47.85mm       37.07mm       47.35mm       37.07mm  T        360.00 Cap Semi       
+C58        0402                 50.625mm       37.07mm      50.625mm       37.07mm      51.125mm       37.07mm  T        180.00 Cap Semi       
+U6         TSOT23-8               7.55mm        7.57mm        7.55mm        7.57mm        6.24mm       8.545mm  T        360.00 LTC2633        
+C1         0402                   4.43mm        7.22mm        4.43mm        7.22mm        3.93mm        7.22mm  T        360.00 Cap Semi       
+U15        TSOT23-8              3.425mm       26.97mm       3.425mm       26.97mm       2.115mm      27.945mm  T        360.00 LTC2633        
+R46        0402                 56.775mm       27.77mm      56.775mm       27.77mm      56.775mm       28.27mm  B        270.00 Res3           
+R45        0402                 62.625mm      25.595mm      62.625mm      25.595mm      62.625mm      26.095mm  B        270.00 Res3           
+C55        1608[0603]             16.9mm      16.295mm        16.9mm      16.295mm        16.9mm      15.595mm  T         90.00 Cap Semi       
+C54        0402                 16.225mm      18.445mm      16.225mm      18.445mm      16.725mm      18.445mm  T        180.00 Cap Semi       
+C52        0402                  6.125mm       30.12mm       6.125mm       30.12mm       6.125mm       29.62mm  T         90.00 Cap Semi       
+C51        0402                   2.55mm       24.72mm        2.55mm       24.72mm        3.05mm       24.72mm  T        180.00 Cap Semi       
+C50        0402                    6.9mm      27.795mm         6.9mm      27.795mm         6.9mm      28.295mm  T        270.00 Cap Semi       
+C49        0402                  7.875mm        9.67mm       7.875mm        9.67mm       7.375mm        9.67mm  T        360.00 Cap Semi       
+C48        0402                 61.125mm       31.07mm      61.125mm       31.07mm      61.625mm       31.07mm  B        180.00 Cap Semi       
+C47        0402                 62.625mm      28.095mm      62.625mm      28.095mm      62.625mm      27.595mm  B         90.00 Cap Semi       
+X2         SAMTEC-FSI-110-D       5.825mm       27.62mm       5.825mm       27.62mm        2.27mm       23.12mm  B         90.00 SAMTEC-FSI-110-D
+C31_b3     C1206                 41.15mm       37.17mm       41.15mm       37.17mm        39.8mm       37.17mm  B        360.00 1uF            
+C31_b2     C1206                41.175mm      24.395mm      41.175mm      24.395mm      39.825mm      24.395mm  B        360.00 1uF            
+C31_b1     C1206                41.225mm      12.095mm      41.225mm      12.095mm      39.875mm      12.095mm  B        360.00 1uF            
+U11_b3     MICROSMP            20.8067mm     36.0325mm     20.8192mm      36.295mm     20.8192mm      36.945mm  B        270.00 MSS1P6         
+U11_b2     MICROSMP            20.8317mm     23.2575mm     20.8442mm       23.52mm     20.8442mm       24.17mm  B        270.00 MSS1P6         
+U11_b1     MICROSMP            20.8817mm     10.9575mm     20.8942mm       11.22mm     20.8942mm       11.87mm  B        270.00 MSS1P6         
+U10_b3     MICROSMP            44.1817mm     36.0325mm     44.1942mm      36.295mm     44.1942mm      36.945mm  B        270.00 MSS1P6         
+U10_b2     MICROSMP            44.2067mm     23.2575mm     44.2192mm       23.52mm     44.2192mm       24.17mm  B        270.00 MSS1P6         
+U10_b1     MICROSMP            44.2567mm     10.9575mm     44.2692mm       11.22mm     44.2692mm       11.87mm  B        270.00 MSS1P6         
+R19        0402                    6.5mm       7.725mm         6.5mm       7.725mm           7mm       7.725mm  B        180.00 Res3           
+R8_b3      0603                17.4192mm       36.07mm     17.4192mm       36.07mm     17.4192mm       36.92mm  B        270.00 Res3           
+R8_b2      0603                17.4442mm      23.295mm     17.4442mm      23.295mm     17.4442mm      24.145mm  B        270.00 Res3           
+R8_b1      0603                17.4942mm      10.995mm     17.4942mm      10.995mm     17.4942mm      11.845mm  B        270.00 Res3           
+R1_b3      0603                45.6634mm       29.72mm     45.6634mm       29.72mm     45.6634mm       28.87mm  B         90.00 Res3           
+R1_b2      0603                45.6885mm      16.945mm     45.6885mm      16.945mm     45.6885mm      16.095mm  B         90.00 Res3           
+R1_b1      0603                45.7884mm       4.645mm     45.7884mm       4.645mm     45.7884mm       3.795mm  B         90.00 Res3           
+R2         J1-0603                58.1mm       33.52mm        58.1mm       33.52mm       58.85mm       33.52mm  B        180.00 Res3           
+X1         SAMTEC-FSI-110-D       5.825mm       14.12mm       5.825mm       14.12mm        2.27mm        9.62mm  B         90.00 SAMTEC-FSI-110-D
+C11        0402                  9.775mm        7.72mm       9.775mm        7.72mm      10.275mm        7.72mm  B        180.00 Cap Semi       
+U4         SOT23                 9.125mm        4.82mm       9.125mm        4.82mm       8.175mm      5.9201mm  B        360.00 LM4040AIM3-2.5 
+C53        0402                  2.525mm       32.37mm       2.525mm       32.37mm       2.025mm       32.37mm  T        360.00 Cap Semi       
+C2_b1      0402                 50.875mm      6.3117mm      50.875mm      6.3117mm      50.875mm      6.8117mm  B        270.00 Cap Semi       
+C2_b2      0402                 50.825mm     18.4367mm      50.825mm     18.4367mm      50.825mm     18.9367mm  B        270.00 Cap Semi       
+C2_b3      0402                   50.8mm     31.3867mm        50.8mm     31.3867mm        50.8mm     31.8867mm  B        270.00 Cap Semi       
+C3_b1      0402                39.7808mm       8.805mm     39.7808mm       8.805mm     39.7808mm       8.305mm  B         90.00 Cap Semi       
+C3_b2      0402                39.7308mm      21.105mm     39.7308mm      21.105mm     39.7308mm      20.605mm  B         90.00 Cap Semi       
+C3_b3      0402                39.7058mm       33.88mm     39.7058mm       33.88mm     39.7058mm       33.38mm  B         90.00 Cap Semi       
+C4_b1      2220                 48.625mm      10.995mm      48.625mm      10.995mm      48.625mm       8.495mm  T         90.00 KCM55WR71J226MH01K
+C4_b2      2220                 48.625mm       20.12mm      48.625mm       20.12mm      48.625mm       17.62mm  T         90.00 KCM55WR71J226MH01K
+C4_b3      2220                 48.625mm      28.745mm      48.625mm      28.745mm      48.625mm      31.245mm  T        270.00 KCM55WR71J226MH01K
+C5_b1      2220                31.6692mm      10.995mm     31.6692mm      10.995mm     31.6692mm      13.495mm  T        270.00 KCM55WR71J226MH01K
+C5_b2      2220                31.6192mm       20.12mm     31.6192mm       20.12mm     31.6192mm       22.62mm  T        270.00 KCM55WR71J226MH01K
+C5_b3      2220                31.6192mm      28.745mm     31.6192mm      28.745mm     31.6192mm      31.245mm  T        270.00 KCM55WR71J226MH01K
+C6_b1      0402                 38.655mm     10.4192mm      38.655mm     10.4192mm      39.155mm     10.4192mm  B        180.00 Cap Semi       
+C6_b3      0402                  38.58mm     35.4942mm       38.58mm     35.4942mm       39.08mm     35.4942mm  B        180.00 Cap Semi       
+C7_b3      0402                 44.025mm      30.225mm      44.025mm      30.225mm      44.525mm      30.225mm  B        180.00 Cap Semi       
+C8_b1      0402                 50.875mm      8.9033mm      50.875mm      8.9033mm      50.875mm      9.4033mm  B        270.00 Cap Semi       
+C8_b2      0402                 50.825mm     21.3783mm      50.825mm     21.3783mm      50.825mm     21.8783mm  B        270.00 Cap Semi       
+C8_b3      0402                   50.8mm     33.9783mm        50.8mm     33.9783mm        50.8mm     34.4783mm  B        270.00 Cap Semi       
+C9_b1      0402                43.0085mm        3.62mm     43.0085mm        3.62mm     43.0085mm        3.12mm  B         90.00 Cap Semi       
+C9_b2      0402                42.9585mm       15.92mm     42.9585mm       15.92mm     42.9585mm       15.42mm  B         90.00 Cap Semi       
+C9_b3      0402                42.9335mm      28.695mm     42.9335mm      28.695mm     42.9335mm      28.195mm  B         90.00 Cap Semi       
+C10_b1     0402                38.1656mm        3.62mm     38.1656mm        3.62mm     38.1656mm        4.12mm  B        270.00 Cap Semi       
+C10_b2     0402                38.1157mm       15.92mm     38.1157mm       15.92mm     38.1157mm       16.42mm  B        270.00 Cap Semi       
+C10_b3     0402                38.0906mm      28.695mm     38.0906mm      28.695mm     38.0906mm      29.195mm  B        270.00 Cap Semi       
+C12_b1     0402                19.7621mm       3.645mm     19.7621mm       3.645mm     19.7621mm       3.145mm  B         90.00 Cap Semi       
+C12_b2     0402                19.7121mm      15.945mm     19.7121mm      15.945mm     19.7121mm      15.445mm  B         90.00 Cap Semi       
+C12_b3     0402                19.6871mm       28.72mm     19.6871mm       28.72mm     19.6871mm       28.22mm  B         90.00 Cap Semi       
+C13_b1     C1206                 16.75mm        4.62mm       16.75mm        4.62mm       16.75mm        3.27mm  B         90.00 1uF            
+C13_b2     C1206                  16.7mm       16.92mm        16.7mm       16.92mm        16.7mm       15.57mm  B         90.00 1uF            
+C13_b3     C1206                16.675mm      29.695mm      16.675mm      29.695mm      16.675mm      28.345mm  B         90.00 1uF            
+C14_b1     C1206                26.675mm       12.12mm      26.675mm       12.12mm      25.325mm       12.12mm  B        360.00 4.7uF          
+C14_b2     C1206                26.625mm       24.42mm      26.625mm       24.42mm      25.275mm       24.42mm  B        360.00 4.7uF          
+C14_b3     C1206                  26.6mm      37.195mm        26.6mm      37.195mm       25.25mm      37.195mm  B        360.00 4.7uF          
+C15_b1     0402                 50.875mm      11.495mm      50.875mm      11.495mm      50.875mm      11.995mm  B        270.00 Cap Semi       
+C15_b2     0402                 50.825mm      23.795mm      50.825mm      23.795mm      50.825mm      24.295mm  B        270.00 Cap Semi       
+C15_b3     0402                   50.8mm       36.57mm        50.8mm       36.57mm        50.8mm       37.07mm  B        270.00 Cap Semi       
+C16_b1     0402                   21.6mm       8.445mm        21.6mm       8.445mm        21.6mm       7.945mm  B         90.00 Cap Semi       
+C16_b2     0402                  21.55mm      20.745mm       21.55mm      20.745mm       21.55mm      20.245mm  B         90.00 Cap Semi       
+C16_b3     0402                  21.55mm       33.52mm       21.55mm       33.52mm       21.55mm       33.02mm  B         90.00 Cap Semi       
+C17_b1     C1206                    37mm      12.095mm          37mm      12.095mm       38.35mm      12.095mm  B        180.00 1uF            
+C17_b2     C1206                 36.95mm      24.395mm       36.95mm      24.395mm        38.3mm      24.395mm  B        180.00 1uF            
+C17_b3     C1206                36.925mm       37.17mm      36.925mm       37.17mm      38.275mm       37.17mm  B        180.00 1uF            
+C18_b1     C1206               48.5192mm      10.945mm     48.5192mm      10.945mm     48.5192mm      12.295mm  B        270.00 1uF            
+C18_b2     C1206               48.4692mm      23.245mm     48.4692mm      23.245mm     48.4692mm      24.595mm  B        270.00 1uF            
+C18_b3     C1206               48.4442mm       36.02mm     48.4442mm       36.02mm     48.4442mm       37.37mm  B        270.00 1uF            
+C19_b1     0402                23.5764mm       3.645mm     23.5764mm       3.645mm     23.5764mm       3.145mm  B         90.00 Cap Semi       
+C19_b2     0402                23.5264mm      15.945mm     23.5264mm      15.945mm     23.5264mm      15.445mm  B         90.00 Cap Semi       
+C19_b3     0402                23.5014mm       28.72mm     23.5014mm       28.72mm     23.5014mm       28.22mm  B         90.00 Cap Semi       
+C20_b1     2220                 14.825mm       10.52mm      14.825mm       10.52mm      14.825mm       13.02mm  T        270.00 KCM55WR71J226MH01K
+C20_b2     2220                 13.925mm      29.195mm      13.925mm      29.195mm      16.425mm      29.195mm  T        180.00 KCM55WR71J226MH01K
+C20_b3     2220                 13.925mm      35.495mm      13.925mm      35.495mm      16.425mm      35.495mm  T        180.00 KCM55WR71J226MH01K
+C21_b1     C1206                14.375mm        4.62mm      14.375mm        4.62mm      14.375mm        3.27mm  B         90.00 1uF            
+C21_b2     C1206                14.325mm       16.92mm      14.325mm       16.92mm      14.325mm       15.57mm  B         90.00 1uF            
+C21_b3     C1206                  14.3mm      29.695mm        14.3mm      29.695mm        14.3mm      28.345mm  B         90.00 1uF            
+C22_b1     0402                 12.475mm      8.8533mm      12.475mm      8.8533mm      12.475mm      8.3533mm  B         90.00 Cap Semi       
+C22_b2     0402                 12.425mm     21.0533mm      12.425mm     21.0533mm      12.425mm     20.5533mm  B         90.00 Cap Semi       
+C22_b3     0402                   12.4mm     33.9783mm        12.4mm     33.9783mm        12.4mm     33.4783mm  B         90.00 Cap Semi       
+C23_b1     0402                22.8942mm        8.47mm     22.8942mm        8.47mm     22.8942mm        7.97mm  B         90.00 Cap Semi       
+C23_b2     0402                22.8442mm       20.77mm     22.8442mm       20.77mm     22.8442mm       20.27mm  B         90.00 Cap Semi       
+C23_b3     0402                22.8192mm      33.545mm     22.8192mm      33.545mm     22.8192mm      33.045mm  B         90.00 Cap Semi       
+C24_b1     0402                 12.475mm      6.3117mm      12.475mm      6.3117mm      12.475mm      5.8117mm  B         90.00 Cap Semi       
+C24_b2     0402                 12.425mm     18.6117mm      12.425mm     18.6117mm      12.425mm     18.1117mm  B         90.00 Cap Semi       
+C24_b3     0402                   12.4mm     31.3867mm        12.4mm     31.3867mm        12.4mm     30.8867mm  B         90.00 Cap Semi       
+C25_b1     0402                 12.475mm        3.72mm      12.475mm        3.72mm      12.475mm        3.22mm  B         90.00 Cap Semi       
+C25_b2     0402                 12.425mm       16.02mm      12.425mm       16.02mm      12.425mm       15.52mm  B         90.00 Cap Semi       
+C25_b3     0402                   12.4mm      28.795mm        12.4mm      28.795mm        12.4mm      28.295mm  B         90.00 Cap Semi       
+C26_b1     0402                 23.325mm      12.645mm      23.325mm      12.645mm      22.825mm      12.645mm  B        360.00 Cap Semi       
+C26_b2     0402                 23.275mm      24.945mm      23.275mm      24.945mm      22.775mm      24.945mm  B        360.00 Cap Semi       
+C26_b3     0402                  23.25mm       37.72mm       23.25mm       37.72mm       22.75mm       37.72mm  B        360.00 Cap Semi       
+C27_b1     0402                22.8942mm       6.045mm     22.8942mm       6.045mm     22.8942mm       5.545mm  B         90.00 Cap Semi       
+C27_b2     0402                22.7942mm      18.345mm     22.7942mm      18.345mm     22.7942mm      17.845mm  B         90.00 Cap Semi       
+C27_b3     0402                22.7692mm       31.12mm     22.7692mm       31.12mm     22.7692mm       30.62mm  B         90.00 Cap Semi       
+C28        0402                 59.225mm       22.87mm      59.225mm       22.87mm      59.725mm       22.87mm  B        180.00 Cap Semi       
+C29_b1     0402                35.8942mm        3.62mm     35.8942mm        3.62mm     35.8942mm        3.12mm  B         90.00 Cap Semi       
+C29_b3     0402                35.8192mm      28.695mm     35.8192mm      28.695mm     35.8192mm      28.195mm  B         90.00 Cap Semi       
+C30_b1     0402                24.8058mm        3.63mm     24.8058mm        3.63mm     24.8058mm        3.13mm  B        270.00 Cap Semi       
+C30_b3     0402                24.7308mm      28.705mm     24.7308mm      28.705mm     24.7308mm      28.205mm  B        270.00 Cap Semi       
+D1_b1      TO-227A(smpc)       31.6442mm        8.57mm     31.6442mm       9.495mm     32.6842mm       6.745mm  B        180.00 SS8P6C         
+D1_b2      TO-227A(smpc)       31.5942mm       20.87mm     31.5942mm      21.795mm     32.6342mm      19.045mm  B        180.00 SS8P6C         
+D1_b3      TO-227A(smpc)       31.5692mm      33.645mm     31.5692mm       34.57mm     32.6092mm       31.82mm  B        180.00 SS8P6C         
+D2         0603                  61.85mm      32.745mm       61.85mm      32.745mm        62.7mm      32.745mm  B        180.00 D Zener 39V    
+D4_b1      0603                46.0692mm       11.32mm     46.0692mm       11.32mm     46.0692mm       12.17mm  B        270.00 D Zener 39V    
+D4_b2      0603                46.0192mm       23.62mm     46.0192mm       23.62mm     46.0192mm       24.47mm  B        270.00 D Zener 39V    
+D4_b3      0603                45.9942mm      36.395mm     45.9942mm      36.395mm     45.9942mm      37.245mm  B        270.00 D Zener 39V    
+D5_b1      0603                19.1942mm       11.02mm     19.1942mm       11.02mm     19.1942mm       11.87mm  B        270.00 D Zener 39V    
+D5_b2      0603                19.1442mm       23.32mm     19.1442mm       23.32mm     19.1442mm       24.17mm  B        270.00 D Zener 39V    
+D5_b3      0603                19.1192mm      36.095mm     19.1192mm      36.095mm     19.1192mm      36.945mm  B        270.00 D Zener 39V    
+I1_b1      3800-series         40.2697mm        7.87mm     40.2697mm        7.67mm     37.5197mm        3.57mm  T        360.00 38L432C        
+I1_b2      3800-series         40.2197mm       20.17mm     40.2197mm       19.97mm     37.4697mm       15.87mm  T        360.00 38L432C        
+I1_b3      3800-series         40.1947mm      32.945mm     40.1947mm      32.745mm     37.4447mm      28.645mm  T        360.00 38L432C        
+I2_b1      3800-series         23.2197mm        7.37mm     23.2197mm        7.57mm     25.9697mm       11.67mm  T        180.00 38L432C        
+I2_b2      3800-series         23.1697mm       19.67mm     23.1697mm       19.87mm     25.9197mm       23.97mm  T        180.00 38L432C        
+I2_b3      3800-series         23.1447mm      32.445mm     23.1447mm      32.645mm     25.8947mm      36.745mm  T        180.00 38L432C        
+R4_b1      0402                 50.875mm        3.72mm      50.875mm        3.72mm      50.875mm        4.22mm  B        270.00 Res3           
+R4_b2      0402                 50.825mm       16.02mm      50.825mm       16.02mm      50.825mm       16.52mm  B        270.00 Res3           
+R4_b3      0402                   50.8mm      28.795mm        50.8mm      28.795mm        50.8mm      29.295mm  B        270.00 Res3           
+R5_b1      0402                21.0335mm       3.645mm     21.0335mm       3.645mm     21.0335mm       4.145mm  B        270.00 Res3           
+R5_b2      0402                20.9835mm      15.945mm     20.9835mm      15.945mm     20.9835mm      16.445mm  B        270.00 Res3           
+R5_b3      0402                20.9585mm       28.72mm     20.9585mm       28.72mm     20.9585mm       29.22mm  B        270.00 Res3           
+R6_b1      0402                22.3049mm       3.645mm     22.3049mm       3.645mm     22.3049mm       3.145mm  B         90.00 Res3           
+R6_b2      0402                22.2549mm      15.945mm     22.2549mm      15.945mm     22.2549mm      15.445mm  B         90.00 Res3           
+R6_b3      0402                22.2299mm       28.72mm     22.2299mm       28.72mm     22.2299mm       28.22mm  B         90.00 Res3           
+R7_b1      0402                   45.8mm       7.845mm        45.8mm       7.845mm        45.8mm       8.345mm  B        270.00 Res3           
+R7_b2      0402                  45.75mm      20.145mm       45.75mm      20.145mm       45.75mm      20.645mm  B        270.00 Res3           
+R7_b3      0402                 45.725mm       32.92mm      45.725mm       32.92mm      45.725mm       33.42mm  B        270.00 Res3           
+R9_b1      0402                36.9942mm        3.62mm     36.9942mm        3.62mm     36.9942mm        3.12mm  B         90.00 Res3           
+R9_b3      0402                36.9192mm      28.695mm     36.9192mm      28.695mm     36.9192mm      28.195mm  B         90.00 Res3           
+R10_b1     0402                44.2192mm        3.62mm     44.2192mm        3.62mm     44.2192mm        4.12mm  B        270.00 Res3           
+R10_b2     0402                44.1692mm       15.92mm     44.1692mm       15.92mm     44.1692mm       16.42mm  B        270.00 Res3           
+R10_b3     0402                44.1442mm      28.695mm     44.1442mm      28.695mm     44.1442mm      29.195mm  B        270.00 Res3           
+R11_b1     0402                  41.17mm     10.4451mm       41.17mm     10.4451mm       40.67mm     10.4451mm  B        360.00 Res3           
+R11_b2     0402                  41.12mm     22.7451mm       41.12mm     22.7451mm       40.62mm     22.7451mm  B        360.00 Res3           
+R11_b3     0402                   41.1mm        35.5mm        41.1mm        35.5mm        40.6mm        35.5mm  B        360.00 Res3           
+R12_b1     0402                40.5871mm        3.62mm     40.5871mm        3.62mm     40.5871mm        3.12mm  B         90.00 Res3           
+R12_b2     0402                40.5371mm       15.92mm     40.5371mm       15.92mm     40.5371mm       15.42mm  B         90.00 Res3           
+R12_b3     0402                40.5121mm      28.695mm     40.5121mm      28.695mm     40.5121mm      28.195mm  B         90.00 Res3           
+R13_b2     0402                  42.05mm       17.45mm       42.05mm       17.45mm       41.55mm       17.45mm  B        360.00 Res3           
+R13_b3     0402                 42.025mm      30.225mm      42.025mm      30.225mm      41.525mm      30.225mm  B        360.00 Res3           
+R14_b1     0402                41.8478mm        3.62mm     41.8478mm        3.62mm     41.8478mm        3.12mm  B         90.00 Res3           
+R14_b2     0402                41.7978mm       15.92mm     41.7978mm       15.92mm     41.7978mm       15.42mm  B         90.00 Res3           
+R14_b3     0402                41.7728mm      28.695mm     41.7728mm      28.695mm     41.7728mm      28.195mm  B         90.00 Res3           
+R15_b1     0402                39.3514mm        3.62mm     39.3514mm        3.62mm     39.3514mm        4.12mm  B        270.00 Res3           
+R15_b2     0402                39.3014mm       15.92mm     39.3014mm       15.92mm     39.3014mm       16.42mm  B        270.00 Res3           
+R15_b3     0402                39.2764mm      28.695mm     39.2764mm      28.695mm     39.2764mm      29.195mm  B        270.00 Res3           
+R16_b1     0402                18.5157mm       3.645mm     18.5157mm       3.645mm     18.5157mm       4.145mm  B        270.00 Res3           
+R16_b2     0402                18.4657mm      15.945mm     18.4657mm      15.945mm     18.4657mm      16.445mm  B        270.00 Res3           
+R16_b3     0402                18.4407mm       28.72mm     18.4407mm       28.72mm     18.4407mm       29.22mm  B        270.00 Res3           
+R17_b1     0402                21.5942mm       6.045mm     21.5942mm       6.045mm     21.5942mm       6.545mm  B        270.00 Res3           
+R17_b2     0402                21.5442mm      18.345mm     21.5442mm      18.345mm     21.5442mm      18.845mm  B        270.00 Res3           
+R17_b3     0402                21.5192mm       31.12mm     21.5192mm       31.12mm     21.5192mm       31.62mm  B        270.00 Res3           
+R20_b1     0402                17.4192mm       8.095mm     17.4192mm       8.095mm     17.4192mm       8.595mm  B        270.00 Res3           
+R20_b2     0402                17.3692mm      20.395mm     17.3692mm      20.395mm     17.3692mm      20.895mm  B        270.00 Res3           
+R20_b3     0402                17.3442mm       33.17mm     17.3442mm       33.17mm     17.3442mm       33.67mm  B        270.00 Res3           
+R22_b1     0402                 12.475mm      11.595mm      12.475mm      11.595mm      12.475mm      11.095mm  B         90.00 Res3           
+R22_b2     0402                 12.425mm      23.695mm      12.425mm      23.695mm      12.425mm      23.195mm  B         90.00 Res3           
+R22_b3     0402                   12.4mm       36.57mm        12.4mm       36.57mm        12.4mm       36.07mm  B         90.00 Res3           
+R23_b1     0402                25.9308mm        3.63mm     25.9308mm        3.63mm     25.9308mm        3.13mm  B        270.00 Res3           
+R23_b2     0402                25.8808mm       15.93mm     25.8808mm       15.93mm     25.8808mm       15.43mm  B        270.00 Res3           
+R23_b3     0402                25.8558mm      28.705mm     25.8558mm      28.705mm     25.8558mm      28.205mm  B        270.00 Res3           
+R24_b1     0402                22.8942mm      10.895mm     22.8942mm      10.895mm     22.8942mm      10.395mm  B         90.00 Res3           
+R24_b2     0402                22.7192mm      23.195mm     22.7192mm      23.195mm     22.7192mm      22.695mm  B         90.00 Res3           
+R24_b3     0402                22.6692mm       35.97mm     22.6692mm       35.97mm     22.6692mm       35.47mm  B         90.00 Res3           
+R25_b1     0402                 23.975mm        8.45mm      23.975mm        8.45mm      23.975mm        7.95mm  B         90.00 Res3           
+R25_b2     0402                 23.925mm       20.75mm      23.925mm       20.75mm      23.925mm       20.25mm  B         90.00 Res3           
+R25_b3     0402                   23.9mm      33.525mm        23.9mm      33.525mm        23.9mm      33.025mm  B         90.00 Res3           
+R26_b1     0402                23.9692mm      10.895mm     23.9692mm      10.895mm     23.9692mm      10.395mm  B         90.00 Res3           
+R26_b2     0402                23.9442mm      23.195mm     23.9442mm      23.195mm     23.9442mm      22.695mm  B         90.00 Res3           
+R26_b3     0402                23.8942mm       35.97mm     23.8942mm       35.97mm     23.8942mm       35.47mm  B         90.00 Res3           
+R27_b1     0402                23.9692mm       6.045mm     23.9692mm       6.045mm     23.9692mm       5.545mm  B         90.00 Res3           
+R27_b2     0402                23.9692mm      18.345mm     23.9692mm      18.345mm     23.9692mm      17.845mm  B         90.00 Res3           
+R27_b3     0402                23.8942mm       31.12mm     23.8942mm       31.12mm     23.8942mm       30.62mm  B         90.00 Res3           
+U1_b1      power33              37.075mm       7.545mm      37.075mm       7.545mm        36.1mm        9.07mm  B        270.00 FDMC86102L     
+U1_b2      power33              37.025mm      19.845mm      37.025mm      19.845mm       36.05mm       21.37mm  B        270.00 FDMC86102L     
+U1_b3      power33                  37mm       32.62mm          37mm       32.62mm      36.025mm      34.145mm  B        270.00 FDMC86102L     
+U2_b1      MSOP-8              48.4134mm       5.195mm     48.4134mm       5.195mm     47.4385mm       7.195mm  B        270.00 AD8418WBRMZ    
+U2_b2      MSOP-8              48.3635mm      17.495mm     48.3635mm      17.495mm     47.3884mm      19.495mm  B        270.00 AD8418WBRMZ    
+U2_b3      MSOP-8              48.3385mm       30.27mm     48.3385mm       30.27mm     47.3635mm       32.27mm  B        270.00 AD8418WBRMZ    
+U3_b1      power33              26.475mm        8.57mm      26.475mm        8.57mm       27.45mm       7.045mm  B         90.00 FDMC86102L     
+U3_b2      power33              26.425mm       20.87mm      26.425mm       20.87mm        27.4mm      19.345mm  B         90.00 FDMC86102L     
+U3_b3      power33                26.4mm      33.645mm        26.4mm      33.645mm      27.375mm       32.12mm  B         90.00 FDMC86102L     
+U5_b1      DFN8-2X3            19.4942mm        7.12mm     19.4942mm        7.12mm     20.1692mm        5.62mm  B         90.00 LT3062MP       
+U5_b2      DFN8-2X3            19.4442mm       19.42mm     19.4442mm       19.42mm     20.1192mm       17.92mm  B         90.00 LT3062MP       
+U5_b3      DFN8-2X3            19.4192mm      32.195mm     19.4192mm      32.195mm     20.0942mm      30.695mm  B         90.00 LT3062MP       
+U16        TSOT23-8              3.425mm       30.17mm       3.425mm       30.17mm       2.115mm      31.145mm  T        360.00 LTC2633        
+U7_b1      DFN8-3x3              42.15mm         7.7mm       42.15mm         7.7mm      43.125mm         6.2mm  B         90.00 UCC27526       
+U7_b2      DFN8-3x3               42.1mm          20mm        42.1mm          20mm      43.075mm        18.5mm  B         90.00 UCC27526       
+U7_b3      DFN8-3x3             42.075mm       32.75mm      42.075mm       32.75mm       43.05mm       31.25mm  B         90.00 UCC27526       
+U8_b1      MSOP-8                   15mm       9.845mm          15mm       9.845mm      15.975mm       7.845mm  B         90.00 AD8418WBRMZ    
+U8_b2      MSOP-8                14.95mm      22.145mm       14.95mm      22.145mm      15.925mm      20.145mm  B         90.00 AD8418WBRMZ    
+U8_b3      MSOP-8               14.925mm       34.92mm      14.925mm       34.92mm        15.9mm       32.92mm  B         90.00 AD8418WBRMZ    
+U9         MSOP-16              59.625mm     26.9075mm      59.625mm      26.895mm      61.375mm       24.72mm  B         90.00 LTC6909        
+P4         51281-1894           12.275mm        3.77mm       8.025mm        4.87mm       8.025mm        4.87mm  T        360.00 FPC-51281-1894 
+R28        0402                   16.3mm        6.32mm        16.3mm        6.32mm        15.8mm        6.32mm  T        360.00 Res3           
+C32        C1206                    53mm       12.17mm          53mm       12.17mm          53mm       10.82mm  B         90.00 Cap Semi       
+C33        0402                  61.95mm        8.27mm       61.95mm        8.27mm       61.45mm        8.27mm  B        360.00 Cap Semi       
+C34        0402                 16.225mm       20.82mm      16.225mm       20.82mm      15.725mm       20.82mm  T        360.00 Cap Semi       
+C35        0402                 16.225mm       25.02mm      16.225mm       25.02mm      16.725mm       25.02mm  T        180.00 Cap Semi       
+C36        0402                  8.925mm        27.5mm       8.925mm        27.5mm       8.925mm          28mm  T        270.00 Cap Semi       
+C37        0402                  7.925mm      27.495mm       7.925mm      27.495mm       7.925mm      27.995mm  T        270.00 Cap Semi       
+C38        1608[0603]             15.5mm      16.295mm        15.5mm      16.295mm        15.5mm      15.595mm  T         90.00 Cap Semi       
+C39        0402                 16.225mm       19.67mm      16.225mm       19.67mm      16.725mm       19.67mm  T        180.00 Cap Semi       
+C40        0402                  1.875mm       22.77mm       1.875mm       22.77mm       1.875mm       22.27mm  T         90.00 Cap Semi       
+C41        0402                  1.875mm      17.545mm       1.875mm      17.545mm       1.875mm      17.045mm  T         90.00 Cap Semi       
+C42        0402                   1.88mm         9.9mm        1.88mm         9.9mm        1.88mm         9.4mm  T         90.00 Cap Semi       
+C43        0402                  10.25mm       13.42mm       10.25mm       13.42mm       10.75mm       13.42mm  T        180.00 Cap Semi       
+C44        0402                  6.675mm       13.67mm       6.675mm       13.67mm       6.175mm       13.67mm  T        360.00 Cap Semi       
+C45        0402                  1.875mm       14.97mm       1.875mm       14.97mm       1.875mm       15.47mm  T        270.00 Cap Semi       
+R29        0402                  1.875mm      20.095mm       1.875mm      20.095mm       1.875mm      19.595mm  T         90.00 Res3           
+R30        0402                  3.105mm         9.9mm       3.105mm         9.9mm       3.105mm        10.4mm  T        270.00 Res3           
+R31        0402                  1.875mm      12.145mm       1.875mm      12.145mm       1.875mm      12.645mm  T        270.00 Res3           
+R32        0402                    3.1mm       14.97mm         3.1mm       14.97mm         3.1mm       14.47mm  T         90.00 Res3           
+R33        0402                   60.7mm       20.47mm        60.7mm       20.47mm        60.7mm       19.97mm  B         90.00 Res3           
+R35        0402                   61.8mm       20.47mm        61.8mm       20.47mm        61.8mm       19.97mm  B         90.00 Res3           
+R36        0402                  61.95mm        9.27mm       61.95mm        9.27mm       62.45mm        9.27mm  B        180.00 Res3           
+R37        0402                   62.9mm       20.47mm        62.9mm       20.47mm        62.9mm       20.97mm  B        270.00 Res3           
+R40        0402                  9.025mm      29.995mm       9.025mm      29.995mm       9.025mm      29.495mm  T         90.00 Res3           
+R41        0402                  7.925mm      29.995mm       7.925mm      29.995mm       7.925mm      29.495mm  T         90.00 Res3           
+R44        0402                    3.1mm      12.395mm         3.1mm      12.395mm         3.1mm      11.895mm  T         90.00 Res3           
+U12        SOIC127P600X175-14N        59.6mm       14.57mm        59.6mm       14.57mm          57mm       10.76mm  B          0.00 FM33256B-G     
+U13        QFN-64                8.925mm      19.945mm       8.925mm      19.945mm       5.175mm      15.445mm  T         90.00 AT32UC3C2512C-Z2UR
+U14        DFN8-3x3-0.5p         6.225mm      11.595mm       6.225mm      11.595mm       7.725mm      10.845mm  T        180.00 LTC2875        
+Y1         XTAL_CC7V-T1A          57.9mm       20.47mm        57.9mm       20.47mm       59.15mm       20.47mm  B        180.00 32.768 kHz     
+C46        C1206                    53mm      16.645mm          53mm      16.645mm          53mm      17.995mm  B        270.00 Cap Semi       
+C56        0402                 53.275mm       22.63mm      53.275mm       22.63mm      52.775mm       22.63mm  B        360.00 Cap Semi       
+X3         FA-20H               16.225mm       22.92mm      16.225mm       22.92mm      16.925mm       22.07mm  T         90.00 Q24FA20H00044  
+C57        0402                  10.25mm       12.27mm       10.25mm       12.27mm       10.75mm       12.27mm  T        180.00 Cap Semi       
+L1         0402                  10.25mm       11.12mm       10.25mm       11.12mm        9.75mm       11.12mm  T        360.00 Inductor       
+D7         0603                  8.525mm      32.295mm       8.525mm      32.295mm       7.675mm      32.295mm  T        360.00 LED3           
+R18        0402                   5.15mm      20.795mm        5.15mm      20.795mm        4.65mm      20.795mm  B        360.00 Res3           
+R38        0402                  7.075mm      20.795mm       7.075mm      20.795mm       6.575mm      20.795mm  B        360.00 Res3           
+U19        SOT23-6                  54mm       24.92mm          54mm       24.92mm       55.35mm       25.87mm  B        180.00 LM73CIMK-0/NOPB
+C65_b1     0402                   27.2mm       3.625mm        27.2mm       3.625mm        27.2mm       3.125mm  B         90.00 Cap Semi       
+C65_b2     0402                  27.15mm      15.925mm       27.15mm      15.925mm       27.15mm      15.425mm  B         90.00 Cap Semi       
+C65_b3     0402                 27.125mm        28.7mm      27.125mm        28.7mm      27.125mm        28.2mm  B         90.00 Cap Semi       
+U20_b1     MSOP-8               31.675mm         3.8mm      31.675mm         3.8mm      33.675mm       4.775mm  B        180.00 LMV762Q        
+U20_b2     MSOP-8               31.625mm        16.1mm      31.625mm        16.1mm      33.625mm      17.075mm  B        180.00 LMV762Q        
+U20_b3     MSOP-8                 31.6mm      28.875mm        31.6mm      28.875mm        33.6mm       29.85mm  B        180.00 LMV762Q        
+C7_b2      0402                  44.05mm       17.45mm       44.05mm       17.45mm       44.55mm       17.45mm  B        180.00 Cap Semi       
+C6_b2      0402                 38.605mm     22.7192mm      38.605mm     22.7192mm      39.105mm     22.7192mm  B        180.00 Cap Semi       
+C7_b1      0402                   44.1mm        5.15mm        44.1mm        5.15mm        44.6mm        5.15mm  B        180.00 Cap Semi       
+R13_b1     0402                   42.1mm        5.15mm        42.1mm        5.15mm        41.6mm        5.15mm  B        360.00 Res3           
+C29_b2     0402                35.8442mm       15.92mm     35.8442mm       15.92mm     35.8442mm       15.42mm  B         90.00 Cap Semi       
+R9_b2      0402                36.9442mm       15.92mm     36.9442mm       15.92mm     36.9442mm       15.42mm  B         90.00 Res3           
+C30_b2     0402                24.7558mm       15.93mm     24.7558mm       15.93mm     24.7558mm       15.43mm  B        270.00 Cap Semi       
+
