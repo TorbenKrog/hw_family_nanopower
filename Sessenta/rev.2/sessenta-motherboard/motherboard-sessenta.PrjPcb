@@ -306,7 +306,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KCXHPTFY
 
 [Document17]
 DocumentPath=..\..\..\..\library\altium\Libraries\GomSpace Module Footprints.PcbLib
@@ -340,7 +340,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CKLRWNAP
 
 [Document19]
 DocumentPath=..\..\..\..\library\altium\sessentas.SchLib
