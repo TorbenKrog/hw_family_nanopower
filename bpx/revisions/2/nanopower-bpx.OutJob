@@ -39,7 +39,7 @@ OutputMedium6=BOM Variant
 OutputMedium6_Type=GeneratedFiles
 OutputMedium7=3D_view
 OutputMedium7_Type=Publish
-OutputMedium8=Gerber/Drill
+OutputMedium8=Gerber
 OutputMedium8_Type=GeneratedFiles
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -58,31 +58,19 @@ OutputEnabled1_OutputMedium8=0
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=7972441|PrintAreaLowerLeftCornerY=6881890|PrintAreaUpperRightCornerX=29763780|PrintAreaUpperRightCornerY=28633858|Record=PcbPrintView
+Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=14277559|PrintAreaLowerLeftCornerY=31614173|PrintAreaUpperRightCornerX=45639764|PrintAreaUpperRightCornerY=47629921|Record=PcbPrintView
 Configuration1_Name2=OutputConfigurationParameter2
 Configuration1_Item2=IncludeBottomLayerComponents=False|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
 Configuration1_Name3=OutputConfigurationParameter3
 Configuration1_Item3=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Draft|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopLayer|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration1_Name4=OutputConfigurationParameter4
-Configuration1_Item4=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopOverlay|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Item4=CArc=Draft|CFill=Draft|Comment=Hidden|Coordinate=Hidden|CPad=Draft|CRegion=Draft|CText=Draft|CTrack=Draft|CVia=Draft|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopOverlay|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration1_Name5=OutputConfigurationParameter5
 Configuration1_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration1_Name6=OutputConfigurationParameter6
-Configuration1_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical10|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration1_Name7=OutputConfigurationParameter7
 Configuration1_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
-Configuration1_Name8=OutputConfigurationParameter8
-Configuration1_Item8=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=False|IncludeViewports=True|Index=1|Mirror=True|Name=Bottom LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
-Configuration1_Name9=OutputConfigurationParameter9
-Configuration1_Item9=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Draft|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=BottomLayer|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer
-Configuration1_Name10=OutputConfigurationParameter10
-Configuration1_Item10=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=BottomOverlay|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer
-Configuration1_Name11=OutputConfigurationParameter11
-Configuration1_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
-Configuration1_Name12=OutputConfigurationParameter12
-Configuration1_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
-Configuration1_Name13=OutputConfigurationParameter13
-Configuration1_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
 PcbPrintPreferences1=
 OutputType2=Schematic Print
 OutputName2=Schematic Prints
@@ -141,7 +129,7 @@ Configuration4_Item1=CaptionAsName
 Configuration4_Name2=Filter
 Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration4_Name3=General
-Configuration4_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=..\..\..\..\..\Gomspace_BOM.xlt|BatchMode=5|FormWidth=1420|FormHeight=753|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=True|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=C:\Users\tim\Documents\Gomspace_BOM.xlt|BatchMode=5|FormWidth=1420|FormHeight=897|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration4_Name4=GroupOrder
 Configuration4_Item4=Comment=True|Footprint=True
 Configuration4_Name5=OutputConfigurationParameter1
@@ -149,11 +137,11 @@ Configuration4_Item5=?
 Configuration4_Name6=SortOrder
 Configuration4_Item6=Designator=Up|Comment=Up|Footprint=Up
 Configuration4_Name7=VisibleOrder
-Configuration4_Item7=LibRef=81|Designator=111|Value=88|Description=89|Manufacturer=60|Manufacturer number=35|Quantity=35|Hight=35|Supplier 1=35|Supplier Stock 1=35|Supplier 2=35|Supplier Stock 2=35|Comment=159|Footprint=159|Stock=159
+Configuration4_Item7=LibRef=92|Designator=112|Value=97|Description=97|Comment=145|Manufacturer=76|Manufacturer number=94|Quantity=33|Hight=46|Footprint=125|Supplier 1=64|Supplier Stock 1=35|Supplier 2=32|Supplier Stock 2=41|Stock=81
 OutputType5=BOM_PartType
 OutputName5=Bill of Materials Variant
 OutputCategory5=Report
-OutputDocumentPath5=nanopower-bpx-2.PcbDoc
+OutputDocumentPath5=
 OutputVariantName5=2S-3P-nanopower-bpx-2
 OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
@@ -171,7 +159,7 @@ Configuration5_Item1=CaptionAsName
 Configuration5_Name2=Filter
 Configuration5_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration5_Name3=General
-Configuration5_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=True|Database=True|DatabasePriority=True|IncludePCBData=True|IncludeVaultData=True|ShowExportOptions=True|TemplateFilename=..\..\..\..\..\Gomspace_BOM.xlt|BatchMode=5|FormWidth=1420|FormHeight=897|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration5_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=True|Database=True|DatabasePriority=True|IncludePCBData=False|IncludeVaultData=True|ShowExportOptions=True|TemplateFilename=C:\Users\tim\Documents\Gomspace_BOM.xlt|BatchMode=5|FormWidth=1420|FormHeight=897|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration5_Name4=GroupOrder
 Configuration5_Item4=Fitted=True|Comment=True|Footprint=True
 Configuration5_Name5=OutputConfigurationParameter1
@@ -179,7 +167,7 @@ Configuration5_Item5=??
 Configuration5_Name6=SortOrder
 Configuration5_Item6=Fitted=Up|Designator=Up|Comment=Up|Footprint=Up
 Configuration5_Name7=VisibleOrder
-Configuration5_Item7=Fitted=100|LibRef=100|Designator=100|Description=100|Quantity=100|Comment=100|Footprint=100|Hight=100|Manufacturer=100|Manufacturer number=100|Supplier 1=100|Value=100
+Configuration5_Item7=Fitted=100|LibRef=100|Designator=100|Description=100|Quantity=100|Comment=100|Footprint=100|Hight=100|Manufacturer=100|Manufacturer number=100|Supplier 1=100|Value=100|Supplier 2=100|Supplier 3=100|Supplier Stock 1=100|Supplier Stock 2=100|Supplier Stock 3=100
 OutputType6=PCB 3D Print
 OutputName6=PCB 3D Print TOP
 OutputCategory6=Documentation
@@ -219,7 +207,7 @@ Configuration7_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=21935432|View
 OutputType8=Gerber
 OutputName8=Gerber Files
 OutputCategory8=Fabrication
-OutputDocumentPath8=
+OutputDocumentPath8=nanopower-bpx-2.PcbDoc
 OutputVariantName8=
 OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
@@ -229,14 +217,14 @@ OutputEnabled8_OutputMedium4=0
 OutputEnabled8_OutputMedium5=0
 OutputEnabled8_OutputMedium6=0
 OutputEnabled8_OutputMedium7=0
-OutputEnabled8_OutputMedium8=2
+OutputEnabled8_OutputMedium8=3
 OutputDefault8=0
 Configuration8_Name1=OutputConfigurationParameter1
-Configuration8_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FileComment= |FileComment= |FileSubject=Autodetect|FileSubject=Autodetect|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|GerberX2Support=False|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|MirrorX2.Set= |MirrorX2GerberClass=False|NewFileNamesFormat=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973832~1,16777217~1,16777228~1,16777229~1,16777230~1,16777231~1,16777232~1,16777233~1,16777234~1,16777235~1,16777236~1,16777237~1,16842751~1,16973833~1,16908290~1,16908295~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlotX2.Set= |PlotX2GerberClass=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration8_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908298~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973832~1,16777217~1,16842754~1,16777218~1,16777219~1,16842753~1,16842751~1,16973833~1,16908290~1,16908298~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 OutputType9=NC Drill
 OutputName9=NC Drill Files
 OutputCategory9=Fabrication
-OutputDocumentPath9=
+OutputDocumentPath9=nanopower-bpx-2.PcbDoc
 OutputVariantName9=
 OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
@@ -246,14 +234,14 @@ OutputEnabled9_OutputMedium4=0
 OutputEnabled9_OutputMedium5=0
 OutputEnabled9_OutputMedium6=0
 OutputEnabled9_OutputMedium7=0
-OutputEnabled9_OutputMedium8=3
+OutputEnabled9_OutputMedium8=2
 OutputDefault9=0
 Configuration9_Name1=OutputConfigurationParameter1
 Configuration9_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
 OutputType10=ODB
 OutputName10=ODB++ Files
 OutputCategory10=Fabrication
-OutputDocumentPath10=
+OutputDocumentPath10=nanopower-bpx-2.PcbDoc
 OutputVariantName10=
 OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
@@ -263,14 +251,14 @@ OutputEnabled10_OutputMedium4=0
 OutputEnabled10_OutputMedium5=0
 OutputEnabled10_OutputMedium6=0
 OutputEnabled10_OutputMedium7=0
-OutputEnabled10_OutputMedium8=4
+OutputEnabled10_OutputMedium8=1
 OutputDefault10=0
 Configuration10_Name1=OutputConfigurationParameter1
-Configuration10_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Assembly Bot (Mechanical 14)=False|AddToAllPlots_Assembly Top (Mechanical 13)=False|AddToAllPlots_Bottom_courtyard_M16=False|AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 2=False|AddToAllPlots_Mechanical 3=False|AddToAllPlots_Mechanical 4=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|AddToAllPlots_Top_courtyard_M15=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=True|LayerClassesPlot.Set= |ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=58|Plot_V7_1=True|Plot_V7_1_name=Mechanical Layer 29|Plot_V7_2=True|Plot_V7_2_name=Mechanical Layer 17|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=True|PlotMechanical15Plot=True|PlotMechanical16Plot=True|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=True|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=True|PlotMidLayer12Plot=True|PlotMidLayer13Plot=True|PlotMidLayer14Plot=True|PlotMidLayer15Plot=True|PlotMidLayer16Plot=True|PlotMidLayer17Plot=True|PlotMidLayer18Plot=True|PlotMidLayer19Plot=True|PlotMidLayer1Plot=False|PlotMidLayer20Plot=True|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=False|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
+Configuration10_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=True|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 2=False|AddToAllPlots_Mechanical 3=False|AddToAllPlots_Mechanical 4=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=True|LayerClassesPlot.Set= |ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=66|Plot_V7_1=True|Plot_V7_1_name=Mechanical Layer 17|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=False|PlotBottomPastePlot=True|PlotBottomSolderPlot=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=True|PlotInternalPlane2Plot=True|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=True|PlotMechanical11Plot=True|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=False|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=True|PlotMechanical6Plot=True|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=False|PlotTopPastePlot=True|PlotTopSolderPlot=False|Record=ODBView
 OutputType11=Pick Place
 OutputName11=Generates pick and place files
 OutputCategory11=Assembly
-OutputDocumentPath11=
+OutputDocumentPath11=nanopower-bpx-2.PcbDoc
 OutputVariantName11=
 OutputEnabled11=0
 OutputEnabled11_OutputMedium1=0
@@ -280,7 +268,7 @@ OutputEnabled11_OutputMedium4=0
 OutputEnabled11_OutputMedium5=0
 OutputEnabled11_OutputMedium6=0
 OutputEnabled11_OutputMedium7=0
-OutputEnabled11_OutputMedium8=1
+OutputEnabled11_OutputMedium8=4
 OutputDefault11=0
 Configuration11_Name1=OutputConfigurationParameter1
 Configuration11_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False
@@ -293,7 +281,7 @@ OutputEnabled12=0
 OutputEnabled12_OutputMedium1=0
 OutputEnabled12_OutputMedium2=0
 OutputEnabled12_OutputMedium3=0
-OutputEnabled12_OutputMedium4=3
+OutputEnabled12_OutputMedium4=0
 OutputEnabled12_OutputMedium5=2
 OutputEnabled12_OutputMedium6=0
 OutputEnabled12_OutputMedium7=0
@@ -301,38 +289,26 @@ OutputEnabled12_OutputMedium8=0
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration12_Name1=OutputConfigurationParameter1
-Configuration12_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=7972441|PrintAreaLowerLeftCornerY=6881890|PrintAreaUpperRightCornerX=29763780|PrintAreaUpperRightCornerY=28633858|Record=PcbPrintView
+Configuration12_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=14222441|PrintAreaLowerLeftCornerY=31125984|PrintAreaUpperRightCornerX=45667323|PrintAreaUpperRightCornerY=47748031|Record=PcbPrintView
 Configuration12_Name2=OutputConfigurationParameter2
 Configuration12_Item2=IncludeBottomLayerComponents=False|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
 Configuration12_Name3=OutputConfigurationParameter3
 Configuration12_Item3=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Draft|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopLayer|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration12_Name4=OutputConfigurationParameter4
-Configuration12_Item4=CArc=Draft|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Draft|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopOverlay|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration12_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical10|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration12_Name5=OutputConfigurationParameter5
-Configuration12_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration12_Item5=CArc=Draft|CFill=Draft|Comment=Hidden|Coordinate=Hidden|CPad=Draft|CRegion=Draft|CText=Draft|CTrack=Draft|CVia=Draft|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopOverlay|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration12_Name6=OutputConfigurationParameter6
-Configuration12_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration12_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration12_Name7=OutputConfigurationParameter7
 Configuration12_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
-Configuration12_Name8=OutputConfigurationParameter8
-Configuration12_Item8=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=False|IncludeViewports=True|Index=1|Mirror=True|Name=Bottom LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
-Configuration12_Name9=OutputConfigurationParameter9
-Configuration12_Item9=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Draft|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=BottomLayer|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer
-Configuration12_Name10=OutputConfigurationParameter10
-Configuration12_Item10=CArc=Draft|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Draft|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=BottomOverlay|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer
-Configuration12_Name11=OutputConfigurationParameter11
-Configuration12_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
-Configuration12_Name12=OutputConfigurationParameter12
-Configuration12_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
-Configuration12_Name13=OutputConfigurationParameter13
-Configuration12_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
 PcbPrintPreferences12=
 
 [PublishSettings]
-OutputFilePath2=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project Outputs for FlexibleBattery4\
+OutputFilePath2=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project Outputs for FlexibleBattery4\Generate Files\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for FlexibleBattery4
-OutputPathMedia2=
+OutputBasePath2=Project_Outputs
+OutputPathMedia2=[Media Type]
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
@@ -381,7 +357,7 @@ WmvVideoCodecName3=Windows Media Video V7
 WmvQuality3=80
 OutputFilePath4=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project Outputs for FlexibleBattery4\
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for FlexibleBattery4
+OutputBasePath4=Project_Outputs
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -406,7 +382,7 @@ ShowComponentParameters4=1
 GlobalBookmarks4=0
 OutputFilePath5=C:\Users\tim\Documents\GitHub\Hardware\nanocam\revisions\7\Project Outputs for cam\
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for FlexibleBattery4
+OutputBasePath5=Project_Outputs
 OutputPathMedia5=
 OutputPathMediaValue5=
 OutputPathOutputer5=[Output Type]
@@ -428,9 +404,9 @@ MarkNetLabels5=1
 MarkPortsId5=1
 ShowComponentParameters5=1
 GlobalBookmarks5=0
-OutputFilePath6=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project Outputs for FlexibleBattery4\
+OutputFilePath6=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project_Outputs\
 ReleaseManaged6=1
-OutputBasePath6=Project Outputs for FlexibleBattery4
+OutputBasePath6=Project_Outputs
 OutputPathMedia6=
 OutputPathMediaValue6=
 OutputPathOutputer6=[Output Type]
@@ -443,7 +419,7 @@ OutputFileNameSpecial6=
 OpenOutput6=1
 OutputFilePath7=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project Outputs for FlexibleBattery4\NanoCam-c1u-7.PDF
 ReleaseManaged7=1
-OutputBasePath7=Project Outputs for FlexibleBattery4
+OutputBasePath7=Project_Outputs
 OutputPathMedia7=[Media Name]
 OutputPathMediaValue7=
 OutputPathOutputer7=[Output Type]
@@ -465,9 +441,9 @@ MarkNetLabels7=1
 MarkPortsId7=1
 ShowComponentParameters7=1
 GlobalBookmarks7=0
-OutputFilePath8=C:\Users\tim\Documents\GitHub\Hardware\nanocam\revisions\7\Project Outputs for nanocam-c1u-7\
+OutputFilePath8=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project_Outputs\
 ReleaseManaged8=1
-OutputBasePath8=Project Outputs for FlexibleBattery4
+OutputBasePath8=Project_Outputs
 OutputPathMedia8=
 OutputPathMediaValue8=
 OutputPathOutputer8=[Output Type]
@@ -480,7 +456,7 @@ OutputFileNameSpecial8=
 OpenOutput8=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project Outputs for FlexibleBattery4\
+RelativeOutputPath2=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project Outputs for FlexibleBattery4\Generate Files\
 OpenOutputs2=1
 AddToProject2=1
 TimestampFolder2=0
@@ -496,7 +472,7 @@ RelativeOutputPath4=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisio
 OpenOutputs4=1
 RelativeOutputPath5=C:\Users\tim\Documents\GitHub\Hardware\nanocam\revisions\7\Project Outputs for cam\
 OpenOutputs5=1
-RelativeOutputPath6=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project Outputs for FlexibleBattery4\
+RelativeOutputPath6=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project_Outputs\
 OpenOutputs6=1
 AddToProject6=1
 TimestampFolder6=0
@@ -508,7 +484,7 @@ OpenIPCOutput6=0
 EnableReload6=0
 RelativeOutputPath7=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project Outputs for FlexibleBattery4\NanoCam-c1u-7.PDF
 OpenOutputs7=1
-RelativeOutputPath8=C:\Users\tim\Documents\GitHub\Hardware\nanocam\revisions\7\Project Outputs for nanocam-c1u-7\
+RelativeOutputPath8=C:\Users\tim\Documents\GitHub\Hardware\nanopower\bpx\revisions\2\Project_Outputs\
 OpenOutputs8=1
 AddToProject8=1
 TimestampFolder8=0

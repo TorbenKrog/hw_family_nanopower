@@ -10,7 +10,7 @@ ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
 TimestampOutput=0
-SeparateFolders=0
+SeparateFolders=1
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for FlexibleBattery4
+OutputPath=Project_Outputs
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -148,19 +148,195 @@ VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for FlexibleBattery4\BOM\BOM_2S-3P-nanopower-bpx-2.xls
+DocumentPath=Project_Outputs\BOM\BOM_2S-3P-nanopower-bpx-2.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for FlexibleBattery4\BOM\BOM_No Variations_nanopower-bpx.xls
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for FlexibleBattery4\Design Rule Check - nanopower-bpx-2.html
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for FlexibleBattery4\BOM\nanopower-bpx-2.xls
+DocumentPath=Project_Outputs\Design Rule Check - nanopower-bpx-2.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\bottompaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\keepout\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\mechanical1\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\mechanical2\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\mechanical5\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\mechanical6\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\mechanical10\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\mechanical11\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\mechanical13\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\mechanical15\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\mechanical17\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\mid1\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\mid2\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\plane1\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\plane2\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project_Outputs\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project_Outputs\NC Drill\nanopower-bpx-2-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project_Outputs\NC Drill\nanopower-bpx-2-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project_Outputs\NC Drill\nanopower-bpx-2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project_Outputs\Gerber\nanopower-bpx-2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project_Outputs\Gerber\nanopower-bpx-2.G1
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project_Outputs\Gerber\nanopower-bpx-2.G2
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project_Outputs\Gerber\nanopower-bpx-2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project_Outputs\Gerber\nanopower-bpx-2.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project_Outputs\Gerber\nanopower-bpx-2.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project_Outputs\Gerber\nanopower-bpx-2.GM10
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project_Outputs\Gerber\nanopower-bpx-2.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project_Outputs\Gerber\nanopower-bpx-2.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project_Outputs\Gerber\nanopower-bpx-2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project_Outputs\Gerber\nanopower-bpx-2.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project_Outputs\NC Drill\nanopower-bpx-2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project_Outputs\Gerber\nanopower-bpx-2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project_Outputs\ODB\nanopower-bpx-2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project_Outputs\Gerber\nanopower-bpx-2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project_Outputs\Pick Place\Pick Place for nanopower-bpx-2.csv
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project_Outputs\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -213,7 +389,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for FlexibleBattery4
+OutputDir=Project_Outputs
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1769,13 +1945,13 @@ ComponentUpdate18=1
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID19=60000021
+ComponentDesignItemID19=60000023
 ComponentSymbolReference19=LM4040AIM3-2.5
 ComponentUpdate19=1
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
 ComponentLibraryIdentifier20=GomSpace_Database_Libs.DbLib/Inductors$
-ComponentDesignItemID20=30000000
+ComponentDesignItemID20=30000001
 ComponentSymbolReference20=inductor
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
@@ -1787,25 +1963,25 @@ ComponentUpdate21=1
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
 ComponentLibraryIdentifier22=GomSpace_Database_Libs.DbLib/Resistors$
-ComponentDesignItemID22=40000011
+ComponentDesignItemID22=40000014
 ComponentSymbolReference22=Res
 ComponentUpdate22=1
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
 ComponentLibraryIdentifier23=GomSpace_Database_Libs.DbLib/Resistors$
-ComponentDesignItemID23=40000014
+ComponentDesignItemID23=46030000
 ComponentSymbolReference23=Res
 ComponentUpdate23=1
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
 ComponentLibraryIdentifier24=GomSpace_Database_Libs.DbLib/Resistors$
-ComponentDesignItemID24=46030000
+ComponentDesignItemID24=46030010
 ComponentSymbolReference24=Res
 ComponentUpdate24=1
 ComponentIsDeviceSheet24=0
 ComponentLibIdentifierKind25=Library Name And Type
 ComponentLibraryIdentifier25=GomSpace_Database_Libs.DbLib/Resistors$
-ComponentDesignItemID25=46030010
+ComponentDesignItemID25=46030106
 ComponentSymbolReference25=Res
 ComponentUpdate25=1
 ComponentIsDeviceSheet25=0
@@ -1823,7 +1999,7 @@ ComponentUpdate27=1
 ComponentIsDeviceSheet27=0
 ComponentLibIdentifierKind28=Library Name And Type
 ComponentLibraryIdentifier28=GomSpace_Database_Libs.DbLib/Resistors$
-ComponentDesignItemID28=46030286
+ComponentDesignItemID28=46030298
 ComponentSymbolReference28=Res
 ComponentUpdate28=1
 ComponentIsDeviceSheet28=0
@@ -1835,22 +2011,34 @@ ComponentUpdate29=1
 ComponentIsDeviceSheet29=0
 ComponentLibIdentifierKind30=Library Name And Type
 ComponentLibraryIdentifier30=GomSpace_Database_Libs.DbLib/Resistors$
-ComponentDesignItemID30=46030394
+ComponentDesignItemID30=46030365
 ComponentSymbolReference30=Res
 ComponentUpdate30=1
 ComponentIsDeviceSheet30=0
 ComponentLibIdentifierKind31=Library Name And Type
 ComponentLibraryIdentifier31=GomSpace_Database_Libs.DbLib/Resistors$
-ComponentDesignItemID31=46030440
+ComponentDesignItemID31=46030394
 ComponentSymbolReference31=Res
 ComponentUpdate31=1
 ComponentIsDeviceSheet31=0
 ComponentLibIdentifierKind32=Library Name And Type
-ComponentLibraryIdentifier32=GomSpace_Database_Libs.DbLib/XTAL$
-ComponentDesignItemID32=90000000
-ComponentSymbolReference32=XTAL-CC7V-T1A
+ComponentLibraryIdentifier32=GomSpace_Database_Libs.DbLib/Resistors$
+ComponentDesignItemID32=46030440
+ComponentSymbolReference32=Res
 ComponentUpdate32=1
 ComponentIsDeviceSheet32=0
+ComponentLibIdentifierKind33=Library Name And Type
+ComponentLibraryIdentifier33=GomSpace_Database_Libs.DbLib/Resistors$
+ComponentDesignItemID33=46030500
+ComponentSymbolReference33=Res
+ComponentUpdate33=1
+ComponentIsDeviceSheet33=0
+ComponentLibIdentifierKind34=Library Name And Type
+ComponentLibraryIdentifier34=GomSpace_Database_Libs.DbLib/XTAL$
+ComponentDesignItemID34=90000000
+ComponentSymbolReference34=XTAL-CC7V-T1A
+ComponentUpdate34=1
+ComponentIsDeviceSheet34=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
