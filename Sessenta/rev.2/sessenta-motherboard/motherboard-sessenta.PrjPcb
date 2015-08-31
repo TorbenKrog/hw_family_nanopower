@@ -340,7 +340,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FSJUJBYE
 
 [Document19]
 DocumentPath=..\..\..\..\library\altium\atmel.SchLib
