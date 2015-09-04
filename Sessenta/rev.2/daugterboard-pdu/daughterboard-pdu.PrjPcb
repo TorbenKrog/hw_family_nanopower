@@ -269,319 +269,315 @@ Variation4=Designator=C29|UniqueId=\CNYFFEYK|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=.\FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-daughterboard-pdu.txt
+DocumentPath=FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-daughterboard-pdu.txt
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\eda\data
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.DRR
+DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.DRR
+DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.EXTREP
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.EXTREP
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G1
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G1
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G2
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G2
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G3
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G3
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G3
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G3
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G4
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G4
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G4
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G4
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G5
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G5
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G5
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G5
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G6
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G6
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G6
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G6
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G7
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G7
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G7
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G7
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.G8
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.G8
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.G8
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.G8
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GBL
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GBL
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GBP
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GBP
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GBS
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GBS
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GM4
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GM4
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GTL
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GTL
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GTP
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GTP
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.GTS
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.GTS
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.LDP
+DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.LDP
+DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.REP
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.REP
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.REP
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.REP
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=.\FabOutputs\ODB++ Files\daughterboard-pdu.REP
+DocumentPath=FabOutputs\ODB++ Files\daughterboard-pdu.REP
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=.\FabOutputs\Gerber Files - in\daughterboard-pdu.RUL
+DocumentPath=FabOutputs\Gerber Files - in\daughterboard-pdu.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=.\FabOutputs\Gerber Files - mm\daughterboard-pdu.RUL
+DocumentPath=FabOutputs\Gerber Files - mm\daughterboard-pdu.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.TX1
+DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.TX1
+DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.TX2
+DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.TX2
+DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=.\FabOutputs\NC Drill Files - in\daughterboard-pdu.TXT
+DocumentPath=FabOutputs\NC Drill Files - in\daughterboard-pdu.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\daughterboard-pdu.TXT
+DocumentPath=FabOutputs\NC Drill Files - mm\daughterboard-pdu.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for ax600\Design Rule Check - daughterboard-pdu.html
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid1\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid2\features
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid2\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid3\features
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid3\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid4\features
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid4\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid5\features
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid5\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid6\features
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid6\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid7\features
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid7\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid8\features
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid8\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\top\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
+DocumentPath=FabOutputs\ODB++ Files\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\matrix\matrix
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=FabOutputs\Pick and place files (Standard) - in\Pick Place for daughterboard-pdu.txt
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=.\FabOutputs\Pick and place files (Standard) - in\Pick Place for daughterboard-pdu.txt
+DocumentPath=FabOutputs\Pick and place files (Standard) - mm\Pick Place for daughterboard-pdu.txt
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=.\FabOutputs\Pick and place files (Standard) - mm\Pick Place for daughterboard-pdu.txt
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\profile
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\stephdr
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
-DItemRevisionGUID=
-
-[GeneratedDocument79]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -904,80 +900,80 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Ricoh Aficio MP C4500 PCL5c
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Final
-OutputName1=Final Artwork Prints
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
-OutputVariantName1=[No Variations]
+OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
+OutputType2=Test Points
+OutputName2=Test Point Report
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType3=Board Stack Report
-OutputName3=Report Board Stack
+OutputType3=ODB
+OutputName3=ODB++ Files
 OutputDocumentPath3=
-OutputVariantName3=
+OutputVariantName3=[No Variations]
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType4=IPC2581
-OutputName4=IPC-2581 Files
+Configuration3_Name1=OutputConfigurationParameter1
+Configuration3_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Assembly Bot (Mechanical 14)=False|AddToAllPlots_Assembly Top (Mechanical 13)=False|AddToAllPlots_Courtyard Bot (Mechanical 16)=False|AddToAllPlots_Courtyard Top (Mechanical 15)=False|AddToAllPlots_Dimension (Mechanical 2)=False|AddToAllPlots_FAB Drawing (Mechanical 3)=False|AddToAllPlots_Hard Gold Bot (Mechanical 8)=False|AddToAllPlots_Hard Gold Top (Mechanical 7)=False|AddToAllPlots_Logo and Text Bot (Mechanical 6)=False|AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 9=False|AddToAllPlots_Outline (Mechanical 4)=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=True|LayerClassesPlot.Set= |ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=False|PlotBottomPastePlot=True|PlotBottomSolderPlot=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=True|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=True|PlotMidLayer6Plot=True|PlotMidLayer7Plot=True|PlotMidLayer8Plot=True|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=False|PlotTopPastePlot=True|PlotTopSolderPlot=False|Record=ODBView
+OutputType4=Plane
+OutputName4=Power-Plane Prints
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=Gerber X2
-OutputName5=Gerber X2 Files
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType5=Mask
+OutputName5=Solder/Paste Mask Prints
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
 OutputType6=Drill
 OutputName6=Drill Drawing/Guides
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType7=Test Points
-OutputName7=Test Point Report
+OutputType7=CompositeDrill
+OutputName7=Composite Drill Drawing
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=NC Drill
-OutputName8=NC Drill Files
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType8=Final
+OutputName8=Final Artwork Prints
 OutputDocumentPath8=
-OutputVariantName8=
+OutputVariantName8=[No Variations]
 OutputDefault8=0
-Configuration8_Name1=OutputConfigurationParameter1
-Configuration8_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
-OutputType9=ODB
-OutputName9=ODB++ Files
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
-OutputVariantName9=[No Variations]
+OutputVariantName9=
 OutputDefault9=0
-Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Assembly Bot (Mechanical 14)=False|AddToAllPlots_Assembly Top (Mechanical 13)=False|AddToAllPlots_Courtyard Bot (Mechanical 16)=False|AddToAllPlots_Courtyard Top (Mechanical 15)=False|AddToAllPlots_Dimension (Mechanical 2)=False|AddToAllPlots_FAB Drawing (Mechanical 3)=False|AddToAllPlots_Hard Gold Bot (Mechanical 8)=False|AddToAllPlots_Hard Gold Top (Mechanical 7)=False|AddToAllPlots_Logo and Text Bot (Mechanical 6)=False|AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 9=False|AddToAllPlots_Outline (Mechanical 4)=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=True|LayerClassesPlot.Set= |ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=False|PlotBottomPastePlot=True|PlotBottomSolderPlot=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=True|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=True|PlotMidLayer6Plot=True|PlotMidLayer7Plot=True|PlotMidLayer8Plot=True|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=False|PlotTopPastePlot=True|PlotTopSolderPlot=False|Record=ODBView
-OutputType10=Mask
-OutputName10=Solder/Paste Mask Prints
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+OutputType11=IPC2581
+OutputName11=IPC-2581 Files
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
 Configuration12_Name1=OutputConfigurationParameter1
-Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FileComment= |FileComment= |FileSubject=Autodetect|FileSubject=Autodetect|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|GerberX2Support=False|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|MirrorX2.Set= |MirrorX2GerberClass=False|NewFileNamesFormat=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16777220~1,16777222~1,16777218~1,16777224~1,16777225~1,16777219~1,16777221~1,16777223~1,16842751~1,16908292~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlotX2.Set=gfkProfile,gfkNPTH,gfkPTH|PlotX2GerberClass=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FileComment= |FileComment= |FileSubject=Autodetect|FileSubject=Autodetect|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|GerberX2Support=False|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|MirrorX2.Set= |MirrorX2GerberClass=False|NewFileNamesFormat=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16777220~1,16777222~1,16777218~1,16777224~1,16777225~1,16777219~1,16777221~1,16777223~1,16842751~1,16908292~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlotX2.Set=gfkProfile,gfkNPTH,gfkPTH|PlotX2GerberClass=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
