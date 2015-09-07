@@ -241,7 +241,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=PP.SchDoc
+DocumentPath=PP-bat.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -358,6 +358,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document20]
+DocumentPath=PP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=17
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QNJAICRB
 
 [SearchPath1]
 Path=C:\Program Files (x86)\Altium Designer Summer 09\Library\*.*
