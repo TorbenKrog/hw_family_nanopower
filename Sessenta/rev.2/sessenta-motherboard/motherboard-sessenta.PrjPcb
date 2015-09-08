@@ -156,23 +156,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QLWPXTBL
 
 [Document8]
-DocumentPath=Sheet-BPx-BP4-interface.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MIDLROVS
-
-[Document9]
 DocumentPath=P.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,24 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NLDTWLUV
 
-[Document10]
-DocumentPath=Sheet_adc.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=14
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RJRVGHDW
-
-[Document11]
+[Document9]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DHOHEMNH
 
-[Document12]
+[Document10]
 DocumentPath=Fab.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=PP-bat.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IISVMHUK
 
-[Document14]
+[Document12]
 DocumentPath=..\..\..\..\library\altium\Libraries\eeproms.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=..\..\..\..\library\altium\Libraries\GomSpace Connector Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCXHPTFY
 
-[Document16]
+[Document14]
 DocumentPath=..\..\..\..\library\altium\Libraries\GomSpace Module Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=..\..\..\..\library\altium\Libraries\GomSpace Standard Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKLRWNAP
 
-[Document18]
+[Document16]
 DocumentPath=..\..\..\..\library\altium\sessentas.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSJUJBYE
 
-[Document19]
+[Document17]
 DocumentPath=..\..\..\..\library\altium\atmel.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document18]
 DocumentPath=PP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
