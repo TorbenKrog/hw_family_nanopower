@@ -1,15 +1,14 @@
-#Layer_Physical_Order=2
-#Layer_Color=16711680
+#Layer_Color=9474304
 #
 #Feature symbol names
 #
-$0 r60
+$0 r157.4803
 
 #
 #Feature attribute names
 #
 @0 .geometry
-@1 .pad_usage
+@1 .drill
 
 #
 #Feature attribute text strings

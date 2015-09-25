@@ -1,12 +1,12 @@
 Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
 
 P1         FPC-10POS-1MM    14856.693mil    2139.37mil  14856.693mil   1962.205mil  14856.693mil   1962.205mil  T         90.00 Header 10      
-S3         3G28-SEAM3        3297.244mil   1625.984mil   3356.299mil   3200.787mil   3297.244mil    818.898mil  T        270.00 3G28           
+S3         3G28-SEAM3        3297.244mil   1625.984mil   3356.299mil   3200.787mil   3297.244mil   2433.071mil  T        270.00 3G28           
 S2         3G30C-PLAIN      -6347.008mil  -4159.719mil   3218.504mil     51.181mil  -6347.008mil  -4159.719mil  T         90.00 3G28           
-S6         3G30C-PLAIN      -6347.008mil  -4159.719mil   8248.031mil   3200.787mil  -6347.008mil  -4159.719mil  T        270.00 3G28           
+S6         3G30C-PLAIN      -6347.008mil  -4159.719mil   8247.638mil   3200.787mil  -6347.008mil  -4159.719mil  T        270.00 3G28           
 S7         3G30C-PLAIN      -6347.008mil  -4159.719mil   9852.362mil   3200.787mil  -6347.008mil  -4159.719mil  T        270.00 3G28           
-S8         3G28-SEAM8       12828.346mil   2958.268mil  11456.693mil   3200.787mil  12828.346mil   2958.268mil  T        270.00 3G28           
-S1         3G28-SEAM1        1702.756mil   1625.984mil   1614.173mil     51.181mil   1702.756mil   3003.937mil  T         90.00 3G28           
-S5         3G28-SEAM5        6584.646mil   2029.527mil   6643.701mil   3200.787mil   6584.646mil   2433.071mil  T        270.00 3G28           
-S4         3G28-SEAM4        5869.291mil   1627.165mil   6525.591mil     51.181mil   5153.937mil    293.701mil  T         90.00 3G28           
+S1         3G28-SEAM1        1704.724mil   1624.803mil   1616.142mil         50mil   1704.724mil     246.85mil  T         90.00 3G28           
+S4         3G28-SEAM4        5881.496mil   1627.165mil   6537.795mil     51.181mil   5166.142mil    2960.63mil  T         90.00 3G28           
+S5         3G28-SEAM5         6589.37mil   2029.527mil   6648.425mil   3200.787mil    6589.37mil   2433.071mil  T        270.00 3G28           
+S8         3G28-SEAM8       12828.346mil   2958.661mil  11456.693mil   3201.181mil  12828.346mil   2958.661mil  T        270.00 3G28           
 
