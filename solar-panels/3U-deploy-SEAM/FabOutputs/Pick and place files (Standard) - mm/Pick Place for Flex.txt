@@ -1,12 +1,12 @@
 Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
 
-P1         FPC-10POS-1MM        377.36mm       54.34mm      377.36mm       49.84mm      377.36mm       49.84mm  T         90.00 Header 10      
-S3         3G28-SEAM3            83.75mm        41.3mm       85.25mm        81.3mm       83.75mm        61.8mm  T        270.00 3G28           
-S2         3G30C-PLAIN        -161.214mm   -105.6569mm       81.75mm         1.3mm    -161.214mm   -105.6569mm  T         90.00 3G28           
-S6         3G30C-PLAIN        -161.214mm   -105.6569mm      209.49mm        81.3mm    -161.214mm   -105.6569mm  T        270.00 3G28           
-S7         3G30C-PLAIN        -161.214mm   -105.6569mm      250.25mm        81.3mm    -161.214mm   -105.6569mm  T        270.00 3G28           
-S1         3G28-SEAM1             43.3mm       41.27mm       41.05mm        1.27mm        43.3mm        6.27mm  T         90.00 3G28           
-S4         3G28-SEAM4           149.39mm       41.33mm      166.06mm         1.3mm      131.22mm        75.2mm  T         90.00 3G28           
-S5         3G28-SEAM5           167.37mm       51.55mm      168.87mm        81.3mm      167.37mm        61.8mm  T        270.00 3G28           
 S8         3G28-SEAM8           325.84mm       75.15mm         291mm       81.31mm      325.84mm       75.15mm  T        270.00 3G28           
+S5         3G28-SEAM5           167.37mm       51.55mm      168.87mm        81.3mm      167.37mm        41.3mm  T        270.00 3G28           
+S4         3G28-SEAM4           149.39mm       41.33mm      166.06mm         1.3mm      131.22mm        7.46mm  T         90.00 3G28           
+S1         3G28-SEAM1             43.3mm       41.27mm       41.05mm        1.27mm        43.3mm       76.27mm  T         90.00 3G28           
+S7         3G30C-PLAIN        -161.214mm   -105.6569mm      250.25mm        81.3mm    -161.214mm   -105.6569mm  T        270.00 3G28           
+S6         3G30C-PLAIN        -161.214mm   -105.6569mm      209.49mm        81.3mm    -161.214mm   -105.6569mm  T        270.00 3G28           
+S2         3G30C-PLAIN        -161.214mm   -105.6569mm       81.75mm         1.3mm    -161.214mm   -105.6569mm  T         90.00 3G28           
+S3         3G28-SEAM3            83.75mm        41.3mm       85.25mm        81.3mm       83.75mm        20.8mm  T        270.00 3G28           
+P1         FPC-10POS-1MM        377.36mm       54.34mm      377.36mm       49.84mm      377.36mm       49.84mm  T         90.00 Header 10      
 

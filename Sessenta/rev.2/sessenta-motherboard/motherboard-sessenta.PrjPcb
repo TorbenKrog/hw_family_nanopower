@@ -28,6 +28,8 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=Project Outputs for motherboard
 LogFolderPath=
 ManagedProjectGUID=
@@ -343,327 +345,323 @@ GenerateClassCluster=0
 DocumentUniqueId=QNJAICRB
 
 [GeneratedDocument1]
-DocumentPath=.\FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-motherboard-sessenta.txt
+DocumentPath=FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-motherboard-sessenta.txt
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\eda\data
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for motherboard\Design Rule Check - mb-sessenta.html
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical5\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical5\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical6\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical6\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid1\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid2\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid2\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid3\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid3\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid4\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid4\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid5\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid5\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid6\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid6\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid7\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid7\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid8\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid8\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\top\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
+DocumentPath=FabOutputs\ODB++ Files\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\matrix\matrix
+DocumentPath=FabOutputs\NC Drill Files - in\mb-sessenta.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=.\FabOutputs\NC Drill Files - in\mb-sessenta.DRR
+DocumentPath=FabOutputs\NC Drill Files - mm\mb-sessenta.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\mb-sessenta.DRR
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.EXTREP
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.EXTREP
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G1
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G1
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G1
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G1
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G2
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G2
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G2
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G2
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G3
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G3
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G3
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G3
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G4
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G4
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G4
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G4
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G5
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G5
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G5
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G5
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G6
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G6
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G6
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G6
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G7
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G7
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G7
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G7
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.G8
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.G8
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.G8
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.G8
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GBL
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GBL
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GBP
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GBP
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GBS
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GBS
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GM4
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GM4
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GTL
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GTL
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GTP
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GTP
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.GTS
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.GTS
+DocumentPath=FabOutputs\NC Drill Files - in\mb-sessenta.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=.\FabOutputs\NC Drill Files - in\mb-sessenta.LDP
+DocumentPath=FabOutputs\NC Drill Files - mm\mb-sessenta.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\mb-sessenta.LDP
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.REP
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.REP
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.REP
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.REP
+DocumentPath=FabOutputs\ODB++ Files\mb-sessenta.REP
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=.\FabOutputs\ODB++ Files\mb-sessenta.REP
+DocumentPath=FabOutputs\Gerber Files - in\mb-sessenta.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=.\FabOutputs\Gerber Files - in\mb-sessenta.RUL
+DocumentPath=FabOutputs\Gerber Files - mm\mb-sessenta.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=.\FabOutputs\Gerber Files - mm\mb-sessenta.RUL
+DocumentPath=FabOutputs\NC Drill Files - in\mb-sessenta.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=.\FabOutputs\NC Drill Files - in\mb-sessenta.TX1
+DocumentPath=FabOutputs\NC Drill Files - mm\mb-sessenta.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\mb-sessenta.TX1
+DocumentPath=FabOutputs\NC Drill Files - in\mb-sessenta.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=.\FabOutputs\NC Drill Files - in\mb-sessenta.TX2
+DocumentPath=FabOutputs\NC Drill Files - mm\mb-sessenta.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\mb-sessenta.TX2
+DocumentPath=FabOutputs\NC Drill Files - in\mb-sessenta.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=.\FabOutputs\NC Drill Files - in\mb-sessenta.TXT
+DocumentPath=FabOutputs\NC Drill Files - mm\mb-sessenta.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=.\FabOutputs\NC Drill Files - mm\mb-sessenta.TXT
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=FabOutputs\Pick and place files (Standard) - in\Pick Place for mb-sessenta.txt
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=.\FabOutputs\Pick and place files (Standard) - in\Pick Place for mb-sessenta.txt
+DocumentPath=FabOutputs\Pick and place files (Standard) - mm\Pick Place for mb-sessenta.txt
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=.\FabOutputs\Pick and place files (Standard) - mm\Pick Place for mb-sessenta.txt
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\profile
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\stephdr
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
-DItemRevisionGUID=
-
-[GeneratedDocument81]
-DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -1429,6 +1427,16 @@ OutputName4=Export STEP
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
+OutputType5=NetList Sch
+OutputName5=NetList Sch
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=PDF3D
+OutputName6=Export PDF3D
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
 
 [Modification Levels]
 Type1=1
@@ -1666,6 +1674,7 @@ Type107=2
 Type108=2
 Type109=1
 Type110=0
+Type111=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1720,6 +1729,7 @@ NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
 SelectedOnly=0
