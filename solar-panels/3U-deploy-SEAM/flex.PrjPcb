@@ -141,187 +141,403 @@ GenerateClassCluster=0
 DocumentUniqueId=WRTBLNXI
 
 [GeneratedDocument1]
-DocumentPath=FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-flex.txt
+DocumentPath=.\FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-flex.txt
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-flex.txt
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\eda\data
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for flex\Design Rule Check - Flex.html
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottomsolder\features
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical3\features
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\top\features
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical3\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\topsolder\features
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=FabOutputs\NC Drill Files - in\Flex.DRR
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=FabOutputs\NC Drill Files - mm\Flex.DRR
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=FabOutputs\Gerber Files - in\Flex.EXTREP
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\topsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=FabOutputs\Gerber Files - mm\Flex.EXTREP
+DocumentPath=.\FabOutputs\ODB++ Files\odb\symbols\rect275.5906x59.0551xr14.7638_45\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=FabOutputs\Gerber Files - in\Flex.GBL
+DocumentPath=.\FabOutputs\ODB++ Files\odb\symbols\rect275.5906x59.0551xr14.7638_135\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=FabOutputs\Gerber Files - mm\Flex.GBL
+DocumentPath=.\FabOutputs\ODB++ Files\odb\symbols\rect275.5906x59.0551xr14.7638_225\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=FabOutputs\Gerber Files - in\Flex.GBP
+DocumentPath=.\FabOutputs\ODB++ Files\odb\symbols\rect307.0866x90.5511xr30.5118_45\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=FabOutputs\Gerber Files - mm\Flex.GBP
+DocumentPath=.\FabOutputs\ODB++ Files\odb\symbols\rect307.0866x90.5511xr30.5118_135\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=FabOutputs\Gerber Files - in\Flex.GBS
+DocumentPath=.\FabOutputs\ODB++ Files\odb\symbols\rect307.0866x90.5511xr30.5118_225\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=FabOutputs\Gerber Files - mm\Flex.GBS
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=FabOutputs\Gerber Files - in\Flex.GM3
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=FabOutputs\Gerber Files - mm\Flex.GM3
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=FabOutputs\Gerber Files - in\Flex.GM4
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=FabOutputs\Gerber Files - mm\Flex.GM4
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical3\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=FabOutputs\Gerber Files - in\Flex.GTL
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=FabOutputs\Gerber Files - mm\Flex.GTL
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=FabOutputs\Gerber Files - in\Flex.GTP
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=FabOutputs\Gerber Files - mm\Flex.GTP
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\topsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=FabOutputs\Gerber Files - in\Flex.GTS
+DocumentPath=.\FabOutputs\NC Drill Files - in\Flex.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=FabOutputs\Gerber Files - mm\Flex.GTS
+DocumentPath=.\FabOutputs\NC Drill Files - mm\Flex.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=FabOutputs\NC Drill Files - in\Flex.LDP
+DocumentPath=FabOutputs\NC Drill Files - in\Flex.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=FabOutputs\NC Drill Files - mm\Flex.LDP
+DocumentPath=FabOutputs\NC Drill Files - mm\Flex.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=FabOutputs\Gerber Files - in\Flex.REP
+DocumentPath=.\FabOutputs\Gerber Files - in\Flex.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=FabOutputs\Gerber Files - mm\Flex.REP
+DocumentPath=.\FabOutputs\Gerber Files - mm\Flex.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=FabOutputs\ODB++ Files\Flex.REP
+DocumentPath=FabOutputs\Gerber Files - in\Flex.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=FabOutputs\Gerber Files - in\Flex.RUL
+DocumentPath=FabOutputs\Gerber Files - mm\Flex.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=FabOutputs\Gerber Files - mm\Flex.RUL
+DocumentPath=.\FabOutputs\Gerber Files - in\Flex.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=FabOutputs\ODB++ Files\odb\matrix\matrix
+DocumentPath=.\FabOutputs\Gerber Files - mm\Flex.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=FabOutputs\Gerber Files - in\Flex.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=FabOutputs\Pick and place files (Standard) - in\Pick Place for Flex.txt
+DocumentPath=FabOutputs\Gerber Files - mm\Flex.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=FabOutputs\Pick and place files (Standard) - mm\Pick Place for Flex.txt
+DocumentPath=.\FabOutputs\Gerber Files - in\Flex.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\profile
+DocumentPath=.\FabOutputs\Gerber Files - mm\Flex.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument46]
+DocumentPath=FabOutputs\Gerber Files - in\Flex.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=FabOutputs\Gerber Files - mm\Flex.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=.\FabOutputs\Gerber Files - in\Flex.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=.\FabOutputs\Gerber Files - mm\Flex.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=FabOutputs\Gerber Files - in\Flex.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=FabOutputs\Gerber Files - mm\Flex.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=.\FabOutputs\Gerber Files - in\Flex.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=.\FabOutputs\Gerber Files - mm\Flex.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=FabOutputs\Gerber Files - in\Flex.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=FabOutputs\Gerber Files - mm\Flex.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=.\FabOutputs\Gerber Files - in\Flex.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=.\FabOutputs\Gerber Files - mm\Flex.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=FabOutputs\Gerber Files - in\Flex.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=FabOutputs\Gerber Files - mm\Flex.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=.\FabOutputs\Gerber Files - in\Flex.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=.\FabOutputs\Gerber Files - mm\Flex.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=FabOutputs\Gerber Files - in\Flex.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=FabOutputs\Gerber Files - mm\Flex.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=.\FabOutputs\Gerber Files - in\Flex.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=.\FabOutputs\Gerber Files - mm\Flex.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=FabOutputs\Gerber Files - in\Flex.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=FabOutputs\Gerber Files - mm\Flex.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=.\FabOutputs\Gerber Files - in\Flex.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=.\FabOutputs\Gerber Files - mm\Flex.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=FabOutputs\Gerber Files - in\Flex.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=FabOutputs\Gerber Files - mm\Flex.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=.\FabOutputs\NC Drill Files - in\Flex.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\Flex.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=FabOutputs\NC Drill Files - in\Flex.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=FabOutputs\NC Drill Files - mm\Flex.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=.\FabOutputs\Gerber Files - in\Flex.REP
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=.\FabOutputs\Gerber Files - mm\Flex.REP
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=.\FabOutputs\ODB++ Files\Flex.REP
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=FabOutputs\Gerber Files - in\Flex.REP
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=FabOutputs\Gerber Files - mm\Flex.REP
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=FabOutputs\ODB++ Files\Flex.REP
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=.\FabOutputs\Gerber Files - in\Flex.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=.\FabOutputs\Gerber Files - mm\Flex.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=FabOutputs\Gerber Files - in\Flex.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=FabOutputs\Gerber Files - mm\Flex.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=.\FabOutputs\NC Drill Files - in\Flex.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=.\FabOutputs\NC Drill Files - mm\Flex.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=FabOutputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=.\FabOutputs\Pick and place files (Standard) - in\Pick Place for Flex.txt
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=.\FabOutputs\Pick and place files (Standard) - mm\Pick Place for Flex.txt
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=FabOutputs\Pick and place files (Standard) - in\Pick Place for Flex.txt
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=FabOutputs\Pick and place files (Standard) - mm\Pick Place for Flex.txt
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument99]
 DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=.\FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -340,7 +556,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=Ricoh Aficio MP C4500 PCL5c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -372,11 +588,106 @@ OutputName6=XSpice Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=CadnetixNetlist
+OutputName7=Cadnetix Netlist
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=CalayNetlist
+OutputName8=Calay Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=EDIF
+OutputName9=EDIF for PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=EESofNetlist
+OutputName10=EESof Netlist
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=IntergraphNetlist
+OutputName11=Intergraph Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=MentorBoardStationNetlist
+OutputName12=Mentor BoardStation Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=MultiWire
+OutputName13=MultiWire
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=OrCadPCB2Netlist
+OutputName14=Orcad/PCB2 Netlist
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=PADSNetlist
+OutputName15=PADS ASCII Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Pcad
+OutputName16=Pcad for PCB
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=PCADnltNetlist
+OutputName17=PCADnlt Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=Protel2Netlist
+OutputName18=Protel2 Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=ProtelNetlist
+OutputName19=Protel
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=RacalNetlist
+OutputName20=Racal Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=RINFNetlist
+OutputName21=RINF Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SciCardsNetlist
+OutputName22=SciCards Netlist
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=TangoNetlist
+OutputName23=Tango Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+OutputType24=TelesisNetlist
+OutputName24=Telesis Netlist
+OutputDocumentPath24=
+OutputVariantName24=
+OutputDefault24=0
+OutputType25=WireListNetlist
+OutputName25=WireList Netlist
+OutputDocumentPath25=
+OutputVariantName25=
+OutputDefault25=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=Ricoh Aficio MP C4500 PCL5c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -521,11 +832,23 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType18=Logic Analyser Print
+OutputName18=Logic Analyser Prints
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType19=Software Platform Print
+OutputName19=Software Platform Prints
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=Ricoh Aficio MP C4500 PCL5c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -547,7 +870,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=Ricoh Aficio MP C4500 PCL5c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -619,7 +942,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=Ricoh Aficio MP C4500 PCL5c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -656,7 +979,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=Ricoh Aficio MP C4500 PCL5c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -836,7 +1159,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=Ricoh Aficio MP C4500 PCL5c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -875,7 +1198,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=Ricoh Aficio MP C4500 PCL5c
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -902,6 +1225,11 @@ OutputName5=Export PDF3D
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
+OutputType6=NetList Sch
+OutputName6=NetList Sch
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
 
 [Modification Levels]
 Type1=1
