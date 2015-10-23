@@ -1,0 +1,13 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:33:17 On 22-10-2015
+
+Output: Export PDF3D
+Type  : PDF3D
+From  : PCB Document [BPX_heater.PcbDoc]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 15:33:18 On 22-10-2015

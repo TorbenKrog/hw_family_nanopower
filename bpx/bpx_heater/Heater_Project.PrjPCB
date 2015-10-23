@@ -28,7 +28,9 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+OutputPath=Project Outputs for Heater_Project
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -51,10 +53,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TPYQJICT
+DocumentUniqueId=QCEDOMKQ
 
 [Document2]
-DocumentPath=BPX_heater_1.PcbDoc
+DocumentPath=BPX_heater.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -70,6 +72,469 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AEECCXCC
 
+[Document3]
+DocumentPath=BPX_heater.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UQQVSVQS
+
+[Document4]
+DocumentPath=nanopower-bpx-heater.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+Description=2s-4p
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
+[ProjectVariant2]
+Description=4s-2p
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=R1|UniqueId=\ISWKFMYN|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030502|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue==Value
+ParamDesignator1=R1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=R1
+ParamVariation3=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamDesignator3=R1
+ParamVariation4=ParameterName=Datasheet|VariantValue=http://www.ohmite.com/cat/res_20.pdf
+ParamDesignator4=R1
+ParamVariation5=ParameterName=Description|VariantValue=RES 40 OHM 3W 5% AXIAL
+ParamDesignator5=R1
+ParamVariation6=ParameterName=Features|VariantValue=Flame Retardant Coating, Safety
+ParamDesignator6=R1
+ParamVariation7=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamDesignator7=R1
+ParamVariation8=ParameterName=Hight|VariantValue=-
+ParamDesignator8=R1
+ParamVariation9=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator9=R1
+ParamVariation10=ParameterName=Library Reference|VariantValue=46030502
+ParamDesignator10=R1
+ParamVariation11=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamDesignator11=R1
+ParamVariation12=ParameterName=Manufacturer number|VariantValue=23J40RE
+ParamDesignator12=R1
+ParamVariation13=ParameterName=Package|VariantValue=Axial
+ParamDesignator13=R1
+ParamVariation14=ParameterName=Part_Type|VariantValue=Resistor
+ParamDesignator14=R1
+ParamVariation15=ParameterName=Part Number|VariantValue=46030502
+ParamDesignator15=R1
+ParamVariation16=ParameterName=PCB3D|VariantValue= 
+ParamDesignator16=R1
+ParamVariation17=ParameterName=Power|VariantValue=3W
+ParamDesignator17=R1
+ParamVariation18=ParameterName=ROHS|VariantValue=YES
+ParamDesignator18=R1
+ParamVariation19=ParameterName=Simulation|VariantValue= 
+ParamDesignator19=R1
+ParamVariation20=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamDesignator20=R1
+ParamVariation21=ParameterName=Supplier Part Number 1|VariantValue=23J40RE-ND
+ParamDesignator21=R1
+ParamVariation22=ParameterName=Temperature Coefficient|VariantValue=±30ppm/°C
+ParamDesignator22=R1
+ParamVariation23=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator23=R1
+ParamVariation24=ParameterName=Value|VariantValue=40R
+ParamDesignator24=R1
+Variation2=Designator=R2|UniqueId=\XUOHWWHF|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030502|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
+ParamVariation25=ParameterName=Comment|VariantValue==Value
+ParamDesignator25=R2
+ParamVariation26=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator26=R2
+ParamVariation27=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamDesignator27=R2
+ParamVariation28=ParameterName=Datasheet|VariantValue=http://www.ohmite.com/cat/res_20.pdf
+ParamDesignator28=R2
+ParamVariation29=ParameterName=Description|VariantValue=RES 40 OHM 3W 5% AXIAL
+ParamDesignator29=R2
+ParamVariation30=ParameterName=Features|VariantValue=Flame Retardant Coating, Safety
+ParamDesignator30=R2
+ParamVariation31=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamDesignator31=R2
+ParamVariation32=ParameterName=Hight|VariantValue=-
+ParamDesignator32=R2
+ParamVariation33=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator33=R2
+ParamVariation34=ParameterName=Library Reference|VariantValue=46030502
+ParamDesignator34=R2
+ParamVariation35=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamDesignator35=R2
+ParamVariation36=ParameterName=Manufacturer number|VariantValue=23J40RE
+ParamDesignator36=R2
+ParamVariation37=ParameterName=Package|VariantValue=Axial
+ParamDesignator37=R2
+ParamVariation38=ParameterName=Part_Type|VariantValue=Resistor
+ParamDesignator38=R2
+ParamVariation39=ParameterName=Part Number|VariantValue=46030502
+ParamDesignator39=R2
+ParamVariation40=ParameterName=PCB3D|VariantValue= 
+ParamDesignator40=R2
+ParamVariation41=ParameterName=Power|VariantValue=3W
+ParamDesignator41=R2
+ParamVariation42=ParameterName=ROHS|VariantValue=YES
+ParamDesignator42=R2
+ParamVariation43=ParameterName=Simulation|VariantValue= 
+ParamDesignator43=R2
+ParamVariation44=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamDesignator44=R2
+ParamVariation45=ParameterName=Supplier Part Number 1|VariantValue=23J40RE-ND
+ParamDesignator45=R2
+ParamVariation46=ParameterName=Temperature Coefficient|VariantValue=±30ppm/°C
+ParamDesignator46=R2
+ParamVariation47=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator47=R2
+ParamVariation48=ParameterName=Value|VariantValue=40R
+ParamDesignator48=R2
+Variation3=Designator=R3|UniqueId=\PULYBTBS|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030502|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
+ParamVariation49=ParameterName=Comment|VariantValue==Value
+ParamDesignator49=R3
+ParamVariation50=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator50=R3
+ParamVariation51=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamDesignator51=R3
+ParamVariation52=ParameterName=Datasheet|VariantValue=http://www.ohmite.com/cat/res_20.pdf
+ParamDesignator52=R3
+ParamVariation53=ParameterName=Description|VariantValue=RES 40 OHM 3W 5% AXIAL
+ParamDesignator53=R3
+ParamVariation54=ParameterName=Features|VariantValue=Flame Retardant Coating, Safety
+ParamDesignator54=R3
+ParamVariation55=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamDesignator55=R3
+ParamVariation56=ParameterName=Hight|VariantValue=-
+ParamDesignator56=R3
+ParamVariation57=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator57=R3
+ParamVariation58=ParameterName=Library Reference|VariantValue=46030502
+ParamDesignator58=R3
+ParamVariation59=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamDesignator59=R3
+ParamVariation60=ParameterName=Manufacturer number|VariantValue=23J40RE
+ParamDesignator60=R3
+ParamVariation61=ParameterName=Package|VariantValue=Axial
+ParamDesignator61=R3
+ParamVariation62=ParameterName=Part_Type|VariantValue=Resistor
+ParamDesignator62=R3
+ParamVariation63=ParameterName=Part Number|VariantValue=46030502
+ParamDesignator63=R3
+ParamVariation64=ParameterName=PCB3D|VariantValue= 
+ParamDesignator64=R3
+ParamVariation65=ParameterName=Power|VariantValue=3W
+ParamDesignator65=R3
+ParamVariation66=ParameterName=ROHS|VariantValue=YES
+ParamDesignator66=R3
+ParamVariation67=ParameterName=Simulation|VariantValue= 
+ParamDesignator67=R3
+ParamVariation68=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamDesignator68=R3
+ParamVariation69=ParameterName=Supplier Part Number 1|VariantValue=23J40RE-ND
+ParamDesignator69=R3
+ParamVariation70=ParameterName=Temperature Coefficient|VariantValue=±30ppm/°C
+ParamDesignator70=R3
+ParamVariation71=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator71=R3
+ParamVariation72=ParameterName=Value|VariantValue=40R
+ParamDesignator72=R3
+Variation4=Designator=R4|UniqueId=\BEWSNUMW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030502|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
+ParamVariation73=ParameterName=Comment|VariantValue==Value
+ParamDesignator73=R4
+ParamVariation74=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator74=R4
+ParamVariation75=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamDesignator75=R4
+ParamVariation76=ParameterName=Datasheet|VariantValue=http://www.ohmite.com/cat/res_20.pdf
+ParamDesignator76=R4
+ParamVariation77=ParameterName=Description|VariantValue=RES 40 OHM 3W 5% AXIAL
+ParamDesignator77=R4
+ParamVariation78=ParameterName=Features|VariantValue=Flame Retardant Coating, Safety
+ParamDesignator78=R4
+ParamVariation79=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamDesignator79=R4
+ParamVariation80=ParameterName=Hight|VariantValue=-
+ParamDesignator80=R4
+ParamVariation81=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator81=R4
+ParamVariation82=ParameterName=Library Reference|VariantValue=46030502
+ParamDesignator82=R4
+ParamVariation83=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamDesignator83=R4
+ParamVariation84=ParameterName=Manufacturer number|VariantValue=23J40RE
+ParamDesignator84=R4
+ParamVariation85=ParameterName=Package|VariantValue=Axial
+ParamDesignator85=R4
+ParamVariation86=ParameterName=Part_Type|VariantValue=Resistor
+ParamDesignator86=R4
+ParamVariation87=ParameterName=Part Number|VariantValue=46030502
+ParamDesignator87=R4
+ParamVariation88=ParameterName=PCB3D|VariantValue= 
+ParamDesignator88=R4
+ParamVariation89=ParameterName=Power|VariantValue=3W
+ParamDesignator89=R4
+ParamVariation90=ParameterName=ROHS|VariantValue=YES
+ParamDesignator90=R4
+ParamVariation91=ParameterName=Simulation|VariantValue= 
+ParamDesignator91=R4
+ParamVariation92=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamDesignator92=R4
+ParamVariation93=ParameterName=Supplier Part Number 1|VariantValue=23J40RE-ND
+ParamDesignator93=R4
+ParamVariation94=ParameterName=Temperature Coefficient|VariantValue=±30ppm/°C
+ParamDesignator94=R4
+ParamVariation95=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator95=R4
+ParamVariation96=ParameterName=Value|VariantValue=40R
+ParamDesignator96=R4
+ParamVariationCount=96
+
+[ProjectVariant3]
+Description=8s-1p
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=R1|UniqueId=\ISWKFMYN|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue==Value
+ParamDesignator1=R1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=R1
+ParamVariation3=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamDesignator3=R1
+ParamVariation4=ParameterName=Datasheet|VariantValue=http://www.ohmite.com/cat/res_20.pdf
+ParamDesignator4=R1
+ParamVariation5=ParameterName=Description|VariantValue=RES 150 OHM 3W 5% AXIAL
+ParamDesignator5=R1
+ParamVariation6=ParameterName=Features|VariantValue=Flame Retardant Coating, Safety
+ParamDesignator6=R1
+ParamVariation7=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamDesignator7=R1
+ParamVariation8=ParameterName=Hight|VariantValue=-
+ParamDesignator8=R1
+ParamVariation9=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator9=R1
+ParamVariation10=ParameterName=Library Reference|VariantValue=46030503
+ParamDesignator10=R1
+ParamVariation11=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamDesignator11=R1
+ParamVariation12=ParameterName=Manufacturer number|VariantValue=23J150E
+ParamDesignator12=R1
+ParamVariation13=ParameterName=Package|VariantValue=Axial
+ParamDesignator13=R1
+ParamVariation14=ParameterName=Part_Type|VariantValue=Resistor
+ParamDesignator14=R1
+ParamVariation15=ParameterName=Part Number|VariantValue=46030503
+ParamDesignator15=R1
+ParamVariation16=ParameterName=PCB3D|VariantValue= 
+ParamDesignator16=R1
+ParamVariation17=ParameterName=Power|VariantValue=3W
+ParamDesignator17=R1
+ParamVariation18=ParameterName=ROHS|VariantValue=YES
+ParamDesignator18=R1
+ParamVariation19=ParameterName=Simulation|VariantValue= 
+ParamDesignator19=R1
+ParamVariation20=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamDesignator20=R1
+ParamVariation21=ParameterName=Supplier Part Number 1|VariantValue=23J150E-ND
+ParamDesignator21=R1
+ParamVariation22=ParameterName=Temperature Coefficient|VariantValue=±30ppm/°C
+ParamDesignator22=R1
+ParamVariation23=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator23=R1
+ParamVariation24=ParameterName=Value|VariantValue=150R
+ParamDesignator24=R1
+Variation2=Designator=R2|UniqueId=\XUOHWWHF|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
+ParamVariation25=ParameterName=Comment|VariantValue==Value
+ParamDesignator25=R2
+ParamVariation26=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator26=R2
+ParamVariation27=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamDesignator27=R2
+ParamVariation28=ParameterName=Datasheet|VariantValue=http://www.ohmite.com/cat/res_20.pdf
+ParamDesignator28=R2
+ParamVariation29=ParameterName=Description|VariantValue=RES 150 OHM 3W 5% AXIAL
+ParamDesignator29=R2
+ParamVariation30=ParameterName=Features|VariantValue=Flame Retardant Coating, Safety
+ParamDesignator30=R2
+ParamVariation31=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamDesignator31=R2
+ParamVariation32=ParameterName=Hight|VariantValue=-
+ParamDesignator32=R2
+ParamVariation33=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator33=R2
+ParamVariation34=ParameterName=Library Reference|VariantValue=46030503
+ParamDesignator34=R2
+ParamVariation35=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamDesignator35=R2
+ParamVariation36=ParameterName=Manufacturer number|VariantValue=23J150E
+ParamDesignator36=R2
+ParamVariation37=ParameterName=Package|VariantValue=Axial
+ParamDesignator37=R2
+ParamVariation38=ParameterName=Part_Type|VariantValue=Resistor
+ParamDesignator38=R2
+ParamVariation39=ParameterName=Part Number|VariantValue=46030503
+ParamDesignator39=R2
+ParamVariation40=ParameterName=PCB3D|VariantValue= 
+ParamDesignator40=R2
+ParamVariation41=ParameterName=Power|VariantValue=3W
+ParamDesignator41=R2
+ParamVariation42=ParameterName=ROHS|VariantValue=YES
+ParamDesignator42=R2
+ParamVariation43=ParameterName=Simulation|VariantValue= 
+ParamDesignator43=R2
+ParamVariation44=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamDesignator44=R2
+ParamVariation45=ParameterName=Supplier Part Number 1|VariantValue=23J150E-ND
+ParamDesignator45=R2
+ParamVariation46=ParameterName=Temperature Coefficient|VariantValue=±30ppm/°C
+ParamDesignator46=R2
+ParamVariation47=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator47=R2
+ParamVariation48=ParameterName=Value|VariantValue=150R
+ParamDesignator48=R2
+Variation3=Designator=R3|UniqueId=\PULYBTBS|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
+ParamVariation49=ParameterName=Comment|VariantValue==Value
+ParamDesignator49=R3
+ParamVariation50=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator50=R3
+ParamVariation51=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamDesignator51=R3
+ParamVariation52=ParameterName=Datasheet|VariantValue=http://www.ohmite.com/cat/res_20.pdf
+ParamDesignator52=R3
+ParamVariation53=ParameterName=Description|VariantValue=RES 150 OHM 3W 5% AXIAL
+ParamDesignator53=R3
+ParamVariation54=ParameterName=Features|VariantValue=Flame Retardant Coating, Safety
+ParamDesignator54=R3
+ParamVariation55=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamDesignator55=R3
+ParamVariation56=ParameterName=Hight|VariantValue=-
+ParamDesignator56=R3
+ParamVariation57=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator57=R3
+ParamVariation58=ParameterName=Library Reference|VariantValue=46030503
+ParamDesignator58=R3
+ParamVariation59=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamDesignator59=R3
+ParamVariation60=ParameterName=Manufacturer number|VariantValue=23J150E
+ParamDesignator60=R3
+ParamVariation61=ParameterName=Package|VariantValue=Axial
+ParamDesignator61=R3
+ParamVariation62=ParameterName=Part_Type|VariantValue=Resistor
+ParamDesignator62=R3
+ParamVariation63=ParameterName=Part Number|VariantValue=46030503
+ParamDesignator63=R3
+ParamVariation64=ParameterName=PCB3D|VariantValue= 
+ParamDesignator64=R3
+ParamVariation65=ParameterName=Power|VariantValue=3W
+ParamDesignator65=R3
+ParamVariation66=ParameterName=ROHS|VariantValue=YES
+ParamDesignator66=R3
+ParamVariation67=ParameterName=Simulation|VariantValue= 
+ParamDesignator67=R3
+ParamVariation68=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamDesignator68=R3
+ParamVariation69=ParameterName=Supplier Part Number 1|VariantValue=23J150E-ND
+ParamDesignator69=R3
+ParamVariation70=ParameterName=Temperature Coefficient|VariantValue=±30ppm/°C
+ParamDesignator70=R3
+ParamVariation71=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator71=R3
+ParamVariation72=ParameterName=Value|VariantValue=150R
+ParamDesignator72=R3
+Variation4=Designator=R4|UniqueId=\BEWSNUMW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
+ParamVariation73=ParameterName=Comment|VariantValue==Value
+ParamDesignator73=R4
+ParamVariation74=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator74=R4
+ParamVariation75=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamDesignator75=R4
+ParamVariation76=ParameterName=Datasheet|VariantValue=http://www.ohmite.com/cat/res_20.pdf
+ParamDesignator76=R4
+ParamVariation77=ParameterName=Description|VariantValue=RES 150 OHM 3W 5% AXIAL
+ParamDesignator77=R4
+ParamVariation78=ParameterName=Features|VariantValue=Flame Retardant Coating, Safety
+ParamDesignator78=R4
+ParamVariation79=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamDesignator79=R4
+ParamVariation80=ParameterName=Hight|VariantValue=-
+ParamDesignator80=R4
+ParamVariation81=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator81=R4
+ParamVariation82=ParameterName=Library Reference|VariantValue=46030503
+ParamDesignator82=R4
+ParamVariation83=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamDesignator83=R4
+ParamVariation84=ParameterName=Manufacturer number|VariantValue=23J150E
+ParamDesignator84=R4
+ParamVariation85=ParameterName=Package|VariantValue=Axial
+ParamDesignator85=R4
+ParamVariation86=ParameterName=Part_Type|VariantValue=Resistor
+ParamDesignator86=R4
+ParamVariation87=ParameterName=Part Number|VariantValue=46030503
+ParamDesignator87=R4
+ParamVariation88=ParameterName=PCB3D|VariantValue= 
+ParamDesignator88=R4
+ParamVariation89=ParameterName=Power|VariantValue=3W
+ParamDesignator89=R4
+ParamVariation90=ParameterName=ROHS|VariantValue=YES
+ParamDesignator90=R4
+ParamVariation91=ParameterName=Simulation|VariantValue= 
+ParamDesignator91=R4
+ParamVariation92=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamDesignator92=R4
+ParamVariation93=ParameterName=Supplier Part Number 1|VariantValue=23J150E-ND
+ParamDesignator93=R4
+ParamVariation94=ParameterName=Temperature Coefficient|VariantValue=±30ppm/°C
+ParamDesignator94=R4
+ParamVariation95=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator95=R4
+ParamVariation96=ParameterName=Value|VariantValue=150R
+ParamDesignator96=R4
+ParamVariationCount=96
+
+[GeneratedDocument1]
+DocumentPath=Project_Outputs\BOM_external_Variant\External_2s-4p.xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project_Outputs\BOM_external_Variant\External_4s-2p.xls
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project_Outputs\BOM_external_Variant\External_8s-1p.xls
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project_Outputs\BOM_internal_Variant\internal_2s-4p.xls
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -80,62 +545,130 @@ Variant=[No Variations]
 GenerateBOM=1
 OutputJobsCount=0
 
+[Generic_EDE]
+OutputDir=Project Outputs for Heater_Project
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=RICOH Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixNetlist
-OutputName2=SIMetrix
+OutputType2=Verilog
+OutputName2=Verilog File
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=SIMPLISNetlist
-OutputName3=SIMPLIS
+OutputType3=VHDL
+OutputName3=VHDL File
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=Verilog
-OutputName4=Verilog File
+OutputType4=CadnetixNetlist
+OutputName4=Cadnetix Netlist
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=VHDL
-OutputName5=VHDL File
+OutputType5=CalayNetlist
+OutputName5=Calay Netlist
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=XSpiceNetlist
-OutputName6=XSpice Netlist
+OutputType6=EDIF
+OutputName6=EDIF for PCB
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=EESofNetlist
+OutputName7=EESof Netlist
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=IntergraphNetlist
+OutputName8=Intergraph Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=MentorBoardStationNetlist
+OutputName9=Mentor BoardStation Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=MultiWire
+OutputName10=MultiWire
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=OrCadPCB2Netlist
+OutputName11=Orcad/PCB2 Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PADSNetlist
+OutputName12=PADS ASCII Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Pcad
+OutputName13=Pcad for PCB
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=PCADnltNetlist
+OutputName14=PCADnlt Netlist
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Protel2Netlist
+OutputName15=Protel2 Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=ProtelNetlist
+OutputName16=Protel
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=RacalNetlist
+OutputName17=Racal Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=RINFNetlist
+OutputName18=RINF Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=SciCardsNetlist
+OutputName19=SciCards Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=TangoNetlist
+OutputName20=Tango Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=TelesisNetlist
+OutputName21=Telesis Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=WireListNetlist
+OutputName22=WireList Netlist
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=RICOH Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -244,11 +777,17 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType18=Logic Analyser Print
+OutputName18=Logic Analyser Prints
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=RICOH Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -270,7 +809,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=RICOH Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -333,16 +872,11 @@ OutputName11=Gerber X2 Files
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=IPC2581
-OutputName12=IPC-2581 Files
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=RICOH Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -350,6 +884,8 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -379,7 +915,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=RICOH Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -392,174 +928,174 @@ OutputName2=Text Print
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType3=Text Print
 OutputName3=Text Print
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType4=Text Print
 OutputName4=Text Print
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType5=Text Print
 OutputName5=Text Print
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType6=Text Print
 OutputName6=Text Print
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType7=Text Print
 OutputName7=Text Print
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType8=Text Print
 OutputName8=Text Print
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType9=Text Print
 OutputName9=Text Print
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType10=Text Print
 OutputName10=Text Print
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType11=Text Print
 OutputName11=Text Print
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType12=Text Print
 OutputName12=Text Print
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType13=Text Print
 OutputName13=Text Print
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType14=Text Print
 OutputName14=Text Print
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType15=Text Print
 OutputName15=Text Print
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType16=Text Print
 OutputName16=Text Print
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType17=Text Print
 OutputName17=Text Print
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType18=Text Print
 OutputName18=Text Print
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType19=Text Print
 OutputName19=Text Print
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType20=Text Print
 OutputName20=Text Print
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType21=Text Print
 OutputName21=Text Print
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType22=Text Print
 OutputName22=Text Print
 OutputDocumentPath22=
 OutputVariantName22=
 OutputDefault22=0
-PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType23=Text Print
 OutputName23=Text Print
 OutputDocumentPath23=
 OutputVariantName23=
 OutputDefault23=0
-PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType24=Text Print
 OutputName24=Text Print
 OutputDocumentPath24=
 OutputVariantName24=
 OutputDefault24=0
-PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType25=Text Print
 OutputName25=Text Print
 OutputDocumentPath25=
 OutputVariantName25=
 OutputDefault25=0
-PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType26=Text Print
 OutputName26=Text Print
 OutputDocumentPath26=
 OutputVariantName26=
 OutputDefault26=0
-PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType27=Text Print
 OutputName27=Text Print
 OutputDocumentPath27=
 OutputVariantName27=
 OutputDefault27=0
-PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType28=Text Print
 OutputName28=Text Print
 OutputDocumentPath28=
 OutputVariantName28=
 OutputDefault28=0
-PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType29=Text Print
 OutputName29=Text Print
 OutputDocumentPath29=
 OutputVariantName29=
 OutputDefault29=0
-PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=RICOH Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -598,7 +1134,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=GomSpace Printer
+TargetPrinter=RICOH Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -620,6 +1156,16 @@ OutputName4=Export STEP
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
+OutputType5=NetList Sch
+OutputName5=NetList Sch
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=PDF3D
+OutputName6=Export PDF3D
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
 
 [Modification Levels]
 Type1=1
@@ -857,6 +1403,7 @@ Type107=2
 Type108=2
 Type109=1
 Type110=1
+Type111=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -895,6 +1442,7 @@ NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
 SelectedOnly=0
