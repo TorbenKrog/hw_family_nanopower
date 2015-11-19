@@ -21,7 +21,7 @@ TargetOutputMedium=INV
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=Ricoh Aficio MP C4500 PCL5c
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -369,14 +369,14 @@ OutputName15=TXT Bill of Materials (Standard)
 OutputCategory15=Report
 OutputDocumentPath15=
 OutputVariantName15=
-OutputEnabled15=0
+OutputEnabled15=1
 OutputEnabled15_OutputMedium1=0
 OutputEnabled15_OutputMedium2=0
 OutputEnabled15_OutputMedium3=9
 OutputEnabled15_OutputMedium4=0
 OutputEnabled15_OutputMedium5=0
 OutputEnabled15_OutputMedium6=0
-OutputEnabled15_OutputMedium7=0
+OutputEnabled15_OutputMedium7=2
 OutputDefault15=0
 PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration15_Name1=ColumnNameFormat
@@ -394,7 +394,7 @@ Configuration15_Item6=Layer=Up
 Configuration15_Name7=VisibleOrder
 Configuration15_Item7=Comment=217|Designator=247|Quantity=91|Footprint=106|PartNumber=106|Value=103|Layer=95
 OutputType16=BOM_PartType
-OutputName16=INV Bill of Materials 
+OutputName16=INV Bill of Materials
 OutputCategory16=Report
 OutputDocumentPath16=
 OutputVariantName16=
