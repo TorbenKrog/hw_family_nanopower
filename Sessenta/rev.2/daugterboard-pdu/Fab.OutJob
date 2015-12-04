@@ -388,7 +388,7 @@ Configuration15_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFi
 Configuration15_Name4=GroupOrder
 Configuration15_Item4=Layer=True|Value=True|PartNumber=True|Comment=True|Footprint=True
 Configuration15_Name5=PCBDocument
-Configuration15_Item5=FileName=daughterboard-pv.PcbDoc
+Configuration15_Item5=FileName=daughterboard-pdu.PcbDoc
 Configuration15_Name6=SortOrder
 Configuration15_Item6=Layer=Up
 Configuration15_Name7=VisibleOrder
@@ -518,7 +518,7 @@ MarkNetLabels6=1
 MarkPortsId6=1
 ShowComponentParameters6=1
 GlobalBookmarks6=0
-OutputFilePath7=C:\Users\HPM\Hardware\nanopower\Sessenta\rev.2\daugterboard-pv\Project Outputs for ax600\
+OutputFilePath7=C:\Users\HPM\Hardware\nanopower\Sessenta\rev.2\daugterboard-pdu\Project Outputs for ax600\
 ReleaseManaged7=1
 OutputBasePath7=Project Outputs for ax600
 OutputPathMedia7=
@@ -551,7 +551,7 @@ RelativeOutputPath5=C:\Users\HPM\Hardware\nanopower\Sessenta\rev.2\daugterboard-
 OpenOutputs5=1
 RelativeOutputPath6=C:\Users\HPM\Hardware\nanopower\Sessenta\rev.2\daugterboard-pv\Project Outputs for ax600\.PDF
 OpenOutputs6=1
-RelativeOutputPath7=C:\Users\HPM\Hardware\nanopower\Sessenta\rev.2\daugterboard-pv\Project Outputs for ax600\
+RelativeOutputPath7=C:\Users\HPM\Hardware\nanopower\Sessenta\rev.2\daugterboard-pdu\Project Outputs for ax600\
 OpenOutputs7=1
 AddToProject7=1
 TimestampFolder7=0
