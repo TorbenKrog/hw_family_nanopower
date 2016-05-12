@@ -141,22 +141,396 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [ProjectVariant1]
-Description=bom_for_2s-4p_and_4s-2p_and_8s-1p
+UniqueID=EBD106BC-A9A2-4676-A8A1-C4E73EBF6353
+Description=P31U_(8V_2S-4P and 16V_4S-2P)
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
+VariationCount=62
 Variation1=Designator=R1|UniqueId=\MBGGRQSP\CLLQCUMK|Kind=1|AlternatePart= 
 Variation2=Designator=Qks|UniqueId=\MBGGRQSP\CWUPSJEH|Kind=1|AlternatePart= 
 Variation3=Designator=Rks2|UniqueId=\MBGGRQSP\TRPFXJTT|Kind=1|AlternatePart= 
 Variation4=Designator=Rks4|UniqueId=\MBGGRQSP\CUITKQAQ|Kind=1|AlternatePart= 
+Variation5=Designator=Qscl|UniqueId=\DQTFNHYW\MPHRTXAA|Kind=1|AlternatePart= 
+Variation6=Designator=Rscl|UniqueId=\DQTFNHYW\NIFVEDYS|Kind=1|AlternatePart= 
+Variation7=Designator=Qsda|UniqueId=\DQTFNHYW\PQLDYKLU|Kind=1|AlternatePart= 
+Variation8=Designator=Rsda|UniqueId=\DQTFNHYW\RBXGPLWI|Kind=1|AlternatePart= 
+Variation9=Designator=C101|UniqueId=\MBGGRQSP\IGQTUJGP|Kind=1|AlternatePart= 
+Variation10=Designator=P1|UniqueId=\YUBLBQKU\AKYLTCDL|Kind=1|AlternatePart= 
+Variation11=Designator=Qh2|UniqueId=\YUBLBQKU\UCCNXMEY|Kind=1|AlternatePart= 
+Variation12=Designator=Rh1|UniqueId=\YUBLBQKU\MFHOMLWT|Kind=1|AlternatePart= 
+Variation13=Designator=Rh3|UniqueId=\YUBLBQKU\WCMKCPLO|Kind=1|AlternatePart= 
+Variation14=Designator=Qh1|UniqueId=\YUBLBQKU\HTNRJPCV|Kind=1|AlternatePart= 
+Variation15=Designator=Rh2|UniqueId=\YUBLBQKU\OODLCSKI|Kind=1|AlternatePart= 
+Variation16=Designator=Um1|UniqueId=\YUBLBQKU\BXFKJQFQ|Kind=1|AlternatePart= 
+Variation17=Designator=Rm1|UniqueId=\YUBLBQKU\QQBVERPG|Kind=1|AlternatePart= 
+Variation18=Designator=Rm2|UniqueId=\YUBLBQKU\KFTVMLFD|Kind=1|AlternatePart= 
+Variation19=Designator=Cm1|UniqueId=\YUBLBQKU\MPRDPLGU|Kind=1|AlternatePart= 
+Variation20=Designator=U2|UniqueId=\MBGGRQSP\FWDGTEDL|Kind=1|AlternatePart= 
+Variation21=Designator=R2|UniqueId=\MBGGRQSP\TODDCYKH|Kind=1|AlternatePart= 
+Variation22=Designator=D1|UniqueId=\MBGGRQSP\LEBIDBGA|Kind=1|AlternatePart= 
+Variation23=Designator=C1|UniqueId=\MBGGRQSP\MSTGMSBT|Kind=1|AlternatePart= 
+Variation24=Designator=U10|UniqueId=\MBGGRQSP\HUKBELNH|Kind=1|AlternatePart= 
+Variation25=Designator=C3|UniqueId=\MBGGRQSP\ALDPIHQT|Kind=1|AlternatePart= 
+Variation26=Designator=U11|UniqueId=\MBGGRQSP\PIGUEDMA|Kind=1|AlternatePart= 
+Variation27=Designator=C8|UniqueId=\MBGGRQSP\YMRHMOYR|Kind=1|AlternatePart= 
+Variation28=Designator=R4|UniqueId=\MBGGRQSP\SWWXTHUR|Kind=1|AlternatePart= 
+Variation29=Designator=U4|UniqueId=\MBGGRQSP\HOOORXCD|Kind=1|AlternatePart= 
+Variation30=Designator=U3|UniqueId=\MBGGRQSP\HNRVQVJS|Kind=1|AlternatePart= 
+Variation31=Designator=Rc1|UniqueId=\MBGGRQSP\GQSAYYHY|Kind=1|AlternatePart= 
+Variation32=Designator=Cc1|UniqueId=\MBGGRQSP\VUMERSLK|Kind=1|AlternatePart= 
+Variation33=Designator=Rc4|UniqueId=\MBGGRQSP\XGBTUKGC|Kind=1|AlternatePart= 
+Variation34=Designator=Cc2|UniqueId=\MBGGRQSP\NMNKDNND|Kind=1|AlternatePart= 
+Variation35=Designator=R100|UniqueId=\MBGGRQSP\DBPEUHFA|Kind=1|AlternatePart= 
+Variation36=Designator=Q4|UniqueId=\MBGGRQSP\QCPNUOBH|Kind=1|AlternatePart= 
+Variation37=Designator=Rks1|UniqueId=\MBGGRQSP\BKTMUGCA|Kind=1|AlternatePart= 
+Variation38=Designator=C4|UniqueId=\DQTFNHYW\FYFKLBGJ|Kind=1|AlternatePart= 
+Variation39=Designator=C17|UniqueId=\DQTFNHYW\OANMXIEW|Kind=1|AlternatePart= 
+Variation40=Designator=C18|UniqueId=\DQTFNHYW\EAQIAJBP|Kind=1|AlternatePart= 
+Variation41=Designator=C19|UniqueId=\DQTFNHYW\KUGIYUON|Kind=1|AlternatePart= 
+Variation42=Designator=L3|UniqueId=\DQTFNHYW\NXFYHNPK|Kind=1|AlternatePart= 
+Variation43=Designator=C20|UniqueId=\DQTFNHYW\IPROKPMX|Kind=1|AlternatePart= 
+Variation44=Designator=C21|UniqueId=\DQTFNHYW\EGBILEQS|Kind=1|AlternatePart= 
+Variation45=Designator=Q201|UniqueId=\DQTFNHYW\BTTHWMXN|Kind=1|AlternatePart= 
+Variation46=Designator=R40|UniqueId=\DQTFNHYW\RQYMNJKW|Kind=1|AlternatePart= 
+Variation47=Designator=U1|UniqueId=\DQTFNHYW\PKPTPPRQ|Kind=1|AlternatePart= 
+Variation48=Designator=R39|UniqueId=\DQTFNHYW\RRDIOIPR|Kind=1|AlternatePart= 
+Variation49=Designator=C10|UniqueId=\DQTFNHYW\UYXDSMYB|Kind=1|AlternatePart= 
+Variation50=Designator=R38|UniqueId=\DQTFNHYW\SLIADRVS|Kind=1|AlternatePart= 
+Variation51=Designator=U6|UniqueId=\DQTFNHYW\MUXOKCLY|Kind=1|AlternatePart= 
+Variation52=Designator=C11|UniqueId=\DQTFNHYW\YYBDDFNC|Kind=1|AlternatePart= 
+Variation53=Designator=R17|UniqueId=\DQTFNHYW\YCAXDBUY|Kind=1|AlternatePart= 
+Variation54=Designator=R16|UniqueId=\DQTFNHYW\BYQVBTXF|Kind=1|AlternatePart= 
+Variation55=Designator=P2|UniqueId=\DQTFNHYW\TESXGINA|Kind=1|AlternatePart= 
+Variation56=Designator=Y1|UniqueId=\DQTFNHYW\QKSGVPLV|Kind=1|AlternatePart= 
+Variation57=Designator=CXTAL1|UniqueId=\DQTFNHYW\ADCRQFWW|Kind=1|AlternatePart= 
+Variation58=Designator=CXTAL2|UniqueId=\DQTFNHYW\MVLTKCWY|Kind=1|AlternatePart= 
+Variation59=Designator=PBAT1|UniqueId=\CNAWSKHQ|Kind=1|AlternatePart= 
+Variation60=Designator=PBAT2|UniqueId=\KMIPGXTG|Kind=1|AlternatePart= 
+Variation61=Designator=PGND1|UniqueId=\OWYGPNOK|Kind=1|AlternatePart= 
+Variation62=Designator=R37|UniqueId=\DQTFNHYW\EQGVCTQV|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=B8049431-162A-44BF-8558-AACD77145C4F
+Description=P60_(8V_2S-4P and 16V_4S-2P)
+AllowFabrication=0
+ParameterCount=0
+VariationCount=60
+Variation1=Designator=Rsda|UniqueId=\DQTFNHYW\RBXGPLWI|Kind=1|AlternatePart= 
+Variation2=Designator=Qsda|UniqueId=\DQTFNHYW\PQLDYKLU|Kind=1|AlternatePart= 
+Variation3=Designator=Qscl|UniqueId=\DQTFNHYW\MPHRTXAA|Kind=1|AlternatePart= 
+Variation4=Designator=Rscl|UniqueId=\DQTFNHYW\NIFVEDYS|Kind=1|AlternatePart= 
+Variation5=Designator=C101|UniqueId=\MBGGRQSP\IGQTUJGP|Kind=1|AlternatePart= 
+Variation6=Designator=PBAT1|UniqueId=\CNAWSKHQ|Kind=1|AlternatePart= 
+Variation7=Designator=PBAT2|UniqueId=\KMIPGXTG|Kind=1|AlternatePart= 
+Variation8=Designator=PGND1|UniqueId=\OWYGPNOK|Kind=1|AlternatePart= 
+Variation9=Designator=P2|UniqueId=\DQTFNHYW\TESXGINA|Kind=1|AlternatePart= 
+Variation10=Designator=R16|UniqueId=\DQTFNHYW\BYQVBTXF|Kind=1|AlternatePart= 
+Variation11=Designator=R17|UniqueId=\DQTFNHYW\YCAXDBUY|Kind=1|AlternatePart= 
+Variation12=Designator=CXTAL2|UniqueId=\DQTFNHYW\MVLTKCWY|Kind=1|AlternatePart= 
+Variation13=Designator=Y1|UniqueId=\DQTFNHYW\QKSGVPLV|Kind=1|AlternatePart= 
+Variation14=Designator=CXTAL1|UniqueId=\DQTFNHYW\ADCRQFWW|Kind=1|AlternatePart= 
+Variation15=Designator=C4|UniqueId=\DQTFNHYW\FYFKLBGJ|Kind=1|AlternatePart= 
+Variation16=Designator=C17|UniqueId=\DQTFNHYW\OANMXIEW|Kind=1|AlternatePart= 
+Variation17=Designator=C18|UniqueId=\DQTFNHYW\EAQIAJBP|Kind=1|AlternatePart= 
+Variation18=Designator=C19|UniqueId=\DQTFNHYW\KUGIYUON|Kind=1|AlternatePart= 
+Variation19=Designator=L3|UniqueId=\DQTFNHYW\NXFYHNPK|Kind=1|AlternatePart= 
+Variation20=Designator=C20|UniqueId=\DQTFNHYW\IPROKPMX|Kind=1|AlternatePart= 
+Variation21=Designator=C21|UniqueId=\DQTFNHYW\EGBILEQS|Kind=1|AlternatePart= 
+Variation22=Designator=R40|UniqueId=\DQTFNHYW\RQYMNJKW|Kind=1|AlternatePart= 
+Variation23=Designator=Q201|UniqueId=\DQTFNHYW\BTTHWMXN|Kind=1|AlternatePart= 
+Variation24=Designator=U1|UniqueId=\DQTFNHYW\PKPTPPRQ|Kind=1|AlternatePart= 
+Variation25=Designator=R37|UniqueId=\DQTFNHYW\EQGVCTQV|Kind=1|AlternatePart= 
+Variation26=Designator=R39|UniqueId=\DQTFNHYW\RRDIOIPR|Kind=1|AlternatePart= 
+Variation27=Designator=C10|UniqueId=\DQTFNHYW\UYXDSMYB|Kind=1|AlternatePart= 
+Variation28=Designator=R38|UniqueId=\DQTFNHYW\SLIADRVS|Kind=1|AlternatePart= 
+Variation29=Designator=U6|UniqueId=\DQTFNHYW\MUXOKCLY|Kind=1|AlternatePart= 
+Variation30=Designator=C11|UniqueId=\DQTFNHYW\YYBDDFNC|Kind=1|AlternatePart= 
+Variation31=Designator=Rks3|UniqueId=\MBGGRQSP\GNSRMPGF|Kind=1|AlternatePart= 
+Variation32=Designator=Rks1|UniqueId=\MBGGRQSP\BKTMUGCA|Kind=1|AlternatePart= 
+Variation33=Designator=Q4|UniqueId=\MBGGRQSP\QCPNUOBH|Kind=1|AlternatePart= 
+Variation34=Designator=R100|UniqueId=\MBGGRQSP\DBPEUHFA|Kind=1|AlternatePart= 
+Variation35=Designator=U3|UniqueId=\MBGGRQSP\HNRVQVJS|Kind=1|AlternatePart= 
+Variation36=Designator=Rc1|UniqueId=\MBGGRQSP\GQSAYYHY|Kind=1|AlternatePart= 
+Variation37=Designator=Cc1|UniqueId=\MBGGRQSP\VUMERSLK|Kind=1|AlternatePart= 
+Variation38=Designator=U4|UniqueId=\MBGGRQSP\HOOORXCD|Kind=1|AlternatePart= 
+Variation39=Designator=Rc4|UniqueId=\MBGGRQSP\XGBTUKGC|Kind=1|AlternatePart= 
+Variation40=Designator=Cc2|UniqueId=\MBGGRQSP\NMNKDNND|Kind=1|AlternatePart= 
+Variation41=Designator=R3|UniqueId=\MBGGRQSP\SFMLBAWL|Kind=1|AlternatePart= 
+Variation42=Designator=U2|UniqueId=\MBGGRQSP\FWDGTEDL|Kind=1|AlternatePart= 
+Variation43=Designator=R2|UniqueId=\MBGGRQSP\TODDCYKH|Kind=1|AlternatePart= 
+Variation44=Designator=D1|UniqueId=\MBGGRQSP\LEBIDBGA|Kind=1|AlternatePart= 
+Variation45=Designator=C1|UniqueId=\MBGGRQSP\MSTGMSBT|Kind=1|AlternatePart= 
+Variation46=Designator=C3|UniqueId=\MBGGRQSP\ALDPIHQT|Kind=1|AlternatePart= 
+Variation47=Designator=U10|UniqueId=\MBGGRQSP\HUKBELNH|Kind=1|AlternatePart= 
+Variation48=Designator=C8|UniqueId=\MBGGRQSP\YMRHMOYR|Kind=1|AlternatePart= 
+Variation49=Designator=R4|UniqueId=\MBGGRQSP\SWWXTHUR|Kind=1|AlternatePart= 
+Variation50=Designator=U11|UniqueId=\MBGGRQSP\PIGUEDMA|Kind=1|AlternatePart= 
+Variation51=Designator=Cm1|UniqueId=\YUBLBQKU\MPRDPLGU|Kind=1|AlternatePart= 
+Variation52=Designator=Rm2|UniqueId=\YUBLBQKU\KFTVMLFD|Kind=1|AlternatePart= 
+Variation53=Designator=Um1|UniqueId=\YUBLBQKU\BXFKJQFQ|Kind=1|AlternatePart= 
+Variation54=Designator=Rm1|UniqueId=\YUBLBQKU\QQBVERPG|Kind=1|AlternatePart= 
+Variation55=Designator=Rh1|UniqueId=\YUBLBQKU\MFHOMLWT|Kind=1|AlternatePart= 
+Variation56=Designator=Qh2|UniqueId=\YUBLBQKU\UCCNXMEY|Kind=1|AlternatePart= 
+Variation57=Designator=Rh3|UniqueId=\YUBLBQKU\WCMKCPLO|Kind=1|AlternatePart= 
+Variation58=Designator=Qh1|UniqueId=\YUBLBQKU\HTNRJPCV|Kind=1|AlternatePart= 
+Variation59=Designator=Rh2|UniqueId=\YUBLBQKU\OODLCSKI|Kind=1|AlternatePart= 
+Variation60=Designator=P1|UniqueId=\YUBLBQKU\AKYLTCDL|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant3]
+UniqueID=380C8D51-32E7-494D-8868-69FF13F35365
+Description=P60_(32V_8S-2P)
+AllowFabrication=0
+ParameterCount=0
+VariationCount=62
+Variation1=Designator=Qscl|UniqueId=\DQTFNHYW\MPHRTXAA|Kind=1|AlternatePart= 
+Variation2=Designator=Rscl|UniqueId=\DQTFNHYW\NIFVEDYS|Kind=1|AlternatePart= 
+Variation3=Designator=Qsda|UniqueId=\DQTFNHYW\PQLDYKLU|Kind=1|AlternatePart= 
+Variation4=Designator=Rsda|UniqueId=\DQTFNHYW\RBXGPLWI|Kind=1|AlternatePart= 
+Variation5=Designator=C100|UniqueId=\MBGGRQSP\URTLOOOA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Cap_Murata$|AltLibLink_SymbolReference=Capacitor np|AltLibLink_DesignItemID=10603304|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Cap_Murata$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue==Value
+ParamDesignator1=C100
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=C100
+ParamVariation3=ParameterName=Database Table Name|VariantValue=Cap_Murata$
+ParamDesignator3=C100
+ParamVariation4=ParameterName=Datasheet|VariantValue=http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
+ParamDesignator4=C100
+ParamVariation5=ParameterName=Description|VariantValue=CAP CER 1500pF 50V X7R 603 (1608 Metric)
+ParamDesignator5=C100
+ParamVariation6=ParameterName=Footprint|VariantValue=CAPC0603(1608)_N
+ParamDesignator6=C100
+ParamVariation7=ParameterName=Hight|VariantValue=0.035" (0.90mm)
+ParamDesignator7=C100
+ParamVariation8=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator8=C100
+ParamVariation9=ParameterName=Library Reference|VariantValue=10603304
+ParamDesignator9=C100
+ParamVariation10=ParameterName=Manufacturer|VariantValue=Murata
+ParamDesignator10=C100
+ParamVariation11=ParameterName=Manufacturer number|VariantValue=GRM188R71H152MA01D
+ParamDesignator11=C100
+ParamVariation12=ParameterName=Package|VariantValue=603 (1608 Metric)
+ParamDesignator12=C100
+ParamVariation13=ParameterName=Part_Type|VariantValue=Capacitor
+ParamDesignator13=C100
+ParamVariation14=ParameterName=Part Number|VariantValue=10603304
+ParamDesignator14=C100
+ParamVariation15=ParameterName=PCB3D|VariantValue= 
+ParamDesignator15=C100
+ParamVariation16=ParameterName=Pin Count|VariantValue=2
+ParamDesignator16=C100
+ParamVariation17=ParameterName=ROHS|VariantValue=YES
+ParamDesignator17=C100
+ParamVariation18=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator18=C100
+ParamVariation19=ParameterName=Simulation|VariantValue= 
+ParamDesignator19=C100
+ParamVariation20=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator20=C100
+ParamVariation21=ParameterName=Supplier Part Number 1|VariantValue=490-1497-1-ND
+ParamDesignator21=C100
+ParamVariation22=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
+ParamDesignator22=C100
+ParamVariation23=ParameterName=Temperature Coefficient|VariantValue=X7R
+ParamDesignator23=C100
+ParamVariation24=ParameterName=Tolerance|VariantValue=±20%
+ParamDesignator24=C100
+ParamVariation25=ParameterName=Value|VariantValue=1500pF
+ParamDesignator25=C100
+ParamVariation26=ParameterName=Voltage|VariantValue=50V
+ParamDesignator26=C100
+ParamVariation27=ParameterName=3D_model|VariantValue= 
+ParamDesignator27=C100
+ParamVariation28=ParameterName=IBIS_model|VariantValue= 
+ParamDesignator28=C100
+ParamVariation29=ParameterName=Is_verified|VariantValue= 
+ParamDesignator29=C100
+ParamVariation30=ParameterName=Ratings|VariantValue= 
+ParamDesignator30=C100
+ParamVariation31=ParameterName=self resonance|VariantValue= 
+ParamDesignator31=C100
+ParamVariation32=ParameterName=Supplier 2|VariantValue= 
+ParamDesignator32=C100
+ParamVariation33=ParameterName=Supplier 3|VariantValue= 
+ParamDesignator33=C100
+ParamVariation34=ParameterName=Supplier 4|VariantValue= 
+ParamDesignator34=C100
+ParamVariation35=ParameterName=Supplier Part Number 2|VariantValue= 
+ParamDesignator35=C100
+ParamVariation36=ParameterName=Supplier Part Number 3|VariantValue= 
+ParamDesignator36=C100
+ParamVariation37=ParameterName=Supplier Part Number 4|VariantValue= 
+ParamDesignator37=C100
+Variation6=Designator=C101|UniqueId=\MBGGRQSP\IGQTUJGP|Kind=1|AlternatePart= 
+Variation7=Designator=Rks3|UniqueId=\MBGGRQSP\GNSRMPGF|Kind=1|AlternatePart= 
+Variation8=Designator=R3|UniqueId=\MBGGRQSP\SFMLBAWL|Kind=1|AlternatePart= 
+Variation9=Designator=Rks4|UniqueId=\MBGGRQSP\CUITKQAQ|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Yageo$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=40603533|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC0603(1608)_N|AltLibLink_IsSameFootprint=True
+ParamVariation38=ParameterName=Comment|VariantValue==Value
+ParamDesignator38=Rks4
+ParamVariation39=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator39=Rks4
+ParamVariation40=ParameterName=Database Table Name|VariantValue=Yageo$
+ParamDesignator40=Rks4
+ParamVariation41=ParameterName=Datasheet|VariantValue=http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+ParamDesignator41=Rks4
+ParamVariation42=ParameterName=Description|VariantValue=RES SMD 301K OHM 1% 1/10W 0603
+ParamDesignator42=Rks4
+ParamVariation43=ParameterName=Features|VariantValue=Moisture Resistant
+ParamDesignator43=Rks4
+ParamVariation44=ParameterName=Footprint|VariantValue=RESC0603(1608)_N
+ParamDesignator44=Rks4
+ParamVariation45=ParameterName=Hight|VariantValue=0.55mm
+ParamDesignator45=Rks4
+ParamVariation46=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator46=Rks4
+ParamVariation47=ParameterName=Library Reference|VariantValue=40603533
+ParamDesignator47=Rks4
+ParamVariation48=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator48=Rks4
+ParamVariation49=ParameterName=Manufacturer number|VariantValue=RC0603FR-07301KL
+ParamDesignator49=Rks4
+ParamVariation50=ParameterName=Package|VariantValue=0603
+ParamDesignator50=Rks4
+ParamVariation51=ParameterName=Part_Type|VariantValue=Resistor
+ParamDesignator51=Rks4
+ParamVariation52=ParameterName=Part Number|VariantValue=40603533
+ParamDesignator52=Rks4
+ParamVariation53=ParameterName=PCB3D|VariantValue= 
+ParamDesignator53=Rks4
+ParamVariation54=ParameterName=Pin Count|VariantValue=2
+ParamDesignator54=Rks4
+ParamVariation55=ParameterName=Power|VariantValue=0.1W, 1/10W
+ParamDesignator55=Rks4
+ParamVariation56=ParameterName=ROHS|VariantValue=YES
+ParamDesignator56=Rks4
+ParamVariation57=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator57=Rks4
+ParamVariation58=ParameterName=Simulation|VariantValue= 
+ParamDesignator58=Rks4
+ParamVariation59=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator59=Rks4
+ParamVariation60=ParameterName=Supplier Part Number 1|VariantValue=311-301KHRCT-ND
+ParamDesignator60=Rks4
+ParamVariation61=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator61=Rks4
+ParamVariation62=ParameterName=Temperature Coefficient|VariantValue=±100ppm/°C
+ParamDesignator62=Rks4
+ParamVariation63=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator63=Rks4
+ParamVariation64=ParameterName=Value|VariantValue=301K
+ParamDesignator64=Rks4
+ParamVariation65=ParameterName=Voltage|VariantValue=75V
+ParamDesignator65=Rks4
+ParamVariation66=ParameterName=3D_model|VariantValue= 
+ParamDesignator66=Rks4
+ParamVariation67=ParameterName=IBIS_model|VariantValue= 
+ParamDesignator67=Rks4
+ParamVariation68=ParameterName=Is_verified|VariantValue= 
+ParamDesignator68=Rks4
+ParamVariation69=ParameterName=Supplier 2|VariantValue= 
+ParamDesignator69=Rks4
+ParamVariation70=ParameterName=Supplier 3|VariantValue= 
+ParamDesignator70=Rks4
+ParamVariation71=ParameterName=Supplier 4|VariantValue= 
+ParamDesignator71=Rks4
+ParamVariation72=ParameterName=Supplier Part Number 2|VariantValue= 
+ParamDesignator72=Rks4
+ParamVariation73=ParameterName=Supplier Part Number 3|VariantValue= 
+ParamDesignator73=Rks4
+ParamVariation74=ParameterName=Supplier Part Number 4|VariantValue= 
+ParamDesignator74=Rks4
+Variation10=Designator=Cm1|UniqueId=\YUBLBQKU\MPRDPLGU|Kind=1|AlternatePart= 
+Variation11=Designator=Rm2|UniqueId=\YUBLBQKU\KFTVMLFD|Kind=1|AlternatePart= 
+Variation12=Designator=Um1|UniqueId=\YUBLBQKU\BXFKJQFQ|Kind=1|AlternatePart= 
+Variation13=Designator=Rm1|UniqueId=\YUBLBQKU\QQBVERPG|Kind=1|AlternatePart= 
+Variation14=Designator=Rh2|UniqueId=\YUBLBQKU\OODLCSKI|Kind=1|AlternatePart= 
+Variation15=Designator=Qh1|UniqueId=\YUBLBQKU\HTNRJPCV|Kind=1|AlternatePart= 
+Variation16=Designator=Rh3|UniqueId=\YUBLBQKU\WCMKCPLO|Kind=1|AlternatePart= 
+Variation17=Designator=Rh1|UniqueId=\YUBLBQKU\MFHOMLWT|Kind=1|AlternatePart= 
+Variation18=Designator=Qh2|UniqueId=\YUBLBQKU\UCCNXMEY|Kind=1|AlternatePart= 
+Variation19=Designator=P1|UniqueId=\YUBLBQKU\AKYLTCDL|Kind=1|AlternatePart= 
+Variation20=Designator=U2|UniqueId=\MBGGRQSP\FWDGTEDL|Kind=1|AlternatePart= 
+Variation21=Designator=Rks1|UniqueId=\MBGGRQSP\BKTMUGCA|Kind=1|AlternatePart= 
+Variation22=Designator=R100|UniqueId=\MBGGRQSP\DBPEUHFA|Kind=1|AlternatePart= 
+Variation23=Designator=Q4|UniqueId=\MBGGRQSP\QCPNUOBH|Kind=1|AlternatePart= 
+Variation24=Designator=U3|UniqueId=\MBGGRQSP\HNRVQVJS|Kind=1|AlternatePart= 
+Variation25=Designator=U4|UniqueId=\MBGGRQSP\HOOORXCD|Kind=1|AlternatePart= 
+Variation26=Designator=Cc2|UniqueId=\MBGGRQSP\NMNKDNND|Kind=1|AlternatePart= 
+Variation27=Designator=Rc4|UniqueId=\MBGGRQSP\XGBTUKGC|Kind=1|AlternatePart= 
+Variation28=Designator=Rc1|UniqueId=\MBGGRQSP\GQSAYYHY|Kind=1|AlternatePart= 
+Variation29=Designator=Cc1|UniqueId=\MBGGRQSP\VUMERSLK|Kind=1|AlternatePart= 
+Variation30=Designator=R2|UniqueId=\MBGGRQSP\TODDCYKH|Kind=1|AlternatePart= 
+Variation31=Designator=D1|UniqueId=\MBGGRQSP\LEBIDBGA|Kind=1|AlternatePart= 
+Variation32=Designator=C1|UniqueId=\MBGGRQSP\MSTGMSBT|Kind=1|AlternatePart= 
+Variation33=Designator=C3|UniqueId=\MBGGRQSP\ALDPIHQT|Kind=1|AlternatePart= 
+Variation34=Designator=U10|UniqueId=\MBGGRQSP\HUKBELNH|Kind=1|AlternatePart= 
+Variation35=Designator=C8|UniqueId=\MBGGRQSP\YMRHMOYR|Kind=1|AlternatePart= 
+Variation36=Designator=R4|UniqueId=\MBGGRQSP\SWWXTHUR|Kind=1|AlternatePart= 
+Variation37=Designator=U11|UniqueId=\MBGGRQSP\PIGUEDMA|Kind=1|AlternatePart= 
+Variation38=Designator=PBAT1|UniqueId=\CNAWSKHQ|Kind=1|AlternatePart= 
+Variation39=Designator=PBAT2|UniqueId=\KMIPGXTG|Kind=1|AlternatePart= 
+Variation40=Designator=PGND1|UniqueId=\OWYGPNOK|Kind=1|AlternatePart= 
+Variation41=Designator=P2|UniqueId=\DQTFNHYW\TESXGINA|Kind=1|AlternatePart= 
+Variation42=Designator=Y1|UniqueId=\DQTFNHYW\QKSGVPLV|Kind=1|AlternatePart= 
+Variation43=Designator=CXTAL1|UniqueId=\DQTFNHYW\ADCRQFWW|Kind=1|AlternatePart= 
+Variation44=Designator=CXTAL2|UniqueId=\DQTFNHYW\MVLTKCWY|Kind=1|AlternatePart= 
+Variation45=Designator=R16|UniqueId=\DQTFNHYW\BYQVBTXF|Kind=1|AlternatePart= 
+Variation46=Designator=R17|UniqueId=\DQTFNHYW\YCAXDBUY|Kind=1|AlternatePart= 
+Variation47=Designator=U1|UniqueId=\DQTFNHYW\PKPTPPRQ|Kind=1|AlternatePart= 
+Variation48=Designator=C4|UniqueId=\DQTFNHYW\FYFKLBGJ|Kind=1|AlternatePart= 
+Variation49=Designator=C17|UniqueId=\DQTFNHYW\OANMXIEW|Kind=1|AlternatePart= 
+Variation50=Designator=C18|UniqueId=\DQTFNHYW\EAQIAJBP|Kind=1|AlternatePart= 
+Variation51=Designator=C19|UniqueId=\DQTFNHYW\KUGIYUON|Kind=1|AlternatePart= 
+Variation52=Designator=L3|UniqueId=\DQTFNHYW\NXFYHNPK|Kind=1|AlternatePart= 
+Variation53=Designator=C20|UniqueId=\DQTFNHYW\IPROKPMX|Kind=1|AlternatePart= 
+Variation54=Designator=C21|UniqueId=\DQTFNHYW\EGBILEQS|Kind=1|AlternatePart= 
+Variation55=Designator=R40|UniqueId=\DQTFNHYW\RQYMNJKW|Kind=1|AlternatePart= 
+Variation56=Designator=Q201|UniqueId=\DQTFNHYW\BTTHWMXN|Kind=1|AlternatePart= 
+Variation57=Designator=R37|UniqueId=\DQTFNHYW\EQGVCTQV|Kind=1|AlternatePart= 
+Variation58=Designator=R39|UniqueId=\DQTFNHYW\RRDIOIPR|Kind=1|AlternatePart= 
+Variation59=Designator=C10|UniqueId=\DQTFNHYW\UYXDSMYB|Kind=1|AlternatePart= 
+Variation60=Designator=R38|UniqueId=\DQTFNHYW\SLIADRVS|Kind=1|AlternatePart= 
+Variation61=Designator=U6|UniqueId=\DQTFNHYW\MUXOKCLY|Kind=1|AlternatePart= 
+Variation62=Designator=C11|UniqueId=\DQTFNHYW\YYBDDFNC|Kind=1|AlternatePart= 
+ParamVariationCount=74
+
+[ProjectVariant4]
+UniqueID=A6E9CA81-04EB-49CA-9003-38BDE969E365
+Description=default_SMD
+AllowFabrication=0
+ParameterCount=0
+VariationCount=13
+Variation1=Designator=C100|UniqueId=\MBGGRQSP\URTLOOOA|Kind=1|AlternatePart= 
+Variation2=Designator=Rks3|UniqueId=\MBGGRQSP\GNSRMPGF|Kind=1|AlternatePart= 
+Variation3=Designator=Rks4|UniqueId=\MBGGRQSP\CUITKQAQ|Kind=1|AlternatePart= 
+Variation4=Designator=Rks2|UniqueId=\MBGGRQSP\TRPFXJTT|Kind=1|AlternatePart= 
+Variation5=Designator=Qks|UniqueId=\MBGGRQSP\CWUPSJEH|Kind=1|AlternatePart= 
+Variation6=Designator=C101|UniqueId=\MBGGRQSP\IGQTUJGP|Kind=1|AlternatePart= 
+Variation7=Designator=Rbatm|UniqueId=\MBGGRQSP\FJQBEAEN|Kind=1|AlternatePart= 
+Variation8=Designator=R1|UniqueId=\MBGGRQSP\CLLQCUMK|Kind=1|AlternatePart= 
+Variation9=Designator=R3|UniqueId=\MBGGRQSP\SFMLBAWL|Kind=1|AlternatePart= 
+Variation10=Designator=Qscl|UniqueId=\DQTFNHYW\MPHRTXAA|Kind=1|AlternatePart= 
+Variation11=Designator=Rscl|UniqueId=\DQTFNHYW\NIFVEDYS|Kind=1|AlternatePart= 
+Variation12=Designator=Qsda|UniqueId=\DQTFNHYW\PQLDYKLU|Kind=1|AlternatePart= 
+Variation13=Designator=Rsda|UniqueId=\DQTFNHYW\RBXGPLWI|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project_Outputs\Design Rule Check - nanopower-bpx.html
+DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_default_SMD.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\..\..\..\..\..\..\..\Desktop\nanopower-bpx.xls
+DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P31U_(8V_2S-4P and 16V_4S-2P).xls
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P60_(8V_2S-4P and 16V_4S-2P).xls
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P60_(32V_8S-2P).xls
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -174,7 +548,6 @@ ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
-GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_SmartPDF]
@@ -214,7 +587,7 @@ OutputDir=Project_Outputs
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=RICOH Class Driver
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -231,107 +604,42 @@ OutputName3=VHDL File
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=CadnetixNetlist
-OutputName4=Cadnetix Netlist
+OutputType4=SIMetrixNetlist
+OutputName4=SIMetrix
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=CalayNetlist
-OutputName5=Calay Netlist
+OutputType5=SIMPLISNetlist
+OutputName5=SIMPLIS
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=EDIF
-OutputName6=EDIF for PCB
+OutputType6=XSpiceNetlist
+OutputName6=XSpice Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=EESofNetlist
-OutputName7=EESof Netlist
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-OutputType8=IntergraphNetlist
-OutputName8=Intergraph Netlist
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
-OutputType9=MentorBoardStationNetlist
-OutputName9=Mentor BoardStation Netlist
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-OutputType10=MultiWire
-OutputName10=MultiWire
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=OrCadPCB2Netlist
-OutputName11=Orcad/PCB2 Netlist
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=PADSNetlist
-OutputName12=PADS ASCII Netlist
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Pcad
-OutputName13=Pcad for PCB
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=PCADnltNetlist
-OutputName14=PCADnlt Netlist
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Protel2Netlist
-OutputName15=Protel2 Netlist
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=ProtelNetlist
-OutputName16=Protel
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=RacalNetlist
-OutputName17=Racal Netlist
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=RINFNetlist
-OutputName18=RINF Netlist
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-OutputType19=SciCardsNetlist
-OutputName19=SciCards Netlist
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-OutputType20=TangoNetlist
-OutputName20=Tango Netlist
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-OutputType21=TelesisNetlist
-OutputName21=Telesis Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=WireListNetlist
-OutputName22=WireList Netlist
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=RICOH Class Driver
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -442,17 +750,29 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType18=Logic Analyser Print
-OutputName18=Logic Analyser Prints
+OutputType18=PDF3D
+OutputName18=PDF3D
 OutputDocumentPath18=
-OutputVariantName18=
+OutputVariantName18=[No Variations]
 OutputDefault18=0
 PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType19=Logic Analyser Print
+OutputName19=Logic Analyser Prints
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType20=PCBDrawing
+OutputName20=Draftsman
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=RICOH Class Driver
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -474,7 +794,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=RICOH Class Driver
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Drill
 OutputName1=Drill Drawing/Guides
@@ -541,11 +861,16 @@ OutputName11=Gerber X2 Files
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=IPC2581
+OutputName12=IPC-2581 Files
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=RICOH Class Driver
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -586,7 +911,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=RICOH Class Driver
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -766,7 +1091,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=RICOH Class Driver
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -805,7 +1130,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=RICOH Class Driver
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -827,16 +1152,6 @@ OutputName4=Export STEP
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=NetList Sch
-OutputName5=NetList Sch
-OutputDocumentPath5=
-OutputVariantName5=
-OutputDefault5=0
-OutputType6=PDF3D
-OutputName6=Export PDF3D
-OutputDocumentPath6=
-OutputVariantName6=
-OutputDefault6=0
 
 [Modification Levels]
 Type1=1
@@ -917,6 +1232,8 @@ Type75=1
 Type76=1
 Type77=1
 Type78=1
+Type79=1
+Type80=1
 
 [Difference Levels]
 Type1=1
@@ -962,6 +1279,8 @@ Type40=1
 Type41=1
 Type42=1
 Type43=1
+Type44=0
+Type45=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1120,179 +1439,191 @@ SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=GomSpace_Database_Libs.DbLib/Capacitors$
-ComponentDesignItemID0=10000004
+ComponentLibraryIdentifier0=GomSpace_Database_Libs.DbLib/Cap_Murata$
+ComponentDesignItemID0=10603304
 ComponentSymbolReference0=Capacitor np
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=GomSpace_Database_Libs.DbLib/Capacitors$
-ComponentDesignItemID1=10000012
+ComponentDesignItemID1=10000004
 ComponentSymbolReference1=Capacitor np
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=GomSpace_Database_Libs.DbLib/Capacitors$
-ComponentDesignItemID2=10000014
+ComponentDesignItemID2=10000012
 ComponentSymbolReference2=Capacitor np
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=GomSpace_Database_Libs.DbLib/Connectors$
-ComponentDesignItemID3=12000004
-ComponentSymbolReference3=Header 14
+ComponentLibraryIdentifier3=GomSpace_Database_Libs.DbLib/Capacitors$
+ComponentDesignItemID3=10000014
+ComponentSymbolReference3=Capacitor np
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=GomSpace_Database_Libs.DbLib/Connectors$
-ComponentDesignItemID4=12000007
-ComponentSymbolReference4=Header 9
+ComponentDesignItemID4=12000004
+ComponentSymbolReference4=Header 14
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=GomSpace_Database_Libs.DbLib/Connectors$
-ComponentDesignItemID5=12000008
-ComponentSymbolReference5=Header 8
+ComponentDesignItemID5=12000007
+ComponentSymbolReference5=Header 9
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=GomSpace_Database_Libs.DbLib/Connectors$
-ComponentDesignItemID6=12000009
+ComponentDesignItemID6=12000008
 ComponentSymbolReference6=Header 8
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=GomSpace_Database_Libs.DbLib/Diodes$
-ComponentDesignItemID7=20000000
-ComponentSymbolReference7=D Schottky
+ComponentLibraryIdentifier7=GomSpace_Database_Libs.DbLib/Connectors$
+ComponentDesignItemID7=12000009
+ComponentSymbolReference7=Header 8
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=GomSpace_Database_Libs.DbLib/FET$
-ComponentDesignItemID8=70000000
-ComponentSymbolReference8=BSC067N06LS3 G
+ComponentLibraryIdentifier8=GomSpace_Database_Libs.DbLib/Diodes$
+ComponentDesignItemID8=20000000
+ComponentSymbolReference8=D Schottky
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=GomSpace_Database_Libs.DbLib/FET$
-ComponentDesignItemID9=70000001
-ComponentSymbolReference9=P-FET_PowerPAK
+ComponentDesignItemID9=70000000
+ComponentSymbolReference9=BSC067N06LS3 G
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=GomSpace_Database_Libs.DbLib/FET$
-ComponentDesignItemID10=70000002
-ComponentSymbolReference10=MOSFET-N
+ComponentDesignItemID10=70000001
+ComponentSymbolReference10=P-FET_PowerPAK
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=GomSpace_Database_Libs.DbLib/FET$
-ComponentDesignItemID11=70000003
-ComponentSymbolReference11=MOSFET-P
+ComponentDesignItemID11=70000002
+ComponentSymbolReference11=MOSFET-N
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=GomSpace_Database_Libs.DbLib/FET$
-ComponentDesignItemID12=70000004
-ComponentSymbolReference12=MOSFET-N
+ComponentDesignItemID12=70000003
+ComponentSymbolReference12=MOSFET-P
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID13=60000017
-ComponentSymbolReference13=ATmega128
+ComponentLibraryIdentifier13=GomSpace_Database_Libs.DbLib/FET$
+ComponentDesignItemID13=70000004
+ComponentSymbolReference13=MOSFET-N
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID14=60000018
-ComponentSymbolReference14=LT4363
+ComponentDesignItemID14=60000017
+ComponentSymbolReference14=ATmega128
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID15=60000019
-ComponentSymbolReference15=TPS22945DCKR
+ComponentDesignItemID15=60000018
+ComponentSymbolReference15=LT4363
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID16=60000020
-ComponentSymbolReference16=INA169
+ComponentDesignItemID16=60000019
+ComponentSymbolReference16=TPS22945DCKR
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID17=60000021
-ComponentSymbolReference17=LM4040AIM3-2.5
+ComponentDesignItemID17=60000020
+ComponentSymbolReference17=INA169
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=GomSpace_Database_Libs.DbLib/Inductors$
-ComponentDesignItemID18=30000001
-ComponentSymbolReference18=inductor
+ComponentLibraryIdentifier18=GomSpace_Database_Libs.DbLib/IC$
+ComponentDesignItemID18=60000021
+ComponentSymbolReference18=LM4040AIM3-2.5
 ComponentUpdate18=1
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=GomSpace_Database_Libs.DbLib/LDO$
-ComponentDesignItemID19=13000001
-ComponentSymbolReference19=TPS7A1633DGNT
+ComponentLibraryIdentifier19=GomSpace_Database_Libs.DbLib/Inductors$
+ComponentDesignItemID19=30000001
+ComponentSymbolReference19=inductor
 ComponentUpdate19=1
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=GomSpace_Database_Libs.DbLib/Resistors$
-ComponentDesignItemID20=40000014
-ComponentSymbolReference20=Res
+ComponentLibraryIdentifier20=GomSpace_Database_Libs.DbLib/LDO$
+ComponentDesignItemID20=13000001
+ComponentSymbolReference20=TPS7A1633DGNT
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
 ComponentLibraryIdentifier21=GomSpace_Database_Libs.DbLib/Resistors$
-ComponentDesignItemID21=46030500
+ComponentDesignItemID21=40000014
 ComponentSymbolReference21=Res
 ComponentUpdate21=1
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=GomSpace_Database_Libs.DbLib/XTAL$
-ComponentDesignItemID22=90000000
-ComponentSymbolReference22=XTAL-CC7V-T1A
+ComponentLibraryIdentifier22=GomSpace_Database_Libs.DbLib/Resistors$
+ComponentDesignItemID22=46030500
+ComponentSymbolReference22=Res
 ComponentUpdate22=1
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=GomSpace_Database_Libs.DbLib/Yageo$
-ComponentDesignItemID23=40603000
-ComponentSymbolReference23=Res
+ComponentLibraryIdentifier23=GomSpace_Database_Libs.DbLib/XTAL$
+ComponentDesignItemID23=90000000
+ComponentSymbolReference23=XTAL-CC7V-T1A
 ComponentUpdate23=1
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
 ComponentLibraryIdentifier24=GomSpace_Database_Libs.DbLib/Yageo$
-ComponentDesignItemID24=40603024
+ComponentDesignItemID24=40603000
 ComponentSymbolReference24=Res
 ComponentUpdate24=1
 ComponentIsDeviceSheet24=0
 ComponentLibIdentifierKind25=Library Name And Type
 ComponentLibraryIdentifier25=GomSpace_Database_Libs.DbLib/Yageo$
-ComponentDesignItemID25=40603270
+ComponentDesignItemID25=40603024
 ComponentSymbolReference25=Res
 ComponentUpdate25=1
 ComponentIsDeviceSheet25=0
 ComponentLibIdentifierKind26=Library Name And Type
 ComponentLibraryIdentifier26=GomSpace_Database_Libs.DbLib/Yageo$
-ComponentDesignItemID26=40603408
+ComponentDesignItemID26=40603270
 ComponentSymbolReference26=Res
 ComponentUpdate26=1
 ComponentIsDeviceSheet26=0
 ComponentLibIdentifierKind27=Library Name And Type
 ComponentLibraryIdentifier27=GomSpace_Database_Libs.DbLib/Yageo$
-ComponentDesignItemID27=40603445
+ComponentDesignItemID27=40603366
 ComponentSymbolReference27=Res
 ComponentUpdate27=1
 ComponentIsDeviceSheet27=0
 ComponentLibIdentifierKind28=Library Name And Type
 ComponentLibraryIdentifier28=GomSpace_Database_Libs.DbLib/Yageo$
-ComponentDesignItemID28=40603533
+ComponentDesignItemID28=40603408
 ComponentSymbolReference28=Res
 ComponentUpdate28=1
 ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name And Type
+ComponentLibraryIdentifier29=GomSpace_Database_Libs.DbLib/Yageo$
+ComponentDesignItemID29=40603445
+ComponentSymbolReference29=Res
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name And Type
+ComponentLibraryIdentifier30=GomSpace_Database_Libs.DbLib/Yageo$
+ComponentDesignItemID30=40603533
+ComponentSymbolReference30=Res
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1308,43 +1639,43 @@ RemoveModels=1
 UpdateCurrentModels=1
 ParameterName0=3D_model
 ParameterUpdate0=1
-ParameterName1=Code_JEDEC
+ParameterName1=Author
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Code_JEDEC
 ParameterUpdate2=1
-ParameterName3=Component Kind
+ParameterName3=Comment
 ParameterUpdate3=1
-ParameterName4=ComponentLink1Description
+ParameterName4=Component Kind
 ParameterUpdate4=1
-ParameterName5=ComponentLink1URL
+ParameterName5=ComponentLink1Description
 ParameterUpdate5=1
-ParameterName6=ComponentLink2Description
+ParameterName6=ComponentLink1URL
 ParameterUpdate6=1
-ParameterName7=ComponentLink2URL
+ParameterName7=ComponentLink2Description
 ParameterUpdate7=1
-ParameterName8=ComponentLink3Description
+ParameterName8=ComponentLink2URL
 ParameterUpdate8=1
-ParameterName9=ComponentLink3URL
+ParameterName9=ComponentLink3Description
 ParameterUpdate9=1
-ParameterName10=ComponentLink4URL
+ParameterName10=ComponentLink3URL
 ParameterUpdate10=1
-ParameterName11=CompType
+ParameterName11=ComponentLink4URL
 ParameterUpdate11=1
-ParameterName12=Current - Average Rectified (Io)
+ParameterName12=CompType
 ParameterUpdate12=1
-ParameterName13=Current Rating
+ParameterName13=Current - Average Rectified (Io)
 ParameterUpdate13=1
-ParameterName14=Datasheet
+ParameterName14=Current Rating
 ParameterUpdate14=1
-ParameterName15=DatasheetVersion
+ParameterName15=Datasheet
 ParameterUpdate15=1
-ParameterName16=DC Resistance (DCR)
+ParameterName16=DatasheetVersion
 ParameterUpdate16=1
-ParameterName17=Description
+ParameterName17=DC Resistance (DCR)
 ParameterUpdate17=1
-ParameterName18=DigiKeyPartNumber
+ParameterName18=Description
 ParameterUpdate18=1
-ParameterName19=F33
+ParameterName19=DigiKeyPartNumber
 ParameterUpdate19=1
 ParameterName20=F34
 ParameterUpdate20=1
@@ -1470,30 +1801,26 @@ ParameterName80=Temperature
 ParameterUpdate80=1
 ParameterName81=Temperature Coefficient
 ParameterUpdate81=1
-ParameterName82=Temperature Coefficient 
+ParameterName82=Tolerance
 ParameterUpdate82=1
-ParameterName83=Tolerance
+ParameterName83=Value
 ParameterUpdate83=1
-ParameterName84=Value
+ParameterName84=VDS (max)
 ParameterUpdate84=1
-ParameterName85=VDS (max)
+ParameterName85=VGS(th) (max)
 ParameterUpdate85=1
-ParameterName86=VGS(th) (max)
+ParameterName86=VGS(th) (min)
 ParameterUpdate86=1
-ParameterName87=VGS(th) (min)
+ParameterName87=VIN
 ParameterUpdate87=1
-ParameterName88=VIN
+ParameterName88=Voltage
 ParameterUpdate88=1
-ParameterName89=Voltage
+ParameterName89=Voltage - DC Reverse (Vr) (Max)
 ParameterUpdate89=1
-ParameterName90=Voltage - DC Reverse (Vr) (Max)
+ParameterName90=Voltage - Forward (Vf) (Max) @ If
 ParameterUpdate90=1
-ParameterName91=Voltage - Forward (Vf) (Max) @ If
+ParameterName91=VOUT
 ParameterUpdate91=1
-ParameterName92=Voltage - Forward (Vf) (Max) @ If 
-ParameterUpdate92=1
-ParameterName93=VOUT
-ParameterUpdate93=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
@@ -1559,179 +1886,191 @@ SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=GomSpace_Database_Libs.DbLib/Capacitors$
-ComponentDesignItemID0=10000004
+ComponentLibraryIdentifier0=GomSpace_Database_Libs.DbLib/Cap_Murata$
+ComponentDesignItemID0=10603304
 ComponentSymbolReference0=Capacitor np
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=GomSpace_Database_Libs.DbLib/Capacitors$
-ComponentDesignItemID1=10000012
+ComponentDesignItemID1=10000004
 ComponentSymbolReference1=Capacitor np
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=GomSpace_Database_Libs.DbLib/Capacitors$
-ComponentDesignItemID2=10000014
+ComponentDesignItemID2=10000012
 ComponentSymbolReference2=Capacitor np
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=GomSpace_Database_Libs.DbLib/Connectors$
-ComponentDesignItemID3=12000004
-ComponentSymbolReference3=Header 14
+ComponentLibraryIdentifier3=GomSpace_Database_Libs.DbLib/Capacitors$
+ComponentDesignItemID3=10000014
+ComponentSymbolReference3=Capacitor np
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=GomSpace_Database_Libs.DbLib/Connectors$
-ComponentDesignItemID4=12000007
-ComponentSymbolReference4=Header 9
+ComponentDesignItemID4=12000004
+ComponentSymbolReference4=Header 14
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=GomSpace_Database_Libs.DbLib/Connectors$
-ComponentDesignItemID5=12000008
-ComponentSymbolReference5=Header 8
+ComponentDesignItemID5=12000007
+ComponentSymbolReference5=Header 9
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=GomSpace_Database_Libs.DbLib/Connectors$
-ComponentDesignItemID6=12000009
+ComponentDesignItemID6=12000008
 ComponentSymbolReference6=Header 8
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=GomSpace_Database_Libs.DbLib/Diodes$
-ComponentDesignItemID7=20000000
-ComponentSymbolReference7=D Schottky
+ComponentLibraryIdentifier7=GomSpace_Database_Libs.DbLib/Connectors$
+ComponentDesignItemID7=12000009
+ComponentSymbolReference7=Header 8
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=GomSpace_Database_Libs.DbLib/FET$
-ComponentDesignItemID8=70000000
-ComponentSymbolReference8=BSC067N06LS3 G
+ComponentLibraryIdentifier8=GomSpace_Database_Libs.DbLib/Diodes$
+ComponentDesignItemID8=20000000
+ComponentSymbolReference8=D Schottky
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=GomSpace_Database_Libs.DbLib/FET$
-ComponentDesignItemID9=70000001
-ComponentSymbolReference9=P-FET_PowerPAK
+ComponentDesignItemID9=70000000
+ComponentSymbolReference9=BSC067N06LS3 G
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=GomSpace_Database_Libs.DbLib/FET$
-ComponentDesignItemID10=70000002
-ComponentSymbolReference10=MOSFET-N
+ComponentDesignItemID10=70000001
+ComponentSymbolReference10=P-FET_PowerPAK
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=GomSpace_Database_Libs.DbLib/FET$
-ComponentDesignItemID11=70000003
-ComponentSymbolReference11=MOSFET-P
+ComponentDesignItemID11=70000002
+ComponentSymbolReference11=MOSFET-N
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=GomSpace_Database_Libs.DbLib/FET$
-ComponentDesignItemID12=70000004
-ComponentSymbolReference12=MOSFET-N
+ComponentDesignItemID12=70000003
+ComponentSymbolReference12=MOSFET-P
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID13=60000017
-ComponentSymbolReference13=ATmega128
+ComponentLibraryIdentifier13=GomSpace_Database_Libs.DbLib/FET$
+ComponentDesignItemID13=70000004
+ComponentSymbolReference13=MOSFET-N
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID14=60000018
-ComponentSymbolReference14=LT4363
+ComponentDesignItemID14=60000017
+ComponentSymbolReference14=ATmega128
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID15=60000019
-ComponentSymbolReference15=TPS22945DCKR
+ComponentDesignItemID15=60000018
+ComponentSymbolReference15=LT4363
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID16=60000020
-ComponentSymbolReference16=INA169
+ComponentDesignItemID16=60000019
+ComponentSymbolReference16=TPS22945DCKR
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID17=60000021
-ComponentSymbolReference17=LM4040AIM3-2.5
+ComponentDesignItemID17=60000020
+ComponentSymbolReference17=INA169
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=GomSpace_Database_Libs.DbLib/Inductors$
-ComponentDesignItemID18=30000001
-ComponentSymbolReference18=inductor
+ComponentLibraryIdentifier18=GomSpace_Database_Libs.DbLib/IC$
+ComponentDesignItemID18=60000021
+ComponentSymbolReference18=LM4040AIM3-2.5
 ComponentUpdate18=1
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=GomSpace_Database_Libs.DbLib/LDO$
-ComponentDesignItemID19=13000001
-ComponentSymbolReference19=TPS7A1633DGNT
+ComponentLibraryIdentifier19=GomSpace_Database_Libs.DbLib/Inductors$
+ComponentDesignItemID19=30000001
+ComponentSymbolReference19=inductor
 ComponentUpdate19=1
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=GomSpace_Database_Libs.DbLib/Resistors$
-ComponentDesignItemID20=40000014
-ComponentSymbolReference20=Res
+ComponentLibraryIdentifier20=GomSpace_Database_Libs.DbLib/LDO$
+ComponentDesignItemID20=13000001
+ComponentSymbolReference20=TPS7A1633DGNT
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
 ComponentLibraryIdentifier21=GomSpace_Database_Libs.DbLib/Resistors$
-ComponentDesignItemID21=46030500
+ComponentDesignItemID21=40000014
 ComponentSymbolReference21=Res
 ComponentUpdate21=1
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=GomSpace_Database_Libs.DbLib/XTAL$
-ComponentDesignItemID22=90000000
-ComponentSymbolReference22=XTAL-CC7V-T1A
+ComponentLibraryIdentifier22=GomSpace_Database_Libs.DbLib/Resistors$
+ComponentDesignItemID22=46030500
+ComponentSymbolReference22=Res
 ComponentUpdate22=1
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=GomSpace_Database_Libs.DbLib/Yageo$
-ComponentDesignItemID23=40603000
-ComponentSymbolReference23=Res
+ComponentLibraryIdentifier23=GomSpace_Database_Libs.DbLib/XTAL$
+ComponentDesignItemID23=90000000
+ComponentSymbolReference23=XTAL-CC7V-T1A
 ComponentUpdate23=1
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
 ComponentLibraryIdentifier24=GomSpace_Database_Libs.DbLib/Yageo$
-ComponentDesignItemID24=40603024
+ComponentDesignItemID24=40603000
 ComponentSymbolReference24=Res
 ComponentUpdate24=1
 ComponentIsDeviceSheet24=0
 ComponentLibIdentifierKind25=Library Name And Type
 ComponentLibraryIdentifier25=GomSpace_Database_Libs.DbLib/Yageo$
-ComponentDesignItemID25=40603270
+ComponentDesignItemID25=40603024
 ComponentSymbolReference25=Res
 ComponentUpdate25=1
 ComponentIsDeviceSheet25=0
 ComponentLibIdentifierKind26=Library Name And Type
 ComponentLibraryIdentifier26=GomSpace_Database_Libs.DbLib/Yageo$
-ComponentDesignItemID26=40603408
+ComponentDesignItemID26=40603270
 ComponentSymbolReference26=Res
 ComponentUpdate26=1
 ComponentIsDeviceSheet26=0
 ComponentLibIdentifierKind27=Library Name And Type
 ComponentLibraryIdentifier27=GomSpace_Database_Libs.DbLib/Yageo$
-ComponentDesignItemID27=40603445
+ComponentDesignItemID27=40603366
 ComponentSymbolReference27=Res
 ComponentUpdate27=1
 ComponentIsDeviceSheet27=0
 ComponentLibIdentifierKind28=Library Name And Type
 ComponentLibraryIdentifier28=GomSpace_Database_Libs.DbLib/Yageo$
-ComponentDesignItemID28=40603533
+ComponentDesignItemID28=40603408
 ComponentSymbolReference28=Res
 ComponentUpdate28=1
 ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name And Type
+ComponentLibraryIdentifier29=GomSpace_Database_Libs.DbLib/Yageo$
+ComponentDesignItemID29=40603445
+ComponentSymbolReference29=Res
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name And Type
+ComponentLibraryIdentifier30=GomSpace_Database_Libs.DbLib/Yageo$
+ComponentDesignItemID30=40603533
+ComponentSymbolReference30=Res
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
