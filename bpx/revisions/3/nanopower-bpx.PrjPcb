@@ -283,164 +283,306 @@ UniqueID=380C8D51-32E7-494D-8868-69FF13F35365
 Description=P60_(32V_8S-2P)
 AllowFabrication=0
 ParameterCount=0
-VariationCount=62
+VariationCount=63
 Variation1=Designator=Qscl|UniqueId=\DQTFNHYW\MPHRTXAA|Kind=1|AlternatePart= 
 Variation2=Designator=Rscl|UniqueId=\DQTFNHYW\NIFVEDYS|Kind=1|AlternatePart= 
 Variation3=Designator=Qsda|UniqueId=\DQTFNHYW\PQLDYKLU|Kind=1|AlternatePart= 
 Variation4=Designator=Rsda|UniqueId=\DQTFNHYW\RBXGPLWI|Kind=1|AlternatePart= 
-Variation5=Designator=C100|UniqueId=\MBGGRQSP\URTLOOOA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Cap_Murata$|AltLibLink_SymbolReference=Capacitor np|AltLibLink_DesignItemID=10603304|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Cap_Murata$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
+Variation5=Designator=C101|UniqueId=\MBGGRQSP\IGQTUJGP|Kind=1|AlternatePart= 
+Variation6=Designator=Rks3|UniqueId=\MBGGRQSP\GNSRMPGF|Kind=1|AlternatePart= 
+Variation7=Designator=R3|UniqueId=\MBGGRQSP\SFMLBAWL|Kind=1|AlternatePart= 
+Variation8=Designator=Rks4|UniqueId=\MBGGRQSP\CUITKQAQ|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Yageo$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=40603533|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC0603(1608)_N|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Value
-ParamDesignator1=C100
+ParamDesignator1=Rks4
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator2=C100
-ParamVariation3=ParameterName=Database Table Name|VariantValue=Cap_Murata$
-ParamDesignator3=C100
-ParamVariation4=ParameterName=Datasheet|VariantValue=http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx
-ParamDesignator4=C100
-ParamVariation5=ParameterName=Description|VariantValue=CAP CER 1500pF 50V X7R 603 (1608 Metric)
-ParamDesignator5=C100
-ParamVariation6=ParameterName=Footprint|VariantValue=CAPC0603(1608)_N
-ParamDesignator6=C100
-ParamVariation7=ParameterName=Hight|VariantValue=0.035" (0.90mm)
-ParamDesignator7=C100
-ParamVariation8=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator8=C100
-ParamVariation9=ParameterName=Library Reference|VariantValue=10603304
-ParamDesignator9=C100
-ParamVariation10=ParameterName=Manufacturer|VariantValue=Murata
-ParamDesignator10=C100
-ParamVariation11=ParameterName=Manufacturer number|VariantValue=GRM188R71H152MA01D
-ParamDesignator11=C100
-ParamVariation12=ParameterName=Package|VariantValue=603 (1608 Metric)
-ParamDesignator12=C100
-ParamVariation13=ParameterName=Part_Type|VariantValue=Capacitor
-ParamDesignator13=C100
-ParamVariation14=ParameterName=Part Number|VariantValue=10603304
-ParamDesignator14=C100
-ParamVariation15=ParameterName=PCB3D|VariantValue= 
-ParamDesignator15=C100
-ParamVariation16=ParameterName=Pin Count|VariantValue=2
-ParamDesignator16=C100
-ParamVariation17=ParameterName=ROHS|VariantValue=YES
-ParamDesignator17=C100
-ParamVariation18=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator18=C100
-ParamVariation19=ParameterName=Simulation|VariantValue= 
-ParamDesignator19=C100
-ParamVariation20=ParameterName=Supplier 1|VariantValue=Digi-Key
-ParamDesignator20=C100
-ParamVariation21=ParameterName=Supplier Part Number 1|VariantValue=490-1497-1-ND
-ParamDesignator21=C100
-ParamVariation22=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
-ParamDesignator22=C100
-ParamVariation23=ParameterName=Temperature Coefficient|VariantValue=X7R
-ParamDesignator23=C100
-ParamVariation24=ParameterName=Tolerance|VariantValue=±20%
-ParamDesignator24=C100
-ParamVariation25=ParameterName=Value|VariantValue=1500pF
-ParamDesignator25=C100
-ParamVariation26=ParameterName=Voltage|VariantValue=50V
-ParamDesignator26=C100
-ParamVariation27=ParameterName=3D_model|VariantValue= 
-ParamDesignator27=C100
-ParamVariation28=ParameterName=IBIS_model|VariantValue= 
-ParamDesignator28=C100
-ParamVariation29=ParameterName=Is_verified|VariantValue= 
-ParamDesignator29=C100
-ParamVariation30=ParameterName=Ratings|VariantValue= 
-ParamDesignator30=C100
-ParamVariation31=ParameterName=self resonance|VariantValue= 
-ParamDesignator31=C100
+ParamDesignator2=Rks4
+ParamVariation3=ParameterName=Database Table Name|VariantValue=Yageo$
+ParamDesignator3=Rks4
+ParamVariation4=ParameterName=Datasheet|VariantValue=http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
+ParamDesignator4=Rks4
+ParamVariation5=ParameterName=Description|VariantValue=RES SMD 301K OHM 1% 1/10W 0603
+ParamDesignator5=Rks4
+ParamVariation6=ParameterName=Features|VariantValue=Moisture Resistant
+ParamDesignator6=Rks4
+ParamVariation7=ParameterName=Footprint|VariantValue=RESC0603(1608)_N
+ParamDesignator7=Rks4
+ParamVariation8=ParameterName=Hight|VariantValue=0.55mm
+ParamDesignator8=Rks4
+ParamVariation9=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator9=Rks4
+ParamVariation10=ParameterName=Library Reference|VariantValue=40603533
+ParamDesignator10=Rks4
+ParamVariation11=ParameterName=Manufacturer|VariantValue=Yageo
+ParamDesignator11=Rks4
+ParamVariation12=ParameterName=Manufacturer number|VariantValue=RC0603FR-07301KL
+ParamDesignator12=Rks4
+ParamVariation13=ParameterName=Package|VariantValue=0603
+ParamDesignator13=Rks4
+ParamVariation14=ParameterName=Part_Type|VariantValue=Resistor
+ParamDesignator14=Rks4
+ParamVariation15=ParameterName=Part Number|VariantValue=40603533
+ParamDesignator15=Rks4
+ParamVariation16=ParameterName=PCB3D|VariantValue= 
+ParamDesignator16=Rks4
+ParamVariation17=ParameterName=Pin Count|VariantValue=2
+ParamDesignator17=Rks4
+ParamVariation18=ParameterName=Power|VariantValue=0.1W, 1/10W
+ParamDesignator18=Rks4
+ParamVariation19=ParameterName=ROHS|VariantValue=YES
+ParamDesignator19=Rks4
+ParamVariation20=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator20=Rks4
+ParamVariation21=ParameterName=Simulation|VariantValue= 
+ParamDesignator21=Rks4
+ParamVariation22=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator22=Rks4
+ParamVariation23=ParameterName=Supplier Part Number 1|VariantValue=311-301KHRCT-ND
+ParamDesignator23=Rks4
+ParamVariation24=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator24=Rks4
+ParamVariation25=ParameterName=Temperature Coefficient|VariantValue=±100ppm/°C
+ParamDesignator25=Rks4
+ParamVariation26=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator26=Rks4
+ParamVariation27=ParameterName=Value|VariantValue=301K
+ParamDesignator27=Rks4
+ParamVariation28=ParameterName=Voltage|VariantValue=75V
+ParamDesignator28=Rks4
+ParamVariation29=ParameterName=3D_model|VariantValue= 
+ParamDesignator29=Rks4
+ParamVariation30=ParameterName=IBIS_model|VariantValue= 
+ParamDesignator30=Rks4
+ParamVariation31=ParameterName=Is_verified|VariantValue= 
+ParamDesignator31=Rks4
 ParamVariation32=ParameterName=Supplier 2|VariantValue= 
-ParamDesignator32=C100
+ParamDesignator32=Rks4
 ParamVariation33=ParameterName=Supplier 3|VariantValue= 
-ParamDesignator33=C100
-ParamVariation34=ParameterName=Supplier 4|VariantValue= 
-ParamDesignator34=C100
+ParamDesignator33=Rks4
+ParamVariation34=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamDesignator34=Rks4
 ParamVariation35=ParameterName=Supplier Part Number 2|VariantValue= 
-ParamDesignator35=C100
+ParamDesignator35=Rks4
 ParamVariation36=ParameterName=Supplier Part Number 3|VariantValue= 
-ParamDesignator36=C100
-ParamVariation37=ParameterName=Supplier Part Number 4|VariantValue= 
-ParamDesignator37=C100
+ParamDesignator36=Rks4
+ParamVariation37=ParameterName=Supplier Part Number 4|VariantValue=3466
+ParamDesignator37=Rks4
+Variation9=Designator=Cm1|UniqueId=\YUBLBQKU\MPRDPLGU|Kind=1|AlternatePart= 
+Variation10=Designator=Rm2|UniqueId=\YUBLBQKU\KFTVMLFD|Kind=1|AlternatePart= 
+Variation11=Designator=Um1|UniqueId=\YUBLBQKU\BXFKJQFQ|Kind=1|AlternatePart= 
+Variation12=Designator=Rm1|UniqueId=\YUBLBQKU\QQBVERPG|Kind=1|AlternatePart= 
+Variation13=Designator=Rh2|UniqueId=\YUBLBQKU\OODLCSKI|Kind=1|AlternatePart= 
+Variation14=Designator=Qh1|UniqueId=\YUBLBQKU\HTNRJPCV|Kind=1|AlternatePart= 
+Variation15=Designator=Rh3|UniqueId=\YUBLBQKU\WCMKCPLO|Kind=1|AlternatePart= 
+Variation16=Designator=Rh1|UniqueId=\YUBLBQKU\MFHOMLWT|Kind=1|AlternatePart= 
+Variation17=Designator=Qh2|UniqueId=\YUBLBQKU\UCCNXMEY|Kind=1|AlternatePart= 
+Variation18=Designator=P1|UniqueId=\YUBLBQKU\AKYLTCDL|Kind=1|AlternatePart= 
+Variation19=Designator=U2|UniqueId=\MBGGRQSP\FWDGTEDL|Kind=1|AlternatePart= 
+Variation20=Designator=Rks1|UniqueId=\MBGGRQSP\BKTMUGCA|Kind=1|AlternatePart= 
+Variation21=Designator=R100|UniqueId=\MBGGRQSP\DBPEUHFA|Kind=1|AlternatePart= 
+Variation22=Designator=Q4|UniqueId=\MBGGRQSP\QCPNUOBH|Kind=1|AlternatePart= 
+Variation23=Designator=U3|UniqueId=\MBGGRQSP\HNRVQVJS|Kind=1|AlternatePart= 
+Variation24=Designator=U4|UniqueId=\MBGGRQSP\HOOORXCD|Kind=1|AlternatePart= 
+Variation25=Designator=Cc2|UniqueId=\MBGGRQSP\NMNKDNND|Kind=1|AlternatePart= 
+Variation26=Designator=Rc4|UniqueId=\MBGGRQSP\XGBTUKGC|Kind=1|AlternatePart= 
+Variation27=Designator=Rc1|UniqueId=\MBGGRQSP\GQSAYYHY|Kind=1|AlternatePart= 
+Variation28=Designator=Cc1|UniqueId=\MBGGRQSP\VUMERSLK|Kind=1|AlternatePart= 
+Variation29=Designator=R2|UniqueId=\MBGGRQSP\TODDCYKH|Kind=1|AlternatePart= 
+Variation30=Designator=D1|UniqueId=\MBGGRQSP\LEBIDBGA|Kind=1|AlternatePart= 
+Variation31=Designator=C1|UniqueId=\MBGGRQSP\MSTGMSBT|Kind=1|AlternatePart= 
+Variation32=Designator=C3|UniqueId=\MBGGRQSP\ALDPIHQT|Kind=1|AlternatePart= 
+Variation33=Designator=U10|UniqueId=\MBGGRQSP\HUKBELNH|Kind=1|AlternatePart= 
+Variation34=Designator=C8|UniqueId=\MBGGRQSP\YMRHMOYR|Kind=1|AlternatePart= 
+Variation35=Designator=R4|UniqueId=\MBGGRQSP\SWWXTHUR|Kind=1|AlternatePart= 
+Variation36=Designator=U11|UniqueId=\MBGGRQSP\PIGUEDMA|Kind=1|AlternatePart= 
+Variation37=Designator=PBAT1|UniqueId=\CNAWSKHQ|Kind=1|AlternatePart= 
+Variation38=Designator=PBAT2|UniqueId=\KMIPGXTG|Kind=1|AlternatePart= 
+Variation39=Designator=PGND1|UniqueId=\OWYGPNOK|Kind=1|AlternatePart= 
+Variation40=Designator=P2|UniqueId=\DQTFNHYW\TESXGINA|Kind=1|AlternatePart= 
+Variation41=Designator=Y1|UniqueId=\DQTFNHYW\QKSGVPLV|Kind=1|AlternatePart= 
+Variation42=Designator=CXTAL1|UniqueId=\DQTFNHYW\ADCRQFWW|Kind=1|AlternatePart= 
+Variation43=Designator=CXTAL2|UniqueId=\DQTFNHYW\MVLTKCWY|Kind=1|AlternatePart= 
+Variation44=Designator=R16|UniqueId=\DQTFNHYW\BYQVBTXF|Kind=1|AlternatePart= 
+Variation45=Designator=R17|UniqueId=\DQTFNHYW\YCAXDBUY|Kind=1|AlternatePart= 
+Variation46=Designator=U1|UniqueId=\DQTFNHYW\PKPTPPRQ|Kind=1|AlternatePart= 
+Variation47=Designator=C4|UniqueId=\DQTFNHYW\FYFKLBGJ|Kind=1|AlternatePart= 
+Variation48=Designator=C17|UniqueId=\DQTFNHYW\OANMXIEW|Kind=1|AlternatePart= 
+Variation49=Designator=C18|UniqueId=\DQTFNHYW\EAQIAJBP|Kind=1|AlternatePart= 
+Variation50=Designator=C19|UniqueId=\DQTFNHYW\KUGIYUON|Kind=1|AlternatePart= 
+Variation51=Designator=L3|UniqueId=\DQTFNHYW\NXFYHNPK|Kind=1|AlternatePart= 
+Variation52=Designator=C20|UniqueId=\DQTFNHYW\IPROKPMX|Kind=1|AlternatePart= 
+Variation53=Designator=C21|UniqueId=\DQTFNHYW\EGBILEQS|Kind=1|AlternatePart= 
+Variation54=Designator=R40|UniqueId=\DQTFNHYW\RQYMNJKW|Kind=1|AlternatePart= 
+Variation55=Designator=Q201|UniqueId=\DQTFNHYW\BTTHWMXN|Kind=1|AlternatePart= 
+Variation56=Designator=R37|UniqueId=\DQTFNHYW\EQGVCTQV|Kind=1|AlternatePart= 
+Variation57=Designator=R39|UniqueId=\DQTFNHYW\RRDIOIPR|Kind=1|AlternatePart= 
+Variation58=Designator=C10|UniqueId=\DQTFNHYW\UYXDSMYB|Kind=1|AlternatePart= 
+Variation59=Designator=R38|UniqueId=\DQTFNHYW\SLIADRVS|Kind=1|AlternatePart= 
+Variation60=Designator=U6|UniqueId=\DQTFNHYW\MUXOKCLY|Kind=1|AlternatePart= 
+Variation61=Designator=C11|UniqueId=\DQTFNHYW\YYBDDFNC|Kind=1|AlternatePart= 
+Variation62=Designator=C100|UniqueId=\MBGGRQSP\URTLOOOA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Capacitors$|AltLibLink_SymbolReference=Capacitor np|AltLibLink_DesignItemID=10000016|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
+ParamVariation38=ParameterName=Comment|VariantValue==Value
+ParamDesignator38=C100
+ParamVariation39=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator39=C100
+ParamVariation40=ParameterName=Database Table Name|VariantValue=Capacitors$
+ParamDesignator40=C100
+ParamVariation41=ParameterName=Datasheet|VariantValue=http://www.kemet.com/docfinder?Partnumber=C0603C152K5RACTU
+ParamDesignator41=C100
+ParamVariation42=ParameterName=Description|VariantValue=CAP CER 1.5nF 50V 10% X7R 0603
+ParamDesignator42=C100
+ParamVariation43=ParameterName=Footprint|VariantValue=CAPC0603(1608)_N
+ParamDesignator43=C100
+ParamVariation44=ParameterName=Hight|VariantValue=0.87mm
+ParamDesignator44=C100
+ParamVariation45=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator45=C100
+ParamVariation46=ParameterName=Library Reference|VariantValue=10000016
+ParamDesignator46=C100
+ParamVariation47=ParameterName=Manufacturer|VariantValue=KEMET
+ParamDesignator47=C100
+ParamVariation48=ParameterName=Manufacturer number|VariantValue=C0603C104K5RACTU
+ParamDesignator48=C100
+ParamVariation49=ParameterName=Package|VariantValue=0603 (1608 Metric)
+ParamDesignator49=C100
+ParamVariation50=ParameterName=Part_Type|VariantValue=Capacitor
+ParamDesignator50=C100
+ParamVariation51=ParameterName=Part Number|VariantValue=10000016
+ParamDesignator51=C100
+ParamVariation52=ParameterName=PCB3D|VariantValue= 
+ParamDesignator52=C100
+ParamVariation53=ParameterName=Pin Count|VariantValue=2
+ParamDesignator53=C100
+ParamVariation54=ParameterName=ROHS|VariantValue=YES
+ParamDesignator54=C100
+ParamVariation55=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator55=C100
+ParamVariation56=ParameterName=Simulation|VariantValue= 
+ParamDesignator56=C100
+ParamVariation57=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator57=C100
+ParamVariation58=ParameterName=Supplier 2|VariantValue=Farnell
+ParamDesignator58=C100
+ParamVariation59=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamDesignator59=C100
+ParamVariation60=ParameterName=Supplier Part Number 1|VariantValue=399-1084-1-ND
+ParamDesignator60=C100
+ParamVariation61=ParameterName=Supplier Part Number 2|VariantValue=1414617
+ParamDesignator61=C100
+ParamVariation62=ParameterName=Supplier Part Number 4|VariantValue=754
+ParamDesignator62=C100
+ParamVariation63=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
+ParamDesignator63=C100
+ParamVariation64=ParameterName=Temperature Coefficient|VariantValue=X7R
+ParamDesignator64=C100
+ParamVariation65=ParameterName=Tolerance|VariantValue=10%
+ParamDesignator65=C100
+ParamVariation66=ParameterName=Value|VariantValue=1.5nF
+ParamDesignator66=C100
+ParamVariation67=ParameterName=Voltage|VariantValue=50V
+ParamDesignator67=C100
+Variation63=Designator=Rbatm|UniqueId=\MBGGRQSP\FJQBEAEN|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030505|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC2512(6432)_N|AltLibLink_IsSameFootprint=True
+ParamVariation68=ParameterName=Comment|VariantValue==Value
+ParamDesignator68=Rbatm
+ParamVariation69=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator69=Rbatm
+ParamVariation70=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamDesignator70=Rbatm
+ParamVariation71=ParameterName=Datasheet|VariantValue=http://www.bourns.com/docs/Product-Datasheets/CRA.pdf
+ParamDesignator71=Rbatm
+ParamVariation72=ParameterName=Description|VariantValue=RES SMD 0.015 OHM 1% 3W 2512
+ParamDesignator72=Rbatm
+ParamVariation73=ParameterName=Features|VariantValue=Moisture Resistant
+ParamDesignator73=Rbatm
+ParamVariation74=ParameterName=Footprint|VariantValue=RESC2512(6432)_N
+ParamDesignator74=Rbatm
+ParamVariation75=ParameterName=Hight|VariantValue=0.90mm
+ParamDesignator75=Rbatm
+ParamVariation76=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator76=Rbatm
+ParamVariation77=ParameterName=Library Reference|VariantValue=46030505
+ParamDesignator77=Rbatm
+ParamVariation78=ParameterName=Manufacturer|VariantValue=Bourns
+ParamDesignator78=Rbatm
+ParamVariation79=ParameterName=Manufacturer number|VariantValue=CRA2512-FZ-R015ELF
+ParamDesignator79=Rbatm
+ParamVariation80=ParameterName=Package|VariantValue=2512
+ParamDesignator80=Rbatm
+ParamVariation81=ParameterName=Part_Type|VariantValue=Resistor
+ParamDesignator81=Rbatm
+ParamVariation82=ParameterName=Part Number|VariantValue=46030505
+ParamDesignator82=Rbatm
+ParamVariation83=ParameterName=PCB3D|VariantValue= 
+ParamDesignator83=Rbatm
+ParamVariation84=ParameterName=Power|VariantValue=3W
+ParamDesignator84=Rbatm
+ParamVariation85=ParameterName=ROHS|VariantValue=YES
+ParamDesignator85=Rbatm
+ParamVariation86=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator86=Rbatm
+ParamVariation87=ParameterName=Simulation|VariantValue= 
+ParamDesignator87=Rbatm
+ParamVariation88=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator88=Rbatm
+ParamVariation89=ParameterName=Supplier 3|VariantValue=Farnell
+ParamDesignator89=Rbatm
+ParamVariation90=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamDesignator90=Rbatm
+ParamVariation91=ParameterName=Supplier Part Number 1|VariantValue=CRA2512-FZ-R015ELFCT-ND
+ParamDesignator91=Rbatm
+ParamVariation92=ParameterName=Supplier Part Number 3|VariantValue=2321757
+ParamDesignator92=Rbatm
+ParamVariation93=ParameterName=Supplier Part Number 4|VariantValue=3963
+ParamDesignator93=Rbatm
+ParamVariation94=ParameterName=Temperature|VariantValue=-55°C ~ 170°C
+ParamDesignator94=Rbatm
+ParamVariation95=ParameterName=Temperature Coefficient|VariantValue=±75ppm/°C
+ParamDesignator95=Rbatm
+ParamVariation96=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator96=Rbatm
+ParamVariation97=ParameterName=Value|VariantValue=0.015R
+ParamDesignator97=Rbatm
+ParamVariationCount=97
+
+[ProjectVariant4]
+UniqueID=A6E9CA81-04EB-49CA-9003-38BDE969E365
+Description=default_SMD
+AllowFabrication=0
+ParameterCount=0
+VariationCount=13
+Variation1=Designator=C100|UniqueId=\MBGGRQSP\URTLOOOA|Kind=1|AlternatePart= 
+Variation2=Designator=Rks3|UniqueId=\MBGGRQSP\GNSRMPGF|Kind=1|AlternatePart= 
+Variation3=Designator=Rks4|UniqueId=\MBGGRQSP\CUITKQAQ|Kind=1|AlternatePart= 
+Variation4=Designator=Rks2|UniqueId=\MBGGRQSP\TRPFXJTT|Kind=1|AlternatePart= 
+Variation5=Designator=Qks|UniqueId=\MBGGRQSP\CWUPSJEH|Kind=1|AlternatePart= 
+Variation6=Designator=C101|UniqueId=\MBGGRQSP\IGQTUJGP|Kind=1|AlternatePart= 
+Variation7=Designator=Rbatm|UniqueId=\MBGGRQSP\FJQBEAEN|Kind=1|AlternatePart= 
+Variation8=Designator=R1|UniqueId=\MBGGRQSP\CLLQCUMK|Kind=1|AlternatePart= 
+Variation9=Designator=R3|UniqueId=\MBGGRQSP\SFMLBAWL|Kind=1|AlternatePart= 
+Variation10=Designator=Qscl|UniqueId=\DQTFNHYW\MPHRTXAA|Kind=1|AlternatePart= 
+Variation11=Designator=Rscl|UniqueId=\DQTFNHYW\NIFVEDYS|Kind=1|AlternatePart= 
+Variation12=Designator=Qsda|UniqueId=\DQTFNHYW\PQLDYKLU|Kind=1|AlternatePart= 
+Variation13=Designator=Rsda|UniqueId=\DQTFNHYW\RBXGPLWI|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant5]
+UniqueID=380C8D51-32E7-494D-8868-69FF13F35365
+Description=customer_selected_values
+AllowFabrication=0
+ParameterCount=0
+VariationCount=66
+Variation1=Designator=Qscl|UniqueId=\DQTFNHYW\MPHRTXAA|Kind=1|AlternatePart= 
+Variation2=Designator=Rscl|UniqueId=\DQTFNHYW\NIFVEDYS|Kind=0|AlternatePart=custom?
+ParamVariation1=ParameterName=Comment|VariantValue=custom?
+ParamDesignator1=Rscl
+Variation3=Designator=Qsda|UniqueId=\DQTFNHYW\PQLDYKLU|Kind=1|AlternatePart= 
+Variation4=Designator=Rsda|UniqueId=\DQTFNHYW\RBXGPLWI|Kind=0|AlternatePart=custom?
+ParamVariation2=ParameterName=Comment|VariantValue=custom?
+ParamDesignator2=Rsda
+Variation5=Designator=C100|UniqueId=\MBGGRQSP\URTLOOOA|Kind=1|AlternatePart= 
 Variation6=Designator=C101|UniqueId=\MBGGRQSP\IGQTUJGP|Kind=1|AlternatePart= 
 Variation7=Designator=Rks3|UniqueId=\MBGGRQSP\GNSRMPGF|Kind=1|AlternatePart= 
 Variation8=Designator=R3|UniqueId=\MBGGRQSP\SFMLBAWL|Kind=1|AlternatePart= 
-Variation9=Designator=Rks4|UniqueId=\MBGGRQSP\CUITKQAQ|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Yageo$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=40603533|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC0603(1608)_N|AltLibLink_IsSameFootprint=True
-ParamVariation38=ParameterName=Comment|VariantValue==Value
-ParamDesignator38=Rks4
-ParamVariation39=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator39=Rks4
-ParamVariation40=ParameterName=Database Table Name|VariantValue=Yageo$
-ParamDesignator40=Rks4
-ParamVariation41=ParameterName=Datasheet|VariantValue=http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf
-ParamDesignator41=Rks4
-ParamVariation42=ParameterName=Description|VariantValue=RES SMD 301K OHM 1% 1/10W 0603
-ParamDesignator42=Rks4
-ParamVariation43=ParameterName=Features|VariantValue=Moisture Resistant
-ParamDesignator43=Rks4
-ParamVariation44=ParameterName=Footprint|VariantValue=RESC0603(1608)_N
-ParamDesignator44=Rks4
-ParamVariation45=ParameterName=Hight|VariantValue=0.55mm
-ParamDesignator45=Rks4
-ParamVariation46=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator46=Rks4
-ParamVariation47=ParameterName=Library Reference|VariantValue=40603533
-ParamDesignator47=Rks4
-ParamVariation48=ParameterName=Manufacturer|VariantValue=Yageo
-ParamDesignator48=Rks4
-ParamVariation49=ParameterName=Manufacturer number|VariantValue=RC0603FR-07301KL
-ParamDesignator49=Rks4
-ParamVariation50=ParameterName=Package|VariantValue=0603
-ParamDesignator50=Rks4
-ParamVariation51=ParameterName=Part_Type|VariantValue=Resistor
-ParamDesignator51=Rks4
-ParamVariation52=ParameterName=Part Number|VariantValue=40603533
-ParamDesignator52=Rks4
-ParamVariation53=ParameterName=PCB3D|VariantValue= 
-ParamDesignator53=Rks4
-ParamVariation54=ParameterName=Pin Count|VariantValue=2
-ParamDesignator54=Rks4
-ParamVariation55=ParameterName=Power|VariantValue=0.1W, 1/10W
-ParamDesignator55=Rks4
-ParamVariation56=ParameterName=ROHS|VariantValue=YES
-ParamDesignator56=Rks4
-ParamVariation57=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator57=Rks4
-ParamVariation58=ParameterName=Simulation|VariantValue= 
-ParamDesignator58=Rks4
-ParamVariation59=ParameterName=Supplier 1|VariantValue=Digi-Key
-ParamDesignator59=Rks4
-ParamVariation60=ParameterName=Supplier Part Number 1|VariantValue=311-301KHRCT-ND
-ParamDesignator60=Rks4
-ParamVariation61=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
-ParamDesignator61=Rks4
-ParamVariation62=ParameterName=Temperature Coefficient|VariantValue=±100ppm/°C
-ParamDesignator62=Rks4
-ParamVariation63=ParameterName=Tolerance|VariantValue=±1%
-ParamDesignator63=Rks4
-ParamVariation64=ParameterName=Value|VariantValue=301K
-ParamDesignator64=Rks4
-ParamVariation65=ParameterName=Voltage|VariantValue=75V
-ParamDesignator65=Rks4
-ParamVariation66=ParameterName=3D_model|VariantValue= 
-ParamDesignator66=Rks4
-ParamVariation67=ParameterName=IBIS_model|VariantValue= 
-ParamDesignator67=Rks4
-ParamVariation68=ParameterName=Is_verified|VariantValue= 
-ParamDesignator68=Rks4
-ParamVariation69=ParameterName=Supplier 2|VariantValue= 
-ParamDesignator69=Rks4
-ParamVariation70=ParameterName=Supplier 3|VariantValue= 
-ParamDesignator70=Rks4
-ParamVariation71=ParameterName=Supplier 4|VariantValue= 
-ParamDesignator71=Rks4
-ParamVariation72=ParameterName=Supplier Part Number 2|VariantValue= 
-ParamDesignator72=Rks4
-ParamVariation73=ParameterName=Supplier Part Number 3|VariantValue= 
-ParamDesignator73=Rks4
-ParamVariation74=ParameterName=Supplier Part Number 4|VariantValue= 
-ParamDesignator74=Rks4
+Variation9=Designator=Rks4|UniqueId=\MBGGRQSP\CUITKQAQ|Kind=1|AlternatePart= 
 Variation10=Designator=Cm1|UniqueId=\YUBLBQKU\MPRDPLGU|Kind=1|AlternatePart= 
 Variation11=Designator=Rm2|UniqueId=\YUBLBQKU\KFTVMLFD|Kind=1|AlternatePart= 
 Variation12=Designator=Um1|UniqueId=\YUBLBQKU\BXFKJQFQ|Kind=1|AlternatePart= 
@@ -494,42 +636,33 @@ Variation59=Designator=C10|UniqueId=\DQTFNHYW\UYXDSMYB|Kind=1|AlternatePart=
 Variation60=Designator=R38|UniqueId=\DQTFNHYW\SLIADRVS|Kind=1|AlternatePart= 
 Variation61=Designator=U6|UniqueId=\DQTFNHYW\MUXOKCLY|Kind=1|AlternatePart= 
 Variation62=Designator=C11|UniqueId=\DQTFNHYW\YYBDDFNC|Kind=1|AlternatePart= 
-ParamVariationCount=74
-
-[ProjectVariant4]
-UniqueID=A6E9CA81-04EB-49CA-9003-38BDE969E365
-Description=default_SMD
-AllowFabrication=0
-ParameterCount=0
-VariationCount=13
-Variation1=Designator=C100|UniqueId=\MBGGRQSP\URTLOOOA|Kind=1|AlternatePart= 
-Variation2=Designator=Rks3|UniqueId=\MBGGRQSP\GNSRMPGF|Kind=1|AlternatePart= 
-Variation3=Designator=Rks4|UniqueId=\MBGGRQSP\CUITKQAQ|Kind=1|AlternatePart= 
-Variation4=Designator=Rks2|UniqueId=\MBGGRQSP\TRPFXJTT|Kind=1|AlternatePart= 
-Variation5=Designator=Qks|UniqueId=\MBGGRQSP\CWUPSJEH|Kind=1|AlternatePart= 
-Variation6=Designator=C101|UniqueId=\MBGGRQSP\IGQTUJGP|Kind=1|AlternatePart= 
-Variation7=Designator=Rbatm|UniqueId=\MBGGRQSP\FJQBEAEN|Kind=1|AlternatePart= 
-Variation8=Designator=R1|UniqueId=\MBGGRQSP\CLLQCUMK|Kind=1|AlternatePart= 
-Variation9=Designator=R3|UniqueId=\MBGGRQSP\SFMLBAWL|Kind=1|AlternatePart= 
-Variation10=Designator=Qscl|UniqueId=\DQTFNHYW\MPHRTXAA|Kind=1|AlternatePart= 
-Variation11=Designator=Rscl|UniqueId=\DQTFNHYW\NIFVEDYS|Kind=1|AlternatePart= 
-Variation12=Designator=Qsda|UniqueId=\DQTFNHYW\PQLDYKLU|Kind=1|AlternatePart= 
-Variation13=Designator=Rsda|UniqueId=\DQTFNHYW\RBXGPLWI|Kind=1|AlternatePart= 
-ParamVariationCount=0
+Variation63=Designator=Rks2|UniqueId=\MBGGRQSP\TRPFXJTT|Kind=1|AlternatePart= 
+Variation64=Designator=Qks|UniqueId=\MBGGRQSP\CWUPSJEH|Kind=1|AlternatePart= 
+Variation65=Designator=Rbatm|UniqueId=\MBGGRQSP\FJQBEAEN|Kind=1|AlternatePart= 
+Variation66=Designator=R1|UniqueId=\MBGGRQSP\CLLQCUMK|Kind=1|AlternatePart= 
+ParamVariationCount=2
 
 [GeneratedDocument1]
-DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_default_SMD.xls
+DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_[No Variations].xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P31U_(8V_2S-4P and 16V_4S-2P).xls
+DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_customer_selected_values.xls
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P60_(8V_2S-4P and 16V_4S-2P).xls
+DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_default_SMD.xls
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P31U_(8V_2S-4P and 16V_4S-2P).xls
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P60_(8V_2S-4P and 16V_4S-2P).xls
+DItemRevisionGUID=
+
+[GeneratedDocument6]
 DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P60_(32V_8S-2P).xls
 DItemRevisionGUID=
 

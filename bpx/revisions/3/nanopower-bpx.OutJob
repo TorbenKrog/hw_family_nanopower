@@ -18,7 +18,7 @@ RevisionNamingSchemeGUID=
 Name=nanopower-bpx.OutJob
 Description=
 TargetOutputMedium=Schematic - Variations
-VariantName=P60_(32V_8S-2P)
+VariantName=customer_selected_values
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Virtual Printer
@@ -205,7 +205,7 @@ OutputType9=BOM_PartType
 OutputName9=EMS_BOM
 OutputCategory9=Report
 OutputDocumentPath9=
-OutputVariantName9=default_SMD
+OutputVariantName9=
 OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=0
@@ -228,7 +228,7 @@ Configuration9_Item5=r number=44|Supplier 1=44|Supplier 2=44|Supplier 3=44|Suppl
 Configuration9_Name6=SortOrder
 Configuration9_Item6=Designator=Up|Comment=Up|Footprint=Up
 Configuration9_Name7=VisibleOrder
-Configuration9_Item7=Designator=100|Value=100|Description=100|Manufacturer=100|Manufacturer number=100|Quantity=100|Comment=100
+Configuration9_Item7=Designator=107|Value=107|Description=107|Manufacturer=107|Manufacturer number=107|Quantity=107|Comment=107|Supplier 4=59|Supplier Part Number 4=154
 OutputType10=PDF3D
 OutputName10=PDF3D
 OutputCategory10=Documentation
