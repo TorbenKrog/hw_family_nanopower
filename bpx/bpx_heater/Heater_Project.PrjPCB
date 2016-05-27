@@ -107,6 +107,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [ProjectVariant1]
+UniqueID=D1A0F856-4E50-41A4-951A-207207A78A4C
 Description=8V_2S-4P
 AllowFabrication=0
 ParameterCount=0
@@ -122,11 +123,12 @@ Variation8=Designator=C4|UniqueId=\YXPLIDNV|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
+UniqueID=6201DA6E-54AC-40C4-B057-818A216C64F3
 Description=16V_4S-2P
 AllowFabrication=0
 ParameterCount=0
 VariationCount=12
-Variation1=Designator=R1|UniqueId=\ISWKFMYN|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030502|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
+Variation1=Designator=R1|UniqueId=\ISWKFMYN|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030502|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=R1
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
@@ -183,177 +185,185 @@ ParamVariation27=ParameterName=Supplier 4|VariantValue=Gomspace ApS
 ParamDesignator27=R1
 ParamVariation28=ParameterName=Supplier Part Number 2|VariantValue=588-23J40RE
 ParamDesignator28=R1
-Variation2=Designator=R2|UniqueId=\XUOHWWHF|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030502|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
-ParamVariation29=ParameterName=Comment|VariantValue==Value
-ParamDesignator29=R2
-ParamVariation30=ParameterName=Component Kind|VariantValue=Standard
+ParamVariation29=ParameterName=Part status|VariantValue=Prototype
+ParamDesignator29=R1
+Variation2=Designator=R2|UniqueId=\XUOHWWHF|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030502|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=True
+ParamVariation30=ParameterName=Comment|VariantValue==Value
 ParamDesignator30=R2
-ParamVariation31=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamVariation31=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator31=R2
-ParamVariation32=ParameterName=Description|VariantValue=RES 40 OHM 3W 5% AXIAL
+ParamVariation32=ParameterName=Database Table Name|VariantValue=Resistors$
 ParamDesignator32=R2
-ParamVariation33=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamVariation33=ParameterName=Description|VariantValue=RES 40 OHM 3W 5% AXIAL
 ParamDesignator33=R2
-ParamVariation34=ParameterName=Ibis Model|VariantValue= 
+ParamVariation34=ParameterName=Footprint|VariantValue=AXIAL-0.7
 ParamDesignator34=R2
-ParamVariation35=ParameterName=Library Reference|VariantValue=46030502
+ParamVariation35=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator35=R2
-ParamVariation36=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamVariation36=ParameterName=Library Reference|VariantValue=46030502
 ParamDesignator36=R2
-ParamVariation37=ParameterName=Manufacturer number|VariantValue=23J40RE
+ParamVariation37=ParameterName=Manufacturer|VariantValue=Ohmite
 ParamDesignator37=R2
-ParamVariation38=ParameterName=Package|VariantValue=Axial
+ParamVariation38=ParameterName=Manufacturer number|VariantValue=23J40RE
 ParamDesignator38=R2
-ParamVariation39=ParameterName=Part_Type|VariantValue=Resistor
+ParamVariation39=ParameterName=Package|VariantValue=Axial
 ParamDesignator39=R2
-ParamVariation40=ParameterName=Part Number|VariantValue=46030502
+ParamVariation40=ParameterName=Part_Type|VariantValue=Resistor
 ParamDesignator40=R2
-ParamVariation41=ParameterName=PCB3D|VariantValue= 
+ParamVariation41=ParameterName=Part Number|VariantValue=46030502
 ParamDesignator41=R2
-ParamVariation42=ParameterName=Power|VariantValue=W
+ParamVariation42=ParameterName=PCB3D|VariantValue= 
 ParamDesignator42=R2
-ParamVariation43=ParameterName=Simulation|VariantValue= 
+ParamVariation43=ParameterName=Power|VariantValue=W
 ParamDesignator43=R2
-ParamVariation44=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamVariation44=ParameterName=Simulation|VariantValue= 
 ParamDesignator44=R2
-ParamVariation45=ParameterName=Supplier Part Number 1|VariantValue=23J40RE-ND
+ParamVariation45=ParameterName=Supplier 1|VariantValue=Digi-key
 ParamDesignator45=R2
-ParamVariation46=ParameterName=Tolerance|VariantValue=%
+ParamVariation46=ParameterName=Supplier Part Number 1|VariantValue=23J40RE-ND
 ParamDesignator46=R2
-ParamVariation47=ParameterName=Value|VariantValue=40R
+ParamVariation47=ParameterName=Tolerance|VariantValue=%
 ParamDesignator47=R2
-ParamVariation48=ParameterName=Height|VariantValue=-
+ParamVariation48=ParameterName=Value|VariantValue=40R
 ParamDesignator48=R2
-ParamVariation49=ParameterName=PAR1|VariantValue=Power: 3W
+ParamVariation49=ParameterName=Height|VariantValue=-
 ParamDesignator49=R2
-ParamVariation50=ParameterName=PAR2|VariantValue=Tolerance: 5%
+ParamVariation50=ParameterName=PAR1|VariantValue=Power: 3W
 ParamDesignator50=R2
-ParamVariation51=ParameterName=PAR3|VariantValue=Features: Flame Retardant Coating, Safety
+ParamVariation51=ParameterName=PAR2|VariantValue=Tolerance: 5%
 ParamDesignator51=R2
-ParamVariation52=ParameterName=PAR4|VariantValue=Temperature Coefficient : ±30ppm/°C
+ParamVariation52=ParameterName=PAR3|VariantValue=Features: Flame Retardant Coating, Safety
 ParamDesignator52=R2
-ParamVariation53=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation53=ParameterName=PAR4|VariantValue=Temperature Coefficient : ±30ppm/°C
 ParamDesignator53=R2
-ParamVariation54=ParameterName=Supplier 2|VariantValue=Mouser
+ParamVariation54=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator54=R2
-ParamVariation55=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamVariation55=ParameterName=Supplier 2|VariantValue=Mouser
 ParamDesignator55=R2
-ParamVariation56=ParameterName=Supplier Part Number 2|VariantValue=588-23J40RE
+ParamVariation56=ParameterName=Supplier 4|VariantValue=Gomspace ApS
 ParamDesignator56=R2
-Variation3=Designator=R3|UniqueId=\PULYBTBS|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030502|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
-ParamVariation57=ParameterName=Comment|VariantValue==Value
-ParamDesignator57=R3
-ParamVariation58=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator58=R3
-ParamVariation59=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamVariation57=ParameterName=Supplier Part Number 2|VariantValue=588-23J40RE
+ParamDesignator57=R2
+ParamVariation58=ParameterName=Part status|VariantValue=Prototype
+ParamDesignator58=R2
+Variation3=Designator=R3|UniqueId=\PULYBTBS|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030502|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=True
+ParamVariation59=ParameterName=Comment|VariantValue==Value
 ParamDesignator59=R3
-ParamVariation60=ParameterName=Description|VariantValue=RES 40 OHM 3W 5% AXIAL
+ParamVariation60=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator60=R3
-ParamVariation61=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamVariation61=ParameterName=Database Table Name|VariantValue=Resistors$
 ParamDesignator61=R3
-ParamVariation62=ParameterName=Ibis Model|VariantValue= 
+ParamVariation62=ParameterName=Description|VariantValue=RES 40 OHM 3W 5% AXIAL
 ParamDesignator62=R3
-ParamVariation63=ParameterName=Library Reference|VariantValue=46030502
+ParamVariation63=ParameterName=Footprint|VariantValue=AXIAL-0.7
 ParamDesignator63=R3
-ParamVariation64=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamVariation64=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator64=R3
-ParamVariation65=ParameterName=Manufacturer number|VariantValue=23J40RE
+ParamVariation65=ParameterName=Library Reference|VariantValue=46030502
 ParamDesignator65=R3
-ParamVariation66=ParameterName=Package|VariantValue=Axial
+ParamVariation66=ParameterName=Manufacturer|VariantValue=Ohmite
 ParamDesignator66=R3
-ParamVariation67=ParameterName=Part_Type|VariantValue=Resistor
+ParamVariation67=ParameterName=Manufacturer number|VariantValue=23J40RE
 ParamDesignator67=R3
-ParamVariation68=ParameterName=Part Number|VariantValue=46030502
+ParamVariation68=ParameterName=Package|VariantValue=Axial
 ParamDesignator68=R3
-ParamVariation69=ParameterName=PCB3D|VariantValue= 
+ParamVariation69=ParameterName=Part_Type|VariantValue=Resistor
 ParamDesignator69=R3
-ParamVariation70=ParameterName=Power|VariantValue=W
+ParamVariation70=ParameterName=Part Number|VariantValue=46030502
 ParamDesignator70=R3
-ParamVariation71=ParameterName=Simulation|VariantValue= 
+ParamVariation71=ParameterName=PCB3D|VariantValue= 
 ParamDesignator71=R3
-ParamVariation72=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamVariation72=ParameterName=Power|VariantValue=W
 ParamDesignator72=R3
-ParamVariation73=ParameterName=Supplier Part Number 1|VariantValue=23J40RE-ND
+ParamVariation73=ParameterName=Simulation|VariantValue= 
 ParamDesignator73=R3
-ParamVariation74=ParameterName=Tolerance|VariantValue=%
+ParamVariation74=ParameterName=Supplier 1|VariantValue=Digi-key
 ParamDesignator74=R3
-ParamVariation75=ParameterName=Value|VariantValue=40R
+ParamVariation75=ParameterName=Supplier Part Number 1|VariantValue=23J40RE-ND
 ParamDesignator75=R3
-ParamVariation76=ParameterName=Height|VariantValue=-
+ParamVariation76=ParameterName=Tolerance|VariantValue=%
 ParamDesignator76=R3
-ParamVariation77=ParameterName=PAR1|VariantValue=Power: 3W
+ParamVariation77=ParameterName=Value|VariantValue=40R
 ParamDesignator77=R3
-ParamVariation78=ParameterName=PAR2|VariantValue=Tolerance: 5%
+ParamVariation78=ParameterName=Height|VariantValue=-
 ParamDesignator78=R3
-ParamVariation79=ParameterName=PAR3|VariantValue=Features: Flame Retardant Coating, Safety
+ParamVariation79=ParameterName=PAR1|VariantValue=Power: 3W
 ParamDesignator79=R3
-ParamVariation80=ParameterName=PAR4|VariantValue=Temperature Coefficient : ±30ppm/°C
+ParamVariation80=ParameterName=PAR2|VariantValue=Tolerance: 5%
 ParamDesignator80=R3
-ParamVariation81=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation81=ParameterName=PAR3|VariantValue=Features: Flame Retardant Coating, Safety
 ParamDesignator81=R3
-ParamVariation82=ParameterName=Supplier 2|VariantValue=Mouser
+ParamVariation82=ParameterName=PAR4|VariantValue=Temperature Coefficient : ±30ppm/°C
 ParamDesignator82=R3
-ParamVariation83=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamVariation83=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator83=R3
-ParamVariation84=ParameterName=Supplier Part Number 2|VariantValue=588-23J40RE
+ParamVariation84=ParameterName=Supplier 2|VariantValue=Mouser
 ParamDesignator84=R3
-Variation4=Designator=R4|UniqueId=\BEWSNUMW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030502|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
-ParamVariation85=ParameterName=Comment|VariantValue==Value
-ParamDesignator85=R4
-ParamVariation86=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator86=R4
-ParamVariation87=ParameterName=Database Table Name|VariantValue=Resistors$
-ParamDesignator87=R4
-ParamVariation88=ParameterName=Description|VariantValue=RES 40 OHM 3W 5% AXIAL
+ParamVariation85=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamDesignator85=R3
+ParamVariation86=ParameterName=Supplier Part Number 2|VariantValue=588-23J40RE
+ParamDesignator86=R3
+ParamVariation87=ParameterName=Part status|VariantValue=Prototype
+ParamDesignator87=R3
+Variation4=Designator=R4|UniqueId=\BEWSNUMW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030502|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=True
+ParamVariation88=ParameterName=Comment|VariantValue==Value
 ParamDesignator88=R4
-ParamVariation89=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamVariation89=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator89=R4
-ParamVariation90=ParameterName=Ibis Model|VariantValue= 
+ParamVariation90=ParameterName=Database Table Name|VariantValue=Resistors$
 ParamDesignator90=R4
-ParamVariation91=ParameterName=Library Reference|VariantValue=46030502
+ParamVariation91=ParameterName=Description|VariantValue=RES 40 OHM 3W 5% AXIAL
 ParamDesignator91=R4
-ParamVariation92=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamVariation92=ParameterName=Footprint|VariantValue=AXIAL-0.7
 ParamDesignator92=R4
-ParamVariation93=ParameterName=Manufacturer number|VariantValue=23J40RE
+ParamVariation93=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator93=R4
-ParamVariation94=ParameterName=Package|VariantValue=Axial
+ParamVariation94=ParameterName=Library Reference|VariantValue=46030502
 ParamDesignator94=R4
-ParamVariation95=ParameterName=Part_Type|VariantValue=Resistor
+ParamVariation95=ParameterName=Manufacturer|VariantValue=Ohmite
 ParamDesignator95=R4
-ParamVariation96=ParameterName=Part Number|VariantValue=46030502
+ParamVariation96=ParameterName=Manufacturer number|VariantValue=23J40RE
 ParamDesignator96=R4
-ParamVariation97=ParameterName=PCB3D|VariantValue= 
+ParamVariation97=ParameterName=Package|VariantValue=Axial
 ParamDesignator97=R4
-ParamVariation98=ParameterName=Power|VariantValue=W
+ParamVariation98=ParameterName=Part_Type|VariantValue=Resistor
 ParamDesignator98=R4
-ParamVariation99=ParameterName=Simulation|VariantValue= 
+ParamVariation99=ParameterName=Part Number|VariantValue=46030502
 ParamDesignator99=R4
-ParamVariation100=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamVariation100=ParameterName=PCB3D|VariantValue= 
 ParamDesignator100=R4
-ParamVariation101=ParameterName=Supplier Part Number 1|VariantValue=23J40RE-ND
+ParamVariation101=ParameterName=Power|VariantValue=W
 ParamDesignator101=R4
-ParamVariation102=ParameterName=Tolerance|VariantValue=%
+ParamVariation102=ParameterName=Simulation|VariantValue= 
 ParamDesignator102=R4
-ParamVariation103=ParameterName=Value|VariantValue=40R
+ParamVariation103=ParameterName=Supplier 1|VariantValue=Digi-key
 ParamDesignator103=R4
-ParamVariation104=ParameterName=Height|VariantValue=-
+ParamVariation104=ParameterName=Supplier Part Number 1|VariantValue=23J40RE-ND
 ParamDesignator104=R4
-ParamVariation105=ParameterName=PAR1|VariantValue=Power: 3W
+ParamVariation105=ParameterName=Tolerance|VariantValue=%
 ParamDesignator105=R4
-ParamVariation106=ParameterName=PAR2|VariantValue=Tolerance: 5%
+ParamVariation106=ParameterName=Value|VariantValue=40R
 ParamDesignator106=R4
-ParamVariation107=ParameterName=PAR3|VariantValue=Features: Flame Retardant Coating, Safety
+ParamVariation107=ParameterName=Height|VariantValue=-
 ParamDesignator107=R4
-ParamVariation108=ParameterName=PAR4|VariantValue=Temperature Coefficient : ±30ppm/°C
+ParamVariation108=ParameterName=PAR1|VariantValue=Power: 3W
 ParamDesignator108=R4
-ParamVariation109=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation109=ParameterName=PAR2|VariantValue=Tolerance: 5%
 ParamDesignator109=R4
-ParamVariation110=ParameterName=Supplier 2|VariantValue=Mouser
+ParamVariation110=ParameterName=PAR3|VariantValue=Features: Flame Retardant Coating, Safety
 ParamDesignator110=R4
-ParamVariation111=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamVariation111=ParameterName=PAR4|VariantValue=Temperature Coefficient : ±30ppm/°C
 ParamDesignator111=R4
-ParamVariation112=ParameterName=Supplier Part Number 2|VariantValue=588-23J40RE
+ParamVariation112=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator112=R4
+ParamVariation113=ParameterName=Supplier 2|VariantValue=Mouser
+ParamDesignator113=R4
+ParamVariation114=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamDesignator114=R4
+ParamVariation115=ParameterName=Supplier Part Number 2|VariantValue=588-23J40RE
+ParamDesignator115=R4
+ParamVariation116=ParameterName=Part status|VariantValue=Prototype
+ParamDesignator116=R4
 Variation5=Designator=C1|UniqueId=\VADUATUN|Kind=1|AlternatePart= 
 Variation6=Designator=TP1|UniqueId=\EGEDGMLQ|Kind=1|AlternatePart= 
 Variation7=Designator=TP2|UniqueId=\VOELQAUX|Kind=1|AlternatePart= 
@@ -362,14 +372,15 @@ Variation9=Designator=C3|UniqueId=\IBWOOCAG|Kind=1|AlternatePart=
 Variation10=Designator=TP3|UniqueId=\RYJYIWBS|Kind=1|AlternatePart= 
 Variation11=Designator=TP4|UniqueId=\KXWGXFEE|Kind=1|AlternatePart= 
 Variation12=Designator=C4|UniqueId=\YXPLIDNV|Kind=1|AlternatePart= 
-ParamVariationCount=112
+ParamVariationCount=116
 
 [ProjectVariant3]
+UniqueID=7F718B23-4337-4558-B0EB-3F2C4F9618DF
 Description=32V_8S-1P
 AllowFabrication=0
 ParameterCount=0
 VariationCount=12
-Variation1=Designator=R1|UniqueId=\ISWKFMYN|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
+Variation1=Designator=R1|UniqueId=\ISWKFMYN|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=R1
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
@@ -426,177 +437,185 @@ ParamVariation27=ParameterName=Supplier 4|VariantValue=Gomspace ApS
 ParamDesignator27=R1
 ParamVariation28=ParameterName=Supplier Part Number 2|VariantValue=588-23J150E
 ParamDesignator28=R1
-Variation2=Designator=R2|UniqueId=\XUOHWWHF|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
-ParamVariation29=ParameterName=Comment|VariantValue==Value
-ParamDesignator29=R2
-ParamVariation30=ParameterName=Component Kind|VariantValue=Standard
+ParamVariation29=ParameterName=Part status|VariantValue=Prototype
+ParamDesignator29=R1
+Variation2=Designator=R2|UniqueId=\XUOHWWHF|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=True
+ParamVariation30=ParameterName=Comment|VariantValue==Value
 ParamDesignator30=R2
-ParamVariation31=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamVariation31=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator31=R2
-ParamVariation32=ParameterName=Description|VariantValue=RES 150 OHM 3W 5% AXIAL
+ParamVariation32=ParameterName=Database Table Name|VariantValue=Resistors$
 ParamDesignator32=R2
-ParamVariation33=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamVariation33=ParameterName=Description|VariantValue=RES 150 OHM 3W 5% AXIAL
 ParamDesignator33=R2
-ParamVariation34=ParameterName=Ibis Model|VariantValue= 
+ParamVariation34=ParameterName=Footprint|VariantValue=AXIAL-0.7
 ParamDesignator34=R2
-ParamVariation35=ParameterName=Library Reference|VariantValue=46030503
+ParamVariation35=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator35=R2
-ParamVariation36=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamVariation36=ParameterName=Library Reference|VariantValue=46030503
 ParamDesignator36=R2
-ParamVariation37=ParameterName=Manufacturer number|VariantValue=23J150E
+ParamVariation37=ParameterName=Manufacturer|VariantValue=Ohmite
 ParamDesignator37=R2
-ParamVariation38=ParameterName=Package|VariantValue=Axial
+ParamVariation38=ParameterName=Manufacturer number|VariantValue=23J150E
 ParamDesignator38=R2
-ParamVariation39=ParameterName=Part_Type|VariantValue=Resistor
+ParamVariation39=ParameterName=Package|VariantValue=Axial
 ParamDesignator39=R2
-ParamVariation40=ParameterName=Part Number|VariantValue=46030503
+ParamVariation40=ParameterName=Part_Type|VariantValue=Resistor
 ParamDesignator40=R2
-ParamVariation41=ParameterName=PCB3D|VariantValue= 
+ParamVariation41=ParameterName=Part Number|VariantValue=46030503
 ParamDesignator41=R2
-ParamVariation42=ParameterName=Power|VariantValue=W
+ParamVariation42=ParameterName=PCB3D|VariantValue= 
 ParamDesignator42=R2
-ParamVariation43=ParameterName=Simulation|VariantValue= 
+ParamVariation43=ParameterName=Power|VariantValue=W
 ParamDesignator43=R2
-ParamVariation44=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamVariation44=ParameterName=Simulation|VariantValue= 
 ParamDesignator44=R2
-ParamVariation45=ParameterName=Supplier Part Number 1|VariantValue=23J150E-ND
+ParamVariation45=ParameterName=Supplier 1|VariantValue=Digi-key
 ParamDesignator45=R2
-ParamVariation46=ParameterName=Tolerance|VariantValue=%
+ParamVariation46=ParameterName=Supplier Part Number 1|VariantValue=23J150E-ND
 ParamDesignator46=R2
-ParamVariation47=ParameterName=Value|VariantValue=150R
+ParamVariation47=ParameterName=Tolerance|VariantValue=%
 ParamDesignator47=R2
-ParamVariation48=ParameterName=Height|VariantValue=-
+ParamVariation48=ParameterName=Value|VariantValue=150R
 ParamDesignator48=R2
-ParamVariation49=ParameterName=PAR1|VariantValue=Power: 3W
+ParamVariation49=ParameterName=Height|VariantValue=-
 ParamDesignator49=R2
-ParamVariation50=ParameterName=PAR2|VariantValue=Tolerance: 5%
+ParamVariation50=ParameterName=PAR1|VariantValue=Power: 3W
 ParamDesignator50=R2
-ParamVariation51=ParameterName=PAR3|VariantValue=Features: Flame Retardant Coating, Safety
+ParamVariation51=ParameterName=PAR2|VariantValue=Tolerance: 5%
 ParamDesignator51=R2
-ParamVariation52=ParameterName=PAR4|VariantValue=Temperature Coefficient : ±30ppm/°C
+ParamVariation52=ParameterName=PAR3|VariantValue=Features: Flame Retardant Coating, Safety
 ParamDesignator52=R2
-ParamVariation53=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation53=ParameterName=PAR4|VariantValue=Temperature Coefficient : ±30ppm/°C
 ParamDesignator53=R2
-ParamVariation54=ParameterName=Supplier 2|VariantValue=Mouser
+ParamVariation54=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator54=R2
-ParamVariation55=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamVariation55=ParameterName=Supplier 2|VariantValue=Mouser
 ParamDesignator55=R2
-ParamVariation56=ParameterName=Supplier Part Number 2|VariantValue=588-23J150E
+ParamVariation56=ParameterName=Supplier 4|VariantValue=Gomspace ApS
 ParamDesignator56=R2
-Variation3=Designator=R3|UniqueId=\PULYBTBS|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
-ParamVariation57=ParameterName=Comment|VariantValue==Value
-ParamDesignator57=R3
-ParamVariation58=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator58=R3
-ParamVariation59=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamVariation57=ParameterName=Supplier Part Number 2|VariantValue=588-23J150E
+ParamDesignator57=R2
+ParamVariation58=ParameterName=Part status|VariantValue=Prototype
+ParamDesignator58=R2
+Variation3=Designator=R3|UniqueId=\PULYBTBS|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=True
+ParamVariation59=ParameterName=Comment|VariantValue==Value
 ParamDesignator59=R3
-ParamVariation60=ParameterName=Description|VariantValue=RES 150 OHM 3W 5% AXIAL
+ParamVariation60=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator60=R3
-ParamVariation61=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamVariation61=ParameterName=Database Table Name|VariantValue=Resistors$
 ParamDesignator61=R3
-ParamVariation62=ParameterName=Ibis Model|VariantValue= 
+ParamVariation62=ParameterName=Description|VariantValue=RES 150 OHM 3W 5% AXIAL
 ParamDesignator62=R3
-ParamVariation63=ParameterName=Library Reference|VariantValue=46030503
+ParamVariation63=ParameterName=Footprint|VariantValue=AXIAL-0.7
 ParamDesignator63=R3
-ParamVariation64=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamVariation64=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator64=R3
-ParamVariation65=ParameterName=Manufacturer number|VariantValue=23J150E
+ParamVariation65=ParameterName=Library Reference|VariantValue=46030503
 ParamDesignator65=R3
-ParamVariation66=ParameterName=Package|VariantValue=Axial
+ParamVariation66=ParameterName=Manufacturer|VariantValue=Ohmite
 ParamDesignator66=R3
-ParamVariation67=ParameterName=Part_Type|VariantValue=Resistor
+ParamVariation67=ParameterName=Manufacturer number|VariantValue=23J150E
 ParamDesignator67=R3
-ParamVariation68=ParameterName=Part Number|VariantValue=46030503
+ParamVariation68=ParameterName=Package|VariantValue=Axial
 ParamDesignator68=R3
-ParamVariation69=ParameterName=PCB3D|VariantValue= 
+ParamVariation69=ParameterName=Part_Type|VariantValue=Resistor
 ParamDesignator69=R3
-ParamVariation70=ParameterName=Power|VariantValue=W
+ParamVariation70=ParameterName=Part Number|VariantValue=46030503
 ParamDesignator70=R3
-ParamVariation71=ParameterName=Simulation|VariantValue= 
+ParamVariation71=ParameterName=PCB3D|VariantValue= 
 ParamDesignator71=R3
-ParamVariation72=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamVariation72=ParameterName=Power|VariantValue=W
 ParamDesignator72=R3
-ParamVariation73=ParameterName=Supplier Part Number 1|VariantValue=23J150E-ND
+ParamVariation73=ParameterName=Simulation|VariantValue= 
 ParamDesignator73=R3
-ParamVariation74=ParameterName=Tolerance|VariantValue=%
+ParamVariation74=ParameterName=Supplier 1|VariantValue=Digi-key
 ParamDesignator74=R3
-ParamVariation75=ParameterName=Value|VariantValue=150R
+ParamVariation75=ParameterName=Supplier Part Number 1|VariantValue=23J150E-ND
 ParamDesignator75=R3
-ParamVariation76=ParameterName=Height|VariantValue=-
+ParamVariation76=ParameterName=Tolerance|VariantValue=%
 ParamDesignator76=R3
-ParamVariation77=ParameterName=PAR1|VariantValue=Power: 3W
+ParamVariation77=ParameterName=Value|VariantValue=150R
 ParamDesignator77=R3
-ParamVariation78=ParameterName=PAR2|VariantValue=Tolerance: 5%
+ParamVariation78=ParameterName=Height|VariantValue=-
 ParamDesignator78=R3
-ParamVariation79=ParameterName=PAR3|VariantValue=Features: Flame Retardant Coating, Safety
+ParamVariation79=ParameterName=PAR1|VariantValue=Power: 3W
 ParamDesignator79=R3
-ParamVariation80=ParameterName=PAR4|VariantValue=Temperature Coefficient : ±30ppm/°C
+ParamVariation80=ParameterName=PAR2|VariantValue=Tolerance: 5%
 ParamDesignator80=R3
-ParamVariation81=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation81=ParameterName=PAR3|VariantValue=Features: Flame Retardant Coating, Safety
 ParamDesignator81=R3
-ParamVariation82=ParameterName=Supplier 2|VariantValue=Mouser
+ParamVariation82=ParameterName=PAR4|VariantValue=Temperature Coefficient : ±30ppm/°C
 ParamDesignator82=R3
-ParamVariation83=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamVariation83=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator83=R3
-ParamVariation84=ParameterName=Supplier Part Number 2|VariantValue=588-23J150E
+ParamVariation84=ParameterName=Supplier 2|VariantValue=Mouser
 ParamDesignator84=R3
-Variation4=Designator=R4|UniqueId=\BEWSNUMW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=False
-ParamVariation85=ParameterName=Comment|VariantValue==Value
-ParamDesignator85=R4
-ParamVariation86=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator86=R4
-ParamVariation87=ParameterName=Database Table Name|VariantValue=Resistors$
-ParamDesignator87=R4
-ParamVariation88=ParameterName=Description|VariantValue=RES 150 OHM 3W 5% AXIAL
+ParamVariation85=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamDesignator85=R3
+ParamVariation86=ParameterName=Supplier Part Number 2|VariantValue=588-23J150E
+ParamDesignator86=R3
+ParamVariation87=ParameterName=Part status|VariantValue=Prototype
+ParamDesignator87=R3
+Variation4=Designator=R4|UniqueId=\BEWSNUMW|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030503|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=AXIAL-0.7|AltLibLink_IsSameFootprint=True
+ParamVariation88=ParameterName=Comment|VariantValue==Value
 ParamDesignator88=R4
-ParamVariation89=ParameterName=Footprint|VariantValue=AXIAL-0.7
+ParamVariation89=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator89=R4
-ParamVariation90=ParameterName=Ibis Model|VariantValue= 
+ParamVariation90=ParameterName=Database Table Name|VariantValue=Resistors$
 ParamDesignator90=R4
-ParamVariation91=ParameterName=Library Reference|VariantValue=46030503
+ParamVariation91=ParameterName=Description|VariantValue=RES 150 OHM 3W 5% AXIAL
 ParamDesignator91=R4
-ParamVariation92=ParameterName=Manufacturer|VariantValue=Ohmite
+ParamVariation92=ParameterName=Footprint|VariantValue=AXIAL-0.7
 ParamDesignator92=R4
-ParamVariation93=ParameterName=Manufacturer number|VariantValue=23J150E
+ParamVariation93=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator93=R4
-ParamVariation94=ParameterName=Package|VariantValue=Axial
+ParamVariation94=ParameterName=Library Reference|VariantValue=46030503
 ParamDesignator94=R4
-ParamVariation95=ParameterName=Part_Type|VariantValue=Resistor
+ParamVariation95=ParameterName=Manufacturer|VariantValue=Ohmite
 ParamDesignator95=R4
-ParamVariation96=ParameterName=Part Number|VariantValue=46030503
+ParamVariation96=ParameterName=Manufacturer number|VariantValue=23J150E
 ParamDesignator96=R4
-ParamVariation97=ParameterName=PCB3D|VariantValue= 
+ParamVariation97=ParameterName=Package|VariantValue=Axial
 ParamDesignator97=R4
-ParamVariation98=ParameterName=Power|VariantValue=W
+ParamVariation98=ParameterName=Part_Type|VariantValue=Resistor
 ParamDesignator98=R4
-ParamVariation99=ParameterName=Simulation|VariantValue= 
+ParamVariation99=ParameterName=Part Number|VariantValue=46030503
 ParamDesignator99=R4
-ParamVariation100=ParameterName=Supplier 1|VariantValue=Digi-key
+ParamVariation100=ParameterName=PCB3D|VariantValue= 
 ParamDesignator100=R4
-ParamVariation101=ParameterName=Supplier Part Number 1|VariantValue=23J150E-ND
+ParamVariation101=ParameterName=Power|VariantValue=W
 ParamDesignator101=R4
-ParamVariation102=ParameterName=Tolerance|VariantValue=%
+ParamVariation102=ParameterName=Simulation|VariantValue= 
 ParamDesignator102=R4
-ParamVariation103=ParameterName=Value|VariantValue=150R
+ParamVariation103=ParameterName=Supplier 1|VariantValue=Digi-key
 ParamDesignator103=R4
-ParamVariation104=ParameterName=Height|VariantValue=-
+ParamVariation104=ParameterName=Supplier Part Number 1|VariantValue=23J150E-ND
 ParamDesignator104=R4
-ParamVariation105=ParameterName=PAR1|VariantValue=Power: 3W
+ParamVariation105=ParameterName=Tolerance|VariantValue=%
 ParamDesignator105=R4
-ParamVariation106=ParameterName=PAR2|VariantValue=Tolerance: 5%
+ParamVariation106=ParameterName=Value|VariantValue=150R
 ParamDesignator106=R4
-ParamVariation107=ParameterName=PAR3|VariantValue=Features: Flame Retardant Coating, Safety
+ParamVariation107=ParameterName=Height|VariantValue=-
 ParamDesignator107=R4
-ParamVariation108=ParameterName=PAR4|VariantValue=Temperature Coefficient : ±30ppm/°C
+ParamVariation108=ParameterName=PAR1|VariantValue=Power: 3W
 ParamDesignator108=R4
-ParamVariation109=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation109=ParameterName=PAR2|VariantValue=Tolerance: 5%
 ParamDesignator109=R4
-ParamVariation110=ParameterName=Supplier 2|VariantValue=Mouser
+ParamVariation110=ParameterName=PAR3|VariantValue=Features: Flame Retardant Coating, Safety
 ParamDesignator110=R4
-ParamVariation111=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamVariation111=ParameterName=PAR4|VariantValue=Temperature Coefficient : ±30ppm/°C
 ParamDesignator111=R4
-ParamVariation112=ParameterName=Supplier Part Number 2|VariantValue=588-23J150E
+ParamVariation112=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator112=R4
+ParamVariation113=ParameterName=Supplier 2|VariantValue=Mouser
+ParamDesignator113=R4
+ParamVariation114=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamDesignator114=R4
+ParamVariation115=ParameterName=Supplier Part Number 2|VariantValue=588-23J150E
+ParamDesignator115=R4
+ParamVariation116=ParameterName=Part status|VariantValue=Prototype
+ParamDesignator116=R4
 Variation5=Designator=C1|UniqueId=\VADUATUN|Kind=1|AlternatePart= 
 Variation6=Designator=TP1|UniqueId=\EGEDGMLQ|Kind=1|AlternatePart= 
 Variation7=Designator=TP2|UniqueId=\VOELQAUX|Kind=1|AlternatePart= 
@@ -605,9 +624,10 @@ Variation9=Designator=C3|UniqueId=\IBWOOCAG|Kind=1|AlternatePart=
 Variation10=Designator=TP3|UniqueId=\RYJYIWBS|Kind=1|AlternatePart= 
 Variation11=Designator=TP4|UniqueId=\KXWGXFEE|Kind=1|AlternatePart= 
 Variation12=Designator=C4|UniqueId=\YXPLIDNV|Kind=1|AlternatePart= 
-ParamVariationCount=112
+ParamVariationCount=116
 
 [ProjectVariant4]
+UniqueID=ED8B2DF8-11B9-4E43-B52E-A090A8408D46
 Description=default_SMD
 AllowFabrication=0
 ParameterCount=0
@@ -623,27 +643,15 @@ Variation8=Designator=R4|UniqueId=\BEWSNUMW|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project_Outputs\BOM_external_Variant\External_2s-4p.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project_Outputs\BOM_external_Variant\External_4s-2p.xls
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project_Outputs\BOM_external_Variant\External_8s-1p.xls
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for Heater_Project\Bill of Materials\gs-bom-nanopower-bpx-heater-8V_2S-4P.xls
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Heater_Project\Bill of Materials\gs-bom-nanopower-bpx-heater-default_SMD.xls
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Heater_Project\Bill of Materials\gs-bom-nanopower-bpx-heater-16V_4S-2P.xls
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=Project_Outputs\BOM_internal_Variant\internal_2s-4p.xls
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Heater_Project\Bill of Materials\gs-bom-nanopower-bpx-heater-32V_8S-1P.xls
 DItemRevisionGUID=
 
 [Configuration1]
@@ -653,7 +661,6 @@ ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
-GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
@@ -829,6 +836,18 @@ OutputDocumentPath18=
 OutputVariantName18=[No Variations]
 OutputDefault18=0
 PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType19=Logic Analyser Print
+OutputName19=Logic Analyser Prints
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType20=PCBDrawing
+OutputName20=Draftsman
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1546,27 +1565,27 @@ ParameterName3=Description
 ParameterUpdate3=1
 ParameterName4=Height
 ParameterUpdate4=1
-ParameterName5=Is_verified
+ParameterName5=Library Reference
 ParameterUpdate5=1
-ParameterName6=Library Reference
+ParameterName6=Manufacturer
 ParameterUpdate6=1
-ParameterName7=Manufacturer
+ParameterName7=Manufacturer number
 ParameterUpdate7=1
-ParameterName8=Manufacturer number
+ParameterName8=MSL
 ParameterUpdate8=1
-ParameterName9=MSL
+ParameterName9=Package
 ParameterUpdate9=1
-ParameterName10=Package
+ParameterName10=PAR1
 ParameterUpdate10=1
-ParameterName11=PAR1
+ParameterName11=PAR2
 ParameterUpdate11=1
-ParameterName12=PAR2
+ParameterName12=PAR3
 ParameterUpdate12=1
-ParameterName13=PAR3
+ParameterName13=PAR4
 ParameterUpdate13=1
-ParameterName14=PAR4
+ParameterName14=Part Number
 ParameterUpdate14=1
-ParameterName15=Part Number
+ParameterName15=Part status
 ParameterUpdate15=1
 ParameterName16=Part_Type
 ParameterUpdate16=1

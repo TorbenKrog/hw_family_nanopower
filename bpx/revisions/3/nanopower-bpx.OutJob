@@ -18,7 +18,7 @@ RevisionNamingSchemeGUID=
 Name=nanopower-bpx.OutJob
 Description=
 TargetOutputMedium=Schematic - Variations
-VariantName=customer_selected_values
+VariantName=default_SMD
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Virtual Printer
@@ -205,7 +205,7 @@ OutputType9=BOM_PartType
 OutputName9=EMS_BOM
 OutputCategory9=Report
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=P60_(8V_2S-4P and 16V_4S-2P)
 OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=0
@@ -220,15 +220,15 @@ Configuration9_Item1=CaptionAsName
 Configuration9_Name2=Filter
 Configuration9_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration9_Name3=General
-Configuration9_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\..\..\..\library\gomspace\EMS_BOM.xlt|BatchMode=5|FormWidth=1420|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration9_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\..\..\..\library\gomspace\template\EMS_BOM.xlt|BatchMode=5|FormWidth=1420|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration9_Name4=GroupOrder
-Configuration9_Item4=Manufacturer number=True
+Configuration9_Item4=Part Number=True
 Configuration9_Name5=OutputConfigurationParameter1
 Configuration9_Item5=r number=44|Supplier 1=44|Supplier 2=44|Supplier 3=44|Supplier Stock 1=44|Supplier Stock 2=44|Supplier Stock 3=46
 Configuration9_Name6=SortOrder
 Configuration9_Item6=Designator=Up|Comment=Up|Footprint=Up
 Configuration9_Name7=VisibleOrder
-Configuration9_Item7=Designator=107|Value=107|Description=107|Manufacturer=107|Manufacturer number=107|Quantity=107|Comment=107|Supplier 4=59|Supplier Part Number 4=154
+Configuration9_Item7=Designator=107|Value=107|Description=107|Manufacturer=107|Quantity=107|Comment=107|Supplier 4=59|Supplier Part Number 4=154|Part Number=100|Manufacturer number=100
 OutputType10=PDF3D
 OutputName10=PDF3D
 OutputCategory10=Documentation
@@ -284,7 +284,7 @@ GenerateNetsInfo2=1
 MarkPins2=1
 MarkNetLabels2=1
 MarkPortsId2=1
-GenerateTOC2=1
+GenerateTOC=1
 ShowComponentParameters2=1
 GlobalBookmarks2=0
 OutputFilePath3=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\bpx\revisions\3\Project_Outputs\
