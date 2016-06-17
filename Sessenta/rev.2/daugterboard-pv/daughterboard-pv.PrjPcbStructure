@@ -1,5 +1,0 @@
-Record=TopLevelDocument|FileName=Main.SchDoc
-Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=b1|SchDesignator=b1|FileName=b.SchDoc|SymbolType=Normal|RawFileName=b.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=b2|SchDesignator=b2|FileName=b.SchDoc|SymbolType=Normal|RawFileName=b.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=b3|SchDesignator=b3|FileName=b.SchDoc|SymbolType=Normal|RawFileName=b.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=m|SchDesignator=m|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
