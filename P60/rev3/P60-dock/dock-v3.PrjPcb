@@ -53,7 +53,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LWXBOTMU
+DocumentUniqueId=LVXPBYRI
 
 [Document2]
 DocumentPath=Sheet_i2c_isolator.SchDoc
@@ -158,23 +158,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=PP-bat.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=16
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IISVMHUK
-
-[Document9]
 DocumentPath=..\..\..\..\library\altium\Libraries\eeproms.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=..\..\..\..\library\altium\Libraries\GomSpace Connector Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCXHPTFY
 
-[Document11]
+[Document10]
 DocumentPath=..\..\..\..\library\altium\Libraries\GomSpace Module Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=..\..\..\..\library\altium\Libraries\GomSpace Standard Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKLRWNAP
 
-[Document13]
+[Document12]
 DocumentPath=..\..\..\..\library\altium\sessentas.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSJUJBYE
 
-[Document14]
+[Document13]
 DocumentPath=..\..\..\..\library\altium\atmel.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,24 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
-DocumentPath=PP.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=17
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QNJAICRB
-
-[Document16]
+[Document14]
 DocumentPath=dock-v3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLMYGQTN
 
-[Document17]
+[Document15]
 DocumentPath=..\..\..\..\library\gomspace\database\Gomspace_Database_Libs.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document16]
 DocumentPath=..\..\..\..\..\footprints\p60.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BODDRFMX
 
-[Document19]
+[Document17]
 DocumentPath=dock-v3.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,75 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
-DocumentPath=psw.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=20
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BACIBMSC
-
-[Document21]
-DocumentPath=spsw.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=21
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PNTUXXEL
-
-[Document22]
-DocumentPath=bpsw.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=18
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TUKFDRFM
-
-[Document23]
-DocumentPath=ltsw.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=19
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NFYJWJEG
-
-[Document24]
+[Document18]
 DocumentPath=ltspsw.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FISRPRPG
 
-[Document25]
+[Document19]
 DocumentPath=acu_bpsw.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -463,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNDTUGCA
 
-[Document26]
+[Document20]
 DocumentPath=pdu_bpsw.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -480,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLYAIVOE
 
-[Document27]
+[Document21]
 DocumentPath=DB_selector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -497,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KICMRWJI
 
-[Document28]
+[Document22]
 DocumentPath=vcc_selector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -514,7 +412,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAIHRFAY
 
-[Document29]
+[Document23]
 DocumentPath=ks_logic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -531,7 +429,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQVDXBEC
 
-[Document30]
+[Document24]
 DocumentPath=dock-v3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -548,7 +446,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNMMEEMK
 
-[Document31]
+[Document25]
 DocumentPath=dock-v3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
