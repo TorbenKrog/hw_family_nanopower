@@ -130,7 +130,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -141,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NDCJDMBC
 
 [Document7]
-DocumentPath=buck-boost.SchDoc
+DocumentPath=P60-ACU_lib.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -155,7 +155,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IQHKGOTH
+DocumentUniqueId=QPLIETLP
+
+[Document8]
+DocumentPath=P60-ACU_lib.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QEGCHQIU
 
 [ProjectVariant1]
 UniqueID=E58B5FB3-0E75-48E2-BF44-655014F9D357
@@ -168,6 +185,10 @@ Variation2=Designator=BT1|UniqueId=\XLNRSIQL|Kind=1|AlternatePart=
 Variation3=Designator=C24|UniqueId=\YILQKDWA|Kind=1|AlternatePart= 
 Variation4=Designator=C29|UniqueId=\CNYFFEYK|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ax600\Design Rule Check - daughterboard-pv.html
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=C:\Program Files\Altium Designer Summer 09\Library\*.*
