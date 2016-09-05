@@ -463,6 +463,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXMBWJPN
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for motherboard\Design Rule Check - dock-v3.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=C:\Program Files (x86)\Altium Designer Summer 09\Library\*.*
 IncludeSubFolders=1
