@@ -40,7 +40,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Sheet_connectors.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -57,7 +57,7 @@ DocumentUniqueId=LVXPBYRI
 
 [Document2]
 DocumentPath=Sheet_i2c_isolator.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -74,7 +74,7 @@ DocumentUniqueId=NDCJDMBC
 
 [Document3]
 DocumentPath=Sheet_power.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -91,7 +91,7 @@ DocumentUniqueId=EMGPWSPR
 
 [Document4]
 DocumentPath=Sheet_rs422.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -108,7 +108,7 @@ DocumentUniqueId=QLWPXTBL
 
 [Document5]
 DocumentPath=P.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -125,7 +125,7 @@ DocumentUniqueId=NLDTWLUV
 
 [Document6]
 DocumentPath=MCU.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -329,7 +329,7 @@ DocumentUniqueId=
 
 [Document18]
 DocumentPath=ltspsw.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -363,7 +363,7 @@ DocumentUniqueId=QNDTUGCA
 
 [Document20]
 DocumentPath=pdu_bpsw.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -380,7 +380,7 @@ DocumentUniqueId=TLYAIVOE
 
 [Document21]
 DocumentPath=DB_selector.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -397,7 +397,7 @@ DocumentUniqueId=KICMRWJI
 
 [Document22]
 DocumentPath=vcc_selector.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -414,7 +414,7 @@ DocumentUniqueId=FAIHRFAY
 
 [Document23]
 DocumentPath=ks_logic.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -462,6 +462,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXMBWJPN
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for motherboard\Design Rule Check - dock-v3.html
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=C:\Program Files (x86)\Altium Designer Summer 09\Library\*.*
