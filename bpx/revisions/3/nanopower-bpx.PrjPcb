@@ -144,7 +144,7 @@ DocumentUniqueId=
 Description=P31U_(8V_2S-4P and 16V_4S-2P)
 AllowFabrication=0
 ParameterCount=0
-VariationCount=62
+VariationCount=61
 Variation1=Designator=R1|UniqueId=\MBGGRQSP\CLLQCUMK|Kind=1|AlternatePart= 
 Variation2=Designator=Qks|UniqueId=\MBGGRQSP\CWUPSJEH|Kind=1|AlternatePart= 
 Variation3=Designator=Rks2|UniqueId=\MBGGRQSP\TRPFXJTT|Kind=1|AlternatePart= 
@@ -181,32 +181,31 @@ Variation33=Designator=Rc4|UniqueId=\MBGGRQSP\XGBTUKGC|Kind=1|AlternatePart=
 Variation34=Designator=Cc2|UniqueId=\MBGGRQSP\NMNKDNND|Kind=1|AlternatePart= 
 Variation35=Designator=R100|UniqueId=\MBGGRQSP\DBPEUHFA|Kind=1|AlternatePart= 
 Variation36=Designator=Q4|UniqueId=\MBGGRQSP\QCPNUOBH|Kind=1|AlternatePart= 
-Variation37=Designator=Rks1|UniqueId=\MBGGRQSP\BKTMUGCA|Kind=0|AlternatePart= 
-Variation38=Designator=C4|UniqueId=\DQTFNHYW\FYFKLBGJ|Kind=1|AlternatePart= 
-Variation39=Designator=C17|UniqueId=\DQTFNHYW\OANMXIEW|Kind=1|AlternatePart= 
-Variation40=Designator=C18|UniqueId=\DQTFNHYW\EAQIAJBP|Kind=1|AlternatePart= 
-Variation41=Designator=C19|UniqueId=\DQTFNHYW\KUGIYUON|Kind=1|AlternatePart= 
-Variation42=Designator=L3|UniqueId=\DQTFNHYW\NXFYHNPK|Kind=1|AlternatePart= 
-Variation43=Designator=C20|UniqueId=\DQTFNHYW\IPROKPMX|Kind=1|AlternatePart= 
-Variation44=Designator=C21|UniqueId=\DQTFNHYW\EGBILEQS|Kind=1|AlternatePart= 
-Variation45=Designator=Q201|UniqueId=\DQTFNHYW\BTTHWMXN|Kind=1|AlternatePart= 
-Variation46=Designator=R40|UniqueId=\DQTFNHYW\RQYMNJKW|Kind=1|AlternatePart= 
-Variation47=Designator=U1|UniqueId=\DQTFNHYW\PKPTPPRQ|Kind=1|AlternatePart= 
-Variation48=Designator=R39|UniqueId=\DQTFNHYW\RRDIOIPR|Kind=1|AlternatePart= 
-Variation49=Designator=C10|UniqueId=\DQTFNHYW\UYXDSMYB|Kind=1|AlternatePart= 
-Variation50=Designator=R38|UniqueId=\DQTFNHYW\SLIADRVS|Kind=1|AlternatePart= 
-Variation51=Designator=U6|UniqueId=\DQTFNHYW\MUXOKCLY|Kind=1|AlternatePart= 
-Variation52=Designator=C11|UniqueId=\DQTFNHYW\YYBDDFNC|Kind=1|AlternatePart= 
-Variation53=Designator=R17|UniqueId=\DQTFNHYW\YCAXDBUY|Kind=1|AlternatePart= 
-Variation54=Designator=R16|UniqueId=\DQTFNHYW\BYQVBTXF|Kind=1|AlternatePart= 
-Variation55=Designator=P2|UniqueId=\DQTFNHYW\TESXGINA|Kind=1|AlternatePart= 
-Variation56=Designator=Y1|UniqueId=\DQTFNHYW\QKSGVPLV|Kind=1|AlternatePart= 
-Variation57=Designator=CXTAL1|UniqueId=\DQTFNHYW\ADCRQFWW|Kind=1|AlternatePart= 
-Variation58=Designator=CXTAL2|UniqueId=\DQTFNHYW\MVLTKCWY|Kind=1|AlternatePart= 
-Variation59=Designator=PBAT1|UniqueId=\CNAWSKHQ|Kind=1|AlternatePart= 
-Variation60=Designator=PBAT2|UniqueId=\KMIPGXTG|Kind=1|AlternatePart= 
-Variation61=Designator=PGND1|UniqueId=\OWYGPNOK|Kind=1|AlternatePart= 
-Variation62=Designator=R37|UniqueId=\DQTFNHYW\EQGVCTQV|Kind=1|AlternatePart= 
+Variation37=Designator=C4|UniqueId=\DQTFNHYW\FYFKLBGJ|Kind=1|AlternatePart= 
+Variation38=Designator=C17|UniqueId=\DQTFNHYW\OANMXIEW|Kind=1|AlternatePart= 
+Variation39=Designator=C18|UniqueId=\DQTFNHYW\EAQIAJBP|Kind=1|AlternatePart= 
+Variation40=Designator=C19|UniqueId=\DQTFNHYW\KUGIYUON|Kind=1|AlternatePart= 
+Variation41=Designator=L3|UniqueId=\DQTFNHYW\NXFYHNPK|Kind=1|AlternatePart= 
+Variation42=Designator=C20|UniqueId=\DQTFNHYW\IPROKPMX|Kind=1|AlternatePart= 
+Variation43=Designator=C21|UniqueId=\DQTFNHYW\EGBILEQS|Kind=1|AlternatePart= 
+Variation44=Designator=Q201|UniqueId=\DQTFNHYW\BTTHWMXN|Kind=1|AlternatePart= 
+Variation45=Designator=R40|UniqueId=\DQTFNHYW\RQYMNJKW|Kind=1|AlternatePart= 
+Variation46=Designator=U1|UniqueId=\DQTFNHYW\PKPTPPRQ|Kind=1|AlternatePart= 
+Variation47=Designator=R39|UniqueId=\DQTFNHYW\RRDIOIPR|Kind=1|AlternatePart= 
+Variation48=Designator=C10|UniqueId=\DQTFNHYW\UYXDSMYB|Kind=1|AlternatePart= 
+Variation49=Designator=R38|UniqueId=\DQTFNHYW\SLIADRVS|Kind=1|AlternatePart= 
+Variation50=Designator=U6|UniqueId=\DQTFNHYW\MUXOKCLY|Kind=1|AlternatePart= 
+Variation51=Designator=C11|UniqueId=\DQTFNHYW\YYBDDFNC|Kind=1|AlternatePart= 
+Variation52=Designator=R17|UniqueId=\DQTFNHYW\YCAXDBUY|Kind=1|AlternatePart= 
+Variation53=Designator=R16|UniqueId=\DQTFNHYW\BYQVBTXF|Kind=1|AlternatePart= 
+Variation54=Designator=P2|UniqueId=\DQTFNHYW\TESXGINA|Kind=1|AlternatePart= 
+Variation55=Designator=Y1|UniqueId=\DQTFNHYW\QKSGVPLV|Kind=1|AlternatePart= 
+Variation56=Designator=CXTAL1|UniqueId=\DQTFNHYW\ADCRQFWW|Kind=1|AlternatePart= 
+Variation57=Designator=CXTAL2|UniqueId=\DQTFNHYW\MVLTKCWY|Kind=1|AlternatePart= 
+Variation58=Designator=PBAT1|UniqueId=\CNAWSKHQ|Kind=1|AlternatePart= 
+Variation59=Designator=PBAT2|UniqueId=\KMIPGXTG|Kind=1|AlternatePart= 
+Variation60=Designator=PGND1|UniqueId=\OWYGPNOK|Kind=1|AlternatePart= 
+Variation61=Designator=R37|UniqueId=\DQTFNHYW\EQGVCTQV|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -644,7 +643,7 @@ ParamVariationCount=124
 Description=default_SMD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=14
+VariationCount=16
 Variation1=Designator=C100|UniqueId=\MBGGRQSP\URTLOOOA|Kind=1|AlternatePart= 
 Variation2=Designator=Rks3|UniqueId=\MBGGRQSP\GNSRMPGF|Kind=1|AlternatePart= 
 Variation3=Designator=Rks4|UniqueId=\MBGGRQSP\CUITKQAQ|Kind=1|AlternatePart= 
@@ -659,6 +658,8 @@ Variation11=Designator=Rscl|UniqueId=\DQTFNHYW\NIFVEDYS|Kind=1|AlternatePart=
 Variation12=Designator=Qsda|UniqueId=\DQTFNHYW\PQLDYKLU|Kind=1|AlternatePart= 
 Variation13=Designator=Rsda|UniqueId=\DQTFNHYW\RBXGPLWI|Kind=1|AlternatePart= 
 Variation14=Designator=Rks1|UniqueId=\MBGGRQSP\BKTMUGCA|Kind=1|AlternatePart= 
+Variation15=Designator=CXTAL1|UniqueId=\DQTFNHYW\ADCRQFWW|Kind=1|AlternatePart= 
+Variation16=Designator=CXTAL2|UniqueId=\DQTFNHYW\MVLTKCWY|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant5]
@@ -737,22 +738,6 @@ Variation64=Designator=Qks|UniqueId=\MBGGRQSP\CWUPSJEH|Kind=1|AlternatePart=
 Variation65=Designator=Rbatm|UniqueId=\MBGGRQSP\FJQBEAEN|Kind=1|AlternatePart= 
 Variation66=Designator=R1|UniqueId=\MBGGRQSP\CLLQCUMK|Kind=1|AlternatePart= 
 ParamVariationCount=2
-
-[GeneratedDocument1]
-DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_default_SMD.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P31U_(8V_2S-4P and 16V_4S-2P).xls
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P60_(8V_2S-4P and 16V_4S-2P).xls
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P60_(32V_8S-2P).xls
-DItemRevisionGUID=
 
 [SearchPath1]
 Path=..\GitHub\Hardware\library\altium\*.*
