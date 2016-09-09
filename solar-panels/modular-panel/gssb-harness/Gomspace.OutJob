@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Gomspace.OutJob
 Description=
-TargetOutputMedium=Component placement
-VariantName=default_SMD
+TargetOutputMedium=EMS_BOM
+VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -61,7 +61,7 @@ OutputName2=Bill of Materials
 OutputCategory2=Report
 OutputDocumentPath2=
 OutputVariantName2=default_SMD
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=0
@@ -90,10 +90,10 @@ OutputName3=PCB 3D Print TOP
 OutputCategory3=Documentation
 OutputDocumentPath3=
 OutputVariantName3=2s-4p
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
-OutputEnabled3_OutputMedium3=1
+OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
 OutputEnabled3_OutputMedium5=0
 OutputEnabled3_OutputMedium6=0
@@ -191,7 +191,7 @@ OutputVariantName9=2s-4p
 OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=0
-OutputEnabled9_OutputMedium3=0
+OutputEnabled9_OutputMedium3=1
 OutputEnabled9_OutputMedium4=0
 OutputEnabled9_OutputMedium5=0
 OutputEnabled9_OutputMedium6=0
@@ -199,31 +199,35 @@ OutputEnabled9_OutputMedium7=0
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=257550000|PrintAreaLowerLeftCornerY=364000000|PrintAreaUpperRightCornerX=290350000|PrintAreaUpperRightCornerY=382400000|Record=PcbPrintView
+Configuration9_Item1=DesignatorDisplayMode=Physical|PrintArea=SpecificArea|PrintAreaLowerLeftCornerX=40255512|PrintAreaLowerLeftCornerY=570630|PrintAreaUpperRightCornerX=72027165|PrintAreaUpperRightCornerY=19192677|Record=PcbPrintView
 Configuration9_Name2=OutputConfigurationParameter2
 Configuration9_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
 Configuration9_Name3=OutputConfigurationParameter3
 Configuration9_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration9_Name4=OutputConfigurationParameter4
-Configuration9_Item4=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Full|FTrack=Hidden|FVia=Hidden|Layer=TopLayer|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration9_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration9_Name5=OutputConfigurationParameter5
-Configuration9_Item5=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Full|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=Mechanical15|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration9_Item5=CArc=Hidden|CFill=Hidden|Comment=Full|Coordinate=Full|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Draft|FRegion=Hidden|FText=Full|FTrack=Hidden|FVia=Hidden|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration9_Name6=OutputConfigurationParameter6
-Configuration9_Item6=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopOverlay|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration9_Item6=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Full|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=Mechanical15|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration9_Name7=OutputConfigurationParameter7
-Configuration9_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration9_Item7=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopOverlay|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration9_Name8=OutputConfigurationParameter8
-Configuration9_Item8=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=True|Name=Bottom LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration9_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 Configuration9_Name9=OutputConfigurationParameter9
-Configuration9_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration9_Item9=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=True|Name=Bottom LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
 Configuration9_Name10=OutputConfigurationParameter10
-Configuration9_Item10=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Full|FTrack=Hidden|FVia=Hidden|Layer=BottomLayer|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration9_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
 Configuration9_Name11=OutputConfigurationParameter11
-Configuration9_Item11=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=BottomOverlay|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration9_Item11=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Full|FTrack=Hidden|FVia=Hidden|Layer=BottomLayer|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer
 Configuration9_Name12=OutputConfigurationParameter12
-Configuration9_Item12=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Full|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=Mechanical16|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration9_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical4|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
 Configuration9_Name13=OutputConfigurationParameter13
-Configuration9_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration9_Item13=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Full|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=BottomOverlay|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration9_Name14=OutputConfigurationParameter14
+Configuration9_Item14=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Hidden|CRegion=Hidden|CText=Hidden|CTrack=Full|CVia=Hidden|DDSymbolKind=0|DDSymbolSize=200000|DDSymbolSortKind=0|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=Mechanical16|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration9_Name15=OutputConfigurationParameter15
+Configuration9_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
 PcbPrintPreferences9=
 OutputType10=PDF3D
 OutputName10=Export PDF3D
@@ -276,7 +280,7 @@ Configuration12_Name1=OutputConfigurationParameter1
 Configuration12_Item1=Record=ExportDXFView|ACadVersion=60|UseRoundedTracks=True|Components=0|HoleMode=1|Units=0|OutputFormat=0|OnlyVisibleLayers=False|ZeroWidthLines=0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\bpx\bpx_heater\Project Outputs for Heater_Project\
+OutputFilePath2=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\solar-panels\modular-panel\gssb-harness\CAM\
 ReleaseManaged2=1
 OutputBasePath2=CAM
 OutputPathMedia2=
@@ -349,7 +353,7 @@ MarkNetLabels4=1
 MarkPortsId4=1
 ShowComponentParameters4=1
 GlobalBookmarks4=0
-OutputFilePath5=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\bpx\bpx_heater\Project Outputs for Heater_Project\
+OutputFilePath5=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\solar-panels\modular-panel\gssb-harness\CAM\
 ReleaseManaged5=1
 OutputBasePath5=CAM
 OutputPathMedia5=
@@ -390,13 +394,13 @@ OutputFileNameSpecial7=
 OpenOutput7=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\bpx\bpx_heater\Project Outputs for Heater_Project\
+RelativeOutputPath2=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\solar-panels\modular-panel\gssb-harness\CAM\
 OpenOutputs2=1
 RelativeOutputPath3=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\bpx\bpx_heater\Project Outputs for Heater_Project\
 OpenOutputs3=1
 RelativeOutputPath4=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\bpx\bpx_heater\Project Outputs for Heater_Project\
 OpenOutputs4=1
-RelativeOutputPath5=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\bpx\bpx_heater\Project Outputs for Heater_Project\
+RelativeOutputPath5=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\solar-panels\modular-panel\gssb-harness\CAM\
 OpenOutputs5=1
 AddToProject5=1
 TimestampFolder5=0

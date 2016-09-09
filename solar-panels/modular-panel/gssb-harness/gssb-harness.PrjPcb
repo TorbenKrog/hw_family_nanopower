@@ -106,13 +106,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[ProjectVariant1]
-Description=FRONT
-AllowFabrication=0
-ParameterCount=0
-VariationCount=1
-Variation1=Designator=S3|UniqueId=\TUOHVNKR\MQJMVRFP|Kind=1|AlternatePart= 
-ParamVariationCount=0
+[GeneratedDocument1]
+DocumentPath=CAM\Bill of Materials\gs-bom-gssb-harness-[No Variations].xls.xls
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
