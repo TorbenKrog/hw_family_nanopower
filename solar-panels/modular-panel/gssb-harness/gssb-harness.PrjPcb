@@ -107,7 +107,91 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\keepout\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical10\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
 DocumentPath=CAM\Bill of Materials\gs-bom-gssb-harness-[No Variations].xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project_Outputs\NC Drill Files\gssb-harness_[No Variations]-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project_Outputs\Generates pick and place files\gssb-harness_[No Variations].csv
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project_Outputs\NC Drill Files\gssb-harness_[No Variations].DRR
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project_Outputs\NC Drill Files\gssb-harness_[No Variations].LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project_Outputs\ODB++ Files\gssb-harness_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
