@@ -107,142 +107,153 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [ProjectVariant1]
-Description=FRONT
+Description=default_smd
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
-Variation1=Designator=S3|UniqueId=\TUOHVNKR\MQJMVRFP|Kind=1|AlternatePart= 
+VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD-Plated.TX1
+DocumentPath=CAM\ExportSTEP\Anode(default_smd).step
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD-Plated.TX2
+DocumentPath=CAM\AutoCAD PCB\Anode.DWG
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD-Plated.TX3
+DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD-Plated.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD-Plated.TXT
+DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD-Plated.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project_Outputs\Generates pick and place files\Anode_default_SMD.csv
+DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD-Plated.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD.DRR
+DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD.LDP
+DocumentPath=Project_Outputs\Generates pick and place files\Anode_default_SMD.csv
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project_Outputs\ODB++ Files\Anode_default_SMD.REP
+DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
+DocumentPath=Project_Outputs\ODB++ Files\Anode_default_SMD.REP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical6\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical7\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical10\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical6\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid1\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical7\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid2\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical10\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid2\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DocumentPath=CAM\Bill of Materials\gs-bom-Anode-default_smd.xls.xls
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
+DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\tools
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument33]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\tools
+DItemRevisionGUID=
+
+[GeneratedDocument36]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -1455,11 +1466,23 @@ SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=private_test.DbLib/IC$
-ComponentDesignItemID0=60000003
+ComponentLibraryIdentifier0=GomSpace_Database_Libs.DbLib/Optoelectronics$
+ComponentDesignItemID0=80000004
 ComponentSymbolReference0=3G30C-anode
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=GomSpace_Database_Libs.DbLib/Sensors$
+ComponentDesignItemID1=16000003
+ComponentSymbolReference1=PTS
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=GomSpace_Database_Libs.DbLib/Sensors$
+ComponentDesignItemID2=16000004
+ComponentSymbolReference2=Photo Sen
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1483,42 +1506,94 @@ ParameterName3=Description
 ParameterUpdate3=1
 ParameterName4=Height
 ParameterUpdate4=1
-ParameterName5=Library Reference
+ParameterName5=LatestRevisionDate
 ParameterUpdate5=1
-ParameterName6=Manufacturer
+ParameterName6=LatestRevisionNote
 ParameterUpdate6=1
-ParameterName7=Manufacturer number
+ParameterName7=Library Reference
 ParameterUpdate7=1
-ParameterName8=Package
+ParameterName8=Manufacturer
 ParameterUpdate8=1
-ParameterName9=PAR1
+ParameterName9=Manufacturer number
 ParameterUpdate9=1
-ParameterName10=PAR2
+ParameterName10=MSL
 ParameterUpdate10=1
-ParameterName11=Part Number
+ParameterName11=Package
 ParameterUpdate11=1
-ParameterName12=Part status
+ParameterName12=PackageReference
 ParameterUpdate12=1
-ParameterName13=Part_Type
+ParameterName13=PAR1
 ParameterUpdate13=1
-ParameterName14=Supplier 1
+ParameterName14=PAR2
 ParameterUpdate14=1
-ParameterName15=Supplier 4
+ParameterName15=PAR3
 ParameterUpdate15=1
-ParameterName16=Supplier Part Number 4
+ParameterName16=PAR4
 ParameterUpdate16=1
-ParameterName17=Value
+ParameterName17=Part Number
 ParameterUpdate17=1
+ParameterName18=Part status
+ParameterUpdate18=1
+ParameterName19=Part_Type
+ParameterUpdate19=1
+ParameterName20=Published
+ParameterUpdate20=1
+ParameterName21=Publisher
+ParameterUpdate21=1
+ParameterName22=Supplier 1
+ParameterUpdate22=1
+ParameterName23=Supplier 2
+ParameterUpdate23=1
+ParameterName24=Supplier 3
+ParameterUpdate24=1
+ParameterName25=Supplier 4
+ParameterUpdate25=1
+ParameterName26=Supplier Part Number 1
+ParameterUpdate26=1
+ParameterName27=Supplier Part Number 2
+ParameterUpdate27=1
+ParameterName28=Supplier Part Number 3
+ParameterUpdate28=1
+ParameterName29=Supplier Part Number 4
+ParameterUpdate29=1
+ParameterName30=Temperature
+ParameterUpdate30=1
+ParameterName31=Value
+ParameterUpdate31=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
 ModelName0=3G30C-ANODE-SMALL-BYPASS
 ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=PTS0805
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=SLCD61N8
+ModelUpdate2=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=GomSpace_Database_Libs.DbLib/Optoelectronics$
+ComponentDesignItemID0=80000004
+ComponentSymbolReference0=3G30C-anode
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=GomSpace_Database_Libs.DbLib/Sensors$
+ComponentDesignItemID1=16000003
+ComponentSymbolReference1=PTS
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=GomSpace_Database_Libs.DbLib/Sensors$
+ComponentDesignItemID2=16000004
+ComponentSymbolReference2=Photo Sen
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
