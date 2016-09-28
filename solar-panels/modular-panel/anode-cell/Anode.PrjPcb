@@ -114,146 +114,134 @@ VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=CAM\ExportSTEP\Anode(default_smd).step
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=CAM\AutoCAD PCB\Anode.DWG
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD-Plated.TX1
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD-Plated.TX2
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD-Plated.TX3
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD-Plated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project_Outputs\Generates pick and place files\Anode_default_SMD.csv
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project_Outputs\NC Drill Files\Anode_default_SMD.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project_Outputs\ODB++ Files\Anode_default_SMD.REP
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\features
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument17]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument18]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument19]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical6\features
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument20]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical7\features
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument21]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical10\features
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument22]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid1\features
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument23]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid2\features
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument24]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument25]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
-[GeneratedDocument28]
-DocumentPath=CAM\Bill of Materials\gs-bom-Anode-default_smd.xls.xls
-DItemRevisionGUID=
-
-[GeneratedDocument29]
+[GeneratedDocument26]
 DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument27]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument28]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument29]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument30]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument31]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument32]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\tools
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument33]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -1516,50 +1504,40 @@ ParameterName8=Manufacturer
 ParameterUpdate8=1
 ParameterName9=Manufacturer number
 ParameterUpdate9=1
-ParameterName10=MSL
+ParameterName10=Package
 ParameterUpdate10=1
-ParameterName11=Package
+ParameterName11=PackageReference
 ParameterUpdate11=1
-ParameterName12=PackageReference
+ParameterName12=PAR1
 ParameterUpdate12=1
-ParameterName13=PAR1
+ParameterName13=PAR2
 ParameterUpdate13=1
-ParameterName14=PAR2
+ParameterName14=Part Number
 ParameterUpdate14=1
-ParameterName15=PAR3
+ParameterName15=Part status
 ParameterUpdate15=1
-ParameterName16=PAR4
+ParameterName16=Part_Type
 ParameterUpdate16=1
-ParameterName17=Part Number
+ParameterName17=Published
 ParameterUpdate17=1
-ParameterName18=Part status
+ParameterName18=Publisher
 ParameterUpdate18=1
-ParameterName19=Part_Type
+ParameterName19=Supplier 1
 ParameterUpdate19=1
-ParameterName20=Published
+ParameterName20=Supplier 2
 ParameterUpdate20=1
-ParameterName21=Publisher
+ParameterName21=Supplier 4
 ParameterUpdate21=1
-ParameterName22=Supplier 1
+ParameterName22=Supplier Part Number 1
 ParameterUpdate22=1
-ParameterName23=Supplier 2
+ParameterName23=Supplier Part Number 2
 ParameterUpdate23=1
-ParameterName24=Supplier 3
+ParameterName24=Supplier Part Number 4
 ParameterUpdate24=1
-ParameterName25=Supplier 4
+ParameterName25=Temperature
 ParameterUpdate25=1
-ParameterName26=Supplier Part Number 1
+ParameterName26=Value
 ParameterUpdate26=1
-ParameterName27=Supplier Part Number 2
-ParameterUpdate27=1
-ParameterName28=Supplier Part Number 3
-ParameterUpdate28=1
-ParameterName29=Supplier Part Number 4
-ParameterUpdate29=1
-ParameterName30=Temperature
-ParameterUpdate30=1
-ParameterName31=Value
-ParameterUpdate31=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
