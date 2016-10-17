@@ -463,6 +463,89 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXMBWJPN
 
+[ProjectVariant1]
+UniqueID=11F19D5F-20F5-4951-A060-B3C3CF19AB2A
+Description=default_HR
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=R194|UniqueId=\ANJURCAH\GLNXHOHS|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=9474B6EC-A17C-41EF-A565-E9E2917C396A
+Description=simple_HR
+AllowFabrication=0
+ParameterCount=0
+VariationCount=14
+Variation1=Designator=R65|UniqueId=\ANJURCAH\DJKXACJD|Kind=1|AlternatePart= 
+Variation2=Designator=R73|UniqueId=\ANJURCAH\JTBATUGK|Kind=1|AlternatePart= 
+Variation3=Designator=C147|UniqueId=\ANJURCAH\VLPCTSPG|Kind=1|AlternatePart= 
+Variation4=Designator=Q4|UniqueId=\ANJURCAH\KFVSOFPT|Kind=1|AlternatePart= 
+Variation5=Designator=R100|UniqueId=\ANJURCAH\LUARPFXJ|Kind=1|AlternatePart= 
+Variation6=Designator=Q6|UniqueId=\ANJURCAH\YUDGBBMG|Kind=1|AlternatePart= 
+Variation7=Designator=Q7|UniqueId=\ANJURCAH\TDNANYAX|Kind=1|AlternatePart= 
+Variation8=Designator=C150|UniqueId=\ANJURCAH\DTFDNDFM|Kind=1|AlternatePart= 
+Variation9=Designator=R103|UniqueId=\ANJURCAH\WAXRMLHM|Kind=1|AlternatePart= 
+Variation10=Designator=C151|UniqueId=\ANJURCAH\VVUOIFJI|Kind=1|AlternatePart= 
+Variation11=Designator=R105|UniqueId=\ANJURCAH\TGYVDPVY|Kind=1|AlternatePart= 
+Variation12=Designator=Q10|UniqueId=\ANJURCAH\WEPHMYCF|Kind=1|AlternatePart= 
+Variation13=Designator=C128|UniqueId=\ANJURCAH\QAGQHDPQ|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Cap_Murata$|AltLibLink_SymbolReference=Capacitor np|AltLibLink_DesignItemID=10805227|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Cap_Murata$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CAPC0805(2012)_N|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue==Value
+ParamDesignator1=C128
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=C128
+ParamVariation3=ParameterName=Database Table Name|VariantValue=Cap_Murata$
+ParamDesignator3=C128
+ParamVariation4=ParameterName=Description|VariantValue=CAP CER 100nF 0.053" (1.35mm) Voltage: 50V 0805 (2012 Metric)
+ParamDesignator4=C128
+ParamVariation5=ParameterName=Footprint|VariantValue=CAPC0805(2012)_N
+ParamDesignator5=C128
+ParamVariation6=ParameterName=Height|VariantValue=0.053" (1.35mm)
+ParamDesignator6=C128
+ParamVariation7=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator7=C128
+ParamVariation8=ParameterName=Library Reference|VariantValue=10805227
+ParamDesignator8=C128
+ParamVariation9=ParameterName=Manufacturer|VariantValue=Murata
+ParamDesignator9=C128
+ParamVariation10=ParameterName=Manufacturer number|VariantValue=GRM21BR71H104KA01L
+ParamDesignator10=C128
+ParamVariation11=ParameterName=Package|VariantValue=0805 (2012 Metric)
+ParamDesignator11=C128
+ParamVariation12=ParameterName=PAR1|VariantValue=Voltage: 50V
+ParamDesignator12=C128
+ParamVariation13=ParameterName=PAR2|VariantValue=Tolerance: ±10%
+ParamDesignator13=C128
+ParamVariation14=ParameterName=PAR3|VariantValue=Temperature Coefficient : X7R
+ParamDesignator14=C128
+ParamVariation15=ParameterName=Part_Type|VariantValue=Capacitor
+ParamDesignator15=C128
+ParamVariation16=ParameterName=Part Number|VariantValue=10805227
+ParamDesignator16=C128
+ParamVariation17=ParameterName=Part status|VariantValue=Prototype
+ParamDesignator17=C128
+ParamVariation18=ParameterName=PCB3D|VariantValue= 
+ParamDesignator18=C128
+ParamVariation19=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator19=C128
+ParamVariation20=ParameterName=Simulation|VariantValue= 
+ParamDesignator20=C128
+ParamVariation21=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator21=C128
+ParamVariation22=ParameterName=Supplier Part Number 1|VariantValue=490-1666-1-ND
+ParamDesignator22=C128
+ParamVariation23=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
+ParamDesignator23=C128
+ParamVariation24=ParameterName=Tolerance|VariantValue= 
+ParamDesignator24=C128
+ParamVariation25=ParameterName=Value|VariantValue=100nF
+ParamDesignator25=C128
+ParamVariation26=ParameterName=Voltage|VariantValue= 
+ParamDesignator26=C128
+Variation14=Designator=R98|UniqueId=\ANJURCAH\VKJAGKNN|Kind=1|AlternatePart= 
+ParamVariationCount=26
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for motherboard\Board Information - dock-v3.html
 DItemRevisionGUID=
@@ -674,7 +757,7 @@ OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
 OutputType5=Schematic Print
 OutputName5=Schematic Prints
-OutputDocumentPath5=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev3\P60-dock\ltspsw.SchDoc
+OutputDocumentPath5=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev3\P60-dock\ks_logic.SchDoc
 OutputVariantName5=
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
