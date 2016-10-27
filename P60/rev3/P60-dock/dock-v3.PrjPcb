@@ -413,23 +413,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FAIHRFAY
 
 [Document23]
-DocumentPath=ks_logic.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=26
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AQVDXBEC
-
-[Document24]
 DocumentPath=dock-v3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +429,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNMMEEMK
 
-[Document25]
+[Document24]
 DocumentPath=dock-v3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,6 +445,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXMBWJPN
+
+[Document25]
+DocumentPath=ks_logic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=28
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AQVDXBEC
 
 [ProjectVariant1]
 UniqueID=11F19D5F-20F5-4951-A060-B3C3CF19AB2A
@@ -486,7 +486,7 @@ Variation5=Designator=R100|UniqueId=\ANJURCAH\LUARPFXJ|Kind=1|AlternatePart=
 Variation6=Designator=Q6|UniqueId=\ANJURCAH\YUDGBBMG|Kind=1|AlternatePart= 
 Variation7=Designator=Q7|UniqueId=\ANJURCAH\TDNANYAX|Kind=1|AlternatePart= 
 Variation8=Designator=C150|UniqueId=\ANJURCAH\DTFDNDFM|Kind=1|AlternatePart= 
-Variation9=Designator=R103|UniqueId=\ANJURCAH\WAXRMLHM|Kind=1|AlternatePart= 
+Variation9=Designator=R103|UniqueId=\ANJURCAH\TNDPWSFR|Kind=1|AlternatePart= 
 Variation10=Designator=C151|UniqueId=\ANJURCAH\VVUOIFJI|Kind=1|AlternatePart= 
 Variation11=Designator=R105|UniqueId=\ANJURCAH\TGYVDPVY|Kind=1|AlternatePart= 
 Variation12=Designator=Q10|UniqueId=\ANJURCAH\WEPHMYCF|Kind=1|AlternatePart= 
