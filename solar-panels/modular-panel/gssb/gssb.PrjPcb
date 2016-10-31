@@ -90,7 +90,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WYGFWCDV
 
 [Document4]
-DocumentPath=gssb-harness.Harness
+DocumentPath=gssb.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
