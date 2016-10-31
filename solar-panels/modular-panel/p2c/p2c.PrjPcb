@@ -56,30 +56,30 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=gssb-harness.SchDoc
+DocumentPath=p2c.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JWXSVATA
+DocumentUniqueId=VLEVCBEL
 
 [Document3]
-DocumentPath=gssb-harness.PcbDoc
+DocumentPath=p2c.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -87,108 +87,15 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WYGFWCDV
+DocumentUniqueId=FGCOWIJI
 
-[Document4]
-DocumentPath=gssb-harness.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\keepout\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical10\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project_Outputs\NC Drill Files\gssb-harness_[No Variations]-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project_Outputs\Generates pick and place files\gssb-harness_[No Variations].csv
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project_Outputs\NC Drill Files\gssb-harness_[No Variations].DRR
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project_Outputs\NC Drill Files\gssb-harness_[No Variations].LDP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project_Outputs\ODB++ Files\gssb-harness_[No Variations].REP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
+[ProjectVariant1]
+Description=FRONT
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=S3|UniqueId=\TUOHVNKR\MQJMVRFP|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Configuration1]
 Name=Default Configuration
@@ -1399,125 +1306,17 @@ SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=GomSpace_Database_Libs.DbLib/Cap_Murata$
-ComponentDesignItemID0=10805330
-ComponentSymbolReference0=Capacitor np
+ComponentLibraryIdentifier0=private_test.DbLib/IC$
+ComponentDesignItemID0=60000002
+ComponentSymbolReference0=3G30C-cathode
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=GomSpace_Database_Libs.DbLib/Filters$
-ComponentDesignItemID1=50000002
-ComponentSymbolReference1=inductor
+ComponentLibraryIdentifier1=Schlib1.SchLib
+ComponentDesignItemID1=53398-4
+ComponentSymbolReference1=53398-4
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID2=60000009
-ComponentSymbolReference2=LTC4313
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID3=60000021
-ComponentSymbolReference3=LM4040AIM3-2.5
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID4=10402447
-ComponentSymbolReference4=Capacitor np
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID5=10402498
-ComponentSymbolReference5=Capacitor np
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID6=10402576
-ComponentSymbolReference6=Capacitor np
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID7=10805329
-ComponentSymbolReference7=Capacitor np
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID8=12000095
-ComponentSymbolReference8=Header 4
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID9=40402233
-ComponentSymbolReference9=Res
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID10=40402264
-ComponentSymbolReference10=Res
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID11=40402279
-ComponentSymbolReference11=Res
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID12=40402308
-ComponentSymbolReference12=Res
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID13=40402355
-ComponentSymbolReference13=Res
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID14=40402461
-ComponentSymbolReference14=Res
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID15=80000001
-ComponentSymbolReference15=LED
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=Miscellaneous Connectors.IntLib
-ComponentDesignItemID16=Header 3X2
-ComponentSymbolReference16=Header 3X2
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=private_test.DbLib/IC$
-ComponentDesignItemID17=60000005
-ComponentSymbolReference17=opamp
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=private_test.DbLib/IC$
-ComponentDesignItemID18=60000025
-ComponentSymbolReference18=INA333AIDGKT
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=private_test.DbLib
-ComponentDesignItemID19=60000026
-ComponentSymbolReference19=ATtiny24/44/84
-ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1537,267 +1336,49 @@ ParameterName1=Comment
 ParameterUpdate1=1
 ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=ComponentLink1Description
+ParameterName3=Description
 ParameterUpdate3=1
-ParameterName4=ComponentLink1URL
+ParameterName4=Height
 ParameterUpdate4=1
-ParameterName5=ComponentLink2Description
+ParameterName5=Library Reference
 ParameterUpdate5=1
-ParameterName6=ComponentLink2URL
+ParameterName6=Manufacturer
 ParameterUpdate6=1
-ParameterName7=ComponentLink3Description
+ParameterName7=Manufacturer number
 ParameterUpdate7=1
-ParameterName8=ComponentLink3URL
+ParameterName8=Package
 ParameterUpdate8=1
-ParameterName9=CompType
+ParameterName9=PAR1
 ParameterUpdate9=1
-ParameterName10=DatasheetVersion
+ParameterName10=PAR2
 ParameterUpdate10=1
-ParameterName11=Description
+ParameterName11=Part Number
 ParameterUpdate11=1
-ParameterName12=DigiKeyPartNumber
+ParameterName12=Part status
 ParameterUpdate12=1
-ParameterName13=Height
+ParameterName13=Part_Type
 ParameterUpdate13=1
-ParameterName14=Impedance
+ParameterName14=Supplier 1
 ParameterUpdate14=1
-ParameterName15=LatestRevisionDate
+ParameterName15=Supplier 4
 ParameterUpdate15=1
-ParameterName16=LatestRevisionNote
+ParameterName16=Supplier Part Number 4
 ParameterUpdate16=1
-ParameterName17=Library Reference
+ParameterName17=Value
 ParameterUpdate17=1
-ParameterName18=Manufacturer
-ParameterUpdate18=1
-ParameterName19=Manufacturer number
-ParameterUpdate19=1
-ParameterName20=Package
-ParameterUpdate20=1
-ParameterName21=PackageDescription
-ParameterUpdate21=1
-ParameterName22=PackageReference
-ParameterUpdate22=1
-ParameterName23=PackageTopMarking
-ParameterUpdate23=1
-ParameterName24=PackageVersion
-ParameterUpdate24=1
-ParameterName25=PAR1
-ParameterUpdate25=1
-ParameterName26=PAR2
-ParameterUpdate26=1
-ParameterName27=PAR3
-ParameterUpdate27=1
-ParameterName28=PAR4
-ParameterUpdate28=1
-ParameterName29=Part Number
-ParameterUpdate29=1
-ParameterName30=Part status
-ParameterUpdate30=1
-ParameterName31=Part_Type
-ParameterUpdate31=1
-ParameterName32=PartNumber
-ParameterUpdate32=1
-ParameterName33=PinCount
-ParameterUpdate33=1
-ParameterName34=Power
-ParameterUpdate34=1
-ParameterName35=PowerWise
-ParameterUpdate35=1
-ParameterName36=Published
-ParameterUpdate36=1
-ParameterName37=Publisher
-ParameterUpdate37=1
-ParameterName38=RoHS
-ParameterUpdate38=1
-ParameterName39=Supplier 1
-ParameterUpdate39=1
-ParameterName40=Supplier 2
-ParameterUpdate40=1
-ParameterName41=Supplier 3
-ParameterUpdate41=1
-ParameterName42=Supplier 4
-ParameterUpdate42=1
-ParameterName43=Supplier Part Number 1
-ParameterUpdate43=1
-ParameterName44=Supplier Part Number 2
-ParameterUpdate44=1
-ParameterName45=Supplier Part Number 3
-ParameterUpdate45=1
-ParameterName46=Supplier Part Number 4
-ParameterUpdate46=1
-ParameterName47=Temperature
-ParameterUpdate47=1
-ParameterName48=Tolerance
-ParameterUpdate48=1
-ParameterName49=Value
-ParameterUpdate49=1
-ParameterName50=Voltage
-ParameterUpdate50=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=0603_LED_green
+ModelName0=3G30C-CATHODE-BYPASS
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=504050-0491
+ModelName1=53398-4
 ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=CAPC0402(1005)_N
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=CAPC0805(2012)_N
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=Chip2PinSM127P600-8N
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=CLP-103-02-G-D-BE
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=MS8
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=RESC0402(1005)_N
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=SOP127P600X175-14N
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=SOT23-5_N
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=SOT-23-TT3_L
-ModelUpdate10=1
-ModelTypeGroup1=SI
-ModelTypeUpdate1=1
-ModelType11=SI
-ModelName11=Connector
-ModelUpdate11=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=GomSpace_Database_Libs.DbLib/Cap_Murata$
-ComponentDesignItemID0=10805330
-ComponentSymbolReference0=Capacitor np
-ComponentUpdate0=1
-ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=GomSpace_Database_Libs.DbLib/Filters$
-ComponentDesignItemID1=50000002
-ComponentSymbolReference1=inductor
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID2=60000009
-ComponentSymbolReference2=LTC4313
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=GomSpace_Database_Libs.DbLib/IC$
-ComponentDesignItemID3=60000021
-ComponentSymbolReference3=LM4040AIM3-2.5
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID4=10402447
-ComponentSymbolReference4=Capacitor np
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID5=10402498
-ComponentSymbolReference5=Capacitor np
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID6=10402576
-ComponentSymbolReference6=Capacitor np
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID7=10805329
-ComponentSymbolReference7=Capacitor np
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID8=12000095
-ComponentSymbolReference8=Header 4
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID9=40402233
-ComponentSymbolReference9=Res
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID10=40402264
-ComponentSymbolReference10=Res
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID11=40402279
-ComponentSymbolReference11=Res
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID12=40402308
-ComponentSymbolReference12=Res
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID13=40402355
-ComponentSymbolReference13=Res
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID14=40402461
-ComponentSymbolReference14=Res
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=GomSpace_Database_Libs.DbLib
-ComponentDesignItemID15=80000001
-ComponentSymbolReference15=LED
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=Miscellaneous Connectors.IntLib
-ComponentDesignItemID16=Header 3X2
-ComponentSymbolReference16=Header 3X2
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=private_test.DbLib/IC$
-ComponentDesignItemID17=60000005
-ComponentSymbolReference17=opamp
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=private_test.DbLib/IC$
-ComponentDesignItemID18=60000025
-ComponentSymbolReference18=INA333AIDGKT
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=private_test.DbLib
-ComponentDesignItemID19=60000026
-ComponentSymbolReference19=ATtiny24/44/84
-ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
