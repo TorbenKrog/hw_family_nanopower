@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev3\P60-dock\dock-v3.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dock-v3.txt|DrillLayers=gtl,g4,g6,g3,g8,g9,g5,g7,g2,g10,g11,gbl
+LayersSetName=L1_L2 (mix)_Blind_Vias|DrillFile=dock-v3.tx1|DrillLayers=gtl,g4
+LayersSetName=L2 (mix)_L11 (mix)_Buried_Vias|DrillFile=dock-v3.tx2|DrillLayers=g4,g6,g3,g8,g9,g5,g7,g2,g10,g11
+LayersSetName=L11 (mix)_L12_Blind_Vias|DrillFile=dock-v3.tx3|DrillLayers=g11,gbl

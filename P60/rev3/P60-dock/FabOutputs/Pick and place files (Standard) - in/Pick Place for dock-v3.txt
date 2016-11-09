@@ -1,0 +1,646 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C7_I6      0402                   853mil  -1288.387mil        853mil  -1288.387mil    872.685mil  -1288.387mil  B        180.00 Cap Semi       
+C7_I5      0402                873.41mil       -934mil     873.41mil       -934mil     873.41mil   -914.315mil  B        270.00 Cap Semi       
+R194       keystone5110      1669.291mil   -687.008mil   1669.291mil   -687.008mil   1696.063mil   -687.008mil  B        180.00 0.0R           
+U27        MSOP_12           1687.008mil    413.386mil   1687.008mil    413.386mil   1623.031mil    496.358mil  B        270.00 LT4363         
+U26        MSOP-8            1772.834mil    878.937mil   1772.834mil    878.937mil   1734.449mil    965.551mil  B        270.00 AD8418WBRMZ    
+U25        MSOP-8             404.528mil  -1188.976mil    404.528mil  -1188.976mil    366.142mil  -1102.362mil  B        270.00 LTC1540        
+U22        MSOP_12            219.488mil  -1019.685mil    219.488mil  -1019.685mil    155.511mil   -936.713mil  B        270.00 LT4363         
+U8_PSW5    MSOP_12            895.964mil   1322.835mil    895.964mil   1322.835mil    978.937mil   1386.811mil  B        180.00 LT4363         
+U8_PSW4    MSOP_12             894.98mil    -70.866mil     894.98mil    -70.866mil    977.952mil      -6.89mil  B        180.00 LT4363         
+U8_PSW3    MSOP_12             894.98mil    974.409mil     894.98mil    974.409mil    977.952mil   1038.386mil  B        180.00 LT4363         
+U8_PSW2    MSOP_12             894.98mil    276.575mil     894.98mil    276.575mil    977.952mil    340.551mil  B        180.00 LT4363         
+U8_PSW1    MSOP_12            896.948mil    624.016mil    896.948mil    624.016mil    979.921mil    687.992mil  B        180.00 LT4363         
+U7_PSW5    MSOP-8            1353.104mil   1241.185mil   1353.104mil   1241.185mil   1439.718mil   1279.571mil  B        180.00 AD8418WBRMZ    
+U7_PSW4    MSOP-8            1352.119mil   -152.516mil   1352.119mil   -152.516mil   1438.734mil    -114.13mil  B        180.00 AD8418WBRMZ    
+U7_PSW3    MSOP-8            1352.119mil     892.76mil   1352.119mil     892.76mil   1438.734mil    931.146mil  B        180.00 AD8418WBRMZ    
+U7_PSW2    MSOP-8            1352.119mil    194.925mil   1352.119mil    194.925mil   1438.734mil    233.311mil  B        180.00 AD8418WBRMZ    
+U7_PSW1    MSOP-8            1354.088mil    542.366mil   1354.088mil    542.366mil   1440.702mil    580.752mil  B        180.00 AD8418WBRMZ    
+R192       RESC0402(1005)_N   1877.953mil    930.118mil   1877.953mil    930.118mil   1854.331mil    930.118mil  B        360.00 12K7           
+R191       RESC0402(1005)_N   1877.952mil    967.519mil   1877.953mil    967.519mil   1901.574mil    967.519mil  B        180.00 309K           
+R190       RESC0402(1005)_N   1771.366mil    251.969mil   1771.366mil    251.969mil   1771.366mil    228.347mil  B         90.00 10K            
+R189       RESC0402(1005)_N   1694.266mil    251.969mil   1694.266mil    251.969mil   1694.266mil    228.347mil  B         90.00 243K           
+R187       RESC0402(1005)_N   1848.466mil    251.969mil   1848.466mil    251.969mil   1848.466mil    228.347mil  B         90.00 10M            
+R186       RESC2012_Wide     1663.583mil    878.937mil   1663.583mil    878.937mil   1663.583mil    853.346mil  B         90.00 0.005R         
+R185       RESC0402(1005)_N   1803.149mil    478.346mil   1803.149mil    478.346mil   1803.149mil    501.968mil  B        270.00 10K            
+R184       RESC0402(1005)_N   1645.669mil    781.496mil   1645.669mil    781.496mil   1622.047mil    781.496mil  B        360.00 10R            
+R183       RESC0402(1005)_N   1877.952mil    792.322mil   1877.953mil    792.322mil   1901.574mil    792.322mil  B        180.00 100K           
+R182       RESC0402(1005)_N   1476.181mil    783.464mil   1476.181mil    783.465mil   1499.803mil    783.464mil  T        180.00 510K           
+R181       RESC0603(1608)_N    511.816mil   -1039.37mil    511.811mil   -1039.37mil    545.281mil   -1039.37mil  B        180.00 1M1            
+R177       RESC0603(1608)_N    379.926mil   -1039.37mil    379.921mil   -1039.37mil    413.391mil   -1039.37mil  B        180.00 10M            
+R176       RESC0603(1608)_N    498.031mil  -1145.674mil    498.031mil  -1145.669mil    498.031mil  -1179.139mil  B         90.00 1M8            
+R175       RESC0402(1005)_N    174.717mil  -1191.929mil    174.717mil  -1191.929mil    174.717mil  -1215.551mil  B         90.00 1M             
+R174       RESC0402(1005)_N    211.613mil  -1191.929mil    211.613mil  -1191.929mil    211.613mil  -1168.307mil  B        270.00 1M             
+R173       RESC0402(1005)_N    248.536mil  -1191.929mil    248.536mil  -1191.929mil    248.536mil  -1215.551mil  B         90.00 40K2           
+R172       RESC0402(1005)_N    285.433mil  -1191.929mil    285.433mil  -1191.929mil    285.433mil  -1215.551mil  B         90.00 0R             
+R170       0402              1232.284mil   -1296.26mil   1232.284mil   -1296.26mil   1232.284mil  -1315.945mil  B         90.00 Res3           
+R169       RESC0402(1005)_N    160.433mil   -446.291mil    160.433mil   -446.291mil    184.055mil   -446.291mil  B        180.00 10M            
+R151       RESC0402(1005)_N    325.787mil   -639.764mil    325.787mil   -639.764mil    302.165mil   -639.764mil  B        360.00 10R            
+R149       RESC0402(1005)_N    377.952mil   -949.803mil    377.953mil   -949.803mil    377.952mil   -926.181mil  B        270.00 10K            
+R148       RESC0402(1005)_N     335.63mil   -949.803mil     335.63mil   -949.803mil     335.63mil   -973.425mil  B         90.00 10R            
+R147_PSW5  RESC2012_Wide     1353.104mil   1350.437mil   1353.104mil   1350.437mil   1327.513mil   1350.437mil  B        360.00 0.005R         
+R147_PSW4  RESC2012_Wide     1352.119mil    -43.264mil   1352.119mil    -43.264mil   1326.529mil    -43.264mil  B        360.00 0.005R         
+R147_PSW3  RESC2012_Wide     1352.119mil   1002.012mil   1352.119mil   1002.012mil   1326.529mil   1002.012mil  B        360.00 0.005R         
+R147_PSW2  RESC2012_Wide     1352.119mil    304.177mil   1352.119mil    304.178mil   1326.529mil    304.177mil  B        360.00 0.005R         
+R147_PSW1  RESC2012_Wide     1354.088mil    651.618mil   1354.088mil    651.618mil   1328.497mil    651.618mil  B        360.00 0.005R         
+R146_PSW5  RESC0402(1005)_N   1306.102mil   1129.921mil   1306.102mil   1129.921mil   1306.102mil   1106.299mil  B         90.00 100K           
+R146_PSW4  RESC0402(1005)_N   1305.118mil   -263.779mil   1305.118mil   -263.779mil   1305.118mil   -287.401mil  B         90.00 100K           
+R146_PSW3  RESC0402(1005)_N   1305.118mil    781.496mil   1305.118mil    781.496mil   1305.118mil    757.874mil  B         90.00 100K           
+R146_PSW2  RESC0402(1005)_N   1305.118mil     83.662mil   1305.118mil     83.662mil   1305.118mil     60.039mil  B         90.00 100K           
+R146_PSW1  RESC0402(1005)_N   1307.087mil    431.102mil   1307.086mil    431.102mil   1307.087mil     407.48mil  B         90.00 100K           
+R145_PSW5  RESC0402(1005)_N    944.694mil   1151.276mil    944.693mil   1151.276mil    944.694mil   1127.654mil  B         90.00 0R             
+R145_PSW4  RESC0402(1005)_N    944.993mil   -232.739mil    944.993mil   -232.739mil    944.993mil   -256.361mil  B         90.00 0R             
+R145_PSW3  RESC0402(1005)_N    945.268mil    804.261mil    945.268mil    804.261mil    945.268mil    780.639mil  B         90.00 0R             
+R145_PSW2  RESC0402(1005)_N    945.434mil    115.261mil    945.434mil    115.261mil    945.434mil     91.639mil  B         90.00 0R             
+R145_PSW1  RESC0402(1005)_N    945.875mil    463.292mil    945.875mil    463.292mil    945.875mil     439.67mil  B         90.00 0R             
+R144_PSW5  RESC0402(1005)_N   1250.984mil   1356.299mil   1250.984mil   1356.299mil   1250.984mil   1379.921mil  B        270.00 10R            
+R144_PSW4  RESC0402(1005)_N       1250mil    -37.402mil       1250mil    -37.402mil       1250mil     -13.78mil  B        270.00 10R            
+R144_PSW3  RESC0402(1005)_N       1250mil   1007.874mil       1250mil   1007.874mil       1250mil   1031.496mil  B        270.00 10R            
+R144_PSW2  RESC0402(1005)_N       1250mil    310.039mil       1250mil    310.039mil       1250mil    333.661mil  B        270.00 10R            
+R144_PSW1  RESC0402(1005)_N   1251.968mil     657.48mil   1251.968mil     657.48mil   1251.968mil    681.102mil  B        270.00 10R            
+R143_PSW5  RESC0402(1005)_N    726.654mil    1294.47mil    726.654mil    1294.47mil    703.032mil    1294.47mil  B        360.00 10R            
+R143_PSW4  RESC0402(1005)_N    726.401mil   -100.449mil    726.401mil   -100.449mil    750.023mil   -100.449mil  B        180.00 10R            
+R143_PSW3  RESC0402(1005)_N    727.141mil    944.551mil    727.141mil    944.551mil    703.519mil    944.551mil  B        360.00 10R            
+R143_PSW2  RESC0402(1005)_N    725.945mil    248.551mil    725.945mil    248.551mil    749.567mil    248.551mil  B        180.00 10R            
+R143_PSW1  RESC0402(1005)_N    726.488mil     594.52mil    726.488mil     594.52mil    702.866mil     594.52mil  B        360.00 10R            
+R142_PSW5  RESC0402(1005)_N    726.653mil   1238.814mil    726.654mil   1238.814mil    750.275mil   1238.814mil  B        180.00 47K            
+R142_PSW4  RESC0402(1005)_N    726.401mil   -155.724mil    726.401mil   -155.724mil    750.023mil   -155.724mil  B        180.00 47K            
+R142_PSW3  RESC0402(1005)_N    727.141mil    889.276mil    727.141mil    889.276mil    750.764mil    889.276mil  B        180.00 47K            
+R142_PSW2  RESC0402(1005)_N    725.945mil    193.276mil    725.945mil    193.276mil    749.567mil    193.276mil  B        180.00 47K            
+R142_PSW1  RESC0402(1005)_N    726.488mil    539.244mil    726.488mil    539.244mil     750.11mil    539.244mil  B        180.00 47K            
+R141_PSW5  RESC0402(1005)_N    726.811mil   1183.158mil    726.811mil   1183.158mil    750.433mil   1183.158mil  B        180.00 10R            
+R141_PSW4  RESC0402(1005)_N    726.401mil   -210.858mil    726.401mil   -210.858mil    750.023mil   -210.858mil  B        180.00 10R            
+R141_PSW3  RESC0402(1005)_N        727mil        834mil        727mil        834mil    750.622mil        834mil  B        180.00 10R            
+R141_PSW2  RESC0402(1005)_N    725.945mil    138.142mil    725.945mil    138.142mil    749.567mil    138.142mil  B        180.00 10R            
+R141_PSW1  RESC0402(1005)_N    726.488mil        482mil    726.488mil        482mil     750.11mil        482mil  B        180.00 10R            
+R140_SEL4  keystone5110      2015.748mil   -1092.52mil   2015.748mil   -1092.52mil   1988.976mil   -1092.52mil  B        360.00 0.0R           
+R140_SEL3  keystone5110       2013.78mil    628.937mil    2013.78mil    628.937mil   1987.008mil    628.937mil  B        360.00 0.0R           
+R140_SEL2  keystone5110      2045.419mil   -645.165mil   2045.419mil   -645.165mil   2018.647mil   -645.165mil  T        360.00 0.0R           
+R140_SEL1  keystone5110      2047.388mil   1079.244mil   2047.388mil   1079.244mil   2020.616mil   1079.244mil  T        360.00 0.0R           
+R139_SEL4  keystone5110      2015.748mil  -1040.514mil   2015.748mil  -1040.514mil   1988.976mil  -1040.514mil  B        360.00 0.0R           
+R139_SEL3  keystone5110       2013.78mil    680.942mil    2013.78mil    680.942mil   1987.008mil    680.942mil  B        360.00 0.0R           
+R139_SEL2  keystone5110      2045.275mil   -693.898mil   2045.275mil   -693.898mil   2018.504mil   -693.898mil  T        360.00 0.0R           
+R139_SEL1  keystone5110      2047.244mil   1030.512mil   2047.244mil   1030.512mil   2020.472mil   1030.512mil  T        360.00 0.0R           
+R138_SEL4  keystone5110      2015.748mil   -988.509mil   2015.748mil   -988.509mil   1988.976mil   -988.509mil  B        360.00 0.0R           
+R138_SEL3  keystone5110       2013.78mil    732.947mil    2013.78mil    732.947mil   1987.008mil    732.947mil  B        360.00 0.0R           
+R138_SEL2  keystone5110      2045.275mil   -744.094mil   2045.275mil   -744.094mil   2018.504mil   -744.094mil  T        360.00 0.0R           
+R138_SEL1  keystone5110      2047.244mil    980.315mil   2047.244mil    980.315mil   2020.472mil    980.315mil  T        360.00 0.0R           
+R137_SEL4  keystone5110      2015.748mil   -936.504mil   2015.748mil   -936.504mil   1988.976mil   -936.504mil  B        360.00 0.0R           
+R137_SEL3  keystone5110       2013.78mil    784.952mil    2013.78mil    784.952mil   1987.008mil    784.952mil  B        360.00 0.0R           
+R137_SEL2  keystone5110      2045.275mil   -793.307mil   2045.275mil   -793.307mil   2018.504mil   -793.307mil  T        360.00 0.0R           
+R137_SEL1  keystone5110      2047.244mil    931.102mil   2047.244mil    931.102mil   2020.472mil    931.102mil  T        360.00 0.0R           
+R136_VCC_S RESC0603(1608)_N   2015.743mil  -1198.819mil   2015.748mil  -1198.819mil   1982.278mil  -1198.819mil  B        360.00 0R             
+R136_VCC_S RESC0603(1608)_N   2013.775mil    524.606mil    2013.78mil    524.606mil    1980.31mil    524.606mil  B        360.00 0R             
+R136_VCC_S RESC0603(1608)_N   2045.611mil   -523.559mil   2045.616mil   -523.559mil   2012.146mil   -523.559mil  T        360.00 0R             
+R136_VCC_S RESC0603(1608)_N   2047.383mil   1197.898mil   2047.388mil   1197.898mil   2013.918mil   1197.898mil  T        360.00 0R             
+R135_VCC_S RESC0603(1608)_N   2015.743mil  -1146.653mil   2015.748mil  -1146.653mil   1982.278mil  -1146.653mil  B        360.00 0R             
+R135_VCC_S RESC0603(1608)_N   2013.774mil    576.772mil    2013.78mil    576.772mil    1980.31mil    576.772mil  B        360.00 0R             
+R135_VCC_S RESC0603(1608)_N   2045.611mil   -574.803mil   2045.616mil   -574.803mil   2012.146mil   -574.803mil  T        360.00 0R             
+R135_VCC_S RESC0603(1608)_N   2047.383mil   1146.653mil   2047.388mil   1146.653mil   2013.918mil   1146.653mil  T        360.00 0R             
+R132       RESC0402(1005)_N   1747.047mil  -1101.378mil   1747.047mil  -1101.378mil   1747.047mil  -1077.756mil  B        270.00 510K           
+R130       RESC0402(1005)_N   1747.047mil  -1260.827mil   1747.047mil  -1260.827mil   1747.047mil  -1237.205mil  B        270.00 510K           
+R107       RESC0402(1005)_N   1562.008mil  -1260.827mil   1562.008mil  -1260.827mil   1562.008mil  -1284.449mil  B         90.00 10M            
+R106       RESC0402(1005)_N   1174.213mil   -959.449mil   1174.213mil   -959.449mil   1174.213mil   -935.827mil  B        270.00 10M            
+R105       RESC0402(1005)_N   1201.772mil   -583.661mil   1201.772mil   -583.661mil   1225.394mil   -583.661mil  B        180.00 200K           
+R104       RESC0402(1005)_N     967.52mil   -959.449mil     967.52mil   -959.449mil     967.52mil   -983.071mil  B         90.00 10M            
+R103       RESC0402(1005)_N   1436.024mil   -379.126mil   1436.024mil   -379.126mil   1459.646mil   -379.126mil  B        180.00 10M            
+R100       RESC0603(1608)_N   1476.378mil   -592.515mil   1476.378mil    -592.52mil   1476.378mil    -559.05mil  B        270.00 2M             
+R98        RESC0402(1005)_N   1675.197mil   -458.858mil   1675.197mil   -458.858mil   1675.197mil   -435.236mil  B        270.00 510K           
+R73        RESC0402(1005)_N   1353.346mil   -797.244mil   1353.347mil   -797.244mil   1376.968mil   -797.244mil  B        180.00 100K           
+R65        RESC0402(1005)_N   1249.016mil   -797.244mil   1249.016mil   -797.244mil   1225.394mil   -797.244mil  B        360.00 200K           
+R64        RESC0402(1005)_N   1172.244mil   -694.882mil   1172.244mil   -694.882mil   1172.244mil    -671.26mil  B        270.00 510K           
+R63        RESC0805(2012)_N    893.701mil   -545.276mil    893.701mil   -545.276mil    893.701mil   -508.858mil  B        270.00 1M             
+R62        RESC0402(1005)_N     967.52mil   -694.882mil     967.52mil   -694.882mil     967.52mil   -718.504mil  B         90.00 300K           
+Q26        SOT-323           1858.268mil    366.142mil   1858.268mil    366.142mil   1820.866mil    340.551mil  B         90.00 2N7002W        
+Q25        INF-PG-TDSON-8-1_V   1777.933mil    639.764mil   1778.543mil    639.764mil   1667.323mil    564.764mil  B         90.00 BSC067N06LS3   
+Q24        SOT-23-TT3_L      1476.378mil    695.866mil   1476.378mil    695.866mil    1513.78mil    731.299mil  T        270.00 FDN5618P       
+Q23        SOT-323            160.433mil   -574.803mil    160.433mil   -574.803mil    134.842mil   -537.402mil  B        360.00 2N7002W        
+Q22        INF-PG-TDSON-8-1_V    540.728mil   -784.449mil    541.338mil   -784.449mil    430.118mil   -859.449mil  B         90.00 BSC067N06LS3   
+Q21        INF-PG-TDSON-8-1_V    212.224mil   -785.433mil    211.614mil   -785.433mil    322.834mil   -710.433mil  B        270.00 BSC067N06LS3   
+Q20_PSW5   INF-PG-TDSON-8-1_V   1116.142mil    1245.69mil   1116.142mil    1245.08mil   1041.142mil     1356.3mil  B        360.00 BSC067N06LS3   
+Q20_PSW4   INF-PG-TDSON-8-1_V   1115.157mil   -148.011mil   1115.157mil   -148.621mil   1040.157mil    -37.401mil  B        360.00 BSC067N06LS3   
+Q20_PSW3   INF-PG-TDSON-8-1_V   1115.157mil    897.264mil   1115.157mil    896.654mil   1040.157mil   1007.875mil  B        360.00 BSC067N06LS3   
+Q20_PSW2   INF-PG-TDSON-8-1_V   1115.157mil     199.43mil   1115.157mil     198.82mil   1040.157mil     310.04mil  B        360.00 BSC067N06LS3   
+Q20_PSW1   INF-PG-TDSON-8-1_V   1117.126mil    546.871mil   1117.126mil    546.261mil   1042.126mil    657.481mil  B        360.00 BSC067N06LS3   
+Q17        SOT-323           1832.677mil  -1101.378mil   1832.677mil  -1101.378mil   1795.275mil  -1126.968mil  B         90.00 2N7002W        
+Q16        SOT-323           1832.677mil  -1260.827mil   1832.677mil  -1260.827mil   1795.275mil  -1286.417mil  B         90.00 2N7002W        
+Q15        SOT-23-TT3_L      1654.527mil  -1101.575mil   1654.527mil  -1101.575mil   1619.094mil  -1138.976mil  B        360.00 FDN5618P       
+Q14        SOT-23-TT3_L      1654.527mil  -1261.024mil   1654.527mil  -1261.023mil   1619.094mil  -1298.425mil  B        360.00 FDN5618P       
+Q13        SOT-23-TT3_L      1655.512mil   -786.417mil   1655.512mil   -786.417mil   1620.079mil   -823.819mil  B        360.00 FDN5618P       
+Q12        SOT-23-TT3_L      1654.527mil   -943.898mil   1654.527mil   -943.898mil   1619.094mil   -981.299mil  B        360.00 FDN5618P       
+Q11        SOT-323           1331.693mil   -959.646mil   1331.693mil   -959.646mil   1294.291mil   -985.236mil  B         90.00 2N7002W        
+Q10        SOT-323           1346.457mil   -563.976mil   1346.457mil   -563.976mil   1309.055mil   -589.567mil  B         90.00 2N7002W        
+Q9         SOT-23-TT3_L      1065.945mil   -959.646mil   1065.945mil   -959.646mil   1030.512mil   -997.047mil  B        360.00 FDN5618P       
+Q7         SOT-323           1436.024mil   -464.567mil   1436.024mil   -464.567mil   1410.433mil   -427.165mil  B        360.00 2N7002W        
+Q6         SOT-23-TT3_L      1577.756mil   -458.662mil   1577.756mil   -458.662mil   1613.189mil    -421.26mil  B        180.00 FDN5618P       
+Q5         SOT-323               1323mil      -1195mil       1323mil      -1195mil   1285.598mil  -1220.591mil  B         90.00 2N7002W        
+Q4         SOT-23-TT3_L      1577.756mil   -596.457mil   1577.756mil   -596.457mil   1542.323mil   -633.858mil  B        360.00 FDN5618P       
+Q3         SOT-323           1400.591mil   -694.882mil   1400.591mil   -694.882mil   1363.189mil   -720.473mil  B         90.00 2N7002W        
+Q1         SOT-23-TT3_L      1065.945mil   -695.079mil   1065.945mil   -695.079mil   1030.512mil   -732.481mil  B        360.00 FDN5618P       
+D14        SOD-523F          1847.441mil    478.346mil   1847.441mil    478.346mil   1847.441mil    438.976mil  B         90.00 1N4148WT       
+D13        SOD523             559.055mil  -1144.685mil    559.055mil  -1144.685mil    559.055mil   -1111.22mil  B        270.00 DDZ9697T       
+D11        SOD-523F           422.244mil   -949.803mil    422.244mil   -949.803mil    422.244mil   -989.173mil  B         90.00 1N4148WT       
+D10_PSW5   SOD-523F           890.402mil   1161.276mil    890.402mil   1161.276mil    890.402mil   1200.646mil  B        270.00 1N4148WT       
+D10_PSW4   SOD-523F           890.701mil   -222.739mil    890.701mil   -222.739mil    890.701mil   -183.369mil  B        270.00 1N4148WT       
+D10_PSW3   SOD-523F           890.977mil    813.261mil    890.977mil    813.261mil    890.977mil    852.631mil  B        270.00 1N4148WT       
+D10_PSW2   SOD-523F           891.142mil    125.261mil    891.142mil    125.261mil    891.142mil    164.631mil  B        270.00 1N4148WT       
+D10_PSW1   SOD-523F           891.583mil    473.292mil    891.583mil    473.292mil    891.583mil    512.662mil  B        270.00 1N4148WT       
+D9         CD1608-0603       1423.228mil   -958.646mil   1423.228mil   -958.646mil   1423.228mil   -925.181mil  B        270.00 CDBU0240       
+D8         CD1608-0603        1506.89mil   -736.221mil    1506.89mil   -736.221mil    1506.89mil   -769.685mil  B         90.00 CDBU0240       
+D5         SOD-323-2-477-02_V   1125.984mil  -1060.039mil   1125.984mil  -1060.039mil   1169.882mil  -1060.039mil  B        180.00 BZX84J-B5V6,115
+D4         CD1608-0603       1423.228mil  -1196.654mil   1423.228mil  -1196.654mil   1423.228mil  -1163.189mil  B        270.00 CDBU0240       
+D3         SOD-323-2-477-02_V   1232.284mil      -1184mil   1232.284mil      -1184mil   1232.284mil  -1140.102mil  B        270.00 BZX84J-B5V6,115
+D2         SOD-323-2-477-02_V   1101.771mil   -547.747mil   1101.771mil   -547.747mil   1101.771mil   -503.849mil  B        270.00 BZX84J-B5V6,115
+D1         SOD-323-2-477-02_V   1125.984mil   -797.244mil   1125.984mil   -797.244mil   1169.882mil   -797.244mil  B        180.00 BZX84J-B5V6,115
+C190       CAPC0402(1005)_N   1657.685mil    251.969mil   1657.685mil    251.969mil   1657.685mil    228.347mil  B         90.00 100 nF         
+C189       CAPC0402(1005)_N   1734.785mil    251.969mil   1734.785mil    251.969mil   1734.785mil    228.347mil  B         90.00 100 nF         
+C188       CAPC0402(1005)_N   1877.952mil    894.685mil   1877.953mil    894.685mil   1901.574mil    894.685mil  B        180.00 100 nF         
+C187       CAPC0402(1005)_N   1877.952mil     861.22mil   1877.953mil     861.22mil   1901.574mil     861.22mil  B        180.00 100 nF         
+C186       CAPC0402(1005)_N   1811.884mil    251.969mil   1811.884mil    251.969mil   1811.884mil    228.347mil  B         90.00 100nF          
+C185       CAPC0402(1005)_N   1889.764mil    478.346mil   1889.764mil    478.346mil   1889.764mil    454.724mil  B         90.00 5pF            
+C184       CAPC0402(1005)_N   1877.953mil    827.755mil   1877.953mil    827.755mil   1854.331mil    827.755mil  B        360.00 100 nF         
+C182       CAPC0402(1005)_N    893.701mil   -417.323mil    893.701mil   -417.323mil    917.323mil   -417.323mil  T        180.00 100 nF         
+C181       CAPC0402(1005)_N    807.087mil   -417.323mil    807.087mil   -417.323mil    830.709mil   -417.323mil  T        180.00 100 nF         
+C180       CAPC0402(1005)_N    720.472mil   -417.323mil    720.472mil   -417.323mil    744.094mil   -417.323mil  T        180.00 100 nF         
+C179       CAPC0402(1005)_N    633.858mil   -417.323mil    633.858mil   -417.323mil    610.236mil   -417.323mil  T        360.00 100 nF         
+C178       CAPC0402(1005)_N    543.307mil   -417.323mil    543.307mil   -417.323mil    519.685mil   -417.323mil  T        360.00 100 nF         
+C177       0402               500.984mil   -949.803mil    500.984mil   -949.803mil    500.984mil   -930.118mil  B        270.00 Cap Semi       
+C176       0402               536.417mil  -1237.205mil    536.417mil  -1237.205mil    516.732mil  -1237.205mil  B        360.00 Cap Semi       
+C175       0402               317.913mil  -1191.929mil    317.913mil  -1191.929mil    317.913mil  -1172.244mil  B        270.00 Cap Semi       
+C174       CAPC0402(1005)_N    139.763mil  -1191.929mil    139.763mil  -1191.929mil    139.763mil  -1215.551mil  B         90.00 100 nF         
+C173       CAPC0805(2012)_N     347.44mil   -382.874mil     347.44mil   -382.874mil    310.039mil   -382.874mil  B        360.00 1uF            
+C172       CAPC0805(2012)_N    475.393mil   -382.874mil    475.393mil   -382.874mil    512.795mil   -382.874mil  B        180.00 1uF            
+C169       CAPC0402(1005)_N    160.433mil   -481.724mil    160.433mil   -481.724mil    184.055mil   -481.724mil  B        180.00 100nF          
+C167       CAPC0402(1005)_N    464.567mil   -949.803mil    464.567mil   -949.803mil    464.567mil   -973.425mil  B         90.00 5pF            
+C166_PSW5  CAPC0805(2012)_N   1470.472mil   1346.457mil   1470.473mil   1346.457mil   1507.874mil   1346.457mil  B        180.00 1uF            
+C166_PSW4  CAPC0805(2012)_N   1469.488mil    -47.244mil   1469.488mil    -47.244mil    1506.89mil    -47.244mil  B        180.00 1uF            
+C166_PSW3  CAPC0805(2012)_N   1469.488mil    998.032mil   1469.488mil    998.032mil    1506.89mil    998.032mil  B        180.00 1uF            
+C166_PSW2  CAPC0805(2012)_N   1469.488mil    300.197mil   1469.488mil    300.197mil    1506.89mil    300.197mil  B        180.00 1uF            
+C166_PSW1  CAPC0805(2012)_N   1471.457mil    647.638mil   1471.457mil    647.638mil   1508.858mil    647.638mil  B        180.00 1uF            
+C165_PSW5  CAPC0402(1005)_N    726.346mil   1348.158mil    726.346mil   1348.158mil    702.725mil   1348.158mil  B        360.00 100 nF         
+C165_PSW4  CAPC0402(1005)_N    725.599mil    -46.858mil    725.599mil    -46.858mil    701.977mil    -46.858mil  B        360.00 100 nF         
+C165_PSW3  CAPC0402(1005)_N    727.141mil    997.858mil    727.141mil    997.858mil    703.519mil    997.858mil  B        360.00 100 nF         
+C165_PSW2  CAPC0402(1005)_N    725.945mil    301.142mil    725.945mil    301.142mil    702.323mil    301.142mil  B        360.00 100 nF         
+C165_PSW1  CAPC0402(1005)_N    727.512mil    642.173mil    727.512mil    642.173mil     703.89mil    642.173mil  B        360.00 100 nF         
+C164_PSW5  CAPC0402(1005)_N   1402.559mil   1129.921mil   1402.559mil   1129.921mil   1402.559mil   1106.299mil  B         90.00 100 nF         
+C164_PSW4  CAPC0402(1005)_N   1401.575mil   -263.779mil   1401.575mil   -263.779mil   1401.575mil   -287.401mil  B         90.00 100 nF         
+C164_PSW3  CAPC0402(1005)_N   1401.575mil    781.496mil   1401.575mil    781.496mil   1401.575mil    757.874mil  B         90.00 100 nF         
+C164_PSW2  CAPC0402(1005)_N   1401.575mil     83.662mil   1401.575mil     83.662mil   1401.575mil     60.039mil  B         90.00 100 nF         
+C164_PSW1  CAPC0402(1005)_N   1403.543mil    431.102mil   1403.543mil    431.102mil   1403.543mil     407.48mil  B         90.00 100 nF         
+C158_PSW5  CAPC0402(1005)_N   1371.063mil   1129.921mil   1371.063mil   1129.921mil   1371.063mil   1106.299mil  B         90.00 100 nF         
+C158_PSW4  CAPC0402(1005)_N   1370.079mil   -263.779mil   1370.079mil   -263.779mil   1370.079mil   -287.401mil  B         90.00 100 nF         
+C158_PSW3  CAPC0402(1005)_N   1370.079mil    781.496mil   1370.079mil    781.496mil   1370.079mil    757.874mil  B         90.00 100 nF         
+C158_PSW2  CAPC0402(1005)_N   1370.079mil     83.662mil   1370.079mil     83.662mil   1370.079mil     60.039mil  B         90.00 100 nF         
+C158_PSW1  CAPC0402(1005)_N   1372.047mil    431.102mil   1372.047mil    431.102mil   1372.047mil     407.48mil  B         90.00 100 nF         
+C154_PSW5  CAPC0402(1005)_N    838.079mil   1151.276mil    838.079mil   1151.276mil    838.079mil   1127.654mil  B         90.00 100 nF         
+C154_PSW4  CAPC0402(1005)_N    838.378mil   -232.739mil    838.378mil   -232.739mil    838.378mil   -256.361mil  B         90.00 100 nF         
+C154_PSW3  CAPC0402(1005)_N    838.654mil    804.261mil    838.654mil    804.261mil    838.654mil    780.639mil  B         90.00 100 nF         
+C154_PSW2  CAPC0402(1005)_N    838.819mil    115.261mil    838.819mil    115.261mil    838.819mil     91.639mil  B         90.00 100 nF         
+C154_PSW1  CAPC0402(1005)_N     839.26mil    463.292mil     839.26mil    463.292mil     839.26mil     439.67mil  B         90.00 100 nF         
+C153_PSW5  CAPC0402(1005)_N   1339.567mil   1129.921mil   1339.567mil   1129.921mil   1339.567mil   1153.543mil  B        270.00 100 nF         
+C153_PSW4  CAPC0402(1005)_N   1338.583mil    -263.78mil   1338.583mil   -263.779mil   1338.583mil   -240.157mil  B        270.00 100 nF         
+C153_PSW3  CAPC0402(1005)_N   1338.583mil    781.496mil   1338.583mil    781.496mil   1338.583mil    805.118mil  B        270.00 100 nF         
+C153_PSW2  CAPC0402(1005)_N   1338.583mil     83.661mil   1338.583mil     83.662mil   1338.583mil    107.284mil  B        270.00 100 nF         
+C153_PSW1  CAPC0402(1005)_N   1340.551mil    431.102mil   1340.551mil    431.102mil   1340.551mil    454.724mil  B        270.00 100 nF         
+C152       CAPC0603(1608)_N   1230.315mil   -959.449mil   1230.315mil   -959.449mil   1230.315mil   -990.945mil  B         90.00 1nF            
+C151       CAPC0805(2012)_N    1203.74mil   -523.622mil    1203.74mil   -523.622mil   1166.339mil   -523.622mil  B        360.00 470nF          
+C150       CAPC0805(2012)_N    1203.74mil   -449.803mil    1203.74mil   -449.803mil   1166.339mil   -449.803mil  B        360.00 470nF          
+C149       CAPC0603(1608)_N   1000.984mil  -1060.039mil   1000.984mil  -1060.039mil    969.488mil  -1060.039mil  B        360.00 100nF          
+C147       CAPC0603(1608)_N   1675.197mil    -596.26mil   1675.197mil    -596.26mil   1675.197mil   -627.756mil  B         90.00 100nF          
+C128       CAPC0805(2012)_N   1301.181mil   -694.882mil   1301.181mil   -694.882mil   1301.181mil   -657.481mil  B        270.00 470nF          
+C127       CAPC0603(1608)_N    963.975mil   -547.747mil    963.975mil   -547.747mil    963.975mil   -516.251mil  B        270.00 100nF          
+C126       CAPC0805(2012)_N   1033.416mil   -547.747mil   1033.416mil   -547.747mil   1033.416mil   -510.345mil  B        270.00 1uF            
+C93        CAPC0805(2012)_N   1227.362mil   -694.882mil   1227.362mil   -694.882mil   1227.362mil   -732.284mil  B         90.00 470nF          
+C92        CAPC0603(1608)_N   1000.984mil   -797.244mil   1000.984mil   -797.244mil    969.488mil   -797.244mil  B        360.00 100nF          
+C163       0805               571.851mil    390.654mil     571.85mil    390.654mil    571.851mil    351.283mil  B         90.00 Cap Semi       
+C162       0805               896.654mil    728.346mil    896.654mil    728.346mil    936.024mil    728.346mil  T        180.00 Cap Semi       
+C161       0805               896.654mil    801.181mil    896.654mil    801.181mil    936.024mil    801.181mil  T        180.00 Cap Semi       
+C160       0805              1211.614mil  -1125.984mil   1211.614mil  -1125.984mil   1250.984mil  -1125.984mil  T        180.00 Cap Semi       
+C159       0805                  2125mil      0.984mil       2125mil      0.984mil    2085.63mil      0.984mil  T        360.00 Cap Semi       
+R163       0402              1594.488mil   -604.331mil   1594.488mil   -604.331mil   1614.173mil   -604.331mil  T        180.00 Res3           
+R160       RESC0402(1005)_N       1621mil        252mil       1621mil        252mil       1621mil    228.378mil  B         90.00 10R            
+C155       0402              1677.165mil   -604.331mil   1677.165mil   -604.331mil    1696.85mil   -604.331mil  T        180.00 Cap Semi       
+C145       0402               955.709mil     14.764mil    955.709mil     14.764mil    955.709mil     34.449mil  T        270.00 Cap Semi       
+C144       CAPC0805(2012)_N        751mil       -590mil        751mil       -590mil        751mil   -552.598mil  B        270.00 1uF            
+C8         CAPC0402(1005)_N        287mil      -1270mil        287mil      -1270mil    263.378mil      -1270mil  B        360.00 10nF           
+C3_P5      1608[0603]        1404.527mil   1055.118mil   1404.527mil   1055.118mil   1432.086mil   1055.118mil  T        180.00 Cap Semi       
+U14        SOT6-1MM           312.008mil  -1184.055mil    312.008mil  -1184.055mil    260.827mil  -1146.653mil  T          0.00 LTC6908        
+R159       0402               911.417mil   -314.961mil    911.417mil   -314.961mil    911.417mil   -334.646mil  T         90.00 Res3           
+R158       0402               913.386mil   -472.441mil    913.386mil   -472.441mil    913.386mil   -492.126mil  T         90.00 Res3           
+R157       0402               826.772mil   -472.441mil    826.772mil   -472.441mil    826.772mil   -492.126mil  T         90.00 Res3           
+R156       0402               700.787mil   -472.441mil    700.787mil   -472.441mil    700.787mil   -492.126mil  T         90.00 Res3           
+R155       0402               653.543mil   -472.441mil    653.543mil   -472.441mil    653.543mil   -492.126mil  T         90.00 Res3           
+R154       0402               523.622mil   -472.441mil    523.622mil   -472.441mil    523.622mil   -492.126mil  T         90.00 Res3           
+R153       0402               872.047mil   -314.961mil    872.047mil   -314.961mil    872.047mil   -295.276mil  T        270.00 Res3           
+R152       0402               874.016mil   -472.441mil    874.016mil   -472.441mil    874.016mil   -452.756mil  T        270.00 Res3           
+R101       0402               787.402mil   -472.441mil    787.402mil   -472.441mil    787.402mil   -452.756mil  T        270.00 Res3           
+R77        0402               740.158mil   -472.441mil    740.158mil   -472.441mil    740.158mil   -452.756mil  T        270.00 Res3           
+R76        keystone5110      2666.338mil  -1013.779mil   2666.338mil  -1013.779mil   2639.567mil  -1013.779mil  B        360.00 Res3           
+U5         MSOP-10            359.252mil    520.669mil    359.252mil    520.669mil    274.606mil    481.299mil  B        360.00 ADS1118        
+R75        0402               235.236mil    610.236mil    235.236mil    610.236mil    254.921mil    610.236mil  B        180.00 Res3           
+R16        0402                   125mil    550.197mil        125mil    550.197mil        125mil    569.882mil  B        270.00 Res3           
+R7         0603               187.008mil   -538.386mil    187.008mil   -538.386mil    216.535mil   -538.386mil  T        180.00 Res3           
+Q2         SOT-323             76.772mil   -575.787mil     76.772mil   -575.787mil    102.362mil   -538.386mil  T        180.00 2N7002W        
+P5         pico-lock-06      -137.795mil   -382.874mil    -35.433mil   -235.236mil    -35.433mil   -235.236mil  T        270.00 504050-0691    
+C16        0402               394.685mil    610.236mil    394.685mil    610.236mil     414.37mil    610.236mil  B        180.00 Cap Semi       
+C14        0402               314.961mil    610.236mil    314.961mil    610.236mil    295.276mil    610.236mil  B        360.00 Cap Semi       
+U24        DHVQFN16          1083.661mil    669.291mil   1083.661mil    669.291mil   1073.819mil     736.22mil  T          0.00 74HC138        
+C143       0402              1151.575mil    783.465mil   1151.575mil    783.465mil    1171.26mil    783.465mil  T        180.00 Cap Semi       
+U23        QFN32-5X5MM        688.976mil   -239.173mil    688.976mil   -239.173mil    590.551mil   -170.275mil  T          0.00 ADS7952        
+U19        QFN32-5X5MM       1253.937mil    336.614mil   1253.937mil    336.614mil   1155.512mil    405.512mil  T          0.00 ADS7952        
+R74        0402               170.276mil    550.197mil    170.276mil    550.197mil    170.276mil    569.882mil  B        270.00 Res3           
+R55        0402               515.748mil   -187.008mil    515.748mil   -187.008mil    515.748mil   -167.323mil  T        270.00 Res3           
+C142       0402               215.551mil    550.197mil    215.551mil    550.197mil    215.551mil    569.882mil  B        270.00 Cap Semi       
+C141       0402               866.142mil   -161.417mil    866.142mil   -161.417mil    866.142mil   -181.102mil  T         90.00 Cap Semi       
+C140       0402               908.957mil   -161.417mil    908.957mil   -161.417mil    908.957mil   -181.102mil  T         90.00 Cap Semi       
+C139       0402              1492.126mil    427.166mil   1492.126mil    427.166mil   1492.126mil    446.851mil  T        270.00 Cap Semi       
+C138       0402              1026.575mil    427.166mil   1026.575mil    427.166mil   1026.575mil    407.481mil  T         90.00 Cap Semi       
+C137       0402               515.748mil   -105.315mil    515.748mil   -105.315mil    515.748mil     -85.63mil  T        270.00 Cap Semi       
+C136       0402              1073.819mil    427.166mil   1073.819mil    427.166mil   1073.819mil    446.851mil  T        270.00 Cap Semi       
+C135       0402               462.106mil   -187.008mil    462.106mil   -187.008mil    462.106mil   -206.693mil  T         90.00 Cap Semi       
+C134       0402              1073.819mil    351.378mil   1073.819mil    351.378mil   1073.819mil    371.063mil  T        270.00 Cap Semi       
+C133       0402               462.106mil   -105.315mil    462.106mil   -105.315mil    462.106mil       -125mil  T         90.00 Cap Semi       
+C132       0402               683.071mil    -83.661mil    683.071mil    -83.661mil    663.386mil    -83.661mil  T        360.00 Cap Semi       
+C131       0402              1445.866mil    427.166mil   1445.866mil    427.166mil   1445.866mil    446.851mil  T        270.00 Cap Semi       
+C100       0402              1244.094mil    502.953mil   1244.094mil    502.953mil   1224.409mil    502.953mil  T        360.00 Cap Semi       
+U21_P9     MSOP-8            1829.244mil   -475.599mil   1829.244mil   -475.599mil    1742.63mil   -437.214mil  T        360.00 AD8418WBRMZ    
+U21_P8     MSOP-8            1297.748mil   -475.599mil   1297.748mil   -475.599mil   1211.134mil   -437.214mil  T        360.00 AD8418WBRMZ    
+U16_P9     DFN8-NCP          1635.827mil    -467.52mil   1635.827mil    -467.52mil   1606.299mil   -510.827mil  T         90.00 NCP45521       
+U16_P8     DFN8-NCP          1104.331mil    -467.52mil   1104.331mil    -467.52mil   1074.803mil   -510.827mil  T         90.00 NCP45521       
+U12        SOT353             466.944mil   1245.652mil    466.944mil   1245.652mil    509.267mil   1271.243mil  B        180.00 74HC1G14GW,125 
+R52        0402               508.858mil   -1203.74mil    508.858mil   -1203.74mil    508.858mil  -1184.055mil  T        270.00 Res3           
+R49_P9     0402               1696.85mil   -404.528mil    1696.85mil   -404.528mil    1696.85mil   -384.843mil  T        270.00 Res3           
+R49_P8     0402              1165.354mil   -404.528mil   1165.354mil   -404.528mil   1165.354mil   -384.843mil  T        270.00 Res3           
+R39_P9     0402              1817.913mil   -559.055mil   1817.913mil   -559.055mil   1798.228mil   -559.055mil  T        360.00 Res3           
+R39_P8     0402              1286.417mil   -559.055mil   1286.417mil   -559.055mil   1266.732mil   -559.055mil  T        360.00 Res3           
+R27_P9     J1-0603           1793.307mil    -381.89mil   1793.307mil    -381.89mil   1822.835mil    -381.89mil  T        180.00 Res3           
+R27_P8     J1-0603           1261.811mil    -381.89mil   1261.811mil    -381.89mil   1291.339mil    -381.89mil  T        180.00 Res3           
+R25        0402               430.118mil   -1203.74mil    430.118mil   -1203.74mil    430.118mil  -1184.055mil  T        270.00 Res3           
+R24        0402               154.528mil  -1184.055mil    154.528mil  -1184.055mil    154.528mil   -1203.74mil  T         90.00 Res3           
+C107_P9    0402               1657.48mil   -559.055mil    1657.48mil   -559.055mil   1677.165mil   -559.055mil  T        180.00 Cap Semi       
+C107_P8    0402              1125.984mil   -559.055mil   1125.984mil   -559.055mil   1145.669mil   -559.055mil  T        180.00 Cap Semi       
+C105_P9    0402              1626.969mil   -367.126mil   1626.969mil   -367.126mil   1607.284mil   -367.126mil  T        360.00 Cap Semi       
+C105_P8    0402              1095.473mil   -367.126mil   1095.473mil   -367.126mil   1075.787mil   -367.126mil  T        360.00 Cap Semi       
+C103_P9    0603C             1559.055mil   -397.638mil   1559.055mil   -397.638mil   1559.055mil    -368.11mil  T        270.00 Cap Semi       
+C103_P8    0603C             1027.559mil   -397.638mil   1027.559mil   -397.638mil   1027.559mil    -368.11mil  T        270.00 Cap Semi       
+C102_P9    0402              1902.559mil   -559.055mil   1902.559mil   -559.055mil   1922.244mil   -559.055mil  T        180.00 Cap Semi       
+C102_P8    0402              1371.063mil   -559.055mil   1371.063mil   -559.055mil   1390.748mil   -559.055mil  T        180.00 Cap Semi       
+C96        0402               469.488mil   -1203.74mil    469.488mil   -1203.74mil    469.488mil  -1184.055mil  T        270.00 Cap Semi       
+C95        0402               193.898mil  -1184.055mil    193.898mil  -1184.055mil    193.898mil   -1203.74mil  T         90.00 Cap Semi       
+C31        0805                    53mil   -1202.48mil         53mil   -1202.48mil         53mil  -1241.851mil  T         90.00 Cap Semi       
+C30_P9     0402              1737.205mil   -559.055mil   1737.205mil   -559.055mil    1717.52mil   -559.055mil  T        360.00 Cap Semi       
+C30_P8     0402              1205.709mil   -559.055mil   1205.709mil   -559.055mil   1186.024mil   -559.055mil  T        360.00 Cap Semi       
+C17        0805                    53mil       -970mil         53mil       -970mil         53mil   -1009.37mil  T         90.00 Cap Semi       
+C4_P9      1608[0603]        1559.055mil   -497.047mil   1559.055mil   -497.047mil   1559.055mil   -524.606mil  T         90.00 Cap Semi       
+C4_P8      1608[0603]        1027.559mil   -497.047mil   1027.559mil   -497.047mil   1027.559mil   -524.606mil  T         90.00 Cap Semi       
+C3_P9      1608[0603]        1896.653mil    -381.89mil   1896.654mil    -381.89mil   1924.213mil    -381.89mil  T        180.00 Cap Semi       
+C3_P8      1608[0603]        1365.157mil    -381.89mil   1365.158mil    -381.89mil   1392.716mil    -381.89mil  T        180.00 Cap Semi       
+R45        0402               153.795mil   1226.951mil    153.795mil   1226.951mil    153.795mil   1246.637mil  B        270.00 Res3           
+R44        keystone5110      2666.338mil   -215.551mil   2666.338mil   -215.551mil    2693.11mil   -215.551mil  T        180.00 Res3           
+R43        keystone5110      2666.338mil     81.299mil   2666.338mil     81.299mil   2639.567mil     81.299mil  T        360.00 Res3           
+R42        keystone5110      2666.338mil    155.512mil   2666.338mil    155.512mil   2639.567mil    155.512mil  T        360.00 Res3           
+R3         0603               127.953mil   -488.189mil    127.953mil   -488.189mil     98.425mil   -488.189mil  T        360.00 Res3           
+R2         0402              1026.575mil    351.378mil   1026.575mil    351.378mil   1026.575mil    371.063mil  T        270.00 Res3           
+P12        BATTERY-CONNECTOR   -268.209mil   -204.803mil   -270.276mil   -204.803mil   -193.898mil     70.787mil  B        180.00 Samtec SQW-108-01-L-D
+U9         SOT23_N            374.016mil          0mil    374.016mil          0mil    411.417mil      39.37mil  T         90.00 LM4040AIM3-2.5 
+R32        0402               531.496mil          0mil    531.496mil          0mil    531.496mil     19.685mil  T        270.00 Res3           
+C94        0402               492.126mil          0mil    492.126mil          0mil    492.126mil    -19.685mil  T         90.00 Cap Semi       
+R31        0402               749.016mil   1001.575mil    749.016mil   1001.575mil    729.331mil   1001.575mil  T        360.00 Res3           
+R30        0402               749.016mil     967.52mil    749.016mil     967.52mil    729.331mil     967.52mil  T        360.00 Res3           
+X5         FA-20H             574.803mil    809.055mil    574.803mil    809.055mil    541.339mil    781.496mil  T          0.00 Q24FA20H00044  
+U17        SOT23-6            129.921mil    443.897mil    129.921mil    443.898mil    167.323mil    497.047mil  T        270.00 LM73CIMK-0/NOPB
+U11        DFN8-4.5X4-0.95P    370.079mil    442.913mil    370.079mil    442.913mil    426.181mil    521.654mil  T        270.00 FM24CL64B      
+R51        0402               133.858mil    891.732mil    133.858mil    891.732mil    114.173mil    891.732mil  T        360.00 Res3           
+R50        0402               111.221mil    735.236mil    111.221mil    735.236mil    111.221mil    754.921mil  T        270.00 Res3           
+R47        0402               252.953mil    411.417mil    252.953mil    411.417mil    252.953mil    391.732mil  T         90.00 Res3           
+R36        0402               659.291mil   1464.567mil    659.291mil   1464.567mil    659.291mil   1444.882mil  T         90.00 Res3           
+R15        0402                407.48mil    608.268mil     407.48mil    608.268mil     407.48mil    588.583mil  T         90.00 Res3           
+R14        0402                -85.63mil   1562.992mil     -85.63mil   1562.992mil     -85.63mil   1543.307mil  T         90.00 Res3           
+C130       0402               516.747mil   1468.587mil    516.747mil   1468.587mil    516.747mil   1448.902mil  T         90.00 Cap Semi       
+C129       0402               322.835mil    608.268mil    322.835mil    608.268mil    322.835mil    588.583mil  T         90.00 Cap Semi       
+C106       0402               844.488mil   1413.386mil    844.488mil   1413.386mil    864.173mil   1413.386mil  T        180.00 Cap Semi       
+U21_PI     MSOP-8            1297.748mil   -160.639mil   1297.748mil   -160.639mil   1211.134mil   -122.253mil  T        360.00 AD8418WBRMZ    
+U16_PI     DFN8-NCP          1104.331mil   -152.559mil   1104.331mil   -152.559mil   1074.803mil   -195.866mil  T         90.00 NCP45521       
+R49_PI     0402              1165.354mil    -89.567mil   1165.354mil    -89.567mil   1165.354mil    -69.882mil  T        270.00 Res3           
+R39_PI     0402              1286.417mil   -244.095mil   1286.417mil   -244.095mil   1266.732mil   -244.095mil  T        360.00 Res3           
+R27_PI     J1-0603           1306.102mil    -67.913mil   1306.102mil    -67.913mil    1335.63mil    -67.913mil  T        180.00 Res3           
+C107_PI    0402              1125.984mil   -244.095mil   1125.984mil   -244.095mil   1145.669mil   -244.095mil  T        180.00 Cap Semi       
+C105_PI    0402              1095.473mil    -52.165mil   1095.473mil    -52.165mil   1075.787mil    -52.165mil  T        360.00 Cap Semi       
+C103_PI    0603C             1027.559mil   -112.205mil   1027.559mil   -112.205mil   1027.559mil    -82.677mil  T        270.00 Cap Semi       
+C102_PI    0402              1371.063mil   -244.095mil   1371.063mil   -244.095mil   1390.748mil   -244.095mil  T        180.00 Cap Semi       
+C30_PI     0402              1205.709mil   -244.095mil   1205.709mil   -244.095mil   1186.024mil   -244.095mil  T        360.00 Cap Semi       
+C4_PI      1608[0603]        1027.559mil   -211.614mil   1027.559mil   -211.614mil   1027.559mil   -239.173mil  T         90.00 Cap Semi       
+C3_PI      1608[0603]         1453.74mil   -104.331mil    1453.74mil   -104.331mil    1453.74mil    -131.89mil  T         90.00 Cap Semi       
+R97        keystone5110      2666.338mil    493.021mil   2666.338mil    493.021mil   2639.567mil    493.021mil  T        360.00 Res3           
+R96        keystone5110      2666.338mil     698.64mil   2666.338mil     698.64mil   2639.567mil     698.64mil  T        360.00 Res3           
+R95        keystone5110      2666.338mil    904.259mil   2666.338mil    904.259mil   2639.567mil    904.259mil  T        360.00 Res3           
+R129       keystone5110      2666.338mil    355.941mil   2666.338mil    355.941mil   2639.567mil    355.941mil  T        360.00 Res3           
+R128       keystone5110      2666.338mil    561.561mil   2666.338mil    561.561mil   2639.567mil    561.561mil  T        360.00 Res3           
+R127       keystone5110      2666.338mil     767.18mil   2666.338mil     767.18mil   2639.567mil     767.18mil  T        360.00 Res3           
+R126       keystone5110      2666.338mil    424.481mil   2666.338mil    424.481mil    2693.11mil    424.481mil  T        180.00 Res3           
+R125       keystone5110      2666.338mil      630.1mil   2666.338mil      630.1mil    2693.11mil      630.1mil  T        180.00 Res3           
+R124       keystone5110      2666.338mil    835.719mil   2666.338mil    835.719mil    2693.11mil    835.719mil  T        180.00 Res3           
+R123       keystone5110      2666.338mil   -434.252mil   2666.338mil   -434.252mil    2693.11mil   -434.252mil  B        180.00 Res3           
+R122       keystone5110      2666.338mil   -363.583mil   2666.338mil   -363.583mil    2693.11mil   -363.583mil  B        180.00 Res3           
+R121       keystone5110      2666.338mil   -292.914mil   2666.338mil   -292.914mil    2693.11mil   -292.914mil  B        180.00 Res3           
+R120       keystone5110      2666.339mil   -776.575mil   2666.339mil   -776.575mil    2693.11mil   -776.575mil  T        180.00 Res3           
+R119       keystone5110      2666.338mil   -151.575mil   2666.338mil   -151.575mil   2639.567mil   -151.575mil  B        360.00 Res3           
+R118       keystone5110      2666.338mil    -646.26mil   2666.338mil    -646.26mil   2639.567mil    -646.26mil  B        360.00 Res3           
+R117       keystone5110      2666.338mil    -575.59mil   2666.338mil    -575.59mil   2639.567mil    -575.59mil  B        360.00 Res3           
+R116       keystone5110      2666.338mil   -504.921mil   2666.338mil   -504.921mil   2639.567mil   -504.921mil  B        360.00 Res3           
+R115       keystone5110      2666.339mil  -1432.087mil   2666.339mil  -1432.087mil   2639.567mil  -1432.087mil  T        360.00 Res3           
+R114       keystone5110      2666.339mil  -1213.583mil   2666.339mil  -1213.583mil   2639.567mil  -1213.583mil  T        360.00 Res3           
+R113       keystone5110      2666.339mil   -995.079mil   2666.339mil   -995.079mil   2639.567mil   -995.079mil  T        360.00 Res3           
+R112       keystone5110      2666.339mil  -1359.252mil   2666.339mil  -1359.252mil    2693.11mil  -1359.252mil  T        180.00 Res3           
+R111       keystone5110      2666.339mil  -1140.748mil   2666.339mil  -1140.748mil    2693.11mil  -1140.748mil  T        180.00 Res3           
+R110       keystone5110      2666.339mil   -922.245mil   2666.339mil   -922.245mil    2693.11mil   -922.245mil  T        180.00 Res3           
+R109       keystone5110      2666.338mil   -858.267mil   2666.338mil   -858.267mil    2693.11mil   -858.267mil  B        180.00 Res3           
+R91        keystone5110      2666.338mil   1166.338mil   2666.338mil   1166.338mil    2693.11mil   1166.338mil  B        180.00 Res3           
+R90        keystone5110      2666.338mil   1381.889mil   2666.338mil   1381.889mil    2693.11mil   1381.889mil  B        180.00 Res3           
+R89        keystone5110      2666.339mil   1452.756mil   2666.339mil   1452.756mil    2693.11mil   1452.756mil  B        180.00 Res3           
+R88        keystone5110      2666.338mil    955.709mil   2666.338mil    955.709mil    2693.11mil    955.709mil  B        180.00 Res3           
+R87        keystone5110      2666.338mil   1094.488mil   2666.338mil   1094.488mil   2639.567mil   1094.488mil  B        360.00 Res3           
+R86        keystone5110      2666.338mil    287.402mil   2666.338mil    287.402mil   2639.567mil    287.402mil  T        360.00 Res3           
+R85        keystone5110      2666.338mil    883.858mil   2666.338mil    883.858mil   2639.567mil    883.858mil  B        360.00 Res3           
+R84        keystone5110      2666.338mil   1238.188mil   2666.338mil   1238.188mil   2639.567mil   1238.188mil  B        360.00 Res3           
+R83        keystone5110      2666.339mil   1525.591mil   2666.339mil   1525.591mil   2639.567mil   1525.591mil  B        360.00 Res3           
+R82        keystone5110      2666.338mil    1597.44mil   2666.338mil    1597.44mil   2639.567mil    1597.44mil  B        360.00 Res3           
+R81        keystone5110      2666.338mil   1310.039mil   2666.338mil   1310.039mil   2639.567mil   1310.039mil  B        360.00 Res3           
+R80        keystone5110       2803.15mil  -1504.921mil    2803.15mil  -1504.921mil   2776.378mil  -1504.921mil  T        360.00 Res3           
+R79        keystone5110       2803.15mil  -1432.087mil    2803.15mil  -1432.087mil   2776.378mil  -1432.087mil  T        360.00 Res3           
+R78        keystone5110      2666.338mil   1041.338mil   2666.338mil   1041.338mil   2639.567mil   1041.338mil  T        360.00 Res3           
+R72        keystone5110      2666.339mil  -1504.921mil   2666.339mil  -1504.921mil    2693.11mil  -1504.921mil  T        180.00 Res3           
+R71        keystone5110      2666.339mil  -1286.418mil   2666.339mil  -1286.418mil    2693.11mil  -1286.418mil  T        180.00 Res3           
+R70        keystone5110      2666.339mil  -1067.914mil   2666.339mil  -1067.914mil    2693.11mil  -1067.914mil  T        180.00 Res3           
+R57        keystone5110      2666.338mil   -787.598mil   2666.338mil   -787.598mil    2693.11mil   -787.598mil  B        180.00 Res3           
+R56        keystone5110      2666.338mil   -716.929mil   2666.338mil   -716.929mil    2693.11mil   -716.929mil  B        180.00 Res3           
+R54        keystone5110      2666.338mil   -222.244mil   2666.338mil   -222.244mil   2639.567mil   -222.244mil  B        360.00 Res3           
+R53        keystone5110      2666.339mil    -849.41mil   2666.339mil    -849.41mil    2693.11mil    -849.41mil  T        180.00 Res3           
+R48        keystone5110      2666.338mil    972.799mil   2666.338mil    972.799mil    2693.11mil    972.799mil  T        180.00 Res3           
+R18        keystone5110      2666.338mil   1022.637mil   2666.338mil   1022.637mil    2693.11mil   1022.637mil  B        180.00 Res3           
+R67        keystone5110      2802.165mil    1407.48mil   2802.165mil    1407.48mil   2802.165mil   1380.709mil  T         90.00 Res3           
+R68        keystone5110      2854.331mil    1407.48mil   2854.331mil    1407.48mil   2854.331mil   1380.709mil  T         90.00 Res3           
+R93        keystone5110      2688.976mil  -1581.693mil   2688.976mil  -1581.693mil   2688.976mil  -1554.921mil  B        270.00 Res3           
+R92        keystone5110      2766.732mil  -1581.693mil   2766.732mil  -1581.693mil   2766.732mil  -1554.921mil  B        270.00 Res3           
+P2         pico-lock-04-1mm    972.441mil   1526.378mil   1031.496mil    1467.52mil   1031.496mil    1467.52mil  T        180.00 503763-0491    
+P16        pico-lock-04-1mm    964.567mil   1527.362mil    905.512mil   1468.504mil    905.512mil   1468.504mil  B        360.00 503763-0491    
+P1         pico-lock-02-1mm   1397.638mil   1526.375mil   1417.323mil   1467.517mil   1417.323mil   1467.517mil  T        180.00 503763-0291    
+P15        pico-lock-04-1mm    549.213mil   1525.394mil    490.158mil   1466.535mil    490.158mil   1466.535mil  B        360.00 503763-0491    
+D12        TO-227A(SMPC)      510.433mil    182.087mil    510.433mil    145.669mil    469.488mil    253.937mil  B        360.00 SS8P6C         
+U4         DFN8-4X4-0.8P      626.969mil    606.299mil    626.969mil    606.299mil     703.74mil    559.055mil  T        180.00 PCF8523TK      
+R131       0402               487.205mil    481.299mil    487.205mil    481.299mil    487.205mil    461.614mil  T         90.00 Res3           
+C125       C1210              587.598mil    409.448mil    587.599mil    409.448mil    587.598mil    356.299mil  T         90.00                
+C124       C1210              843.504mil    409.448mil    843.504mil    409.448mil    843.504mil    356.299mil  T         90.00                
+C123       C1210              715.551mil    409.448mil    715.551mil    409.448mil    715.551mil    356.299mil  T         90.00                
+U6         DFN12-4X3-0.5P     292.732mil   1207.266mil    292.732mil   1207.266mil    351.787mil   1256.479mil  B        180.00 LTC2865        
+U1         QFN-64             451.198mil   1129.346mil    451.198mil   1129.346mil    274.033mil   1276.984mil  T        360.00 AT32UC3C2512C-Z2ZRCT
+U21_P6     MSOP-8            1829.244mil    961.408mil   1829.244mil    961.408mil    1742.63mil    999.794mil  T        360.00 AD8418WBRMZ    
+U21_P5     MSOP-8             1353.85mil    961.408mil    1353.85mil    961.408mil   1267.236mil    999.794mil  T        360.00 AD8418WBRMZ    
+U21_P4     MSOP-8            1829.244mil   -160.639mil   1829.244mil   -160.639mil    1742.63mil   -122.253mil  T        360.00 AD8418WBRMZ    
+U21_P3     MSOP-8            1317.433mil   1256.684mil   1317.433mil   1256.684mil   1230.819mil    1295.07mil  T        360.00 AD8418WBRMZ    
+U21_P2     MSOP-8            1829.244mil    154.322mil   1829.244mil    154.322mil    1742.63mil    192.708mil  T        360.00 AD8418WBRMZ    
+U21_P1     MSOP-8            1865.661mil   1256.684mil   1865.661mil   1256.684mil   1779.047mil    1295.07mil  T        360.00 AD8418WBRMZ    
+U16_P6     DFN8-NCP          1635.827mil    969.488mil   1635.827mil    969.488mil   1606.299mil    926.181mil  T         90.00 NCP45521       
+U16_P5     DFN8-NCP          1124.016mil    969.488mil   1124.016mil    969.488mil   1094.488mil    926.181mil  T         90.00 NCP45521       
+U16_P4     DFN8-NCP          1635.827mil   -152.559mil   1635.827mil   -152.559mil   1606.299mil   -195.866mil  T         90.00 NCP45521       
+U16_P3     DFN8-NCP          1124.016mil   1264.764mil   1124.016mil   1264.764mil   1094.488mil   1221.457mil  T         90.00 NCP45521       
+U16_P2     DFN8-NCP          1635.827mil    162.402mil   1635.827mil    162.402mil   1606.299mil    119.094mil  T         90.00 NCP45521       
+U16_P1     DFN8-NCP          1635.827mil   1264.764mil   1635.827mil   1264.764mil   1606.299mil   1221.457mil  T         90.00 NCP45521       
+U3_I6      MSOP-8             778.544mil  -1154.528mil    778.544mil  -1154.528mil    816.929mil  -1241.143mil  B         90.00 LTC4313_MS8    
+U3_I5      MSOP-8             778.543mil   -840.552mil    778.543mil   -840.552mil    816.929mil   -927.166mil  B         90.00 LTC4313_MS8    
+R58        RESC0402(1005)_N         95mil       -968mil         95mil       -968mil         95mil   -944.378mil  B        270.00 10R            
+R49_P6     0402               1696.85mil    1032.48mil    1696.85mil    1032.48mil    1696.85mil   1052.165mil  T        270.00 Res3           
+R49_P5     0402              1185.039mil    1032.48mil   1185.039mil    1032.48mil   1185.039mil   1052.165mil  T        270.00 Res3           
+R49_P4     0402               1696.85mil    -89.567mil    1696.85mil    -89.567mil    1696.85mil    -69.882mil  T        270.00 Res3           
+R49_P3     0402              1185.039mil   1327.756mil   1185.039mil   1327.756mil   1185.039mil   1347.441mil  T        270.00 Res3           
+R49_P2     0402               1696.85mil    225.394mil    1696.85mil    225.394mil    1696.85mil    245.079mil  T        270.00 Res3           
+R49_P1     0402               1696.85mil   1327.756mil    1696.85mil   1327.756mil    1696.85mil   1347.441mil  T        270.00 Res3           
+R46        0402               614.173mil   -472.441mil    614.173mil   -472.441mil    614.173mil   -452.756mil  T        270.00 Res3           
+R39_P6     0402              1817.913mil    877.953mil   1817.913mil    877.953mil   1798.228mil    877.953mil  T        360.00 Res3           
+R39_P5     0402              1306.102mil    877.953mil   1306.102mil    877.953mil   1286.417mil    877.953mil  T        360.00 Res3           
+R39_P4     0402              1817.913mil   -244.095mil   1817.913mil   -244.095mil   1798.228mil   -244.095mil  T        360.00 Res3           
+R39_P3     0402              1306.102mil   1173.228mil   1306.102mil   1173.228mil   1286.417mil   1173.228mil  T        360.00 Res3           
+R39_P2     0402              1817.913mil     70.866mil   1817.913mil     70.866mil   1798.228mil     70.866mil  T        360.00 Res3           
+R39_P1     0402              1817.913mil   1173.228mil   1817.913mil   1173.228mil   1798.228mil   1173.228mil  T        360.00 Res3           
+R33        0402               679.134mil   1398.622mil    679.134mil   1398.622mil    698.819mil   1398.622mil  T        180.00 Res3           
+R28_I6     0402               797.244mil  -1022.639mil    797.244mil  -1022.639mil    777.559mil  -1022.639mil  B        360.00 Res3           
+R28_I5     0402               797.244mil   -708.662mil    797.244mil   -708.662mil    777.559mil   -708.662mil  B        360.00 Res3           
+R27_P6     J1-0603           1793.307mil   1055.118mil   1793.307mil   1055.118mil   1822.835mil   1055.118mil  T        180.00 Res3           
+R27_P5     J1-0603           1301.181mil   1055.118mil   1301.181mil   1055.118mil   1330.708mil   1055.118mil  T        180.00 Res3           
+R27_P4     J1-0603           1793.307mil    -66.929mil   1793.307mil    -66.929mil   1822.835mil    -66.929mil  T        180.00 Res3           
+R27_P3     J1-0603           1291.338mil   1350.394mil   1291.339mil   1350.394mil   1320.866mil   1350.394mil  T        180.00 Res3           
+R27_P2     J1-0603           1793.307mil    248.031mil   1793.307mil    248.032mil   1822.835mil    248.031mil  T        180.00 Res3           
+R27_P1     J1-0603           1812.992mil   1350.394mil   1812.992mil   1350.394mil    1842.52mil   1350.394mil  T        180.00 Res3           
+R26_I6     0402               767.717mil  -1288.387mil    767.717mil  -1288.387mil    748.032mil  -1288.387mil  B        360.00 Res3           
+R26_I5     0402               767.717mil    -974.41mil    767.717mil    -974.41mil    748.032mil    -974.41mil  B        360.00 Res3           
+R17        RESC0402(1005)_N       1344mil      -1291mil       1344mil      -1291mil   1367.622mil      -1291mil  B        180.00 10M            
+R9         0402               562.992mil   -472.441mil    562.992mil   -472.441mil    562.992mil   -452.756mil  T        270.00 Res3           
+R8         RESC0402(1005)_N       1145mil      -1293mil       1145mil      -1293mil   1168.622mil      -1293mil  B        180.00 10M            
+R6         RESC0402(1005)_N       1139mil       -873mil       1139mil       -873mil   1115.378mil       -873mil  B        360.00 10R            
+R5         keystone5110      2666.338mil   -141.339mil   2666.338mil   -141.339mil   2639.567mil   -141.339mil  T          0.00 Res3           
+D6         D0603              744.094mil   1432.087mil    744.095mil   1432.087mil    744.094mil   1402.559mil  T         90.00 CDBU0240       
+C122       C1210             1510.827mil   -1361.22mil   1510.826mil   -1361.22mil   1510.827mil  -1308.071mil  T        270.00 16V            
+C120       0805              1186.024mil     66.928mil   1186.024mil     66.929mil   1225.394mil     66.928mil  T        180.00 Cap Semi       
+C119       C1210             1649.606mil   -949.803mil   1649.606mil   -949.803mil   1649.606mil  -1002.953mil  T         90.00 16V            
+C107_P6    0402               1657.48mil    877.953mil    1657.48mil    877.953mil   1677.165mil    877.953mil  T        180.00 Cap Semi       
+C107_P5    0402              1145.669mil    877.953mil   1145.669mil    877.953mil   1165.354mil    877.953mil  T        180.00 Cap Semi       
+C107_P4    0402               1657.48mil   -244.095mil    1657.48mil   -244.095mil   1677.165mil   -244.095mil  T        180.00 Cap Semi       
+C107_P3    0402              1145.669mil   1173.228mil   1145.669mil   1173.228mil   1165.354mil   1173.228mil  T        180.00 Cap Semi       
+C107_P2    0402               1657.48mil     70.866mil    1657.48mil     70.866mil   1677.165mil     70.866mil  T        180.00 Cap Semi       
+C107_P1    0402               1657.48mil   1173.228mil    1657.48mil   1173.228mil   1677.165mil   1173.228mil  T        180.00 Cap Semi       
+C105_P6    0402              1626.969mil   1069.882mil   1626.969mil   1069.882mil   1607.284mil   1069.882mil  T        360.00 Cap Semi       
+C105_P5    0402              1115.158mil   1069.882mil   1115.158mil   1069.882mil   1095.473mil   1069.882mil  T        360.00 Cap Semi       
+C105_P4    0402              1626.969mil    -52.165mil   1626.969mil    -52.165mil   1607.284mil    -52.165mil  T        360.00 Cap Semi       
+C105_P3    0402              1115.158mil   1365.158mil   1115.158mil   1365.158mil   1095.473mil   1365.158mil  T        360.00 Cap Semi       
+C105_P2    0402              1626.969mil    262.795mil   1626.969mil    262.795mil   1607.284mil    262.795mil  T        360.00 Cap Semi       
+C105_P1    0402              1626.969mil   1365.158mil   1626.969mil   1365.158mil   1607.284mil   1365.158mil  T        360.00 Cap Semi       
+C104       C1210             1649.606mil   -773.622mil   1649.606mil   -773.622mil   1649.606mil   -720.472mil  T        270.00 16V            
+C103_P6    0603C             1559.055mil    1039.37mil   1559.055mil    1039.37mil   1559.055mil   1068.898mil  T        270.00 Cap Semi       
+C103_P5    0603C             1047.244mil    1039.37mil   1047.244mil    1039.37mil   1047.244mil   1068.898mil  T        270.00 Cap Semi       
+C103_P4    0603C             1559.055mil    -82.677mil   1559.055mil    -82.677mil   1559.055mil     -53.15mil  T        270.00 Cap Semi       
+C103_P3    0603C             1047.244mil   1334.646mil   1047.244mil   1334.646mil   1047.244mil   1364.173mil  T        270.00 Cap Semi       
+C103_P2    0603C             1559.055mil    232.283mil   1559.055mil    232.284mil   1559.055mil    261.811mil  T        270.00 Cap Semi       
+C103_P1    0603C             1559.055mil   1334.646mil   1559.055mil   1334.646mil   1559.055mil   1364.173mil  T        270.00 Cap Semi       
+C102_P6    0402              1902.559mil    877.953mil   1902.559mil    877.953mil   1922.244mil    877.953mil  T        180.00 Cap Semi       
+C102_P5    0402              1390.748mil    877.953mil   1390.748mil    877.953mil   1410.433mil    877.953mil  T        180.00 Cap Semi       
+C102_P4    0402              1902.559mil   -244.095mil   1902.559mil   -244.095mil   1922.244mil   -244.095mil  T        180.00 Cap Semi       
+C102_P3    0402              1390.748mil   1173.228mil   1390.748mil   1173.228mil   1410.433mil   1173.228mil  T        180.00 Cap Semi       
+C102_P2    0402              1902.559mil     70.866mil   1902.559mil     70.866mil   1922.244mil     70.866mil  T        180.00 Cap Semi       
+C102_P1    0402              1902.559mil   1173.228mil   1902.559mil   1173.228mil   1922.244mil   1173.228mil  T        180.00 Cap Semi       
+C99        C1210             1376.968mil  -1550.197mil   1376.968mil  -1550.197mil   1376.968mil  -1603.346mil  T         90.00 16V            
+C98        1608[0603]         173.637mil   1320.455mil    173.637mil   1320.455mil    146.078mil   1320.455mil  B        360.00 Cap Semi       
+C97        0402               416.748mil     1146.4mil    416.748mil     1146.4mil    436.433mil     1146.4mil  B        180.00 Cap Semi       
+C91        0805               2342.52mil      0.984mil    2342.52mil      0.984mil    2303.15mil      0.984mil  T          0.00 Cap Semi       
+C90        0805                  2500mil          0mil       2500mil          0mil    2460.63mil          0mil  T        360.00 Cap Semi       
+C89        0805              2049.213mil  -1308.071mil   2049.213mil  -1308.071mil   2049.213mil  -1347.441mil  B         90.00 Cap Semi       
+C88        0805              2024.607mil    411.417mil   2024.606mil    411.417mil   2024.607mil    372.047mil  B         90.00 Cap Semi       
+C87        0805              2057.087mil   -413.386mil   2057.087mil   -413.386mil   2057.087mil   -374.016mil  T        270.00 Cap Semi       
+C86        0805              2051.181mil   1307.086mil   2051.181mil   1307.086mil   2051.181mil   1346.457mil  T        270.00 Cap Semi       
+C85        0805              1665.354mil    766.732mil   1665.354mil    766.732mil   1704.724mil    766.732mil  T        180.00 Cap Semi       
+C84        0805               984.252mil    937.008mil    984.252mil    937.008mil    984.252mil    897.638mil  T         90.00 Cap Semi       
+C83        0805              2057.086mil   -182.087mil   2057.087mil   -182.087mil   2057.086mil   -221.457mil  T         90.00 Cap Semi       
+C82        0805               984.252mil   1200.787mil    984.252mil   1200.787mil    984.252mil   1161.417mil  T         90.00 Cap Semi       
+C81        0805              1406.496mil     66.929mil   1406.496mil     66.929mil   1367.126mil     66.929mil  T          0.00 Cap Semi       
+C80        0805              1694.882mil   1480.315mil   1694.882mil   1480.315mil   1734.252mil   1480.315mil  T        180.00 Cap Semi       
+C30_P6     0402              1737.205mil    877.953mil   1737.205mil    877.953mil    1717.52mil    877.953mil  T        360.00 Cap Semi       
+C30_P5     0402              1225.394mil    877.953mil   1225.394mil    877.953mil   1205.709mil    877.953mil  T        360.00 Cap Semi       
+C30_P4     0402              1737.205mil   -244.095mil   1737.205mil   -244.095mil    1717.52mil   -244.095mil  T        360.00 Cap Semi       
+C30_P3     0402              1225.394mil   1173.228mil   1225.394mil   1173.228mil   1205.709mil   1173.228mil  T        360.00 Cap Semi       
+C30_P2     0402              1737.205mil     70.866mil   1737.205mil     70.866mil    1717.52mil     70.866mil  T        360.00 Cap Semi       
+C30_P1     0402              1737.205mil   1173.228mil   1737.205mil   1173.228mil    1717.52mil   1173.228mil  T        360.00 Cap Semi       
+C6         0805               610.236mil          0mil    610.236mil          0mil    610.236mil     -39.37mil  T         90.00 Cap Semi       
+C5         0805              2057.086mil     138.78mil   2057.087mil     138.78mil   2057.086mil     99.409mil  T         90.00 Cap Semi       
+C4_P6      1608[0603]        1559.055mil    939.961mil   1559.055mil    939.961mil   1559.055mil    912.402mil  T         90.00 Cap Semi       
+C4_P5      1608[0603]        1047.244mil    939.961mil   1047.244mil    939.961mil   1047.244mil    912.402mil  T         90.00 Cap Semi       
+C4_P4      1608[0603]        1559.055mil   -182.087mil   1559.055mil   -182.087mil   1559.055mil   -209.646mil  T         90.00 Cap Semi       
+C4_P3      1608[0603]        1047.244mil   1235.236mil   1047.244mil   1235.236mil   1047.244mil   1207.677mil  T         90.00 Cap Semi       
+C4_P2      1608[0603]        1559.055mil    132.874mil   1559.055mil    132.874mil   1559.055mil    105.315mil  T         90.00 Cap Semi       
+C4_P1      1608[0603]        1559.055mil   1235.236mil   1559.055mil   1235.236mil   1559.055mil   1207.677mil  T         90.00 Cap Semi       
+C3_P6      1608[0603]        1896.653mil   1055.118mil   1896.654mil   1055.118mil   1924.213mil   1055.118mil  T        180.00 Cap Semi       
+C3_P4      1608[0603]        1896.653mil    -66.929mil   1896.654mil    -66.929mil   1924.213mil    -66.929mil  T        180.00 Cap Semi       
+C3_P3      1608[0603]        1394.685mil   1350.394mil   1394.685mil   1350.394mil   1422.244mil   1350.394mil  T        180.00 Cap Semi       
+C3_P2      1608[0603]        1896.653mil    248.031mil   1896.654mil    248.032mil   1924.213mil    248.031mil  T        180.00 Cap Semi       
+C3_P1      1608[0603]        1916.339mil   1350.394mil   1916.339mil   1350.394mil   1943.898mil   1350.394mil  T        180.00 Cap Semi       
+C2         CAPC0603(1608)_N       1163mil      -1183mil       1163mil      -1183mil       1163mil  -1151.504mil  B        270.00 100nF          
+C1         0805               571.851mil    -84.646mil     571.85mil    -84.646mil    571.851mil   -124.016mil  B         90.00 Cap Semi       
+Y1         XTAL_CC7V-T1A      823.819mil    606.299mil    823.819mil    606.299mil    823.819mil    557.086mil  T         90.00 32.768 kHz     
+R41        0402                73.819mil    834.646mil     73.819mil    834.646mil     73.819mil    814.961mil  T         90.00 Res3           
+R40        0402                73.819mil    760.827mil     73.819mil    760.827mil     73.819mil    741.142mil  T         90.00 Res3           
+R29        0402               365.157mil    608.268mil    365.157mil    608.268mil    365.157mil    588.583mil  T         90.00 Res3           
+L1         0402               133.858mil    976.378mil    133.858mil    976.378mil    114.173mil    976.378mil  T        360.00 Inductor       
+D7         D0603               -85.63mil   1472.441mil     -85.63mil   1472.441mil     -85.63mil   1501.968mil  T        270.00 LED3           
+C79        0805              1844.488mil   -398.622mil   1844.488mil   -398.622mil   1805.118mil   -398.622mil  B        360.00 Cap Semi       
+C78        0805              1844.488mil   -474.082mil   1844.488mil   -474.081mil   1805.118mil   -474.082mil  B        360.00 Cap Semi       
+C77        0805              1844.488mil   -549.541mil   1844.488mil   -549.541mil   1805.118mil   -549.541mil  B        360.00 Cap Semi       
+C76        0805              1844.488mil       -625mil   1844.488mil       -625mil   1805.118mil       -625mil  B        360.00 Cap Semi       
+C75        0805              1860.236mil   1354.331mil   1860.236mil   1354.331mil   1820.866mil   1354.331mil  B        360.00 Cap Semi       
+C74        0805              1860.236mil   1276.903mil   1860.236mil   1276.903mil   1820.866mil   1276.903mil  B        360.00 Cap Semi       
+C73        0805              1860.236mil   1199.475mil   1860.236mil   1199.475mil   1820.866mil   1199.475mil  B        360.00 Cap Semi       
+C72        0805              1860.236mil   1122.047mil   1860.236mil   1122.047mil   1820.866mil   1122.047mil  B        360.00 Cap Semi       
+C71        0805               1868.11mil  -1325.787mil    1868.11mil  -1325.787mil    1828.74mil  -1325.787mil  T        360.00 Cap Semi       
+C70        0805               1868.11mil  -1245.571mil    1868.11mil  -1245.571mil    1828.74mil  -1245.571mil  T        360.00 Cap Semi       
+C69        0805               1868.11mil  -1165.354mil    1868.11mil  -1165.354mil    1828.74mil  -1165.354mil  T        360.00 Cap Semi       
+C68        0805               1868.11mil  -1085.138mil    1868.11mil  -1085.138mil    1828.74mil  -1085.138mil  T        360.00 Cap Semi       
+C67        0805              1871.063mil    391.733mil   1871.063mil    391.732mil   1831.693mil    391.733mil  T        360.00 Cap Semi       
+C66        0805              1871.063mil    472.687mil   1871.063mil    472.687mil   1831.693mil    472.687mil  T        360.00 Cap Semi       
+C65        0805              1870.079mil     553.15mil   1870.079mil     553.15mil   1830.709mil     553.15mil  T        360.00 Cap Semi       
+C64        0805              1870.079mil    634.843mil   1870.079mil    634.843mil   1830.709mil    634.843mil  T        360.00 Cap Semi       
+C63        0805              1999.016mil   -398.622mil   1999.016mil   -398.622mil   1959.646mil   -398.622mil  B        360.00 Cap Semi       
+C62        0805              1999.016mil   -474.082mil   1999.016mil   -474.081mil   1959.646mil   -474.082mil  B        360.00 Cap Semi       
+C61        0805              1999.016mil   -549.541mil   1999.016mil   -549.541mil   1959.646mil   -549.541mil  B        360.00 Cap Semi       
+C60        0805              1999.016mil       -625mil   1999.016mil       -625mil   1959.646mil       -625mil  B        360.00 Cap Semi       
+C59        0805              1999.016mil    -703.74mil   1999.016mil    -703.74mil   1959.646mil    -703.74mil  B        360.00 Cap Semi       
+C58        0805               2006.89mil   1354.331mil    2006.89mil   1354.331mil    1967.52mil   1354.331mil  B        360.00 Cap Semi       
+C57        0402                73.819mil    911.417mil     73.819mil    911.417mil     73.819mil    931.102mil  T        270.00 Cap Semi       
+C56        1608[0603]          421.26mil    822.835mil     421.26mil    822.835mil     421.26mil    795.276mil  T         90.00 Cap Semi       
+C55        0402                407.48mil    711.614mil     407.48mil    711.614mil     407.48mil    691.929mil  T         90.00 Cap Semi       
+C54        0402               133.858mil    935.039mil    133.858mil    935.039mil    114.173mil    935.039mil  T        360.00 Cap Semi       
+C53        0805               2006.89mil   1276.903mil    2006.89mil   1276.903mil    1967.52mil   1276.903mil  B        360.00 Cap Semi       
+C52        0805               2006.89mil   1199.475mil    2006.89mil   1199.475mil    1967.52mil   1199.475mil  B        360.00 Cap Semi       
+C51        0805               2006.89mil   1122.047mil    2006.89mil   1122.047mil    1967.52mil   1122.047mil  B        360.00 Cap Semi       
+C50        0805               2006.89mil   1040.354mil    2006.89mil   1040.354mil    1967.52mil   1040.354mil  B        360.00 Cap Semi       
+C47        0805              2019.685mil  -1325.787mil   2019.685mil  -1325.787mil   1980.315mil  -1325.787mil  T        360.00 Cap Semi       
+C111       C1210             1510.827mil   -949.803mil   1510.827mil   -949.803mil   1510.827mil  -1002.953mil  T         90.00 16V            
+C44        0402               749.016mil   1069.685mil    749.016mil   1069.685mil    768.701mil   1069.685mil  T        180.00 Cap Semi       
+C43        0402               749.016mil    1035.63mil    749.016mil    1035.63mil    768.701mil    1035.63mil  T        180.00 Cap Semi       
+C42        0805              2019.685mil  -1245.571mil   2019.685mil  -1245.571mil   1980.315mil  -1245.571mil  T        360.00 Cap Semi       
+C41        0402               749.016mil    1103.74mil    749.016mil    1103.74mil    768.701mil    1103.74mil  T        180.00 Cap Semi       
+C40        0402               749.016mil   1137.795mil    749.016mil   1137.795mil    768.701mil   1137.795mil  T        180.00 Cap Semi       
+C39        0402               543.307mil        875mil    543.307mil        875mil    523.622mil        875mil  T        360.00 Cap Semi       
+C38        0402               365.157mil    711.614mil    365.157mil    711.614mil    365.157mil    691.929mil  T         90.00 Cap Semi       
+C37        0402               616.142mil        875mil    616.142mil        875mil    635.827mil        875mil  T        180.00 Cap Semi       
+C36        1608[0603]         356.299mil    822.835mil    356.299mil    822.835mil    356.299mil    795.276mil  T         90.00 Cap Semi       
+C108       0402               214.567mil    700.787mil    214.567mil    700.787mil    194.882mil    700.787mil  T        360.00 Cap Semi       
+C109       0402               406.496mil    310.039mil    406.496mil    310.039mil    386.811mil    310.039mil  T        360.00 Cap Semi       
+C33        0402               744.095mil    812.992mil    744.095mil    812.992mil    763.779mil    812.992mil  T        180.00 Cap Semi       
+C110       C1210             1649.606mil   -1361.22mil   1649.606mil   -1361.22mil   1649.606mil  -1308.071mil  T        270.00 16V            
+C29        0805              2019.685mil  -1165.354mil   2019.685mil  -1165.354mil   1980.315mil  -1165.354mil  T        360.00 Cap Semi       
+C28        0805              2019.685mil  -1085.138mil   2019.685mil  -1085.138mil   1980.315mil  -1085.138mil  T        360.00 Cap Semi       
+C27        0805              2019.685mil  -1004.921mil   2019.685mil  -1004.921mil   1980.315mil  -1004.921mil  T        360.00 Cap Semi       
+C26        0805              2026.575mil    391.732mil   2026.575mil    391.732mil   1987.205mil    391.732mil  T        360.00 Cap Semi       
+C25        0805              2026.575mil    472.687mil   2026.575mil    472.687mil   1987.205mil    472.687mil  T        360.00 Cap Semi       
+C24        0805              2026.575mil    553.642mil   2026.575mil    553.642mil   1987.205mil    553.642mil  T        360.00 Cap Semi       
+C20        0805              2026.575mil    634.596mil   2026.575mil    634.596mil   1987.205mil    634.596mil  T        360.00 Cap Semi       
+C10        0805              2026.575mil    715.551mil   2026.575mil    715.551mil   1987.205mil    715.551mil  T        360.00 Cap Semi       
+PJ         51281-1894          506.89mil   1569.882mil    674.213mil   1526.575mil    674.213mil   1526.575mil  T        180.00 FPC-51281-1894 
+X4B        FSI-110-03-G-D-AD    2329.33mil   -560.236mil    2329.33mil   -560.236mil   2494.291mil   -737.402mil  B         90.00 SAMTEC-FSI-110-D
+X2         FSI-110-03-G-D-AD    2329.33mil   -629.921mil    2329.33mil   -629.921mil   2494.291mil   -452.756mil  T        270.00 SAMTEC-FSI-110-D
+X1         FSI-110-03-G-D-AD    2329.33mil   1091.732mil    2329.33mil   1091.732mil   2494.291mil   1268.898mil  T        270.00 SAMTEC-FSI-110-D
+H1         FOOTPRINT_2X26_STIK   2854.937mil    -24.819mil   2804.937mil   1225.181mil   2804.937mil   1225.181mil  T          0.00 ssq-126        
+H2         FOOTPRINT_2X26_STIK   3054.937mil    -24.819mil   3004.937mil   1225.181mil   3004.937mil   1225.181mil  T          0.00 ssq-126        
+X1B        FSI-110-03-G-D-AD    2329.33mil    560.236mil    2329.33mil    560.236mil   2494.291mil    737.402mil  T        270.00 SAMTEC-FSI-110-D
+X4         FSI-110-03-G-D-AD    2329.33mil  -1091.732mil    2329.33mil  -1091.732mil   2494.291mil  -1268.898mil  B         90.00 SAMTEC-FSI-110-D
+X3         FSI-110-03-G-D-AD    2329.33mil    629.921mil    2329.33mil    629.921mil   2494.291mil    452.756mil  B         90.00 SAMTEC-FSI-110-D
+X2B        FSI-110-03-G-D-AD    2329.33mil  -1161.417mil    2329.33mil  -1161.417mil   2494.291mil   -984.252mil  T        270.00 SAMTEC-FSI-110-D
+X3B        FSI-110-03-G-D-AD    2329.33mil   1161.417mil    2329.33mil   1161.417mil   2494.291mil    984.252mil  B         90.00 SAMTEC-FSI-110-D
+U13        DFN8-3X3-0.5P       217.52mil    799.213mil     217.52mil    799.213mil    276.575mil    769.685mil  T        180.00 LTC2875        
+C15        C1210              509.843mil   -812.992mil    509.842mil   -812.992mil    509.843mil   -759.842mil  T        270.00 100V           
+C18        C1210              367.126mil   -994.094mil    367.126mil   -994.094mil    367.126mil  -1047.244mil  T         90.00 100V           
+C19        0402               614.173mil   -692.913mil    614.173mil   -692.913mil    614.173mil   -673.228mil  T        270.00 Cap Semi       
+C21        1608[0603]         870.079mil   -886.811mil    870.079mil   -886.811mil    870.079mil    -914.37mil  T         90.00 Cap Semi       
+C22        C1210              509.843mil   -994.094mil    509.843mil   -994.094mil    509.843mil  -1047.244mil  T         90.00 100V           
+C23        0402               849.409mil  -1036.417mil    849.409mil  -1036.417mil    829.724mil  -1036.417mil  T        360.00 Cap Semi       
+C32        0402               857.221mil  -1265.748mil    857.221mil  -1265.748mil    857.221mil  -1285.433mil  T         90.00 Cap Semi       
+C34        1608[0603]         870.079mil  -1459.646mil    870.079mil  -1459.646mil    870.079mil  -1487.205mil  T         90.00 Cap Semi       
+C35        0402               614.173mil  -1265.748mil    614.173mil  -1265.748mil    614.173mil  -1246.063mil  T        270.00 Cap Semi       
+C45        C1210              367.126mil  -1575.787mil    367.126mil  -1575.787mil    367.126mil  -1522.638mil  T        270.00 100V           
+C46        C1210              509.842mil  -1575.787mil    509.842mil  -1575.787mil    509.842mil  -1522.638mil  T        270.00 100V           
+C48        C1210              509.842mil   -1388.78mil    509.842mil   -1388.78mil    509.842mil  -1441.929mil  T         90.00 100V           
+C49        C1210              367.126mil   -1388.78mil    367.126mil   -1388.78mil    367.126mil  -1441.929mil  T         90.00 100V           
+C101       0402               849.409mil  -1609.252mil    849.409mil  -1609.252mil    829.724mil  -1609.252mil  T        360.00 Cap Semi       
+I1         27472C            1100.394mil  -1463.583mil   1100.394mil  -1463.583mil    942.913mil  -1463.583mil  T          0.00 27472C         
+P3         PICO-LOCK-06      -137.795mil   1124.016mil    -35.433mil   1271.653mil    -35.433mil   1271.653mil  T        270.00 504050-0691    
+R10        0402               515.748mil  -1384.842mil    515.748mil  -1384.842mil    515.748mil  -1365.158mil  B        270.00 Res3           
+R12        0402               906.496mil  -1265.748mil    906.496mil  -1265.748mil    906.496mil  -1285.433mil  T         90.00 Res3           
+R13        0402               811.945mil  -1265.748mil    811.945mil  -1265.748mil    811.945mil  -1285.433mil  T         90.00 Res3           
+R19        0402               594.488mil  -1037.402mil    594.488mil  -1037.402mil    594.488mil  -1017.717mil  T        270.00 Res3           
+R20        0402               652.559mil   -692.913mil    652.559mil   -692.913mil    652.559mil   -712.598mil  T         90.00 Res3           
+R21        0402               575.787mil   -692.913mil    575.787mil   -692.913mil    575.787mil   -712.598mil  T         90.00 Res3           
+R22        0402                907.48mil   -692.913mil     907.48mil   -692.913mil     907.48mil   -712.598mil  T         90.00 Res3           
+R23        0402               812.008mil   -692.913mil    812.008mil   -692.913mil    812.008mil   -712.598mil  T         90.00 Res3           
+R34        0402               652.559mil  -1265.748mil    652.559mil  -1265.748mil    652.559mil  -1285.433mil  T         90.00 Res3           
+R35        0402               575.787mil  -1265.748mil    575.787mil  -1265.748mil    575.787mil  -1285.433mil  T         90.00 Res3           
+R37        0402               559.055mil  -1384.842mil    559.055mil  -1384.842mil    559.055mil  -1404.527mil  B         90.00 Res3           
+R69        14-1210            129.921mil     407.48mil    129.921mil     407.48mil    183.071mil     407.48mil  B        180.00 Res3           
+U15        UDD-28              736.22mil  -1469.488mil     736.22mil  -1469.488mil    677.165mil  -1380.906mil  T        360.00 LT8612E        
+C113       0402               857.284mil   -692.913mil    857.284mil   -692.913mil    857.284mil   -712.598mil  T         90.00 Cap Semi       
+I2         27472C            1100.394mil       -875mil   1100.394mil       -875mil    942.913mil       -875mil  T          0.00 27472C         
+U18        UDD-28              736.22mil   -896.654mil     736.22mil   -896.654mil    677.165mil   -808.071mil  T        360.00 LT8612E        
+C114       C1210              367.126mil   -812.992mil    367.126mil   -812.992mil    367.126mil   -759.842mil  T        270.00 100V           
+C115       C1210             1510.827mil   -773.622mil   1510.826mil   -773.622mil   1510.827mil   -720.472mil  T        270.00 16V            
+C116       C1210             1510.827mil  -1550.197mil   1510.827mil  -1550.197mil   1510.827mil  -1603.346mil  T         90.00 16V            
+C118       C1210             1376.968mil   -1361.22mil   1376.968mil   -1361.22mil   1376.968mil  -1308.071mil  T        270.00 16V            
+C11        C1210             1376.968mil   -773.622mil   1376.968mil   -773.622mil   1376.968mil   -720.472mil  T        270.00 16V            
+C112       C1210             1649.606mil  -1550.197mil   1649.606mil  -1550.197mil   1649.606mil  -1603.346mil  T         90.00 16V            
+C117       C1210             1376.968mil   -949.803mil   1376.968mil   -949.803mil   1376.968mil  -1002.953mil  T         90.00 16V            
+C121       0805                96.457mil   1334.646mil     96.457mil   1334.646mil     57.087mil   1334.646mil  T        360.00 Cap Semi       
+P11        PICO-LOCK-04      -137.795mil   -783.465mil    -35.433mil   -872.047mil    -35.433mil   -872.047mil  B         90.00 504050-0491    
+P4         PICO-LOCK-08-W    -137.795mil    439.961mil    -35.433mil    646.654mil    -35.433mil    646.654mil  T        270.00 504050-0891    
+P10        PICO-LOCK-04      -137.795mil  -1229.331mil    -35.433mil  -1317.913mil    -35.433mil  -1317.913mil  B         90.00 504050-0491    
+P13        pico-lock-06      -137.795mil    437.008mil    -35.433mil     289.37mil    -35.433mil     289.37mil  B         90.00 504050-0691    
+P14        pico-lock-07      -137.795mil   1094.488mil    -35.433mil    917.323mil    -35.433mil    917.323mil  B         90.00 504050-0791    
+R59        keystone5110       107.284mil   1124.016mil    107.284mil   1124.016mil    107.284mil   1150.787mil  T        270.00 Res3           
+R61        keystone5110         53.15mil   1124.016mil      53.15mil   1124.016mil      53.15mil   1150.787mil  T        270.00 Res3           
+R11        0402               955.709mil    -62.992mil    955.709mil    -62.992mil    955.709mil    -82.677mil  T         90.00 Res3           
+C183       CAPC0402(1005)_N    891.732mil   -259.842mil    891.732mil   -259.842mil    915.354mil   -259.842mil  T        180.00 100 nF         
+C171       CAPC0402(1005)_N    587.598mil   -490.158mil    587.598mil   -490.158mil     611.22mil   -490.158mil  B        180.00 100 nF         
+C170       CAPC0402(1005)_N    587.598mil   -523.622mil    587.598mil   -523.622mil     611.22mil   -523.622mil  B        180.00 100 nF         
+U20        MSOP-8             482.283mil   -542.828mil    482.283mil   -542.828mil    443.897mil   -456.214mil  B        270.00 AD8418WBRMZ    
+R150       RESC0402(1005)_N    587.598mil    -592.52mil    587.598mil    -592.52mil     611.22mil    -592.52mil  B        180.00 100K           
+R168       RESC2012_Wide      373.031mil   -542.828mil    373.031mil   -542.828mil    373.031mil   -568.419mil  B         90.00 0.005R         
+C168       CAPC0402(1005)_N    587.598mil   -557.087mil    587.598mil   -557.087mil    563.976mil   -557.087mil  B        360.00 100 nF         
+Q27        SOT-143            869.095mil    -25.591mil    869.095mil    -25.591mil    839.567mil    -68.898mil  T        360.00 MIC811SUY      
+R193       0402               955.709mil   -161.417mil    955.709mil   -161.417mil    955.709mil   -141.732mil  T        270.00 Res3           
+R66        RESC0402(1005)_N   1476.181mil        572mil   1476.181mil        572mil   1499.803mil        572mil  T        180.00 4R7            
+R60        RESC0402(1005)_N       1626mil        572mil       1626mil        572mil   1649.622mil        572mil  T        180.00 200K           
+P6         pico-lock-08-W    -137.795mil  -1066.929mil    -35.433mil   -860.236mil    -35.433mil   -860.236mil  T        270.00 504050-0891    
+C191       0402               389.764mil   1356.299mil    389.764mil   1356.299mil    409.449mil   1356.299mil  B        180.00 Cap Semi       
+C192       CAPC0805(2012)_N        677mil       -590mil        677mil       -590mil        677mil   -552.598mil  B        270.00 1uF            
+C193       CAPC0805(2012)_N   1908.606mil    251.969mil   1908.606mil    251.969mil   1908.606mil    214.567mil  B         90.00 1uF            
+C194       CAPC0805(2012)_N    1664.37mil   1002.952mil    1664.37mil   1002.952mil    1664.37mil   1040.354mil  B        270.00 1uF            
+Q28        SOT-323               1626mil        659mil       1626mil        659mil   1600.409mil    621.598mil  T        360.00 2N7002W        
+R1         keystone5110      2666.338mil    740.158mil   2666.338mil    740.158mil   2639.567mil    740.158mil  B        360.00 Res3           
+R4         keystone5110      2666.338mil    812.008mil   2666.338mil    812.008mil   2639.567mil    812.008mil  B        360.00 Res3           
+R38        keystone5110       2013.78mil    866.142mil    2013.78mil    866.142mil   1987.008mil    866.142mil  B        360.00 Res3           
+

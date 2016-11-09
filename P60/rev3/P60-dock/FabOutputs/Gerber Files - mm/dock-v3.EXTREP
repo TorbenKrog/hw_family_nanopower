@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: dock-v3.GBR   09-11-2016  10:32:09
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                L1                                      
+.G1                 L2 (mix)                                
+.G2                 L3 (GND)                                
+.G3                 L4 (signal)                             
+.G4                 L5 (signal)                             
+.G5                 L6 (PWR)                                
+.G6                 L7 (GND)                                
+.G7                 L8 (signal)                             
+.G8                 L9 (signal)                             
+.G9                 L10 (PWR)                               
+.G10                L11 (mix)                               
+.GBL                L12                                     
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GM4                Outline (Mechanical 4)                  
+.GM5                Logo-Text Top (Mechanical 5)            
+.GM6                Logo and Text Bot (Mechanical 6)        
+------------------------------------------------------------------------------------------
