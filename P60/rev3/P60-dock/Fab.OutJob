@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Fab.OutJob
 Description=
-TargetOutputMedium=Folder Structure
+TargetOutputMedium=INV
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
@@ -44,7 +44,7 @@ OutputName1=Gerber Files - in
 OutputCategory1=Fabrication
 OutputDocumentPath1=
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=0
 OutputEnabled1_OutputMedium3=1
@@ -60,7 +60,7 @@ OutputName2=Pick and place files (Standard) - in
 OutputCategory2=Assembly
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=1
+OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=3
@@ -76,7 +76,7 @@ OutputName3=Bill of Materials (Standard)
 OutputCategory3=Report
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=4
@@ -91,21 +91,21 @@ Configuration3_Item1=CaptionAsName
 Configuration3_Name2=Filter
 Configuration3_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration3_Name3=General
-Configuration3_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1667|FormHeight=954|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration3_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=2283|FormHeight=1331|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration3_Name4=GroupOrder
-Configuration3_Item4=Layer=True|Value=True|PartNumber=True|Comment=True|Footprint=True
+Configuration3_Item4=Layer=True|Value=True|PartNumber=True|Manufacturer number=True|Comment=True|Footprint=True
 Configuration3_Name5=PCBDocument
 Configuration3_Item5=FileName=dock-v3.PcbDoc
 Configuration3_Name6=SortOrder
 Configuration3_Item6=Layer=Up
 Configuration3_Name7=VisibleOrder
-Configuration3_Item7=Comment=217|Designator=247|Quantity=91|Footprint=106|PartNumber=106|Value=103|Layer=95
+Configuration3_Item7=Quantity=69|Designator=564|Supplier Part Number 4=55|Description=197|Manufacturer=90|Manufacturer number=79
 OutputType4=NC Drill
 OutputName4=NC Drill Files - in
 OutputCategory4=Fabrication
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=2
@@ -230,7 +230,7 @@ OutputName8=Gerber Files - mm
 OutputCategory8=Fabrication
 OutputDocumentPath8=
 OutputVariantName8=
-OutputEnabled8=1
+OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=5
@@ -246,7 +246,7 @@ OutputName9=NC Drill Files - mm
 OutputCategory9=Fabrication
 OutputDocumentPath9=
 OutputVariantName9=
-OutputEnabled9=1
+OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=0
 OutputEnabled9_OutputMedium3=6
@@ -262,7 +262,7 @@ OutputName10=Pick and place files (Standard) - mm
 OutputCategory10=Assembly
 OutputDocumentPath10=
 OutputVariantName10=
-OutputEnabled10=1
+OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=0
 OutputEnabled10_OutputMedium3=7
@@ -311,7 +311,7 @@ OutputName13=ODB++ Files
 OutputCategory13=Fabrication
 OutputDocumentPath13=
 OutputVariantName13=
-OutputEnabled13=1
+OutputEnabled13=0
 OutputEnabled13_OutputMedium1=0
 OutputEnabled13_OutputMedium2=0
 OutputEnabled13_OutputMedium3=8
@@ -368,8 +368,8 @@ OutputType15=BOM_PartType
 OutputName15=INV Bill of Materials
 OutputCategory15=Report
 OutputDocumentPath15=
-OutputVariantName15=
-OutputEnabled15=0
+OutputVariantName15=default_SMD
+OutputEnabled15=1
 OutputEnabled15_OutputMedium1=0
 OutputEnabled15_OutputMedium2=0
 OutputEnabled15_OutputMedium3=0
@@ -384,15 +384,15 @@ Configuration15_Item1=CaptionAsName
 Configuration15_Name2=Filter
 Configuration15_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration15_Name3=General
-Configuration15_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1667|FormHeight=954|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration15_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=2348|FormHeight=1331|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration15_Name4=GroupOrder
-Configuration15_Item4=Layer=True|Value=True|PartNumber=True|Comment=True|Footprint=True
+Configuration15_Item4=Supplier Part Number 4=True|Package=True|Manufacturer number=True
 Configuration15_Name5=PCBDocument
-Configuration15_Item5=FileName=daughterboard-pdu.PcbDoc
+Configuration15_Item5=FileName=dock-v3.PcbDoc
 Configuration15_Name6=SortOrder
 Configuration15_Item6=Layer=Up
 Configuration15_Name7=VisibleOrder
-Configuration15_Item7=PartNumber=106|Designator=179|Quantity=67|Footprint=75|Value=73|Description=121|Comment=100|Layer=57
+Configuration15_Item7=Quantity=93|Designator=173|Supplier Part Number 4=123|Description=255|Manufacturer=64|Manufacturer number=122|Value=68|Package=68|Vendor=68|Vendor Part Number=68
 OutputType16=Assembly
 OutputName16=Color Assembly 2
 OutputCategory16=Assembly
@@ -610,7 +610,7 @@ MarkNetLabels6=1
 MarkPortsId6=1
 ShowComponentParameters6=1
 GlobalBookmarks6=0
-OutputFilePath7=C:\Users\HPM\Hardware\nanopower\Sessenta\rev.2\daugterboard-pdu\Project Outputs for ax600\
+OutputFilePath7=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev3\P60-dock\Project Outputs for motherboard\
 ReleaseManaged7=1
 OutputBasePath7=Project Outputs for motherboard
 OutputPathMedia7=
@@ -643,7 +643,7 @@ RelativeOutputPath5=C:\Users\HPM\Hardware\nanopower\Sessenta\rev.2\daugterboard-
 OpenOutputs5=1
 RelativeOutputPath6=C:\Users\HPM\Hardware\nanopower\Sessenta\rev.2\daugterboard-pdu\Project Output\Fab.PDF
 OpenOutputs6=1
-RelativeOutputPath7=C:\Users\HPM\Hardware\nanopower\Sessenta\rev.2\daugterboard-pdu\Project Outputs for ax600\
+RelativeOutputPath7=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev3\P60-dock\Project Outputs for motherboard\
 OpenOutputs7=1
 AddToProject7=1
 TimestampFolder7=0
