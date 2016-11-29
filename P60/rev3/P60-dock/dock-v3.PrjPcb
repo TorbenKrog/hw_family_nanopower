@@ -468,7 +468,7 @@ UniqueID=E3B51B3D-5858-4D2B-935C-DB6FDCDE952E
 Description=default_SMD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=94
+VariationCount=98
 Variation1=Designator=R67|UniqueId=\AKYQHVLK|Kind=1|AlternatePart= 
 Variation2=Designator=R68|UniqueId=\GONNXDXO|Kind=1|AlternatePart= 
 Variation3=Designator=R18|UniqueId=\FEUSJXJG|Kind=1|AlternatePart= 
@@ -563,6 +563,10 @@ Variation91=Designator=R176|UniqueId=\LWTQBCRG\RDBXTEQM|Kind=0|AlternatePart=
 Variation92=Designator=C174|UniqueId=\LWTQBCRG\QPTJQXKD|Kind=1|AlternatePart= 
 Variation93=Designator=R149|UniqueId=\LWTQBCRG\IHGLXLYD|Kind=1|AlternatePart= 
 Variation94=Designator=C167|UniqueId=\LWTQBCRG\VUVJFBMQ|Kind=1|AlternatePart= 
+Variation95=Designator=C134|UniqueId=\YKVQKBGW|Kind=1|AlternatePart= 
+Variation96=Designator=C135|UniqueId=\LSFQXBLO|Kind=1|AlternatePart= 
+Variation97=Designator=R59|UniqueId=\TKCBTHMX|Kind=1|AlternatePart= 
+Variation98=Designator=R61|UniqueId=\GTYTJIMO|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
