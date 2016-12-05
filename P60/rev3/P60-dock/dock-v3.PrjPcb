@@ -3,8 +3,6 @@ Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
-ReleaseVaultGUID=
-ReleaseVaultName=
 ChannelDesignatorFormatString=$Component_$RoomName
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
@@ -33,6 +31,7 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=Project Outputs for motherboard
 LogFolderPath=
 ManagedProjectGUID=
+LinkedManagedProjectGUID=
 
 [Preferences]
 PrefsVaultGUID=
@@ -1777,7 +1776,7 @@ Variation476=Designator=C166_PSW3|UniqueId=\BFYPGMIN\FVJGNIXR|Kind=1|AlternatePa
 Variation477=Designator=R186|UniqueId=\KSLWLTBD\GYMPMNCW|Kind=1|AlternatePart= 
 Variation478=Designator=R185|UniqueId=\KSLWLTBD\BWSFLXJO|Kind=1|AlternatePart= 
 Variation479=Designator=R187|UniqueId=\KSLWLTBD\RCQDEPAN|Kind=1|AlternatePart= 
-Variation480=Designator=R189|UniqueId=\KSLWLTBD\WUHRFRPY|Kind=2|AlternatePart=8M87|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0032-1|AltLibLink_DesignItemID=CMP-009-0032-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=E598DFA0-34D0-42F2-A7C6-0223F9DF01A4|AltLibLink_ItemGUID=11B0EF10-2385-4FAA-AA3E-07A50121E551|AltLibLink_RevisionGUID=0BC5F998-93D8-46A0-B02B-517E9396ACE5|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+Variation480=Designator=R189|UniqueId=\KSLWLTBD\WUHRFRPY|Kind=2|AlternatePart=8M87|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0032-1|AltLibLink_DesignItemID=CMP-009-0032-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=E598DFA0-34D0-42F2-A7C6-0223F9DF01A4|AltLibLink_ItemGUID=11B0EF10-2385-4FAA-AA3E-07A50121E551|AltLibLink_RevisionGUID=0BC5F998-93D8-46A0-B02B-517E9396ACE5|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue=8M87
 ParamDesignator1=R189
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
@@ -1813,7 +1812,7 @@ ParamDesignator16=R189
 ParamVariation17=ParameterName=Value|VariantValue= 
 ParamDesignator17=R189
 Variation481=Designator=C168|UniqueId=\LWTQBCRG\BGFSGQML|Kind=1|AlternatePart= 
-Variation482=Designator=R190|UniqueId=\KSLWLTBD\ODDRUQHM|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Yageo$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=40402562|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+Variation482=Designator=R190|UniqueId=\KSLWLTBD\ODDRUQHM|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Yageo$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=40402562|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation18=ParameterName=Comment|VariantValue==Value
 ParamDesignator18=R190
 ParamVariation19=ParameterName=Component Kind|VariantValue=Standard
@@ -1867,7 +1866,7 @@ ParamDesignator42=R190
 Variation483=Designator=R146_PSW3|UniqueId=\BFYPGMIN\NUUJRTIF|Kind=1|AlternatePart= 
 Variation484=Designator=R176|UniqueId=\LWTQBCRG\RDBXTEQM|Kind=1|AlternatePart= 
 Variation485=Designator=R194|UniqueId=\ANJURCAH\GLNXHOHS|Kind=1|AlternatePart= 
-Variation486=Designator=R191|UniqueId=\KSLWLTBD\WVXCGTML|Kind=2|AlternatePart=8M87|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0032-1|AltLibLink_DesignItemID=CMP-009-0032-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=E598DFA0-34D0-42F2-A7C6-0223F9DF01A4|AltLibLink_ItemGUID=11B0EF10-2385-4FAA-AA3E-07A50121E551|AltLibLink_RevisionGUID=0BC5F998-93D8-46A0-B02B-517E9396ACE5|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+Variation486=Designator=R191|UniqueId=\KSLWLTBD\WVXCGTML|Kind=2|AlternatePart=8M87|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0032-1|AltLibLink_DesignItemID=CMP-009-0032-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=E598DFA0-34D0-42F2-A7C6-0223F9DF01A4|AltLibLink_ItemGUID=11B0EF10-2385-4FAA-AA3E-07A50121E551|AltLibLink_RevisionGUID=0BC5F998-93D8-46A0-B02B-517E9396ACE5|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation43=ParameterName=Comment|VariantValue=8M87
 ParamDesignator43=R191
 ParamVariation44=ParameterName=Component Kind|VariantValue=Standard
@@ -1913,7 +1912,7 @@ Variation494=Designator=R175|UniqueId=\LWTQBCRG\PSGLRHPH|Kind=1|AlternatePart=
 Variation495=Designator=R146_PSW1|UniqueId=\JIJALONP\NUUJRTIF|Kind=1|AlternatePart= 
 Variation496=Designator=R147_PSW5|UniqueId=\KISFIDFD\BCKGIJYB|Kind=1|AlternatePart= 
 Variation497=Designator=R151|UniqueId=\LWTQBCRG\TSXLQSKV|Kind=1|AlternatePart= 
-Variation498=Designator=R192|UniqueId=\KSLWLTBD\SNSAPLND|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Yageo$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=40402562|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+Variation498=Designator=R192|UniqueId=\KSLWLTBD\SNSAPLND|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Yageo$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=40402562|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation60=ParameterName=Comment|VariantValue==Value
 ParamDesignator60=R192
 ParamVariation61=ParameterName=Component Kind|VariantValue=Standard
@@ -2044,7 +2043,7 @@ Variation575=Designator=D5|UniqueId=\ANJURCAH\WVWBPPPT|Kind=1|AlternatePart=
 Variation576=Designator=D4|UniqueId=\ANJURCAH\WROOCRDW|Kind=1|AlternatePart= 
 Variation577=Designator=R21|UniqueId=\QTHOMNWP\SOAFERTC|Kind=1|AlternatePart= 
 Variation578=Designator=D10_PSW1|UniqueId=\JIJALONP\MQNJJVWA|Kind=1|AlternatePart= 
-Variation579=Designator=C174|UniqueId=\LWTQBCRG\QPTJQXKD|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Cap_Murata$|AltLibLink_SymbolReference=Capacitor np|AltLibLink_DesignItemID=10402463|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Cap_Murata$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=False
+Variation579=Designator=C174|UniqueId=\LWTQBCRG\QPTJQXKD|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Cap_Murata$|AltLibLink_SymbolReference=Capacitor np|AltLibLink_DesignItemID=10402463|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Cap_Murata$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation85=ParameterName=Comment|VariantValue==Value
 ParamDesignator85=C174
 ParamVariation86=ParameterName=Component Kind|VariantValue=Standard
@@ -2552,7 +2551,7 @@ Variation372=Designator=D6|UniqueId=\LPQJNEOY|Kind=1|AlternatePart=
 Variation373=Designator=P3|UniqueId=\XSOXKGAU|Kind=1|AlternatePart= 
 Variation374=Designator=Q20_PSW1|UniqueId=\JIJALONP\RUSNRVFK|Kind=1|AlternatePart= 
 Variation375=Designator=P10|UniqueId=\DYBKLOFA|Kind=1|AlternatePart= 
-Variation376=Designator=R192|UniqueId=\KSLWLTBD\SNSAPLND|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Yageo$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=40402526|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+Variation376=Designator=R192|UniqueId=\KSLWLTBD\SNSAPLND|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Yageo$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=40402526|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=R192
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
@@ -2819,7 +2818,7 @@ Variation589=Designator=R136_VCC_SEL_X2|UniqueId=\WYGSUESM\UUFRNMCD|Kind=1|Alter
 Variation590=Designator=R34|UniqueId=\QTHOMNWP\WPRJBBOD|Kind=1|AlternatePart= 
 Variation591=Designator=R53|UniqueId=\IUFDMQTQ|Kind=1|AlternatePart= 
 Variation592=Designator=R30|UniqueId=\BSURRSKT\MFKAOYSV|Kind=1|AlternatePart= 
-Variation593=Designator=R191|UniqueId=\KSLWLTBD\WVXCGTML|Kind=2|AlternatePart=9M31|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0030-1|AltLibLink_DesignItemID=CMP-009-0030-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=E598DFA0-34D0-42F2-A7C6-0223F9DF01A4|AltLibLink_ItemGUID=2B12E089-2F0D-4F40-B604-3AA86344BE73|AltLibLink_RevisionGUID=A89D6447-2EFF-459B-B25C-73B8A0B92DF7|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+Variation593=Designator=R191|UniqueId=\KSLWLTBD\WVXCGTML|Kind=2|AlternatePart=9M31|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0030-1|AltLibLink_DesignItemID=CMP-009-0030-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=E598DFA0-34D0-42F2-A7C6-0223F9DF01A4|AltLibLink_ItemGUID=2B12E089-2F0D-4F40-B604-3AA86344BE73|AltLibLink_RevisionGUID=A89D6447-2EFF-459B-B25C-73B8A0B92DF7|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation26=ParameterName=Comment|VariantValue=9M31
 ParamDesignator26=R191
 ParamVariation27=ParameterName=Component Kind|VariantValue=Standard
@@ -3655,403 +3654,35 @@ Variation643=Designator=D2|UniqueId=\ANJURCAH\OVSKGCPY|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-dock-v3.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for motherboard\BOM\Bill of Materials from GS template-dock-v3(default_SMD).xls
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for motherboard\BOM\Bill of Materials from GS template-dock-v3(Mech).xls
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for motherboard\Board Information - dock-v3.html
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for motherboard\Design Rule Check - dock-v3.html
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=FabOutputs\NC Drill Files - in\dock-v3.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=FabOutputs\NC Drill Files - mm\dock-v3.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.G1
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.G1
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.G2
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.G2
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.G3
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.G3
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.G4
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.G4
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.G5
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.G5
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.G6
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.G6
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.G7
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.G7
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.G8
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.G8
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.G9
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.G9
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.G10
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.G10
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=FabOutputs\NC Drill Files - in\dock-v3.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=FabOutputs\NC Drill Files - mm\dock-v3.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.REP
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.REP
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=FabOutputs\ODB++ Files\dock-v3.REP
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=FabOutputs\Gerber Files - in\dock-v3.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=FabOutputs\Gerber Files - mm\dock-v3.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=FabOutputs\NC Drill Files - in\dock-v3.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=FabOutputs\NC Drill Files - mm\dock-v3.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=FabOutputs\NC Drill Files - in\dock-v3.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=FabOutputs\NC Drill Files - mm\dock-v3.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=FabOutputs\NC Drill Files - in\dock-v3.TX3
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=FabOutputs\NC Drill Files - mm\dock-v3.TX3
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=FabOutputs\NC Drill Files - in\dock-v3.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=FabOutputs\NC Drill Files - mm\dock-v3.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\bottompaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument67]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
-DItemRevisionGUID=
-
-[GeneratedDocument70]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill3\features
-DItemRevisionGUID=
-
-[GeneratedDocument71]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument72]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mechanical4\features
-DItemRevisionGUID=
-
-[GeneratedDocument73]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid1\features
-DItemRevisionGUID=
-
-[GeneratedDocument74]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid2\features
-DItemRevisionGUID=
-
-[GeneratedDocument75]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid3\features
-DItemRevisionGUID=
-
-[GeneratedDocument76]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid4\features
-DItemRevisionGUID=
-
-[GeneratedDocument77]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid5\features
-DItemRevisionGUID=
-
-[GeneratedDocument78]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid6\features
-DItemRevisionGUID=
-
-[GeneratedDocument79]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid7\features
-DItemRevisionGUID=
-
-[GeneratedDocument80]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid8\features
-DItemRevisionGUID=
-
-[GeneratedDocument81]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid9\features
-DItemRevisionGUID=
-
-[GeneratedDocument82]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\mid10\features
-DItemRevisionGUID=
-
-[GeneratedDocument83]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\top\features
-DItemRevisionGUID=
-
-[GeneratedDocument84]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\toppaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument85]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for motherboard\Bill of Materials\gs-bom-dock-v3-default_SMD.xls.xls
 DItemRevisionGUID=
 
-[GeneratedDocument86]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for motherboard\BOM\Import_to_inventory-dock-v3(default_SMD).txt
 DItemRevisionGUID=
 
-[GeneratedDocument87]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for motherboard\BOM\INV Bill of Materials-dock-v3(16V).xls
 DItemRevisionGUID=
 
-[GeneratedDocument88]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for motherboard\BOM\INV Bill of Materials-dock-v3(default_SMD).xls
 DItemRevisionGUID=
 
-[GeneratedDocument89]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for motherboard\BOM\INV Bill of Materials-dock-v3.xls
 DItemRevisionGUID=
 
-[GeneratedDocument90]
-DocumentPath=FabOutputs\ODB++ Files\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument91]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument92]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for motherboard\Net Status - dock-v3.html
-DItemRevisionGUID=
-
-[GeneratedDocument93]
-DocumentPath=FabOutputs\Pick and place files (Standard) - in\Pick Place for dock-v3.txt
-DItemRevisionGUID=
-
-[GeneratedDocument94]
-DocumentPath=FabOutputs\Pick and place files (Standard) - mm\Pick Place for dock-v3.txt
-DItemRevisionGUID=
-
-[GeneratedDocument95]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument96]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument97]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
-DItemRevisionGUID=
-
-[GeneratedDocument98]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
-DItemRevisionGUID=
-
-[GeneratedDocument99]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill3\tools
-DItemRevisionGUID=
-
-[GeneratedDocument100]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -4067,9 +3698,9 @@ Name=Default Configuration
 ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
-CurrentRevision=
 Variant=
 OutputJobsCount=0
+ContentTypeGUID=
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -4136,16 +3767,101 @@ OutputName4=XSpice Netlist
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=SIMetrixNetlist
-OutputName5=SIMetrix
+OutputType5=CadnetixNetlist
+OutputName5=Cadnetix Netlist
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=SIMPLISNetlist
-OutputName6=SIMPLIS
+OutputType6=CalayNetlist
+OutputName6=Calay Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=EDIF
+OutputName7=EDIF for PCB
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=EESofNetlist
+OutputName8=EESof Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=IntergraphNetlist
+OutputName9=Intergraph Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=MentorBoardStationNetlist
+OutputName10=Mentor BoardStation Netlist
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MultiWire
+OutputName11=MultiWire
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=OrCadPCB2Netlist
+OutputName12=Orcad/PCB2 Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=PADSNetlist
+OutputName13=PADS ASCII Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Pcad
+OutputName14=Pcad for PCB
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=PCADnltNetlist
+OutputName15=PCADnlt Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Protel2Netlist
+OutputName16=Protel2 Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=ProtelNetlist
+OutputName17=Protel
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=RacalNetlist
+OutputName18=Racal Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=RINFNetlist
+OutputName19=RINF Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=SciCardsNetlist
+OutputName20=SciCards Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=TangoNetlist
+OutputName21=Tango Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=TelesisNetlist
+OutputName22=Telesis Netlist
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=WireListNetlist
+OutputName23=WireList Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -4157,16 +3873,6 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -4343,6 +4049,12 @@ OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
 PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType20=PCBDrawing
+OutputName20=Draftsman
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -4729,6 +4441,42 @@ OutputName4=Export STEP
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
+OutputType5=ExportPARASOLID
+OutputName5=Export PARASOLID
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=RICOH Aficio MP C4000
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [Modification Levels]
 Type1=1
@@ -4811,6 +4559,16 @@ Type77=1
 Type78=1
 Type79=1
 Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
 
 [Difference Levels]
 Type1=1
@@ -4858,6 +4616,10 @@ Type42=1
 Type43=1
 Type44=0
 Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
 
 [Electrical Rules Check]
 Type1=1
@@ -4971,6 +4733,8 @@ Type108=2
 Type109=1
 Type110=0
 Type111=1
+Type112=1
+Type113=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
