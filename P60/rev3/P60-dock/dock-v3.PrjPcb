@@ -3669,30 +3669,38 @@ DocumentPath=Project Outputs for motherboard\Board Information - dock-v3.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for motherboard\Design Rule Check - dock-v3.html
+DocumentPath=Project Outputs for motherboard\BOM\BOM Bottom-dock-v3(default_SMD).xls
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for motherboard\Bill of Materials\gs-bom-dock-v3-default_SMD.xls.xls
+DocumentPath=Project Outputs for motherboard\BOM\BOM Top-dock-v3(default_SMD).xls
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for motherboard\BOM\Import_to_inventory-dock-v3(default_SMD).txt
+DocumentPath=Project Outputs for motherboard\Design Rule Check - dock-v3.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for motherboard\BOM\INV Bill of Materials-dock-v3(16V).xls
+DocumentPath=Project Outputs for motherboard\Bill of Materials\gs-bom-dock-v3-default_SMD.xls.xls
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for motherboard\BOM\INV Bill of Materials-dock-v3(default_SMD).xls
+DocumentPath=Project Outputs for motherboard\BOM\Import_to_inventory-dock-v3(default_SMD).txt
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for motherboard\BOM\INV Bill of Materials-dock-v3.xls
+DocumentPath=Project Outputs for motherboard\BOM\INV Bill of Materials-dock-v3(16V).xls
 DItemRevisionGUID=
 
 [GeneratedDocument8]
+DocumentPath=Project Outputs for motherboard\BOM\INV Bill of Materials-dock-v3(default_SMD).xls
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for motherboard\BOM\INV Bill of Materials-dock-v3.xls
+DItemRevisionGUID=
+
+[GeneratedDocument10]
 DocumentPath=Project Outputs for motherboard\Net Status - dock-v3.html
 DItemRevisionGUID=
 
