@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Fab.OutJob
 Description=
-TargetOutputMedium=INV
+TargetOutputMedium=3D PDF
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=RICOH Aficio MP C4000
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -138,7 +138,7 @@ OutputType5=Assembly
 OutputName5=BW Assembly Drawings
 OutputCategory5=Assembly
 OutputDocumentPath5=
-OutputVariantName5=default_SMD
+OutputVariantName5=
 OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
@@ -389,14 +389,14 @@ OutputName15=INV Bill of Materials
 OutputCategory15=Report
 OutputDocumentPath15=
 OutputVariantName15=default_SMD
-OutputEnabled15=1
+OutputEnabled15=0
 OutputEnabled15_OutputMedium1=0
 OutputEnabled15_OutputMedium2=0
 OutputEnabled15_OutputMedium3=0
 OutputEnabled15_OutputMedium4=0
 OutputEnabled15_OutputMedium5=0
 OutputEnabled15_OutputMedium6=0
-OutputEnabled15_OutputMedium7=1
+OutputEnabled15_OutputMedium7=3
 OutputEnabled15_OutputMedium8=0
 OutputEnabled15_OutputMedium9=0
 OutputEnabled15_OutputMedium10=0
@@ -583,7 +583,7 @@ OutputName20=PDF3D
 OutputCategory20=Documentation
 OutputDocumentPath20=dock-v3.PcbDoc
 OutputVariantName20=default_SMD
-OutputEnabled20=0
+OutputEnabled20=1
 OutputEnabled20_OutputMedium1=0
 OutputEnabled20_OutputMedium2=0
 OutputEnabled20_OutputMedium3=0
@@ -603,14 +603,14 @@ OutputName21=BOM Top
 OutputCategory21=Report
 OutputDocumentPath21=
 OutputVariantName21=default_SMD
-OutputEnabled21=1
+OutputEnabled21=0
 OutputEnabled21_OutputMedium1=0
 OutputEnabled21_OutputMedium2=0
 OutputEnabled21_OutputMedium3=0
 OutputEnabled21_OutputMedium4=0
 OutputEnabled21_OutputMedium5=0
 OutputEnabled21_OutputMedium6=0
-OutputEnabled21_OutputMedium7=2
+OutputEnabled21_OutputMedium7=1
 OutputEnabled21_OutputMedium8=0
 OutputEnabled21_OutputMedium9=0
 OutputEnabled21_OutputMedium10=0
@@ -623,11 +623,11 @@ Configuration21_Item2=545046300E5446696C74657257726170706572000D46696C7465722E41
 Configuration21_Name3=General
 Configuration21_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=2348|FormHeight=1323|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration21_Name4=GroupOrder
-Configuration21_Item4=Supplier Part Number 4=True|Package=True|Manufacturer number=True
+Configuration21_Item4=
 Configuration21_Name5=PCBDocument
 Configuration21_Item5=FileName=dock-v3.PcbDoc
 Configuration21_Name6=SortOrder
-Configuration21_Item6=Layer=Up
+Configuration21_Item6=Designator=Up
 Configuration21_Name7=VisibleOrder
 Configuration21_Item7=Quantity=93|Designator=173|Supplier Part Number 4=123|Description=255|Manufacturer=64|Manufacturer number=122|Value=68|Package=68|Layer=68
 OutputType22=BOM_PartType
@@ -635,14 +635,14 @@ OutputName22=BOM Bottom
 OutputCategory22=Report
 OutputDocumentPath22=
 OutputVariantName22=default_SMD
-OutputEnabled22=1
+OutputEnabled22=0
 OutputEnabled22_OutputMedium1=0
 OutputEnabled22_OutputMedium2=0
 OutputEnabled22_OutputMedium3=0
 OutputEnabled22_OutputMedium4=0
 OutputEnabled22_OutputMedium5=0
 OutputEnabled22_OutputMedium6=0
-OutputEnabled22_OutputMedium7=3
+OutputEnabled22_OutputMedium7=2
 OutputEnabled22_OutputMedium8=0
 OutputEnabled22_OutputMedium9=0
 OutputEnabled22_OutputMedium10=0
@@ -655,11 +655,11 @@ Configuration22_Item2=545046300E5446696C74657257726170706572000D46696C7465722E41
 Configuration22_Name3=General
 Configuration22_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=2348|FormHeight=1323|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration22_Name4=GroupOrder
-Configuration22_Item4=Supplier Part Number 4=True|Package=True|Manufacturer number=True
+Configuration22_Item4=
 Configuration22_Name5=PCBDocument
 Configuration22_Item5=FileName=dock-v3.PcbDoc
 Configuration22_Name6=SortOrder
-Configuration22_Item6=Layer=Up
+Configuration22_Item6=Manufacturer number=Up
 Configuration22_Name7=VisibleOrder
 Configuration22_Item7=Quantity=93|Designator=173|Supplier Part Number 4=123|Description=255|Manufacturer=64|Manufacturer number=122|Value=68|Package=68|Layer=68
 
