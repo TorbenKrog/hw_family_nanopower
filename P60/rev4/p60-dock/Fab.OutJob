@@ -602,7 +602,7 @@ Configuration19_Item7=Designator=112|Comment=100|Description=100|Manufacturer=10
 OutputType20=PDF3D
 OutputName20=PDF3D
 OutputCategory20=Documentation
-OutputDocumentPath20=dock-v3.PcbDoc
+OutputDocumentPath20=p60-dock.PcbDoc
 OutputVariantName20=default_SMD
 OutputEnabled20=0
 OutputEnabled20_OutputMedium1=0
