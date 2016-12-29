@@ -3773,6 +3773,10 @@ Variation642=Designator=C172|UniqueId=\LWTQBCRG\ITAFYXPE|Kind=1|AlternatePart=
 Variation643=Designator=D2|UniqueId=\ANJURCAH\OVSKGCPY|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for motherboard\Design Rule Check - p60-dock.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=C:\Program Files (x86)\Altium Designer Summer 09\Library\*.*
 IncludeSubFolders=1
@@ -3891,7 +3895,7 @@ OutputDefault3=0
 Name=Documentation Outputs
 Description=
 TargetPrinter=Virtual Printer
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+PrinterOptions=Record=PrinterOptions|Copies=3|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev4\p60-dock\p60-dock.PcbDoc
@@ -3928,7 +3932,7 @@ OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
 OutputType5=Schematic Print
 OutputName5=Schematic Prints
-OutputDocumentPath5=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev3\P60-dock\MCU.SchDoc
+OutputDocumentPath5=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev4\p60-dock\acu_bpsw.SchDoc
 OutputVariantName5=
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
