@@ -747,6 +747,22 @@ Variation65=Designator=Rbatm|UniqueId=\MBGGRQSP\FJQBEAEN|Kind=1|AlternatePart=
 Variation66=Designator=R1|UniqueId=\MBGGRQSP\CLLQCUMK|Kind=1|AlternatePart= 
 ParamVariationCount=2
 
+[GeneratedDocument1]
+DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_default_SMD.xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P31U_(8V_2S-4P and 16V_4S-2P).xls
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P60_(8V_2S-4P and 16V_4S-2P).xls
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_P60_(32V_8S-2P).xls
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\GitHub\Hardware\library\altium\*.*
 IncludeSubFolders=1
