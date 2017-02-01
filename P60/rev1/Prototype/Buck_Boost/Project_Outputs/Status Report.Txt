@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [default_SMD] of PCB Document [Buck_Boost.PCBDOC]
+   Generated File[Buck_Boost_default_SMD.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:59:22 On 04-01-2017
