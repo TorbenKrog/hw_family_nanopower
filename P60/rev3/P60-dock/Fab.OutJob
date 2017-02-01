@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Fab.OutJob
 Description=
-TargetOutputMedium=BOM_TOP_BOTTOM
+TargetOutputMedium=EMS_BOM
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
@@ -571,7 +571,7 @@ OutputName19=EMS_BOM
 OutputCategory19=Report
 OutputDocumentPath19=
 OutputVariantName19=default_SMD
-OutputEnabled19=0
+OutputEnabled19=1
 OutputEnabled19_OutputMedium1=0
 OutputEnabled19_OutputMedium2=0
 OutputEnabled19_OutputMedium3=0
@@ -592,11 +592,11 @@ Configuration19_Item2=545046300E5446696C74657257726170706572000D46696C7465722E41
 Configuration19_Name3=General
 Configuration19_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\GOMSpace\dev\Hardware\library\gomspace\template\EMS_BOM.xlt|BatchMode=5|FormWidth=2038|FormHeight=1331|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration19_Name4=GroupOrder
-Configuration19_Item4=Supplier Part Number 4=True|Part Number=True
+Configuration19_Item4=Manufacturer number=True
 Configuration19_Name5=OutputConfigurationParameter1
 Configuration19_Item5=?
 Configuration19_Name6=SortOrder
-Configuration19_Item6=Designator=Up|Comment=Up|Footprint=Up
+Configuration19_Item6=Manufacturer number=Up
 Configuration19_Name7=VisibleOrder
 Configuration19_Item7=Designator=112|Comment=100|Description=100|Manufacturer=100|Manufacturer number=183|Part Number=83|Quantity=83|Supplier 4=83|Value=83|Supplier Part Number 4=83
 OutputType20=PDF3D
@@ -625,7 +625,7 @@ OutputName21=BOM Top
 OutputCategory21=Report
 OutputDocumentPath21=
 OutputVariantName21=default_SMD
-OutputEnabled21=1
+OutputEnabled21=0
 OutputEnabled21_OutputMedium1=0
 OutputEnabled21_OutputMedium2=0
 OutputEnabled21_OutputMedium3=0
@@ -658,7 +658,7 @@ OutputName22=BOM Bottom
 OutputCategory22=Report
 OutputDocumentPath22=
 OutputVariantName22=default_SMD
-OutputEnabled22=1
+OutputEnabled22=0
 OutputEnabled22_OutputMedium1=0
 OutputEnabled22_OutputMedium2=0
 OutputEnabled22_OutputMedium3=0
