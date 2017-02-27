@@ -17,12 +17,12 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Fab.OutJob
 Description=
-TargetOutputMedium=3D PDF
+TargetOutputMedium=PDF
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
 TargetPrinter=Virtual Printer
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
 OutputMedium1_Printer=
@@ -320,7 +320,7 @@ OutputDocumentPath12=
 OutputVariantName12=
 OutputEnabled12=0
 OutputEnabled12_OutputMedium1=0
-OutputEnabled12_OutputMedium2=1
+OutputEnabled12_OutputMedium2=0
 OutputEnabled12_OutputMedium3=0
 OutputEnabled12_OutputMedium4=0
 OutputEnabled12_OutputMedium5=0
@@ -604,7 +604,7 @@ OutputName20=PDF3D
 OutputCategory20=Documentation
 OutputDocumentPath20=p60-dock.PcbDoc
 OutputVariantName20=default_SMD
-OutputEnabled20=1
+OutputEnabled20=0
 OutputEnabled20_OutputMedium1=0
 OutputEnabled20_OutputMedium2=0
 OutputEnabled20_OutputMedium3=0
@@ -686,9 +686,30 @@ Configuration22_Name6=SortOrder
 Configuration22_Item6=Manufacturer number=Up
 Configuration22_Name7=VisibleOrder
 Configuration22_Item7=Quantity=93|Designator=173|Supplier Part Number 4=123|Description=255|Manufacturer=64|Manufacturer number=122|Value=68|Package=68|Layer=68
+OutputType23=Schematic Print
+OutputName23=GS Schematic Prints
+OutputCategory23=Documentation
+OutputDocumentPath23=[Project Physical Documents]
+OutputVariantName23=default_SMD
+OutputEnabled23=1
+OutputEnabled23_OutputMedium1=0
+OutputEnabled23_OutputMedium2=1
+OutputEnabled23_OutputMedium3=0
+OutputEnabled23_OutputMedium4=0
+OutputEnabled23_OutputMedium5=0
+OutputEnabled23_OutputMedium6=0
+OutputEnabled23_OutputMedium7=0
+OutputEnabled23_OutputMedium8=0
+OutputEnabled23_OutputMedium9=0
+OutputEnabled23_OutputMedium10=0
+OutputEnabled23_OutputMedium11=0
+OutputDefault23=0
+PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.01|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
+Configuration23_Name1=OutputConfigurationParameter1
+Configuration23_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\HPM\Hardware\nanopower\Sessenta\rev.2\sessenta-motherboard\Project Outputs for motherboard\FabOutputs\
+OutputFilePath2=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev4\p60-dock\Project Outputs for motherboard\FabOutputs\
 ReleaseManaged2=0
 OutputBasePath2=Project Outputs for motherboard\
 OutputPathMedia2=FabOutputs
@@ -700,7 +721,7 @@ OutputFileName2=Fab.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
-OpenOutput2=0
+OpenOutput2=1
 PromptOverwrite2=1
 PublishMethod2=1
 ZoomLevel2=50
@@ -900,8 +921,8 @@ OutputFileNameSpecial11=
 OpenOutput11=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\HPM\Hardware\nanopower\Sessenta\rev.2\sessenta-motherboard\Project Outputs for motherboard\FabOutputs\
-OpenOutputs2=0
+RelativeOutputPath2=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev4\p60-dock\Project Outputs for motherboard\FabOutputs\
+OpenOutputs2=1
 RelativeOutputPath3=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev4\p60-dock\.\FabOutputs\
 OpenOutputs3=0
 AddToProject3=1
