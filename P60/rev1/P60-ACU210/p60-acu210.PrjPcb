@@ -123,40 +123,6 @@ GenerateClassCluster=0
 DocumentUniqueId=RIGBFUNS
 
 [Document6]
-DocumentPath=p60-acu210.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WAWBCYVY
-
-[Document7]
-DocumentPath=p60-acu210.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SLNKNBWT
-
-[Document8]
 DocumentPath=Gate_voltage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKCMQIKI
 
-[Document9]
+[Document7]
 DocumentPath=Buck_Boost.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -262,7 +228,7 @@ OutputDir=Project Outputs for ax600
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000
+TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=XSpiceNetlist
 OutputName1=XSpice Netlist
@@ -274,116 +240,106 @@ OutputName2=PCAD Netlist
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=SIMetrixNetlist
-OutputName3=SIMetrix
+OutputType3=CadnetixNetlist
+OutputName3=Cadnetix Netlist
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=SIMPLISNetlist
-OutputName4=SIMPLIS
+OutputType4=CalayNetlist
+OutputName4=Calay Netlist
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=CadnetixNetlist
-OutputName5=Cadnetix Netlist
+OutputType5=EDIF
+OutputName5=EDIF for PCB
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=CalayNetlist
-OutputName6=Calay Netlist
+OutputType6=EESofNetlist
+OutputName6=EESof Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=EDIF
-OutputName7=EDIF for PCB
+OutputType7=IntergraphNetlist
+OutputName7=Intergraph Netlist
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=EESofNetlist
-OutputName8=EESof Netlist
+OutputType8=MentorBoardStationNetlist
+OutputName8=Mentor BoardStation Netlist
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=IntergraphNetlist
-OutputName9=Intergraph Netlist
+OutputType9=MultiWire
+OutputName9=MultiWire
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MentorBoardStationNetlist
-OutputName10=Mentor BoardStation Netlist
+OutputType10=OrCadPCB2Netlist
+OutputName10=Orcad/PCB2 Netlist
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=MultiWire
-OutputName11=MultiWire
+OutputType11=PADSNetlist
+OutputName11=PADS ASCII Netlist
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=OrCadPCB2Netlist
-OutputName12=Orcad/PCB2 Netlist
+OutputType12=Pcad
+OutputName12=Pcad for PCB
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=PADSNetlist
-OutputName13=PADS ASCII Netlist
+OutputType13=PCADnltNetlist
+OutputName13=PCADnlt Netlist
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-OutputType14=Pcad
-OutputName14=Pcad for PCB
+OutputType14=Protel2Netlist
+OutputName14=Protel2 Netlist
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-OutputType15=PCADnltNetlist
-OutputName15=PCADnlt Netlist
+OutputType15=ProtelNetlist
+OutputName15=Protel
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-OutputType16=Protel2Netlist
-OutputName16=Protel2 Netlist
+OutputType16=RacalNetlist
+OutputName16=Racal Netlist
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-OutputType17=ProtelNetlist
-OutputName17=Protel
+OutputType17=RINFNetlist
+OutputName17=RINF Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=RacalNetlist
-OutputName18=Racal Netlist
+OutputType18=SciCardsNetlist
+OutputName18=SciCards Netlist
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=RINFNetlist
-OutputName19=RINF Netlist
+OutputType19=TangoNetlist
+OutputName19=Tango Netlist
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=SciCardsNetlist
-OutputName20=SciCards Netlist
+OutputType20=TelesisNetlist
+OutputName20=Telesis Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=TangoNetlist
-OutputName21=Tango Netlist
+OutputType21=WireListNetlist
+OutputName21=WireList Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=TelesisNetlist
-OutputName22=Telesis Netlist
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=WireListNetlist
-OutputName23=WireList Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000
+TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -392,16 +348,6 @@ OutputVariantName1=
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=AdvSimNetlistView|SimulationName=Mixed Sim|OldCfgLoaded=True|ProfileId=BQLDSFWP
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -526,17 +472,11 @@ OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Software Platform Print
-OutputName13=Software Platform Prints
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000
+TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -558,7 +498,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000
+TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Final
 OutputName1=Final Artwork Prints
@@ -636,7 +576,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000
+TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -697,7 +637,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000
+TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -877,7 +817,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000
+TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -916,7 +856,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000
+TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -967,7 +907,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000
+TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
