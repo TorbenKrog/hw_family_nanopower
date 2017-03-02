@@ -429,23 +429,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HGHJMWPG
 
 [Document24]
-DocumentPath=..\..\..\Sessenta\rev.2\sessenta-motherboard\mb-sessenta1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document25]
 DocumentPath=..\..\..\..\..\..\..\Public\Documents\Altium\AD16\Library\Miscellaneous Connectors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document25]
 DocumentPath=..\..\..\..\..\..\..\Public\Documents\Altium\AD16\Library\Miscellaneous Devices.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=..\..\..\..\..\..\..\Public\Documents\Altium\AD16\Library\Simulation\Simulation Math Function.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=..\..\..\..\..\..\..\Public\Documents\Altium\AD16\Library\Simulation\Simulation Pspice Functions.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=..\..\..\..\..\..\..\Public\Documents\Altium\AD16\Library\Simulation\Simulation Sources.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=..\..\..\..\..\..\..\Public\Documents\Altium\AD16\Library\Simulation\Simulation Special Function.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document30]
 DocumentPath=..\..\..\..\..\..\..\Public\Documents\Altium\AD16\Library\Simulation\Simulation Transmission Line.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document31]
 DocumentPath=p60-dock.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLMYGQTN
 
-[Document33]
+[Document32]
 DocumentPath=p60-dock.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -597,23 +580,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLTQTAXQ
-
-[Document34]
-DocumentPath=Gomspace.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=84975C07-3BC7-44AB-B721-5C36AC2D9A87
@@ -4520,327 +4486,35 @@ Variation682=Designator=R108|UniqueId=\LWTQBCRG\YOPKEDVB|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=FabOutputs\Bill of Materials (Standard)\Bill of Materials (Standard)-p60-dock(default_SMD).xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for motherboard\Design Rule Check - p60-dock.html
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for motherboard\BOM\EMS_BOM-p60-dock(8V).xls
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for motherboard\BOM\EMS_BOM-p60-dock(16V).xls
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for motherboard\BOM\EMS_BOM-p60-dock(32V).xls
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for motherboard\BOM\EMS_BOM-p60-dock(default_SMD).xls
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for motherboard\BOM\EMS_BOM-p60-dock(Mech).xls
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill3\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for motherboard\Bill of Materials\gs-bom-p60-dock-8V.xls.xls
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for motherboard\Bill of Materials\gs-bom-p60-dock-default_SMD.xls.xls
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=FabOutputs\ODB++ Files\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=FabOutputs\NC Drill Files - in\p60-dock.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=FabOutputs\NC Drill Files - mm\p60-dock.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.G1
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.G1
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.G2
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.G2
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.G3
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.G3
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.G4
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.G4
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.G5
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.G5
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.G6
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.G6
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.G7
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.G7
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.G8
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.G8
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.G9
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.G9
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.G10
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.G10
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=FabOutputs\NC Drill Files - in\p60-dock.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=FabOutputs\NC Drill Files - mm\p60-dock.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.REP
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.REP
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=FabOutputs\ODB++ Files\p60-dock.REP
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=FabOutputs\Gerber Files - in\p60-dock.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=FabOutputs\Gerber Files - mm\p60-dock.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=FabOutputs\NC Drill Files - in\p60-dock.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument67]
-DocumentPath=FabOutputs\NC Drill Files - mm\p60-dock.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=FabOutputs\NC Drill Files - in\p60-dock.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=FabOutputs\NC Drill Files - mm\p60-dock.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument70]
-DocumentPath=FabOutputs\NC Drill Files - in\p60-dock.TX3
-DItemRevisionGUID=
-
-[GeneratedDocument71]
-DocumentPath=FabOutputs\NC Drill Files - mm\p60-dock.TX3
-DItemRevisionGUID=
-
-[GeneratedDocument72]
-DocumentPath=FabOutputs\NC Drill Files - in\p60-dock.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument73]
-DocumentPath=FabOutputs\NC Drill Files - mm\p60-dock.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument74]
-DocumentPath=FabOutputs\Pick and place files (Standard) - in\Pick Place for p60-dock(default_SMD).txt
-DItemRevisionGUID=
-
-[GeneratedDocument75]
-DocumentPath=FabOutputs\Pick and place files (Standard) - mm\Pick Place for p60-dock(default_SMD).txt
-DItemRevisionGUID=
-
-[GeneratedDocument76]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument77]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument78]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
-DItemRevisionGUID=
-
-[GeneratedDocument79]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
-DItemRevisionGUID=
-
-[GeneratedDocument80]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill3\tools
-DItemRevisionGUID=
-
-[GeneratedDocument81]
-DocumentPath=FabOutputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -5580,6 +5254,46 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad SDT Schematic
+OutputName12=Orcad SDT Schematic (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Orcad v7 Capture Design
+OutputName13=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD ASCII
+OutputName14=P-CAD ASCII (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD V16 Schematic Design
+OutputName15=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Protel PCB 2.8 ASCII
+OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
