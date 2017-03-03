@@ -113,6 +113,22 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=CAM\ExportSTEP\Anode(default_smd).step
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=CAM\AutoCAD PCB\Anode.DWG
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=CAM\Bill of Materials\gs-bom-Anode-default_smd.xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=CAM\BOM\Import_to_inventory-Anode(default_smd).txt
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
