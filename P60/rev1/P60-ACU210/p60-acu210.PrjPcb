@@ -173,6 +173,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document9]
+DocumentPath=Gomspace_vault3.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=E58B5FB3-0E75-48E2-BF44-655014F9D357
 Description=NOR-FLASH variant
@@ -186,259 +203,387 @@ Variation4=Designator=C29|UniqueId=\CNYFFEYK|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for ax600\BOM\Bill of Materials-p60-acu210.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\eda\data
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ax600\Design Rule Check - p60-acu210.html
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\assembly_bot__mechanical_14_\features
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\assembly_top__mechanical_13_\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\dimension__mechanical_2_\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill1\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill2\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill3\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\courtyard_bot__mechanical_16_\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\hard_gold_bot__mechanical_8_\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\courtyard_top__mechanical_15_\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\hard_gold_top__mechanical_7_\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\dimension__mechanical_2_\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid-layer_1\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid-layer_2\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid-layer_3\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid-layer_4\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid-layer_5\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\fab_drawing__mechanical_3_\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid-layer_6\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\hard_gold_bot__mechanical_8_\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid-layer_7\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\hard_gold_top__mechanical_7_\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid-layer_8\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid-layer_9\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\logo_and_text_bot__mechanical_6_\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\mid-layer_10\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\outline__mechanical_4_\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_17\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for ax600\odb\matrix\matrix
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for ax600\p60-acu210-NonPlated.TXT
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for ax600\p60-acu210-Plated.TX1
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for ax600\p60-acu210-Plated.TX2
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_6\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for ax600\p60-acu210-Plated.TX3
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_7\features
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for ax600\p60-acu210-Plated.TXT
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_8\features
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for ax600\p60-acu210.DRR
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_9\features
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for ax600\p60-acu210.EXTREP
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_10\features
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for ax600\p60-acu210.G1
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\outline__mechanical_4_\features
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for ax600\p60-acu210.G2
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for ax600\p60-acu210.G3
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for ax600\p60-acu210.G4
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for ax600\p60-acu210.G5
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for ax600\p60-acu210.G6
+DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for ax600\p60-acu210.G7
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for ax600\p60-acu210.G8
+DocumentPath=Project_Outputs\NC Drill Files\p60-acu210_[No Variations]-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for ax600\p60-acu210.G9
+DocumentPath=Project_Outputs\NC Drill Files\p60-acu210_[No Variations]-Plated.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for ax600\p60-acu210.G10
+DocumentPath=Project_Outputs\NC Drill Files\p60-acu210_[No Variations]-Plated.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for ax600\p60-acu210.GBL
+DocumentPath=Project_Outputs\NC Drill Files\p60-acu210_[No Variations]-Plated.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for ax600\p60-acu210.GBP
+DocumentPath=Project_Outputs\NC Drill Files\p60-acu210_[No Variations]-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for ax600\p60-acu210.GM4
+DocumentPath=Project_Outputs\Generates pick and place files\p60-acu210_[No Variations].csv
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for ax600\p60-acu210.GM7
+DocumentPath=Project_Outputs\NC Drill Files\p60-acu210_[No Variations].DRR
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for ax600\p60-acu210.GM8
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for ax600\p60-acu210.GTL
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].G1
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for ax600\p60-acu210.GTP
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].G2
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for ax600\p60-acu210.LDP
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].G3
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for ax600\p60-acu210.REP
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].G4
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for ax600\p60-acu210.RUL
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].G5
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for ax600\Pick Place for p60-acu210.csv
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].G6
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\profile
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].G7
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\stephdr
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].G8
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill1\tools
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].G9
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill2\tools
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].G10
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill3\tools
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GBL
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for ax600\odb\steps\pcb\layers\drill\tools
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GBO
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GBP
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GBS
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GKO
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GM1
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GM2
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GM3
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GM4
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GM5
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GM6
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GM7
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GM8
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GM13
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GM14
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GM15
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GM16
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GM17
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GPB
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GPT
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GTO
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GTP
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].GTS
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project_Outputs\NC Drill Files\p60-acu210_[No Variations].LDP
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project_Outputs\ODB++ Files\p60-acu210_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project_Outputs\Gerber Files\p60-acu210_[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\tools
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -457,6 +602,7 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
+ConfigurationType=
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -501,7 +647,7 @@ OutputDir=Project Outputs for ax600
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
+TargetPrinter=RICOH Aficio MP C4000
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=XSpiceNetlist
 OutputName1=XSpice Netlist
@@ -608,11 +754,21 @@ OutputName21=WireList Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+OutputType22=SIMetrixNetlist
+OutputName22=SIMetrix
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=SIMPLISNetlist
+OutputName23=SIMPLIS
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
+TargetPrinter=RICOH Aficio MP C4000
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -621,6 +777,16 @@ OutputVariantName1=
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=AdvSimNetlistView|SimulationName=Mixed Sim|OldCfgLoaded=True|ProfileId=BQLDSFWP
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -745,11 +911,17 @@ OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Software Platform Print
+OutputName13=Software Platform Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
+TargetPrinter=RICOH Aficio MP C4000
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -771,7 +943,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
+TargetPrinter=RICOH Aficio MP C4000
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Final
 OutputName1=Final Artwork Prints
@@ -849,7 +1021,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
+TargetPrinter=RICOH Aficio MP C4000
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -862,13 +1034,17 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=Filter
 Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1448|FormHeight=976|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Public\Documents\Altium\AD17\Templates\BOM Manufacturer.XLT|BatchMode=5|FormWidth=1448|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=Value=True|Comment=True|Footprint=True
-Configuration1_Name5=SortOrder
-Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
-Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Comment=94|Description=94|Designator=94|Footprint=94|LibRef=94|Manufacture=78|PartNumber=135|Quantity=73|Value=72
+Configuration1_Name5=PCBDocument
+Configuration1_Item5=FileName=p60-acu210.PcbDoc
+Configuration1_Name6=PCBDocument2
+Configuration1_Item6=FileName=[PCB Document 1]
+Configuration1_Name7=SortOrder
+Configuration1_Item7=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name8=VisibleOrder
+Configuration1_Item8=Comment=94|Description=94|Designator=94|LibRef=94|Manufacture=78|PartNumber=135|Quantity=73|Value=72|Manufacturer=100|Manufacturer Number=100
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -910,7 +1086,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
+TargetPrinter=RICOH Aficio MP C4000
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1090,7 +1266,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
+TargetPrinter=RICOH Aficio MP C4000
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -1129,7 +1305,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
+TargetPrinter=RICOH Aficio MP C4000
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1180,7 +1356,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=NPIF43687 (HP Color LaserJet Pro M252dw)
+TargetPrinter=RICOH Aficio MP C4000
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files

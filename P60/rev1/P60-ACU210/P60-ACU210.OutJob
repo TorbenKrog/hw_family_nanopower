@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=P60-ACU210.OutJob
 Description=
-TargetOutputMedium=FAB Drawing
+TargetOutputMedium=BOM
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=RICOH Aficio MP C4000
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -35,6 +35,8 @@ OutputMedium4=Video
 OutputMedium4_Type=Multimedia
 OutputMedium5=FAB Drawing
 OutputMedium5_Type=Publish
+OutputMedium6=BOM
+OutputMedium6_Type=GeneratedFiles
 OutputType1=Gerber
 OutputName1=Gerber Files
 OutputCategory1=Fabrication
@@ -46,6 +48,7 @@ OutputEnabled1_OutputMedium2=0
 OutputEnabled1_OutputMedium3=1
 OutputEnabled1_OutputMedium4=0
 OutputEnabled1_OutputMedium5=0
+OutputEnabled1_OutputMedium6=0
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973832~1,16777217~1,16777226~1,16777220~1,16777222~1,16777218~1,16777224~1,16777225~1,16777219~1,16777221~1,16777223~1,16777227~1,16842751~1,16973833~1,16908292~1,16908295~1,16908296~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
@@ -60,6 +63,7 @@ OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=2
 OutputEnabled2_OutputMedium4=0
 OutputEnabled2_OutputMedium5=0
+OutputEnabled2_OutputMedium6=0
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes
@@ -74,6 +78,7 @@ OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=3
 OutputEnabled3_OutputMedium4=0
 OutputEnabled3_OutputMedium5=0
+OutputEnabled3_OutputMedium6=0
 OutputDefault3=0
 Configuration3_Name1=OutputConfigurationParameter1
 Configuration3_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Assembly Bot (Mechanical 14)=False|AddToAllPlots_Assembly Top (Mechanical 13)=False|AddToAllPlots_Courtyard Bot (Mechanical 16)=False|AddToAllPlots_Courtyard Top (Mechanical 15)=False|AddToAllPlots_Dimension (Mechanical 2)=False|AddToAllPlots_FAB Drawing (Mechanical 3)=False|AddToAllPlots_Hard Gold Bot (Mechanical 8)=False|AddToAllPlots_Hard Gold Top (Mechanical 7)=False|AddToAllPlots_Logo and Text Bot (Mechanical 6)=False|AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 9=False|AddToAllPlots_Outline (Mechanical 4)=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=True|LayerClassesPlot.Set= |ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=60|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=False|PlotBottomPastePlot=True|PlotBottomSolderPlot=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=True|PlotMechanical3Plot=False|PlotMechanical4Plot=True|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=True|PlotMechanical8Plot=True|PlotMechanical9Plot=False|PlotMidLayer10Plot=True|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=True|PlotMidLayer6Plot=True|PlotMidLayer7Plot=True|PlotMidLayer8Plot=True|PlotMidLayer9Plot=True|PlotTopLayerPlot=True|PlotTopOverlayPlot=False|PlotTopPastePlot=True|PlotTopSolderPlot=False|Record=ODBView
@@ -82,12 +87,13 @@ OutputName4=PCB Prints
 OutputCategory4=Documentation
 OutputDocumentPath4=p60-acu210.PcbDoc
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=0
 OutputEnabled4_OutputMedium4=0
 OutputEnabled4_OutputMedium5=1
+OutputEnabled4_OutputMedium6=0
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
 Configuration4_Name1=OutputConfigurationParameter1
@@ -116,6 +122,7 @@ OutputEnabled5_OutputMedium2=1
 OutputEnabled5_OutputMedium3=0
 OutputEnabled5_OutputMedium4=0
 OutputEnabled5_OutputMedium5=0
+OutputEnabled5_OutputMedium6=0
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
 Configuration5_Name1=OutputConfigurationParameter1
@@ -160,9 +167,26 @@ OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=4
 OutputEnabled6_OutputMedium4=0
 OutputEnabled6_OutputMedium5=0
+OutputEnabled6_OutputMedium6=0
 OutputDefault6=0
 Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Manufacturer number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37|Column#18=Name:Published,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#19=Name:High-Reliability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#20=Name:PackageVersion,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43|Column#21=Name:ComponentLink3Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#22=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#23=Name:Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57|Column#24=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53|Column#25=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54|Column#26=Name:Temparature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56|Column#27=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#28=Name:LatestRevisionNote,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34|Column#29=Name:Code_JEITA,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#30=Name:PowerWise,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#31=Name:Code_JEDEC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#32=Name:PinCount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#33=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52|Column#34=Name:Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44|Column#35=Name:Code_IEC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#36=Name:PartNumber,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#37=Name:Code_IPC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#38=Name:Part status,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#39=Name:ComponentLink4Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#40=Name:ComponentLink4URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#41=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#42=Name:DigiKeyPartNumber,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#43=Name:PackageDescription,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#44=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#45=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59|Column#46=Name:Symbol Name,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55|Column#47=Name:LatestRevisionDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#48=Name:PackageReference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#49=Name:Publisher,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#50=Name:ComponentLink3URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#51=Name:CompType,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#52=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#53=Name:PartId,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|Column#54=Name:PackageTopMarking,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#55=Name:Manufacture,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#56=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#57=Name:DatasheetVersion,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#58=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58|Column#59=Name:Old DB Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#60=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38
+OutputType7=BOM_PartType
+OutputName7=Bill of Materials
+OutputCategory7=Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputEnabled7=1
+OutputEnabled7_OutputMedium1=0
+OutputEnabled7_OutputMedium2=0
+OutputEnabled7_OutputMedium3=0
+OutputEnabled7_OutputMedium4=0
+OutputEnabled7_OutputMedium5=0
+OutputEnabled7_OutputMedium6=1
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration7_Name1=ColumnNameFormat
+Configuration7_Item1=CaptionAsName
 
 [PublishSettings]
 OutputFilePath2=N:\Kunder\GomSpace\Projects\P60-ACU210\Project Outputs for ax600\NanoMind_SuperIO_Assembly.PDF
@@ -269,6 +293,19 @@ ShowComponentParameters5=1
 GlobalBookmarks5=0
 PDFACompliance5=Disabled
 PDFVersion5=Default
+OutputFilePath6=C:\Users\tth\Desktop\Design fra PCB support\projekt\Project Outputs for ax600\
+ReleaseManaged6=1
+OutputBasePath6=Project Outputs for ax600
+OutputPathMedia6=
+OutputPathMediaValue6=
+OutputPathOutputer6=[Output Type]
+OutputPathOutputerPrefix6=
+OutputPathOutputerValue6=
+OutputFileName6=
+OutputFileNameMulti6=
+UseOutputNameForMulti6=1
+OutputFileNameSpecial6=
+OpenOutput6=1
 
 [GeneratedFilesSettings]
 RelativeOutputPath2=N:\Kunder\GomSpace\Projects\P60-ACU210\Project Outputs for ax600\NanoMind_SuperIO_Assembly.PDF
@@ -287,4 +324,14 @@ RelativeOutputPath4=
 OpenOutputs4=1
 RelativeOutputPath5=N:\Kunder\GomSpace\Projects\P60-ACU210\Project Outputs for ax600\NanoMind_SuperIO_FAB.PDF
 OpenOutputs5=1
+RelativeOutputPath6=C:\Users\tth\Desktop\Design fra PCB support\projekt\Project Outputs for ax600\
+OpenOutputs6=1
+AddToProject6=1
+TimestampFolder6=0
+UseOutputName6=0
+OpenODBOutput6=0
+OpenGerberOutput6=0
+OpenNCDrillOutput6=0
+OpenIPCOutput6=0
+EnableReload6=0
 
