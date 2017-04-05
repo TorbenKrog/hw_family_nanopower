@@ -2790,24 +2790,24 @@ Variation675=Designator=R102_PSW4|UniqueId=\PILLPBUD\HDKXYSOV|Kind=1|AlternatePa
 Variation676=Designator=R99_PSW5|UniqueId=\KISFIDFD\WMMLHMGF|Kind=1|AlternatePart= 
 Variation677=Designator=R102_PSW5|UniqueId=\KISFIDFD\HDKXYSOV|Kind=1|AlternatePart= 
 Variation678=Designator=R94|UniqueId=\ANJURCAH\VXDMFHRU|Kind=1|AlternatePart= 
-Variation679=Designator=R178|UniqueId=\KSLWLTBD\VCLYIWEM|Kind=2|AlternatePart=4.42M|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0052-2|AltLibLink_DesignItemID=CMP-018-0052-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=6C8939D8-622A-4BE1-BCC4-2AA4E1CAD088|AltLibLink_RevisionGUID=A5801ED1-E3C1-4264-87F9-748E2F1AF167|AltLibLink_Footprint=RESC0603(1608)_N|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue=4.42M
+Variation679=Designator=R178|UniqueId=\KSLWLTBD\VCLYIWEM|Kind=2|AlternatePart=3.24M|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0048-1|AltLibLink_DesignItemID=CMP-018-0048-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=8B88B157-AD28-41E0-B764-9754734CB233|AltLibLink_RevisionGUID=38E2156B-488A-48B6-873B-ECC9D4A3B779|AltLibLink_Footprint=RESC0603(1608)_N|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=3.24M
 ParamDesignator1=R178
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator2=R178
-ParamVariation3=ParameterName=Description|VariantValue=RES SMD 4.42M OHM 1% 1/10W 0603
+ParamVariation3=ParameterName=Description|VariantValue=RES SMD 3.24M OHM 1% 1/10W 0603
 ParamDesignator3=R178
 ParamVariation4=ParameterName=Footprint|VariantValue=RESC0603(1608)_N
 ParamDesignator4=R178
-ParamVariation5=ParameterName=Height|VariantValue=0.5
+ParamVariation5=ParameterName=Height|VariantValue= 
 ParamDesignator5=R178
 ParamVariation6=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator6=R178
-ParamVariation7=ParameterName=Library Reference|VariantValue=CMP-018-0052-2
+ParamVariation7=ParameterName=Library Reference|VariantValue=CMP-018-0048-1
 ParamDesignator7=R178
 ParamVariation8=ParameterName=Manufacturer|VariantValue=Vishay
 ParamDesignator8=R178
-ParamVariation9=ParameterName=Manufacturer Part Number|VariantValue=CRCW06034M42FKEA
+ParamVariation9=ParameterName=Manufacturer Part Number|VariantValue=CRCW06033M24FKEA
 ParamDesignator9=R178
 ParamVariation10=ParameterName=PCB3D|VariantValue= 
 ParamDesignator10=R178
@@ -2817,57 +2817,57 @@ ParamVariation12=ParameterName=Simulation|VariantValue=
 ParamDesignator12=R178
 ParamVariation13=ParameterName=Temperature|VariantValue= 
 ParamDesignator13=R178
-ParamVariation14=ParameterName=Manufacturer number|VariantValue=CRCW06034M42FKEA
+ParamVariation14=ParameterName=Manufacturer number|VariantValue=CRCW06033M24FKEA
 ParamDesignator14=R178
-Variation680=Designator=R179|UniqueId=\KSLWLTBD\FJOQMRYV|Kind=2|AlternatePart=169k|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0053-3|AltLibLink_DesignItemID=CMP-018-0053-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=94723550-BAAD-4467-96C6-6C01D9AF84A3|AltLibLink_RevisionGUID=5C0B48AC-C7B1-47FA-8D10-3508CAB20DC4|AltLibLink_Footprint=RESC0603(1608)_N|AltLibLink_IsSameFootprint=True
-ParamVariation15=ParameterName=Comment|VariantValue=169k
+Variation680=Designator=R179|UniqueId=\KSLWLTBD\FJOQMRYV|Kind=2|AlternatePart=120k|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-003-0098-1|AltLibLink_DesignItemID=CMP-003-0098-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=F3E46BFD-145F-46F7-9847-249072D0B508|AltLibLink_RevisionGUID=00CAD3AB-8C17-449E-821F-0EBDAC944A53|AltLibLink_Footprint=RESC0603(1608)_N|AltLibLink_IsSameFootprint=True
+ParamVariation15=ParameterName=Comment|VariantValue=120k
 ParamDesignator15=R179
 ParamVariation16=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator16=R179
-ParamVariation17=ParameterName=Description|VariantValue=RES SMD 169K OHM 1% 1/10W 0603
+ParamVariation17=ParameterName=Description|VariantValue=RES SMD 120K OHM 1% 1/10W 0603
 ParamDesignator17=R179
 ParamVariation18=ParameterName=Footprint|VariantValue=RESC0603(1608)_N
 ParamDesignator18=R179
-ParamVariation19=ParameterName=Height|VariantValue= 
+ParamVariation19=ParameterName=Height|VariantValue=0.55mm
 ParamDesignator19=R179
 ParamVariation20=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator20=R179
-ParamVariation21=ParameterName=Library Reference|VariantValue=CMP-018-0053-3
+ParamVariation21=ParameterName=Library Reference|VariantValue=CMP-003-0098-1
 ParamDesignator21=R179
-ParamVariation22=ParameterName=Manufacturer|VariantValue=Panasonic
+ParamVariation22=ParameterName=Manufacturer|VariantValue=6
 ParamDesignator22=R179
-ParamVariation23=ParameterName=Manufacturer Part Number|VariantValue=ERJ-3EKF1693V
+ParamVariation23=ParameterName=PCB3D|VariantValue= 
 ParamDesignator23=R179
-ParamVariation24=ParameterName=PCB3D|VariantValue= 
+ParamVariation24=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator24=R179
-ParamVariation25=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation25=ParameterName=Simulation|VariantValue= 
 ParamDesignator25=R179
-ParamVariation26=ParameterName=Simulation|VariantValue= 
+ParamVariation26=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator26=R179
-ParamVariation27=ParameterName=Temperature|VariantValue= 
+ParamVariation27=ParameterName=Manufacturer Number|VariantValue=ERJ-3EKF1203V
 ParamDesignator27=R179
-ParamVariation28=ParameterName=Manufacturer Number|VariantValue=ERJ-3EKF1693V
+ParamVariation28=ParameterName=Part Number|VariantValue=ERJ-3EKF1203V
 ParamDesignator28=R179
-Variation681=Designator=R181|UniqueId=\LWTQBCRG\PBDTXKRA|Kind=2|AlternatePart=160k|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-003-0101-1|AltLibLink_DesignItemID=CMP-003-0101-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=7D0AAF0A-4B3C-4ABB-926E-79948FE12025|AltLibLink_RevisionGUID=3A2EE647-E0C9-4C2C-9DE1-6CB81B4AADAB|AltLibLink_Footprint=RESC0603(1608)_N|AltLibLink_IsSameFootprint=True
-ParamVariation29=ParameterName=Comment|VariantValue=160k
-ParamDesignator29=R181
-ParamVariation30=ParameterName=Component Kind|VariantValue=Standard
+ParamVariation29=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator29=R179
+Variation681=Designator=R181|UniqueId=\LWTQBCRG\PBDTXKRA|Kind=2|AlternatePart=232k|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0055-1|AltLibLink_DesignItemID=CMP-018-0055-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=63F0F6E8-34D5-44C7-A377-B8CD3DA37E77|AltLibLink_RevisionGUID=5475AC4E-1F7E-428F-A343-62036FB10C31|AltLibLink_Footprint=RESC0603(1608)_N|AltLibLink_IsSameFootprint=True
+ParamVariation30=ParameterName=Comment|VariantValue=232k
 ParamDesignator30=R181
-ParamVariation31=ParameterName=Description|VariantValue=RES SMD 160K OHM 1% 1/10W 0603
+ParamVariation31=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator31=R181
-ParamVariation32=ParameterName=Footprint|VariantValue=RESC0603(1608)_N
+ParamVariation32=ParameterName=Description|VariantValue=RES SMD 232K OHM 1% 1/10W 0603
 ParamDesignator32=R181
-ParamVariation33=ParameterName=Height|VariantValue=0.55mm
+ParamVariation33=ParameterName=Footprint|VariantValue=RESC0603(1608)_N
 ParamDesignator33=R181
-ParamVariation34=ParameterName=Ibis Model|VariantValue= 
+ParamVariation34=ParameterName=Height|VariantValue= 
 ParamDesignator34=R181
-ParamVariation35=ParameterName=Library Reference|VariantValue=CMP-003-0101-1
+ParamVariation35=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator35=R181
-ParamVariation36=ParameterName=Manufacturer|VariantValue=6
+ParamVariation36=ParameterName=Library Reference|VariantValue=CMP-018-0055-1
 ParamDesignator36=R181
-ParamVariation37=ParameterName=Manufacturer Number|VariantValue=ERJ-3EKF1603V
+ParamVariation37=ParameterName=Manufacturer|VariantValue=Panasonic
 ParamDesignator37=R181
-ParamVariation38=ParameterName=Part Number|VariantValue=ERJ-3EKF1603V
+ParamVariation38=ParameterName=Manufacturer Number|VariantValue=ERJ3EKF2323V
 ParamDesignator38=R181
 ParamVariation39=ParameterName=PCB3D|VariantValue= 
 ParamDesignator39=R181
@@ -2875,40 +2875,38 @@ ParamVariation40=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator40=R181
 ParamVariation41=ParameterName=Simulation|VariantValue= 
 ParamDesignator41=R181
-ParamVariation42=ParameterName=Symbol Name|VariantValue=Res
+ParamVariation42=ParameterName=Temperature|VariantValue= 
 ParamDesignator42=R181
-ParamVariation43=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
-ParamDesignator43=R181
-Variation682=Designator=R177|UniqueId=\LWTQBCRG\CDCXKUNU|Kind=2|AlternatePart=3.24M|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0048-1|AltLibLink_DesignItemID=CMP-018-0048-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=8B88B157-AD28-41E0-B764-9754734CB233|AltLibLink_RevisionGUID=38E2156B-488A-48B6-873B-ECC9D4A3B779|AltLibLink_Footprint=RESC0603(1608)_N|AltLibLink_IsSameFootprint=True
-ParamVariation44=ParameterName=Comment|VariantValue=3.24M
+Variation682=Designator=R177|UniqueId=\LWTQBCRG\CDCXKUNU|Kind=2|AlternatePart=4.87M|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0054-2|AltLibLink_DesignItemID=CMP-018-0054-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3700A13D-E9DA-4193-B934-0A15FEEFD6F2|AltLibLink_RevisionGUID=E5890877-CB2C-4B7D-9AA3-5977AF5EE892|AltLibLink_Footprint=RESC0603(1608)_N|AltLibLink_IsSameFootprint=True
+ParamVariation43=ParameterName=Comment|VariantValue=4.87M
+ParamDesignator43=R177
+ParamVariation44=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator44=R177
-ParamVariation45=ParameterName=Component Kind|VariantValue=Standard
+ParamVariation45=ParameterName=Description|VariantValue=RES SMD 4.87M OHM 1% 1/10W 0603
 ParamDesignator45=R177
-ParamVariation46=ParameterName=Description|VariantValue=RES SMD 3.24M OHM 1% 1/10W 0603
+ParamVariation46=ParameterName=Footprint|VariantValue=RESC0603(1608)_N
 ParamDesignator46=R177
-ParamVariation47=ParameterName=Footprint|VariantValue=RESC0603(1608)_N
+ParamVariation47=ParameterName=Height|VariantValue= 
 ParamDesignator47=R177
-ParamVariation48=ParameterName=Height|VariantValue= 
+ParamVariation48=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator48=R177
-ParamVariation49=ParameterName=Ibis Model|VariantValue= 
+ParamVariation49=ParameterName=Library Reference|VariantValue=CMP-018-0054-2
 ParamDesignator49=R177
-ParamVariation50=ParameterName=Library Reference|VariantValue=CMP-018-0048-1
+ParamVariation50=ParameterName=Manufacturer|VariantValue=Vishay
 ParamDesignator50=R177
-ParamVariation51=ParameterName=Manufacturer|VariantValue=Vishay
+ParamVariation51=ParameterName=Manufacturer number|VariantValue=CRCW06034M87FKEA
 ParamDesignator51=R177
-ParamVariation52=ParameterName=Manufacturer number|VariantValue=CRCW06033M24FKEA
+ParamVariation52=ParameterName=Manufacturer Part Number|VariantValue=CRCW06034M87FKEA
 ParamDesignator52=R177
-ParamVariation53=ParameterName=Manufacturer Part Number|VariantValue=CRCW06033M24FKEA
+ParamVariation53=ParameterName=PCB3D|VariantValue= 
 ParamDesignator53=R177
-ParamVariation54=ParameterName=PCB3D|VariantValue= 
+ParamVariation54=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator54=R177
-ParamVariation55=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation55=ParameterName=Simulation|VariantValue= 
 ParamDesignator55=R177
-ParamVariation56=ParameterName=Simulation|VariantValue= 
+ParamVariation56=ParameterName=Temperature|VariantValue= 
 ParamDesignator56=R177
-ParamVariation57=ParameterName=Temperature|VariantValue= 
-ParamDesignator57=R177
-ParamVariationCount=57
+ParamVariationCount=56
 
 [ProjectVariant4]
 UniqueID=44CB1B48-9663-4EBE-814A-A1CD54C8B91C
@@ -4533,6 +4531,7 @@ ReleaseItemId=
 Variant=
 OutputJobsCount=0
 ContentTypeGUID=
+ConfigurationType=
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -5254,46 +5253,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad SDT Schematic
-OutputName12=Orcad SDT Schematic (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Orcad v7 Capture Design
-OutputName13=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD ASCII
-OutputName14=P-CAD ASCII (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD V16 Schematic Design
-OutputName15=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Protel PCB 2.8 ASCII
-OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
