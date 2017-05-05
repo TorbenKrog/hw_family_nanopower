@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=J1-3
+Removed Pin From Net: NetName=NetD1_2 Pin=J1-4
+Added Pin To Net: NetName=ANODE Pin=J1-3
+Added Pin To Net: NetName=ANODE Pin=J1-4
+Added Pin To Net: NetName=CATHODE Pin=J2-1
+Added Pin To Net: NetName=CATHODE Pin=J2-2
+Added Pin To Net: NetName=NetD1_2 Pin=J2-3
+Added Pin To Net: NetName=NetD1_2 Pin=J2-4
+Added Pin To Net: NetName=CATHODE Pin=J2-S1
+Added Pin To Net: NetName=CATHODE Pin=J2-S2
+Added Member To Class: ClassName=p2c Member=Component J1 504050-0491
+Added Member To Class: ClassName=p2c Member=Component J2 504050-0491
