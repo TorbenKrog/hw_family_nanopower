@@ -106,67 +106,39 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Deploy_Spring_XY\Deploy_spring.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for Deploy_Spring_XY\Deploy_spring.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Deploy_Spring_XY\Deploy_spring.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Deploy_Spring_XY\Deploy_spring.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Deploy_Spring_XY\Deploy_spring.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Deploy_Spring_XY\Deploy_spring.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Deploy_Spring_XY\Deploy_spring.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Deploy_Spring_XY\Deploy_spring.REP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Deploy_Spring_XY\Deploy_spring.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Deploy_Spring_XY\Deploy_spring.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project_Outputs\NC Drill Files\Deploy_Spring_XY_[No Variations].DRR
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project_Outputs\Gerber Files\Deploy_Spring_XY_[No Variations].EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project_Outputs\Gerber Files\Deploy_Spring_XY_[No Variations].RUL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Deploy_Spring_XY\Design Rule Check - Deploy_spring.html
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=..\modular-panel\Dual-Cell\Project_Outputs\Gerber Files\Dual-Cell_Project_[No Variations].EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=..\modular-panel\Dual-Cell\Project_Outputs\Gerber Files\Dual-Cell_Project_[No Variations].RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1037,46 +1009,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad SDT Schematic
-OutputName12=Orcad SDT Schematic (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Orcad v7 Capture Design
-OutputName13=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD ASCII
-OutputName14=P-CAD ASCII (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD V16 Schematic Design
-OutputName15=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Protel PCB 2.8 ASCII
-OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
