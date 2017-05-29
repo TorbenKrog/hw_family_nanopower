@@ -129,6 +129,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Deploy_Spring_XY\Design Rule Check - Deploy_spring.html
 DItemRevisionGUID=
 
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Deploy_Spring_XY\Design Rule Check - Deploy_spring_M.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
