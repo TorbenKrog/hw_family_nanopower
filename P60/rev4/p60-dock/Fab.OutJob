@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Fab.OutJob
 Description=
-TargetOutputMedium=EMS_BOM
+TargetOutputMedium=Inventory Import File
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=RICOH Aficio MP C4000 (CDT)
+TargetPrinter=OKI-C822-5ECE03
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -538,7 +538,7 @@ OutputName18=Import_to_inventory
 OutputCategory18=Report
 OutputDocumentPath18=
 OutputVariantName18=default_SMD
-OutputEnabled18=0
+OutputEnabled18=1
 OutputEnabled18_OutputMedium1=0
 OutputEnabled18_OutputMedium2=0
 OutputEnabled18_OutputMedium3=0
@@ -557,21 +557,21 @@ Configuration18_Item1=CaptionAsName
 Configuration18_Name2=Filter
 Configuration18_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration18_Name3=General
-Configuration18_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=1|FormWidth=1420|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration18_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=1|FormWidth=3935|FormHeight=2360|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration18_Name4=GroupOrder
-Configuration18_Item4=Supplier Part Number 4=True
+Configuration18_Item4=Supplier Part Number 1=True|Supplier Part Number 4=True
 Configuration18_Name5=OutputConfigurationParameter1
 Configuration18_Item5=??
 Configuration18_Name6=SortOrder
 Configuration18_Item6=Designator=Up|Comment=Up|Footprint=Up
 Configuration18_Name7=VisibleOrder
-Configuration18_Item7=Supplier Part Number 4=100|Manufacturer number=100|Designator=100|Quantity=100
+Configuration18_Item7=Supplier Part Number 4=261|Manufacturer number=335|Designator=224|Quantity=223|Supplier Part Number 1=40
 OutputType19=BOM_PartType
 OutputName19=EMS_BOM
 OutputCategory19=Report
 OutputDocumentPath19=
 OutputVariantName19=16V
-OutputEnabled19=1
+OutputEnabled19=0
 OutputEnabled19_OutputMedium1=0
 OutputEnabled19_OutputMedium2=0
 OutputEnabled19_OutputMedium3=0
@@ -590,7 +590,7 @@ Configuration19_Item1=CaptionAsName
 Configuration19_Name2=Filter
 Configuration19_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration19_Name3=General
-Configuration19_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\GOMSpace\dev\Hardware\library\gomspace\template\EMS_BOM_Vault3.xlt|BatchMode=5|FormWidth=1932|FormHeight=825|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration19_Item3=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\GOMSpace\dev\Hardware\library\gomspace\template\EMS_BOM_Vault3.xlt|BatchMode=5|FormWidth=3573|FormHeight=2360|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration19_Name4=GroupOrder
 Configuration19_Item4=Manufacturer number=True
 Configuration19_Name5=OutputConfigurationParameter1
@@ -853,7 +853,7 @@ OutputFileNameMulti7=
 UseOutputNameForMulti7=1
 OutputFileNameSpecial7=
 OpenOutput7=1
-OutputFilePath8=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev3\P60-dock\Project Outputs for motherboard\
+OutputFilePath8=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev4\p60-dock\Project Outputs for motherboard\
 ReleaseManaged8=1
 OutputBasePath8=Project Outputs for motherboard
 OutputPathMedia8=
@@ -949,7 +949,7 @@ OpenGerberOutput7=0
 OpenNCDrillOutput7=0
 OpenIPCOutput7=0
 EnableReload7=0
-RelativeOutputPath8=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev3\P60-dock\Project Outputs for motherboard\
+RelativeOutputPath8=C:\Users\GOMSpace\dev\Hardware\nanopower\P60\rev4\p60-dock\Project Outputs for motherboard\
 OpenOutputs8=1
 AddToProject8=1
 TimestampFolder8=0
