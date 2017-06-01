@@ -565,7 +565,7 @@ Configuration18_Item5=??
 Configuration18_Name6=SortOrder
 Configuration18_Item6=Designator=Up|Comment=Up|Footprint=Up
 Configuration18_Name7=VisibleOrder
-Configuration18_Item7=Supplier Part Number 4=261|Manufacturer number=335|Designator=224|Quantity=223|Supplier Part Number 1=40
+Configuration18_Item7=Supplier Part Number 1=129|Supplier Part Number 4=286|Manufacturer number=366|Designator=245|Quantity=159
 OutputType19=BOM_PartType
 OutputName19=EMS_BOM
 OutputCategory19=Report
