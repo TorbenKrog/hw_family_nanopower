@@ -90,7 +90,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HFCCWTWX
 
 [Document4]
-DocumentPath=Coverpage.SchDoc
+DocumentPath=coverpage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -104,7 +104,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UDTISWLG
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
