@@ -108,7 +108,7 @@ DocumentUniqueId=
 
 [Document5]
 DocumentPath=ucontroller.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -125,7 +125,7 @@ DocumentUniqueId=WQYYGCSY
 
 [Document6]
 DocumentPath=batteries.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -142,7 +142,7 @@ DocumentUniqueId=VFLTTDEB
 
 [Document7]
 DocumentPath=heater.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
