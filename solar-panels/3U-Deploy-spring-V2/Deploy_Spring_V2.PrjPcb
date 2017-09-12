@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Deploy_Spring_V2
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -104,7 +104,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DOXMCOHN
 
 [Document5]
 DocumentPath=Deploy_spring.PcbLib
@@ -157,13 +157,127 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document8]
+DocumentPath=Deploy_spring_V2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SBAHPUAM
+
+[Document9]
+DocumentPath=CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=CAMtastic4.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=F3F13D4A-F59C-481E-A8F3-42291B4B2B9D
 Description=Deploy_Spring_XY_GND_connect
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
-Variation1=Designator=R3|UniqueId=\KMUUOLPT|Kind=1|AlternatePart= 
+VariationCount=0
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=052464DC-BC08-44D9-ADF3-3AC40F954592
+Description=A
+AllowFabrication=0
+ParameterCount=1
+VariationCount=7
+Variation1=Designator=R2c|UniqueId=\NMMJBVYN|Kind=1|AlternatePart= 
+Variation2=Designator=R2d|UniqueId=\KXLRRMXE|Kind=1|AlternatePart= 
+Variation3=Designator=R2b|UniqueId=\QWPLJPMA|Kind=1|AlternatePart= 
+Variation4=Designator=R1b|UniqueId=\CGKHWAVS|Kind=1|AlternatePart= 
+Variation5=Designator=R1d|UniqueId=\WEWXGRLF|Kind=1|AlternatePart= 
+Variation6=Designator=R1c|UniqueId=\OKVTUUAM|Kind=1|AlternatePart= 
+Variation7=Designator=J1|UniqueId=\URVTDUJO|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[Parameter3_1]
+Name=
+Value=
+
+[ProjectVariant3]
+UniqueID=58174426-9505-450D-B329-4A8A112CA9F9
+Description=B
+AllowFabrication=0
+ParameterCount=0
+VariationCount=7
+Variation1=Designator=R2d|UniqueId=\KXLRRMXE|Kind=1|AlternatePart= 
+Variation2=Designator=R2c|UniqueId=\NMMJBVYN|Kind=1|AlternatePart= 
+Variation3=Designator=R2a|UniqueId=\HFWQCHFJ|Kind=1|AlternatePart= 
+Variation4=Designator=R1d|UniqueId=\WEWXGRLF|Kind=1|AlternatePart= 
+Variation5=Designator=R1c|UniqueId=\OKVTUUAM|Kind=1|AlternatePart= 
+Variation6=Designator=R1a|UniqueId=\SWCNIHYG|Kind=1|AlternatePart= 
+Variation7=Designator=J1|UniqueId=\URVTDUJO|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant4]
+UniqueID=83C35B58-B909-43DF-A2E0-DB5DF01BED56
+Description=C
+AllowFabrication=0
+ParameterCount=0
+VariationCount=7
+Variation1=Designator=R2d|UniqueId=\KXLRRMXE|Kind=1|AlternatePart= 
+Variation2=Designator=R2a|UniqueId=\HFWQCHFJ|Kind=1|AlternatePart= 
+Variation3=Designator=R1a|UniqueId=\SWCNIHYG|Kind=1|AlternatePart= 
+Variation4=Designator=R1d|UniqueId=\WEWXGRLF|Kind=1|AlternatePart= 
+Variation5=Designator=R1b|UniqueId=\CGKHWAVS|Kind=1|AlternatePart= 
+Variation6=Designator=R2b|UniqueId=\QWPLJPMA|Kind=1|AlternatePart= 
+Variation7=Designator=J1|UniqueId=\URVTDUJO|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant5]
+UniqueID=CBAF989D-3C89-4718-8C7E-E86EB5433723
+Description=D
+AllowFabrication=0
+ParameterCount=0
+VariationCount=7
+Variation1=Designator=R2c|UniqueId=\NMMJBVYN|Kind=1|AlternatePart= 
+Variation2=Designator=R2a|UniqueId=\HFWQCHFJ|Kind=1|AlternatePart= 
+Variation3=Designator=R1a|UniqueId=\SWCNIHYG|Kind=1|AlternatePart= 
+Variation4=Designator=R1c|UniqueId=\OKVTUUAM|Kind=1|AlternatePart= 
+Variation5=Designator=R1b|UniqueId=\CGKHWAVS|Kind=1|AlternatePart= 
+Variation6=Designator=R2b|UniqueId=\QWPLJPMA|Kind=1|AlternatePart= 
+Variation7=Designator=J1|UniqueId=\URVTDUJO|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -206,6 +320,22 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Deploy_Spring_V2\Design Rule Check - Deploy_spring_V2.html
 DItemRevisionGUID=
 
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Deploy_Spring_V2\Bill of Materials\gs-bom-Deploy_Spring_V2-A.xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Deploy_Spring_V2\Bill of Materials\gs-bom-Deploy_Spring_V2-B.xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Deploy_Spring_V2\Bill of Materials\gs-bom-Deploy_Spring_V2-C.xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Deploy_Spring_V2\Bill of Materials\gs-bom-Deploy_Spring_V2-D.xls.xls
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -215,6 +345,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for Deploy_Spring_V2
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1074,6 +1207,46 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad SDT Schematic
+OutputName12=Orcad SDT Schematic (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Orcad v7 Capture Design
+OutputName13=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD ASCII
+OutputName14=P-CAD ASCII (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD V16 Schematic Design
+OutputName15=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Protel PCB 2.8 ASCII
+OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
