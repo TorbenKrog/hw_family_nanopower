@@ -90,6 +90,23 @@ GenerateClassCluster=0
 DocumentUniqueId=DUWVIJRQ
 
 [Document4]
+DocumentPath=Fuse.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EAVPGCID
+
+[Document5]
 DocumentPath=Gomspace_vault3.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=ucontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQYYGCSY
 
-[Document6]
+[Document7]
 DocumentPath=batteries.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFLTTDEB
 
-[Document7]
+[Document8]
 DocumentPath=heater.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LGDMLOGU
 
-[Document8]
+[Document9]
 DocumentPath=BP-testboard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,75 +191,117 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EIBHOMTP
 
+[Document10]
+DocumentPath=Protection_switching.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VILDTUBC
+
+[Document11]
+DocumentPath=Protection_logic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CWLUDCOV
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard-RoundHoles.TXT
+DocumentPath=Project_Outputs\NC Drill Files\BP-testboard_[No Variations]-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard-SlotHoles.TXT
+DocumentPath=Project_Outputs\NC Drill Files\BP-testboard_[No Variations]-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.DRR
+DocumentPath=Project_Outputs\NC Drill Files\BP-testboard_[No Variations]-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.EXTREP
+DocumentPath=Project_Outputs\NC Drill Files\BP-testboard_[No Variations].DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.G1
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.G2
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.GBL
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].G2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.GBO
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.GBS
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.GKO
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.GM10
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.GTL
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].GM10
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.GTO
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.GTS
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.LDP
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.REP
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for BP-testboard\BP-testboard.RUL
+DocumentPath=Project_Outputs\NC Drill Files\BP-testboard_[No Variations].LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project_Outputs\Gerber Files\BP-testboard_[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Project Outputs for BP-testboard\Design Rule Check - BP-testboard.html
 DItemRevisionGUID=
 
@@ -466,7 +525,7 @@ OutputName9=Schematic Prints
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter (8.5" x 11")|PaperIndex=1
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration9_Name1=OutputConfigurationParameter1
 Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType10=SimView Print
