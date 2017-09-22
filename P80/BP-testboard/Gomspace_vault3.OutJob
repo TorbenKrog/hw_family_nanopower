@@ -15,9 +15,9 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Gomspace_vault3.OutJob
 Description=
-TargetOutputMedium=EMS_BOM
+TargetOutputMedium=Import_to_inventory_BOM
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -61,7 +61,7 @@ OutputName2=Bill of Materials
 OutputCategory2=Report
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=1
+OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=0
@@ -76,7 +76,7 @@ Configuration2_Item1=CaptionAsName
 Configuration2_Name2=Filter
 Configuration2_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration2_Name3=General
-Configuration2_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=4055|FormHeight=2007|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration2_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Mogn\Documents\GitHub\Hardware\library\gomspace\template\EMS_BOM_Vault31.xlt|BatchMode=5|FormWidth=4055|FormHeight=825|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration2_Name4=GroupOrder
 Configuration2_Item4=Manufacturer number=True|Part Number=True
 Configuration2_Name5=OutputConfigurationParameter1
@@ -247,7 +247,7 @@ OutputName11=Import_to_inventory
 OutputCategory11=Report
 OutputDocumentPath11=
 OutputVariantName11=
-OutputEnabled11=0
+OutputEnabled11=1
 OutputEnabled11_OutputMedium1=0
 OutputEnabled11_OutputMedium2=0
 OutputEnabled11_OutputMedium3=0
@@ -380,7 +380,7 @@ OutputFileNameMulti6==ProjectName + '_' +VariantName
 UseOutputNameForMulti6=0
 OutputFileNameSpecial6=
 OpenOutput6=1
-OutputFilePath7=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\bpx\revisions\3\Project_Outputs\
+OutputFilePath7=C:\Users\Mogn\Documents\GitHub\Hardware\nanopower\P80\BP-testboard\Project Outputs for BP-testboard\
 ReleaseManaged7=1
 OutputBasePath7=Project Outputs for BP-testboard
 OutputPathMedia7=
@@ -421,7 +421,7 @@ OpenGerberOutput6=0
 OpenNCDrillOutput6=0
 OpenIPCOutput6=0
 EnableReload6=0
-RelativeOutputPath7=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\bpx\revisions\3\Project_Outputs\
+RelativeOutputPath7=C:\Users\Mogn\Documents\GitHub\Hardware\nanopower\P80\BP-testboard\Project Outputs for BP-testboard\
 OpenOutputs7=1
 AddToProject7=1
 TimestampFolder7=0
