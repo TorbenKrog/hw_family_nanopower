@@ -41,7 +41,7 @@ PrefsRevisionGUID=
 [Document1]
 DocumentPath=main.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=2
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -57,8 +57,8 @@ DocumentUniqueId=IHFSXMKV
 
 [Document2]
 DocumentPath=mcu.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=3
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -74,8 +74,8 @@ DocumentUniqueId=HBCPWRJC
 
 [Document3]
 DocumentPath=power.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=4
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -91,7 +91,7 @@ DocumentUniqueId=HFCCWTWX
 
 [Document4]
 DocumentPath=coverpage.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -108,8 +108,8 @@ DocumentUniqueId=UDTISWLG
 
 [Document5]
 DocumentPath=buck.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=5
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -125,8 +125,8 @@ DocumentUniqueId=TOHRHMTT
 
 [Document6]
 DocumentPath=adc.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=6
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -142,8 +142,8 @@ DocumentUniqueId=CXJFRXAL
 
 [Document7]
 DocumentPath=rs485.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=8
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -159,8 +159,8 @@ DocumentUniqueId=NSHPUQWD
 
 [Document8]
 DocumentPath=charge.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=9
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -176,8 +176,8 @@ DocumentUniqueId=VQUQTVBH
 
 [Document9]
 DocumentPath=twcm.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=10
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -193,8 +193,8 @@ DocumentUniqueId=WHDSRSGT
 
 [Document10]
 DocumentPath=p80_bus.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=13
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -210,8 +210,8 @@ DocumentUniqueId=PFLFWDGM
 
 [Document11]
 DocumentPath=main_bus.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=14
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -227,8 +227,8 @@ DocumentUniqueId=EWVFJIFO
 
 [Document12]
 DocumentPath=deploy.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=12
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -261,8 +261,8 @@ DocumentUniqueId=
 
 [Document14]
 DocumentPath=bat_int.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=15
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -278,8 +278,8 @@ DocumentUniqueId=NCACQGIL
 
 [Document15]
 DocumentPath=bat_con.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=16
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -295,8 +295,8 @@ DocumentUniqueId=KQEFEWXC
 
 [Document16]
 DocumentPath=fpp.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=17
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -312,8 +312,8 @@ DocumentUniqueId=ACRXXTLC
 
 [Document17]
 DocumentPath=vbat_breaker.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=18
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -326,6 +326,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFITOVSF
+
+[Document18]
+DocumentPath=pmu.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=POCISTHC
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for pmu\Bill of Materials\gs-bom-pmu-[No Variations].xls.xls
