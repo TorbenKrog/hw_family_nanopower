@@ -22,7 +22,7 @@ VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Foxit Reader PDF Printer
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
 OutputMedium1_Printer=
@@ -42,7 +42,7 @@ OutputMedium7_Type=GeneratedFiles
 OutputType1=Schematic Print
 OutputName1=Schematic Prints
 OutputCategory1=Documentation
-OutputDocumentPath1=
+OutputDocumentPath1=[Project Physical Documents]
 OutputVariantName1=
 OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
@@ -76,7 +76,7 @@ Configuration2_Item1=CaptionAsName
 Configuration2_Name2=Filter
 Configuration2_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration2_Name3=General
-Configuration2_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=2088|FormHeight=1326|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration2_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\..\..\library\gomspace\template\EMS_BOM_Vault31.xlt|BatchMode=0|FormWidth=2088|FormHeight=1277|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration2_Name4=GroupOrder
 Configuration2_Item4=Manufacturer Number=True|Part Number=True
 Configuration2_Name5=OutputConfigurationParameter1
