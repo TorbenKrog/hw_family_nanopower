@@ -41,8 +41,8 @@ PrefsRevisionGUID=
 [Document1]
 DocumentPath=main.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=200
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=0
@@ -57,9 +57,9 @@ DocumentUniqueId=IHFSXMKV
 
 [Document2]
 DocumentPath=mcu.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=300
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=1
@@ -74,9 +74,9 @@ DocumentUniqueId=HBCPWRJC
 
 [Document3]
 DocumentPath=power.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=600
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=4
@@ -91,9 +91,9 @@ DocumentUniqueId=HFCCWTWX
 
 [Document4]
 DocumentPath=coverpage.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=500
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
@@ -108,9 +108,9 @@ DocumentUniqueId=UDTISWLG
 
 [Document5]
 DocumentPath=buck.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=400
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=2
@@ -125,9 +125,9 @@ DocumentUniqueId=TOHRHMTT
 
 [Document6]
 DocumentPath=adc.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationEnabled=1
+AnnotateStartValue=700
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=5
@@ -141,26 +141,9 @@ GenerateClassCluster=0
 DocumentUniqueId=CXJFRXAL
 
 [Document7]
-DocumentPath=lsw.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=8
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YEYUIYFQ
-
-[Document8]
 DocumentPath=rs485.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=8
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -174,10 +157,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSHPUQWD
 
-[Document9]
+[Document8]
 DocumentPath=charge.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=9
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -191,10 +174,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQUQTVBH
 
-[Document10]
+[Document9]
 DocumentPath=twcm.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=10
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -208,27 +191,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHDSRSGT
 
-[Document11]
-DocumentPath=i2c_isolator.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QOUCMJGB
-
-[Document12]
+[Document10]
 DocumentPath=p80_bus.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=13
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -242,10 +208,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PFLFWDGM
 
-[Document13]
+[Document11]
 DocumentPath=main_bus.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=14
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -259,10 +225,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWVFJIFO
 
-[Document14]
+[Document12]
 DocumentPath=deploy.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=12
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -276,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KRYWCMHA
 
-[Document15]
+[Document13]
 DocumentPath=Gomspace_vault3.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,10 +259,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=bat_int.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=15
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -310,10 +276,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCACQGIL
 
-[Document17]
+[Document15]
 DocumentPath=bat_con.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=16
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -327,10 +293,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KQEFEWXC
 
-[Document18]
+[Document16]
 DocumentPath=fpp.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=17
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -344,10 +310,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACRXXTLC
 
-[Document19]
+[Document17]
 DocumentPath=vbat_breaker.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
+AnnotationEnabled=1
+AnnotateStartValue=18
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -360,6 +326,103 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFITOVSF
+
+[Document18]
+DocumentPath=pmu.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=POCISTHC
+
+[Document19]
+DocumentPath=pmu.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document20]
+DocumentPath=lsw.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=19
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YEYUIYFQ
+
+[Document21]
+DocumentPath=i2c_isolator.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=18
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QOUCMJGB
+
+[Document22]
+DocumentPath=ks.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=20
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BPHPBXJB
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for pmu\Bill of Materials\gs-bom-pmu-[No Variations].xls.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for pmu\Bill of Materials\gs-bom-pmu-[No Variations].xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for pmu\Bill of Materials\gs-bom-pmu-[No Variations].xls.xlsx
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -564,7 +627,7 @@ PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType5=PCBDrawing
 OutputName5=Draftsman
 OutputDocumentPath5=
-OutputVariantName5=
+OutputVariantName5=[No Variations]
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType6=PCBLIB Print
@@ -590,7 +653,9 @@ OutputName9=Schematic Prints
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.70|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration9_Name1=OutputConfigurationParameter1
+Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType10=SimView Print
 OutputName10=SimView Prints
 OutputDocumentPath10=
@@ -707,36 +772,38 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000 (CDT)
+TargetPrinter=Foxit Reader PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=BOM_PartType
-OutputName1=Bill of Materials
+OutputType1=Script
+OutputName1=Script Output
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=ComponentCrossReference
-OutputName2=Component Cross Reference Report
+OutputType2=SimpleBOM
+OutputName2=Simple BOM
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=ReportHierarchy
-OutputName3=Report Project Hierarchy
+OutputType3=SinglePinNetReporter
+OutputName3=Report Single Pin Nets
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Script
-OutputName4=Script Output
+OutputType4=BOM_PartType
+OutputName4=Bill of Materials
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=SimpleBOM
-OutputName5=Simple BOM
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration4_Name1=ColumnNameFormat
+Configuration4_Item1=CaptionAsName
+OutputType5=ComponentCrossReference
+OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=SinglePinNetReporter
-OutputName6=Report Single Pin Nets
+OutputType6=ReportHierarchy
+OutputName6=Report Project Hierarchy
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
@@ -1306,9 +1373,241 @@ MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
 MatchStrictly2=1
-PhysicalNamingFormat=$Component_$RoomName
+PhysicalNamingFormat=$ComponentPrefix$GlobalIndex
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
+UniqueIDPath0=\XRFIDGBS
+DocumentName0=adc.SchDoc
+IsEnabled0=1
+SelectionScope0=All
+Order0=1
+IndexEnabled0=0
+IndexStartValue0=1
+Suffix0=
+UniqueIDPath1=\JYBQFTHM\TLIIQMEK
+DocumentName1=bat_con.SchDoc
+IsEnabled1=1
+SelectionScope1=All
+Order1=2
+IndexEnabled1=0
+IndexStartValue1=1
+Suffix1=
+UniqueIDPath2=\JYBQFTHM\VJQQIAEO
+DocumentName2=bat_con.SchDoc
+IsEnabled2=1
+SelectionScope2=All
+Order2=3
+IndexEnabled2=0
+IndexStartValue2=1
+Suffix2=
+UniqueIDPath3=\JYBQFTHM
+DocumentName3=bat_int.SchDoc
+IsEnabled3=1
+SelectionScope3=All
+Order3=4
+IndexEnabled3=0
+IndexStartValue3=1
+Suffix3=
+UniqueIDPath4=\VHMVBYVN\MKGNWPDQ
+DocumentName4=buck.SchDoc
+IsEnabled4=1
+SelectionScope4=All
+Order4=5
+IndexEnabled4=0
+IndexStartValue4=1
+Suffix4=
+UniqueIDPath5=\VHMVBYVN\IFPIJPEL
+DocumentName5=buck.SchDoc
+IsEnabled5=1
+SelectionScope5=All
+Order5=6
+IndexEnabled5=0
+IndexStartValue5=1
+Suffix5=
+UniqueIDPath6=\HHIADTRX
+DocumentName6=charge.SchDoc
+IsEnabled6=1
+SelectionScope6=All
+Order6=7
+IndexEnabled6=0
+IndexStartValue6=1
+Suffix6=
+UniqueIDPath7=\PTOITLIV
+DocumentName7=coverpage.SchDoc
+IsEnabled7=1
+SelectionScope7=All
+Order7=8
+IndexEnabled7=0
+IndexStartValue7=1
+Suffix7=
+UniqueIDPath8=\ULAPOLOW
+DocumentName8=deploy.SchDoc
+IsEnabled8=1
+SelectionScope8=All
+Order8=9
+IndexEnabled8=0
+IndexStartValue8=1
+Suffix8=
+UniqueIDPath9=\CTUKQDFE
+DocumentName9=deploy.SchDoc
+IsEnabled9=1
+SelectionScope9=All
+Order9=10
+IndexEnabled9=0
+IndexStartValue9=1
+Suffix9=
+UniqueIDPath10=\QBOMVLMJ
+DocumentName10=fpp.SchDoc
+IsEnabled10=1
+SelectionScope10=All
+Order10=29
+IndexEnabled10=0
+IndexStartValue10=1
+Suffix10=
+UniqueIDPath11=\IPASMICN
+DocumentName11=i2c_isolator.SchDoc
+IsEnabled11=1
+SelectionScope11=All
+Order11=12
+IndexEnabled11=0
+IndexStartValue11=1
+Suffix11=
+UniqueIDPath12=\AGLFKGCN
+DocumentName12=i2c_isolator.SchDoc
+IsEnabled12=1
+SelectionScope12=All
+Order12=13
+IndexEnabled12=0
+IndexStartValue12=1
+Suffix12=
+UniqueIDPath13=\XFFHSWNP
+DocumentName13=i2c_isolator.SchDoc
+IsEnabled13=1
+SelectionScope13=All
+Order13=14
+IndexEnabled13=0
+IndexStartValue13=1
+Suffix13=
+UniqueIDPath14=\DGDMXDXC
+DocumentName14=i2c_isolator.SchDoc
+IsEnabled14=1
+SelectionScope14=All
+Order14=15
+IndexEnabled14=0
+IndexStartValue14=1
+Suffix14=
+UniqueIDPath15=\BWCXDDWJ
+DocumentName15=ks.SchDoc
+IsEnabled15=1
+SelectionScope15=All
+Order15=30
+IndexEnabled15=0
+IndexStartValue15=1
+Suffix15=
+UniqueIDPath16=\AXSYXDTI
+DocumentName16=lsw.SchDoc
+IsEnabled16=1
+SelectionScope16=All
+Order16=16
+IndexEnabled16=0
+IndexStartValue16=1
+Suffix16=
+UniqueIDPath17=\UONABGDL
+DocumentName17=lsw.SchDoc
+IsEnabled17=1
+SelectionScope17=All
+Order17=17
+IndexEnabled17=0
+IndexStartValue17=1
+Suffix17=
+UniqueIDPath18=\GRFXRWGW
+DocumentName18=lsw.SchDoc
+IsEnabled18=1
+SelectionScope18=All
+Order18=18
+IndexEnabled18=0
+IndexStartValue18=1
+Suffix18=
+UniqueIDPath19=\DAFDJDFH
+DocumentName19=lsw.SchDoc
+IsEnabled19=1
+SelectionScope19=All
+Order19=19
+IndexEnabled19=0
+IndexStartValue19=1
+Suffix19=
+UniqueIDPath20=\AVKSISEX
+DocumentName20=lsw.SchDoc
+IsEnabled20=1
+SelectionScope20=All
+Order20=20
+IndexEnabled20=0
+IndexStartValue20=1
+Suffix20=
+UniqueIDPath21=
+DocumentName21=main.SchDoc
+IsEnabled21=1
+SelectionScope21=All
+Order21=21
+IndexEnabled21=0
+IndexStartValue21=1
+Suffix21=
+UniqueIDPath22=\XNNPFLUJ
+DocumentName22=main_bus.SchDoc
+IsEnabled22=1
+SelectionScope22=All
+Order22=22
+IndexEnabled22=0
+IndexStartValue22=1
+Suffix22=
+UniqueIDPath23=\IXOYSCOO
+DocumentName23=mcu.SchDoc
+IsEnabled23=1
+SelectionScope23=All
+Order23=23
+IndexEnabled23=0
+IndexStartValue23=1
+Suffix23=
+UniqueIDPath24=\ADYUEVUX
+DocumentName24=p80_bus.SchDoc
+IsEnabled24=1
+SelectionScope24=All
+Order24=24
+IndexEnabled24=0
+IndexStartValue24=1
+Suffix24=
+UniqueIDPath25=\VHMVBYVN
+DocumentName25=power.SchDoc
+IsEnabled25=1
+SelectionScope25=All
+Order25=25
+IndexEnabled25=0
+IndexStartValue25=1
+Suffix25=
+UniqueIDPath26=\EVBXCTUW
+DocumentName26=rs485.SchDoc
+IsEnabled26=1
+SelectionScope26=All
+Order26=26
+IndexEnabled26=0
+IndexStartValue26=1
+Suffix26=
+UniqueIDPath27=\FFBBLLHO
+DocumentName27=twcm.SchDoc
+IsEnabled27=1
+SelectionScope27=All
+Order27=27
+IndexEnabled27=0
+IndexStartValue27=1
+Suffix27=
+UniqueIDPath28=\XDCMSTNV
+DocumentName28=vbat_breaker.SchDoc
+IsEnabled28=1
+SelectionScope28=All
+Order28=28
+IndexEnabled28=0
+IndexStartValue28=1
+Suffix28=
 
 [PrjClassGen]
 CompClassManualEnabled=0

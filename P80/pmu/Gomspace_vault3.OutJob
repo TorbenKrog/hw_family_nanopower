@@ -22,7 +22,7 @@ VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Virtual Printer
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
 OutputMedium1_Printer=
@@ -42,7 +42,7 @@ OutputMedium7_Type=GeneratedFiles
 OutputType1=Schematic Print
 OutputName1=Schematic Prints
 OutputCategory1=Documentation
-OutputDocumentPath1=
+OutputDocumentPath1=[Project Physical Documents]
 OutputVariantName1=
 OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
@@ -76,15 +76,15 @@ Configuration2_Item1=CaptionAsName
 Configuration2_Name2=Filter
 Configuration2_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration2_Name3=General
-Configuration2_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=4055|FormHeight=2007|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration2_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\..\..\library\gomspace\template\EMS_BOM_Vault31.xlt|BatchMode=0|FormWidth=2088|FormHeight=1277|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration2_Name4=GroupOrder
-Configuration2_Item4=Manufacturer number=True|Part Number=True
+Configuration2_Item4=Manufacturer Number=True|Part Number=True
 Configuration2_Name5=OutputConfigurationParameter1
 Configuration2_Item5=?
 Configuration2_Name6=SortOrder
 Configuration2_Item6=Designator=Up|Comment=Up|Footprint=Up
 Configuration2_Name7=VisibleOrder
-Configuration2_Item7=Designator=78|Comment=75|Description=297|Manufacturer=206|Manufacturer number=138|Quantity=41|Manufacturer 1=62|Supplier 1=58|Supplier Currency 1=75|Supplier Order Qty 1=79|Supplier Part Number 1=88|Supplier Stock 1=64|Supplier Subtotal 1=73|Supplier Unit Price 1=78
+Configuration2_Item7=Designator=78|Comment=75|Description=297|Manufacturer=206|Manufacturer Number=138|Quantity=41|Manufacturer 1=62|Supplier 1=58|Supplier Currency 1=75|Supplier Order Qty 1=79|Supplier Part Number 1=88|Supplier Stock 1=64|Supplier Subtotal 1=73|Supplier Unit Price 1=78
 OutputType3=PCB 3D Print
 OutputName3=PCB 3D Print TOP
 OutputCategory3=Documentation
@@ -371,7 +371,7 @@ ShowComponentParameters4=1
 GlobalBookmarks4=0
 PDFACompliance4=Disabled
 PDFVersion4=Default
-OutputFilePath5=C:\Users\cnn\Documents\GitHub\GOMSPACE_Hardware\Hardware\nanopower\solar-panels\modular-panel\Dual-Cell\Project Outputs for Dual-Cell_Project\
+OutputFilePath5=C:\Users\bgs\dev\Hardware\nanopower\P80\pmu\Project Outputs for pmu\
 ReleaseManaged5=1
 OutputBasePath5=Project Outputs for pmu
 OutputPathMedia5=
@@ -418,7 +418,7 @@ RelativeOutputPath3=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\bpx\bpx_h
 OpenOutputs3=1
 RelativeOutputPath4=C:\Users\timGo\Documents\GitHub\Hardware\nanopower\bpx\bpx_heater\Project Outputs for Heater_Project\
 OpenOutputs4=1
-RelativeOutputPath5=C:\Users\cnn\Documents\GitHub\GOMSPACE_Hardware\Hardware\nanopower\solar-panels\modular-panel\Dual-Cell\Project Outputs for Dual-Cell_Project\
+RelativeOutputPath5=C:\Users\bgs\dev\Hardware\nanopower\P80\pmu\Project Outputs for pmu\
 OpenOutputs5=1
 AddToProject5=1
 TimestampFolder5=0
