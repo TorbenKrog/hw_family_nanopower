@@ -95,7 +95,7 @@
   - param save 2 2
   - config update_default all
 - set vboost
-  - param set vboost 18000 18000 18000 18000 18000 18000
+  - param set vboost 25000 25000 25000 25000 25000 25000
   - param save 1 1
   - config update_default all
 
