@@ -79,12 +79,14 @@
 
 - Current calibration
 
+#+BEGIN_SRC python
   for n in range(0,1):
       for i in range(0,5):
           - set vboost[i] = 5000
           - run calibration routine for channel[i]
           - calibrate at 0.5 A and 1 A
           - set vboost[i] = 18000
+#+END_SRC
 
 - Verify calibration
 - save calibration parameters
