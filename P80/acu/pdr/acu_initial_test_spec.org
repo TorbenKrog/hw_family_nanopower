@@ -1,0 +1,103 @@
+#+TITLE: P80 ACU Initial Test Specification
+#+AUTHOR: Brian Gasberg Thomsen
+
+* P80 ACU Initial Test Specification
+
+** Equipment
+- Electronik load (BK8500)
+- Bench power supply (TTI...) for battery simulation
+- Bench power supply (Hameg...) for PV simulation and KS simulation
+- Voltage measurements at testpoints (multimeters, DAQ tools...)
+
+** Test Procedure
+- Apply 30 V to KS - P80 stack connector
+- Apply 6 V @ 0.1 A to all 12 inputs - all shorted together. 
+- Measure testpoints:
+
+|------------+---------+------+------+-----+------|
+| Test Point | Signal  |  Min |  Typ | Max | Unit |
+|------------+---------+------+------+-----+------|
+| TP1        | Vboost1 | 4.65 |      | 4.7 | V    |
+| TP3        | Vboost2 | 4.65 |      | 4.7 | V    |
+| TP4        | Vboost3 | 4.65 |      | 4.7 | V    |
+| TP7        | VBAT    |      | 33.6 |     | V    |
+| TP8        | VBAT    |      | 33.6 |     | V    |
+| TP10       | Vboost1 | 4.65 |      | 4.7 | V    |
+| TP12       | Vboost2 | 4.65 |      | 4.7 | V    |
+| TP13       | Vboost3 | 4.65 |      | 4.7 | V    |
+|------------+---------+------+------+-----+------|
+
+- Measure VBAT in P80 Stack
+
+|-----------+-------+--------+-----+-----+-----+------|
+| Connector |   Pin | Signal | Min | Typ | Max | Unit |
+|-----------+-------+--------+-----+-----+-----+------|
+| U35       | 11-22 | VBAT   |     |   0 |     | V    |
+|-----------+-------+--------+-----+-----+-----+------|
+
+- Turn off PV simulator
+- Apply 3.3 V and 5 V through P80 stack connector
+- Measure testpoints:
+
+|------------+--------+-----+-----+-----+------|
+| Test Point | Signal | Min | Typ | Max | Unit |
+|------------+--------+-----+-----+-----+------|
+| TP5        | VCC    |     |   0 |     | V    |
+| TP6        | 5 V    |     |   0 |     | V    |
+|------------+--------+-----+-----+-----+------|
+
+- Apply enable to P80 stack (3.3 V)
+
+- Measure testpoints:
+
+|------------+--------+-----+-----+-----+------|
+| Test Point | Signal | Min | Typ | Max | Unit |
+|------------+--------+-----+-----+-----+------|
+| TP5        | VCC    |     | 3.3 |     | V    |
+| TP6        | 5 V    |     |   5 |     | V    |
+|------------+--------+-----+-----+-----+------|
+
+- Measure testpoints:
+
+|------------+--------+-----+-----+-----+------|
+| Test Point | Signal | Min | Typ | Max | Unit |
+|------------+--------+-----+-----+-----+------|
+| TP2        | VREF   |     | 2.5 |     | V    |
+| TP11       | VREF   |     | 2.5 |     | V    |
+|------------+--------+-----+-----+-----+------|
+
+- Program both MCUs
+- Do selftest
+- Program UID etc
+- Voltage calibration
+ #+BEGIN_SRC python
+  for n in range(0,1):
+      for i in range(0,5):
+          # - Calibrate channel[n,i]
+ #+END_SRC
+
+- Verify calibration
+  - measure input channels 0-5 'param list 4'
+  - verify against actual input voltage
+
+- Current calibration
+ #+BEGIN_SRC python
+  for n in range(0,1):
+      for i in range(0,5):
+          # - set vboost[i] = 5000
+          # - run calibration routine for channel[i]
+          # - calibrate at 0.5 A and 1 A
+          # - set vboost[i] = 18000
+ #+END_SRC
+
+- Verify calibration
+- save calibration parameters
+  - param save 2 2
+  - config update_default all
+- set vboost
+  - param set vboost 18000 18000 18000 18000 18000 18000
+  - param save 1 1
+  - config update_default all
+
+- Do complete parameter dump and save in database
+- end of test
