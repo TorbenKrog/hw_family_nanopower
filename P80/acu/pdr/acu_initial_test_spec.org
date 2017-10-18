@@ -1,3 +1,6 @@
+#+TITLE: P80 ACU Initial Test Specification
+#+AUTHOR: Brian Gasberg Thomsen
+
 * P80 ACU Initial Test Specification
 
 ** Equipment
