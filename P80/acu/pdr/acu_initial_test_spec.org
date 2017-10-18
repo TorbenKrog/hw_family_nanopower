@@ -1,12 +1,12 @@
-* P80 ACU test spec
+* P80 ACU Initial Test Specification
 
 ** Equipment
 - Electronik load (BK8500)
 - Bench power supply (TTI...) for battery simulation
-- Bench power supply (Hameg...) for PV simulation
-- Voltage measurements at testoints (multimeters)
+- Bench power supply (Hameg...) for PV simulation and KS simulation
+- Voltage measurements at testpoints (multimeters, DAQ tools...)
 
-** Test
+** Test Procedure
 - Apply 30 V to KS - P80 stack connector
 - Apply 6 V @ 0.1 A to all 12 inputs - all shorted together. 
 - Measure testpoints:
@@ -64,6 +64,8 @@
 |------------+--------+-----+-----+-----+------|
 
 - Program both MCUs
+- Do selftest
+- Program UID etc
 - Voltage calibration
 
 #+BEGIN_SRC python
@@ -79,7 +81,7 @@
 
 - Current calibration
 
-#+BEGIN_SRC python
+ #+BEGIN_SRC python
   for n in range(0,1):
       for i in range(0,5):
           - set vboost[i] = 5000
