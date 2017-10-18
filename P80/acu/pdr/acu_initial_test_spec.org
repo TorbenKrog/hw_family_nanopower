@@ -66,9 +66,12 @@
 - Program both MCUs
 - Voltage calibration
 
+#+BEGIN_SRC python
   for n in range(0,1):
       for i in range(0,5):
           - Calibrate channel[n,i]
+#+END_SRC
+
 
 - Verify calibration
   - measure input channels 0-5 'param list 4'
