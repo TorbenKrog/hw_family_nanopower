@@ -157,23 +157,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VSDEKROA
 
-[Document8]
-DocumentPath=SSG_DSP_CESI.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=..\..\..\..\interstage-gssb\V2.1\Project Outputs for interstageV2.1\Bill of Materials\gs-bom-Dual-Cell_Project-[No Variations].xls.xls
 DItemRevisionGUID=
