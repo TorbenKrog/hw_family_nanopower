@@ -157,23 +157,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YWJROMXV
 
 [Document8]
-DocumentPath=PDU200-MCU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=11
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HXOWATSU
-
-[Document9]
 DocumentPath=Selector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMLIRYFR
 
-[Document10]
+[Document9]
 DocumentPath=single-buck.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XYFEBQBJ
 
-[Document11]
+[Document10]
 DocumentPath=BUCK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NFULLILE
 
-[Document12]
+[Document11]
 DocumentPath=main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEBGMGFD
 
-[Document13]
+[Document12]
 DocumentPath=P80-PDU_HV.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=Gomspace_vault3.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=lsw.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEYUIYFQ
 
-[Document16]
+[Document15]
 DocumentPath=en_sel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MXTCQCUH
 
-[Document17]
+[Document16]
 DocumentPath=i2c_isolator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

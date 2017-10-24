@@ -226,6 +226,31 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUXSCDUN
 
+[Document12]
+DocumentPath=Gomspace_vault3.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SunTracker\Bill of Materials\gs-bom-SunTracker-[No Variations].xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for SunTracker\BOM\Import_to_inventory-SunTracker.txt
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -593,7 +618,7 @@ Configuration1_Item4=Comment=True|Footprint=True
 Configuration1_Name5=SortOrder
 Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Comment=124|Description=188|Designator=212|Quantity=50|Footprint=193|Manufacturer=72|Manufacturer number=168
+Configuration1_Item6=Comment=124|Description=188|Designator=212|Quantity=50|Footprint=193|Manufacturer=72|Manufacturer number=168|InternalID=100|LibRef=100
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
