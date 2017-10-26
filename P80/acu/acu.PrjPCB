@@ -257,7 +257,19 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WDKXRUFT
+DocumentUniqueId=YUNQJRGL
+
+[Parameter1]
+Name=Pcb_Revision
+Value=1
+
+[Parameter2]
+Name=Title
+Value=P80 Array Conditioning Unit
+
+[Parameter3]
+Name=Year
+Value=2017
 
 [Configuration1]
 Name=Sources
