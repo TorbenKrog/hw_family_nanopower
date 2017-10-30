@@ -424,6 +424,14 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for pmu\Bill of Materials\gs-bom-pmu-[No Variations].xls.xlsx
 DItemRevisionGUID=
 
+[Parameter1]
+Name=Year
+Value=2017
+
+[Parameter2]
+Name=Title
+Value=P80 - Power Management Unit
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
