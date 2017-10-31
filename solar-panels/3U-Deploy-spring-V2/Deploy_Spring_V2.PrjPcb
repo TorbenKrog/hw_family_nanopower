@@ -220,8 +220,8 @@ ParamVariationCount=0
 UniqueID=052464DC-BC08-44D9-ADF3-3AC40F954592
 Description=A
 AllowFabrication=0
-ParameterCount=1
-VariationCount=7
+ParameterCount=0
+VariationCount=8
 Variation1=Designator=R2c|UniqueId=\NMMJBVYN|Kind=1|AlternatePart= 
 Variation2=Designator=R2d|UniqueId=\KXLRRMXE|Kind=1|AlternatePart= 
 Variation3=Designator=R2b|UniqueId=\QWPLJPMA|Kind=1|AlternatePart= 
@@ -229,18 +229,15 @@ Variation4=Designator=R1b|UniqueId=\CGKHWAVS|Kind=1|AlternatePart=
 Variation5=Designator=R1d|UniqueId=\WEWXGRLF|Kind=1|AlternatePart= 
 Variation6=Designator=R1c|UniqueId=\OKVTUUAM|Kind=1|AlternatePart= 
 Variation7=Designator=J1|UniqueId=\URVTDUJO|Kind=1|AlternatePart= 
+Variation8=Designator=C1a|UniqueId=\GOJLXXCB|Kind=1|AlternatePart= 
 ParamVariationCount=0
-
-[Parameter3_1]
-Name=
-Value=
 
 [ProjectVariant3]
 UniqueID=58174426-9505-450D-B329-4A8A112CA9F9
 Description=B
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
+VariationCount=8
 Variation1=Designator=R2d|UniqueId=\KXLRRMXE|Kind=1|AlternatePart= 
 Variation2=Designator=R2c|UniqueId=\NMMJBVYN|Kind=1|AlternatePart= 
 Variation3=Designator=R2a|UniqueId=\HFWQCHFJ|Kind=1|AlternatePart= 
@@ -248,6 +245,7 @@ Variation4=Designator=R1d|UniqueId=\WEWXGRLF|Kind=1|AlternatePart=
 Variation5=Designator=R1c|UniqueId=\OKVTUUAM|Kind=1|AlternatePart= 
 Variation6=Designator=R1a|UniqueId=\SWCNIHYG|Kind=1|AlternatePart= 
 Variation7=Designator=J1|UniqueId=\URVTDUJO|Kind=1|AlternatePart= 
+Variation8=Designator=C1a|UniqueId=\GOJLXXCB|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant4]
@@ -255,7 +253,7 @@ UniqueID=83C35B58-B909-43DF-A2E0-DB5DF01BED56
 Description=C
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
+VariationCount=8
 Variation1=Designator=R2d|UniqueId=\KXLRRMXE|Kind=1|AlternatePart= 
 Variation2=Designator=R2a|UniqueId=\HFWQCHFJ|Kind=1|AlternatePart= 
 Variation3=Designator=R1a|UniqueId=\SWCNIHYG|Kind=1|AlternatePart= 
@@ -263,6 +261,7 @@ Variation4=Designator=R1d|UniqueId=\WEWXGRLF|Kind=1|AlternatePart=
 Variation5=Designator=R1b|UniqueId=\CGKHWAVS|Kind=1|AlternatePart= 
 Variation6=Designator=R2b|UniqueId=\QWPLJPMA|Kind=1|AlternatePart= 
 Variation7=Designator=J1|UniqueId=\URVTDUJO|Kind=1|AlternatePart= 
+Variation8=Designator=C1a|UniqueId=\GOJLXXCB|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant5]
@@ -270,7 +269,7 @@ UniqueID=CBAF989D-3C89-4718-8C7E-E86EB5433723
 Description=D
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
+VariationCount=8
 Variation1=Designator=R2c|UniqueId=\NMMJBVYN|Kind=1|AlternatePart= 
 Variation2=Designator=R2a|UniqueId=\HFWQCHFJ|Kind=1|AlternatePart= 
 Variation3=Designator=R1a|UniqueId=\SWCNIHYG|Kind=1|AlternatePart= 
@@ -278,6 +277,7 @@ Variation4=Designator=R1c|UniqueId=\OKVTUUAM|Kind=1|AlternatePart=
 Variation5=Designator=R1b|UniqueId=\CGKHWAVS|Kind=1|AlternatePart= 
 Variation6=Designator=R2b|UniqueId=\QWPLJPMA|Kind=1|AlternatePart= 
 Variation7=Designator=J1|UniqueId=\URVTDUJO|Kind=1|AlternatePart= 
+Variation8=Designator=C1a|UniqueId=\GOJLXXCB|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
