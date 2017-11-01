@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job1.OutJob
+Name=3DMovie.OutJob
 Description=
 TargetOutputMedium=Video
 VariantName=[No Variations]
@@ -36,7 +36,7 @@ OutputMedium4_Type=Multimedia
 OutputType1=PCB 3D Video
 OutputName1=PCB 3D Video
 OutputCategory1=Documentation
-OutputDocumentPath1=BBP_Flex_Rigid.PcbDoc
+OutputDocumentPath1=BBP.PcbDoc
 OutputVariantName1=
 OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
@@ -51,13 +51,13 @@ Configuration1_Item1=Record=Pcb3DVideoRenderer|ShowFloorShadow=True|ViewConfigTy
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=
+OutputBasePath2=Project Outputs for BBP
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=
+OutputFileName2=3DMovie.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -78,7 +78,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=
+OutputBasePath3=Project Outputs for BBP
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
