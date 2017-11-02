@@ -244,10 +244,14 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SunTracker\Bill of Materials\gs-bom-SunTracker-[No Variations].xls.xls
+DocumentPath=Project Outputs for SunTracker\Design Rule Check - SunTrackerMain.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for SunTracker\Bill of Materials\gs-bom-SunTracker-[No Variations].xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for SunTracker\BOM\Import_to_inventory-SunTracker.txt
 DItemRevisionGUID=
 
