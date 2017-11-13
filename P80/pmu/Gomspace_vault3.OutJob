@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Gomspace_vault3.OutJob
 Description=
-TargetOutputMedium=derating_BOM
+TargetOutputMedium=EMS_BOM
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -64,7 +64,7 @@ OutputName2=Bill of Materials
 OutputCategory2=Report
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=0
@@ -80,7 +80,7 @@ Configuration2_Item1=CaptionAsName
 Configuration2_Name2=Filter
 Configuration2_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration2_Name3=General
-Configuration2_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\..\..\library\gomspace\template\EMS_BOM_Vault31.xlt|BatchMode=0|FormWidth=2088|FormHeight=1277|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration2_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\..\..\library\gomspace\template\EMS_BOM_Vault31.xlt|BatchMode=5|FormWidth=2088|FormHeight=1277|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration2_Name4=GroupOrder
 Configuration2_Item4=Manufacturer Number=True|Part Number=True
 Configuration2_Name5=OutputConfigurationParameter1
@@ -307,12 +307,12 @@ OutputName13=derating Bill of Materials
 OutputCategory13=Report
 OutputDocumentPath13=
 OutputVariantName13=
-OutputEnabled13=1
+OutputEnabled13=0
 OutputEnabled13_OutputMedium1=0
 OutputEnabled13_OutputMedium2=0
 OutputEnabled13_OutputMedium3=0
 OutputEnabled13_OutputMedium4=0
-OutputEnabled13_OutputMedium5=2
+OutputEnabled13_OutputMedium5=0
 OutputEnabled13_OutputMedium6=0
 OutputEnabled13_OutputMedium7=0
 OutputEnabled13_OutputMedium8=1
