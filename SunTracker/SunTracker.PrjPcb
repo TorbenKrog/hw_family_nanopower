@@ -243,17 +243,17 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for SunTracker\Design Rule Check - SunTrackerMain.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for SunTracker\Bill of Materials\gs-bom-SunTracker-[No Variations].xls.xls
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for SunTracker\BOM\Import_to_inventory-SunTracker.txt
-DItemRevisionGUID=
+[ProjectVariant1]
+UniqueID=7E453D3D-159A-4062-9939-D23AD448D894
+Description=Default_SMD
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=R604|UniqueId=\RISYBWSK\PEISIMIQ|Kind=1|AlternatePart= 
+Variation2=Designator=R605|UniqueId=\RISYBWSK\YFSKDHIR|Kind=1|AlternatePart= 
+Variation3=Designator=R608|UniqueId=\RISYBWSK\SDBILETK|Kind=1|AlternatePart= 
+Variation4=Designator=R609|UniqueId=\RISYBWSK\KJXDYUVY|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Configuration1]
 Name=Default Configuration
@@ -1187,6 +1187,7 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+MultiChannelAlternate=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
