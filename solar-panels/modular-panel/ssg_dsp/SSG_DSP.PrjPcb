@@ -157,7 +157,33 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VSDEKROA
 
+[ProjectVariant1]
+UniqueID=CF91BA79-2675-4063-81B3-ABD3C694C2EC
+Description=No_Block
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=D21|UniqueId=\JFVBSPCM|Kind=1|AlternatePart= 
+Variation2=Designator=D20|UniqueId=\WOGPOKFI|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=A0D98A37-58B6-47C6-B996-2F84891659C2
+Description=SSG_DSP_ADD0
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=D20|UniqueId=\WOGPOKFI|Kind=1|AlternatePart= 
+Variation2=Designator=D21|UniqueId=\JFVBSPCM|Kind=1|AlternatePart= 
+Variation3=Designator=R7|UniqueId=\GYCKHUQY|Kind=1|AlternatePart= 
+Variation4=Designator=R8|UniqueId=\TPMIMULA|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for SSG_DSP\Design Rule Check - SSG_DSP_CESI.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=..\..\..\..\interstage-gssb\V2.1\Project Outputs for interstageV2.1\Bill of Materials\gs-bom-Dual-Cell_Project-[No Variations].xls.xls
 DItemRevisionGUID=
 
@@ -354,7 +380,7 @@ OutputName9=Schematic Prints
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.52|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=600|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration9_Name1=OutputConfigurationParameter1
 Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType10=SimView Print
@@ -1061,6 +1087,7 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+MultiChannelAlternate=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
