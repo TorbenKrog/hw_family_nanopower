@@ -259,6 +259,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YUNQJRGL
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for acu\Design Rule Check - acu.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Pcb_Revision
 Value=1
