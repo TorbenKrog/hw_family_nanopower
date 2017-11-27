@@ -162,9 +162,7 @@ UniqueID=CF91BA79-2675-4063-81B3-ABD3C694C2EC
 Description=No_Block
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
-Variation1=Designator=D21|UniqueId=\JFVBSPCM|Kind=1|AlternatePart= 
-Variation2=Designator=D20|UniqueId=\WOGPOKFI|Kind=1|AlternatePart= 
+VariationCount=0
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -172,11 +170,9 @@ UniqueID=A0D98A37-58B6-47C6-B996-2F84891659C2
 Description=SSG_DSP_ADD0
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
-Variation1=Designator=D20|UniqueId=\WOGPOKFI|Kind=1|AlternatePart= 
-Variation2=Designator=D21|UniqueId=\JFVBSPCM|Kind=1|AlternatePart= 
-Variation3=Designator=R7|UniqueId=\GYCKHUQY|Kind=1|AlternatePart= 
-Variation4=Designator=R8|UniqueId=\TPMIMULA|Kind=1|AlternatePart= 
+VariationCount=2
+Variation1=Designator=R7|UniqueId=\GYCKHUQY|Kind=1|AlternatePart= 
+Variation2=Designator=R8|UniqueId=\TPMIMULA|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
