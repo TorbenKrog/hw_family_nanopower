@@ -412,6 +412,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPHPBXJB
 
+[Document23]
+DocumentPath=deploy_gan.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=21
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FWQXBIFA
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for pmu\Bill of Materials\gs-bom-pmu-[No Variations].xls.csv
 DItemRevisionGUID=
@@ -1449,18 +1466,18 @@ IndexEnabled7=0
 IndexStartValue7=1
 Suffix7=
 UniqueIDPath8=\ULAPOLOW
-DocumentName8=deploy.SchDoc
+DocumentName8=deploy_gan.SchDoc
 IsEnabled8=1
 SelectionScope8=All
-Order8=9
+Order8=35
 IndexEnabled8=0
 IndexStartValue8=1
 Suffix8=
-UniqueIDPath9=\CTUKQDFE
-DocumentName9=deploy.SchDoc
+UniqueIDPath9=\CXDWGAIQ
+DocumentName9=deploy_gan.SchDoc
 IsEnabled9=1
 SelectionScope9=All
-Order9=10
+Order9=36
 IndexEnabled9=0
 IndexStartValue9=1
 Suffix9=
