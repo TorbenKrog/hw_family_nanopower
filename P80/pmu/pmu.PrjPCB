@@ -226,23 +226,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EWVFJIFO
 
 [Document12]
-DocumentPath=deploy.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=12
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=15
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KRYWCMHA
-
-[Document13]
 DocumentPath=Gomspace_vault3.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=bat_int.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=15
@@ -276,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCACQGIL
 
-[Document15]
+[Document14]
 DocumentPath=bat_con.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=16
@@ -293,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KQEFEWXC
 
-[Document16]
+[Document15]
 DocumentPath=fpp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=17
@@ -310,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACRXXTLC
 
-[Document17]
+[Document16]
 DocumentPath=vbat_breaker.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=18
@@ -327,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFITOVSF
 
-[Document18]
+[Document17]
 DocumentPath=pmu.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=POCISTHC
 
-[Document19]
+[Document18]
 DocumentPath=pmu.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=lsw.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEYUIYFQ
 
-[Document21]
+[Document20]
 DocumentPath=i2c_isolator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -395,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOUCMJGB
 
-[Document22]
+[Document21]
 DocumentPath=ks.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPHPBXJB
 
-[Document23]
+[Document22]
 DocumentPath=deploy_gan.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,6 +411,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWQXBIFA
+
+[Document23]
+DocumentPath=int_lsw.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GWTARQFO
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for pmu\Bill of Materials\gs-bom-pmu-[No Variations].xls.csv
