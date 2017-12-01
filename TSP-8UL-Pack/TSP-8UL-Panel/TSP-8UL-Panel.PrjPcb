@@ -137,39 +137,17 @@ UniqueID=CC218F41-CEFA-4BE4-B6BC-77957B606B76
 Description=FSS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
+VariationCount=6
 Variation1=Designator=R8|UniqueId=\TPMIMULA|Kind=1|AlternatePart= 
 Variation2=Designator=R7|UniqueId=\GYCKHUQY|Kind=1|AlternatePart= 
 Variation3=Designator=J7|UniqueId=\QFBLFVUI|Kind=1|AlternatePart= 
 Variation4=Designator=C2|UniqueId=\OIIGHJOH|Kind=1|AlternatePart= 
+Variation5=Designator=R13|UniqueId=\MYNSSPMX|Kind=1|AlternatePart= 
+Variation6=Designator=R14|UniqueId=\BUMQBWQO|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for TSP-8UL-Panel\BOM\Bill of Materials-TSP-8UL-Panel(FSS).xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for TSP-8UL-Panel\Design Rule Check - TSP-8UL-Panel.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for TSP-8UL-Panel\Bill of Materials\gs-bom-TSP-8UL-Panel-FSS.xls.xls
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for TSP-8UL-Panel\BOM\gs-bomIFS-TSP-8UL-Panel-FSS.csv
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for TSP-8UL-Panel\BOM\gs-bomIFS-TSP-8UL-Panel-FSS.txt
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for TSP-8UL-Panel\BOM\gs-bomIFS-TSP-8UL-Panel-FSS.xls
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for ant6f_UHF\gs-bomIFS-TSP-8UL-Panel-PCB34UHF_Mode2_470MHz(Elmatica).xls
 DItemRevisionGUID=
 
 [Configuration1]
