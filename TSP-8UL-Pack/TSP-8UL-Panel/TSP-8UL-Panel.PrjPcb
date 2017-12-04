@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for TSP-8UL-Panel
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -137,39 +137,17 @@ UniqueID=CC218F41-CEFA-4BE4-B6BC-77957B606B76
 Description=FSS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
+VariationCount=6
 Variation1=Designator=R8|UniqueId=\TPMIMULA|Kind=1|AlternatePart= 
 Variation2=Designator=R7|UniqueId=\GYCKHUQY|Kind=1|AlternatePart= 
 Variation3=Designator=J7|UniqueId=\QFBLFVUI|Kind=1|AlternatePart= 
 Variation4=Designator=C2|UniqueId=\OIIGHJOH|Kind=1|AlternatePart= 
+Variation5=Designator=R13|UniqueId=\MYNSSPMX|Kind=1|AlternatePart= 
+Variation6=Designator=R14|UniqueId=\BUMQBWQO|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for TSP-8UL-Panel\BOM\Bill of Materials-TSP-8UL-Panel(FSS).xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for TSP-8UL-Panel\Design Rule Check - TSP-8UL-Panel.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for TSP-8UL-Panel\Bill of Materials\gs-bom-TSP-8UL-Panel-FSS.xls.xls
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for TSP-8UL-Panel\BOM\gs-bomIFS-TSP-8UL-Panel-FSS.csv
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for TSP-8UL-Panel\BOM\gs-bomIFS-TSP-8UL-Panel-FSS.txt
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for TSP-8UL-Panel\BOM\gs-bomIFS-TSP-8UL-Panel-FSS.xls
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for ant6f_UHF\gs-bomIFS-TSP-8UL-Panel-PCB34UHF_Mode2_470MHz(Elmatica).xls
 DItemRevisionGUID=
 
 [Configuration1]
@@ -183,7 +161,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for TSP-8UL-Panel
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -803,46 +781,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad SDT Schematic
-OutputName12=Orcad SDT Schematic (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Orcad v7 Capture Design
-OutputName13=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD ASCII
-OutputName14=P-CAD ASCII (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD V16 Schematic Design
-OutputName15=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Protel PCB 2.8 ASCII
-OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
