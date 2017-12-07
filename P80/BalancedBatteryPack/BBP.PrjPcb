@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for BBP
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -294,7 +294,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
-DocumentPath=BBP_vertical.PcbDoc
+DocumentPath=BBP_No_Heater.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -312,6 +312,23 @@ DocumentUniqueId=ANMHIODG
 
 [Document17]
 DocumentPath=BBP.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document18]
+DocumentPath=Gomspace_vault4.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -386,119 +403,347 @@ Variation9=Designator=R145|UniqueId=\QKSJKGFA\SXAHGVVG|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project_Outputs\NC Drill Files\BBP_default.DRR
+DocumentPath=Project_Outputs\NC Drill Files\BBP_default-Plated.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.EXTREP
+DocumentPath=Project_Outputs\NC Drill Files\BBP_default-Plated.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.G1
+DocumentPath=Project_Outputs\NC Drill Files\BBP_default-Plated.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.G2
+DocumentPath=Project_Outputs\NC Drill Files\BBP_default-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.G3
+DocumentPath=Project_Outputs\NC Drill Files\BBP_default-RectHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.G4
+DocumentPath=Project_Outputs\NC Drill Files\BBP_default.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.G5
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.G6
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.G1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBL
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.G2
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBO
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.G3
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBP
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.G4
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBP1
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.G5
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBS
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.G6
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBS1
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GM1
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTL
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTO
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBP1
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTP
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTP1
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBS1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTS
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GCB2
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTS1
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GCT2
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project_Outputs\NC Drill Files\BBP_default.LDP
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.REP
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.RUL
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for BBP\Design Rule Check - BBP_vertical.html
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for BBP\Singleline_import_to_inventory\gs-bom-BBP-ALL MOUNT.xls.txt
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for BBP\Bill of Materials\gs-bom-BBP-ALL MOUNT.xls.xls
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for BBP\Singleline_import_to_inventory\gs-bom-BBP-default.xls.txt
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTP1
 DItemRevisionGUID=
 
 [GeneratedDocument29]
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTS1
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project_Outputs\NC Drill Files\BBP_default.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.REP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project_Outputs\ODB++ Files\BBP_default.REP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project_Outputs\Gerber Files\BBP_default.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for BBP\Design Rule Check - BBP_No_Heater.html
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for BBP\Design Rule Check - BBP_vertical.html
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_side_components\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottomcoverlay2_mask\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_13\features
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_17\features
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\power_layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\power_layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\signal_layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\signal_layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\signal_layer_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\signal_layer_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\stack_1_bottom_coverlay_1__flex_stack_\features
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\stack_1_top_coverlay_1__flex_stack_\features
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_side_components\features
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\topcoverlay2_mask\features
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for BBP\gs-bom-BBP-[No Variations].xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for BBP\Singleline_import_to_inventory\gs-bom-BBP-ALL MOUNT.xls.txt
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for BBP\Bill of Materials\gs-bom-BBP-ALL MOUNT.xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for BBP\Singleline_import_to_inventory\gs-bom-BBP-default.xls.txt
+DItemRevisionGUID=
+
+[GeneratedDocument69]
 DocumentPath=Project Outputs for BBP\Bill of Materials\gs-bom-BBP-default.xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for BBP\gs-bom-BBP-default.xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for ant6f_UHF\gs-bomIFS-BBP-[No Variations].csv
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs\gs-bomIFS-BBP-default.csv
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for ant6f_UHF\gs-bomIFS-BBP-default.csv
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for ant6f_UHF\gs-bomPp-BBP-[No Variations].txt
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs\gs-bomPp-BBP-default.txt
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for ant6f_UHF\gs-bomPp-BBP-default.txt
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\tools
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\stack_1_bottom_coverlay_1__flex_stack_\tools
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\stack_1_top_coverlay_1__flex_stack_\tools
 DItemRevisionGUID=
 
 [Parameter1]
@@ -520,7 +765,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for BBP
 
 [OutputGroup1]
 Name=Netlist Outputs
