@@ -501,6 +501,14 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for BBP\Bill of Materials\gs-bom-BBP-default.xls.xls
 DItemRevisionGUID=
 
+[Parameter1]
+Name=PCB Revision
+Value=1
+
+[Parameter2]
+Name=Title
+Value=BP8
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
