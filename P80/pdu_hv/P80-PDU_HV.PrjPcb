@@ -73,23 +73,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KGPQEKUV
 
 [Document3]
-DocumentPath=500mA_Switch_Latch-up.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UYEKNDYR
-
-[Document4]
 DocumentPath=1000mA_Switch_Latch-up.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOOLIKCJ
 
-[Document5]
+[Document4]
 DocumentPath=ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YMMJUFXT
 
-[Document6]
+[Document5]
 DocumentPath=P.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSIIJFEG
 
-[Document7]
+[Document6]
 DocumentPath=PDU200.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWJROMXV
 
-[Document8]
+[Document7]
 DocumentPath=BUCK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NFULLILE
 
-[Document9]
+[Document8]
 DocumentPath=Selector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMLIRYFR
 
-[Document10]
+[Document9]
 DocumentPath=single-buck.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XYFEBQBJ
 
-[Document11]
+[Document10]
 DocumentPath=main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEBGMGFD
 
-[Document12]
+[Document11]
 DocumentPath=P80-PDU_HV.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=Gomspace_vault3.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=lsw.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEYUIYFQ
 
-[Document15]
+[Document14]
 DocumentPath=en_sel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MXTCQCUH
 
-[Document16]
+[Document15]
 DocumentPath=i2c_isolator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,6 +292,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOUCMJGB
+
+[Document16]
+DocumentPath=HV_Switch_Latch-up.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UYEKNDYR
 
 [ProjectVariant1]
 UniqueID=99AB7524-76B8-42C9-B6DB-6288FF207660
