@@ -1371,7 +1371,6 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
-MultiChannelAlternate=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1570,11 +1569,11 @@ Order20=21
 IndexEnabled20=0
 IndexStartValue20=1
 Suffix20=
-UniqueIDPath21=\UDGJVUMK
+UniqueIDPath21=\XNNPFLUJ
 DocumentName21=main_bus.SchDoc
 IsEnabled21=1
 SelectionScope21=All
-Order21=38
+Order21=22
 IndexEnabled21=0
 IndexStartValue21=1
 Suffix21=
