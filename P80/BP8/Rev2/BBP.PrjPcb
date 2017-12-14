@@ -402,126 +402,6 @@ Variation8=Designator=D17|UniqueId=\LKQJFNUT\YCUMONJX|Kind=1|AlternatePart=
 Variation9=Designator=R145|UniqueId=\QKSJKGFA\SXAHGVVG|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project_Outputs\NC Drill Files\BBP_default-Plated.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project_Outputs\NC Drill Files\BBP_default-Plated.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project_Outputs\NC Drill Files\BBP_default-Plated.TX3
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project_Outputs\NC Drill Files\BBP_default-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project_Outputs\NC Drill Files\BBP_default-RectHoles-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project_Outputs\NC Drill Files\BBP_default.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.G1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.G2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.G3
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.G4
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.G5
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.G6
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBP1
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GBS1
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GCB2
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GCT2
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.GTP1
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project_Outputs\NC Drill Files\BBP_default.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.REP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project_Outputs\Gerber Files\BBP_default.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for BBP\Design Rule Check - BBP_vertical.html
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs\gs-bomIFS-BBP-default.csv
-DItemRevisionGUID=
-
 [Parameter1]
 Name=PCB Revision
 Value=1
@@ -546,7 +426,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=\\PRINT01\Aal_adm01
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -677,7 +557,7 @@ OutputDefault25=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\PRINT01\Aal_adm01
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -832,7 +712,7 @@ PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=\\PRINT01\Aal_adm01
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -930,7 +810,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=\\PRINT01\Aal_adm01
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -967,7 +847,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=\\PRINT01\Aal_adm01
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1147,7 +1027,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=\\PRINT01\Aal_adm01
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -1186,7 +1066,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=\\PRINT01\Aal_adm01
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1237,7 +1117,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=\\PRINT01\Aal_adm01
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
