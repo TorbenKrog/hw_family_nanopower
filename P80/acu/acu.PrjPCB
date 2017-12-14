@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for acu
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -572,11 +572,19 @@ Variation35=Designator=C256|UniqueId=\MCYFPYFN\KQWMPXCQ\EMUQGEVS|Kind=1|Alternat
 ParamVariationCount=126
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for acu\BOM\Import_to_inventory-acu(default_SMD).txt
+DocumentPath=Project Outputs for acu\gs-bom-acu-default_SMD.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for acu\BOM\Internal_BOM-acu(default_SMD).xls
+DocumentPath=Project Outputs for acu\gs-bom-acu-default_SMD.xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for acu\BOM\gs-bomIFS-acu-default_SMD.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for acu\BOM\gs-bomPp-acu-default_SMD.txt
 DItemRevisionGUID=
 
 [Parameter1]
@@ -602,7 +610,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for acu
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
