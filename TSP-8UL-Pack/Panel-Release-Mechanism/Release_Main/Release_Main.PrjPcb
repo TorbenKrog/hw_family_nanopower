@@ -56,23 +56,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BFIBKIPG
 
 [Document2]
-DocumentPath=Release_Main.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LCELFGHX
-
-[Document3]
 DocumentPath=..\..\..\..\library\gomspace\template\Gomspace_vault4.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,6 +72,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document3]
+DocumentPath=Release_Main.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JSCIPTHG
+
 [ProjectVariant1]
 UniqueID=775BC506-341E-47F7-B014-508C366FA825
 Description=Resistors
@@ -101,7 +101,15 @@ Variation3=Designator=R5|UniqueId=\MCLPNYGN|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=..\..\TSP-8UL-Panel\Project Outputs for ant6f_UHF\gs-bomIFS-Release_Main-[No Variations].xls
+DocumentPath=..\..\..\solar-panels\modular-panel\gssb\CAM\BOM\gs-bomIFS-Release_Main-[No Variations].csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Release_Main\BOM\gs-bomIFS-Release_Main-[No Variations].csv
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Release_Main\BOM\Release_Main.csv
 DItemRevisionGUID=
 
 [SearchPath1]
