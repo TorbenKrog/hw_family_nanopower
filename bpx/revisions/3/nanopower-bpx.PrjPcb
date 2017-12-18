@@ -141,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [ProjectVariant1]
-UniqueID=6C7D69DB-C82C-48D6-9E44-889F8D3739C0
+UniqueID=CA481EB2-8F05-4857-BC02-434B809711F9
 Description=default_SMD
 AllowFabrication=0
 ParameterCount=0
@@ -158,7 +158,7 @@ Variation9=Designator=PGND1|UniqueId=\OWYGPNOK|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
-UniqueID=08C87B99-C0C8-4056-880D-DFF2908FB6B9
+UniqueID=B4B39CCF-4603-4CF2-844A-25C770D96D8A
 Description=Option_1_P31U_(8V_2S-4P and 16V_4S-2P)
 AllowFabrication=0
 ParameterCount=0
@@ -232,7 +232,7 @@ Variation12=Designator=Rsda|UniqueId=\DQTFNHYW\RBXGPLWI|Kind=1|AlternatePart=
 ParamVariationCount=27
 
 [ProjectVariant3]
-UniqueID=09006371-C77F-486A-81A9-AD5049572318
+UniqueID=45F7F608-56A7-4CBD-BB79-5E557591D408
 Description=Option_2_P60_(8V_2S-4P and 16V_4S-2P)
 AllowFabrication=0
 ParameterCount=0
@@ -245,11 +245,11 @@ Variation5=Designator=R3|UniqueId=\MBGGRQSP\SFMLBAWL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant4]
-UniqueID=CB94C930-B7AD-4883-900A-7C14F07C5EED
+UniqueID=370A1955-89E3-4849-9966-D7FB21AA60D2
 Description=Option_2_P60_(32V_8S-1P)
 AllowFabrication=0
 ParameterCount=0
-VariationCount=9
+VariationCount=8
 Variation1=Designator=Rks3|UniqueId=\MBGGRQSP\GNSRMPGF|Kind=1|AlternatePart= 
 Variation2=Designator=Rks4|UniqueId=\MBGGRQSP\CUITKQAQ|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Yageo$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=40603533|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Yageo$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC0603(1608)_N|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue==Value
@@ -307,10 +307,9 @@ ParamDesignator26=Rks4
 ParamVariation27=ParameterName=Value|VariantValue=301K
 ParamDesignator27=Rks4
 Variation3=Designator=C101|UniqueId=\MBGGRQSP\IGQTUJGP|Kind=1|AlternatePart= 
-Variation4=Designator=R1|UniqueId=\MBGGRQSP\CLLQCUMK|Kind=0|AlternatePart= 
-Variation5=Designator=CXTAL1|UniqueId=\DQTFNHYW\ADCRQFWW|Kind=1|AlternatePart= 
-Variation6=Designator=CXTAL2|UniqueId=\DQTFNHYW\MVLTKCWY|Kind=1|AlternatePart= 
-Variation7=Designator=Rbatm|UniqueId=\MBGGRQSP\FJQBEAEN|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030505|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC2512(6432)_N|AltLibLink_IsSameFootprint=True
+Variation4=Designator=CXTAL1|UniqueId=\DQTFNHYW\ADCRQFWW|Kind=1|AlternatePart= 
+Variation5=Designator=CXTAL2|UniqueId=\DQTFNHYW\MVLTKCWY|Kind=1|AlternatePart= 
+Variation6=Designator=Rbatm|UniqueId=\MBGGRQSP\FJQBEAEN|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Resistors$|AltLibLink_SymbolReference=Res|AltLibLink_DesignItemID=46030505|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RESC2512(6432)_N|AltLibLink_IsSameFootprint=True
 ParamVariation28=ParameterName=Comment|VariantValue==Value
 ParamDesignator28=Rbatm
 ParamVariation29=ParameterName=Component Kind|VariantValue=Standard
@@ -369,18 +368,68 @@ ParamVariation55=ParameterName=Temperature|VariantValue=-55°C ~ 170°C
 ParamDesignator55=Rbatm
 ParamVariation56=ParameterName=Value|VariantValue=0.015R
 ParamDesignator56=Rbatm
-Variation8=Designator=C100|UniqueId=\MBGGRQSP\URTLOOOA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Capacitors$|AltLibLink_SymbolReference=Capacitor np|AltLibLink_DesignItemID=10000016|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
+Variation7=Designator=C100|UniqueId=\MBGGRQSP\URTLOOOA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Gomspace_Database_Libs.DbLib/Capacitors$|AltLibLink_SymbolReference=Capacitor np|AltLibLink_DesignItemID=10000016|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Gomspace_Database_Libs.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Capacitors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
 ParamVariation57=ParameterName=Comment|VariantValue==Value
 ParamDesignator57=C100
 ParamVariation58=ParameterName=Description|VariantValue=CAP CER 1.5nF 50V 10% X7R 0603
 ParamDesignator58=C100
 ParamVariation59=ParameterName=Footprint|VariantValue=CAPC0603(1608)_N
 ParamDesignator59=C100
-Variation9=Designator=R3|UniqueId=\MBGGRQSP\SFMLBAWL|Kind=1|AlternatePart= 
-ParamVariationCount=59
+ParamVariation60=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator60=C100
+ParamVariation61=ParameterName=Database Table Name|VariantValue=Capacitors$
+ParamDesignator61=C100
+ParamVariation62=ParameterName=Height|VariantValue=0.87mm
+ParamDesignator62=C100
+ParamVariation63=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator63=C100
+ParamVariation64=ParameterName=Library Reference|VariantValue=10000016
+ParamDesignator64=C100
+ParamVariation65=ParameterName=Manufacturer|VariantValue=KEMET
+ParamDesignator65=C100
+ParamVariation66=ParameterName=Manufacturer number|VariantValue=C0603C152K5RACTU
+ParamDesignator66=C100
+ParamVariation67=ParameterName=Package|VariantValue=0603 (1608 Metric)
+ParamDesignator67=C100
+ParamVariation68=ParameterName=PAR1|VariantValue=Voltage: 50V
+ParamDesignator68=C100
+ParamVariation69=ParameterName=PAR3|VariantValue=Tolerance: 10%
+ParamDesignator69=C100
+ParamVariation70=ParameterName=PAR4|VariantValue=Temperature Coefficient: X7R
+ParamDesignator70=C100
+ParamVariation71=ParameterName=Part_Type|VariantValue=Capacitor
+ParamDesignator71=C100
+ParamVariation72=ParameterName=Part Number|VariantValue=10000016
+ParamDesignator72=C100
+ParamVariation73=ParameterName=Part status|VariantValue=Prototype
+ParamDesignator73=C100
+ParamVariation74=ParameterName=PCB3D|VariantValue= 
+ParamDesignator74=C100
+ParamVariation75=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator75=C100
+ParamVariation76=ParameterName=Simulation|VariantValue= 
+ParamDesignator76=C100
+ParamVariation77=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator77=C100
+ParamVariation78=ParameterName=Supplier 2|VariantValue=Farnell
+ParamDesignator78=C100
+ParamVariation79=ParameterName=Supplier 4|VariantValue=Gomspace ApS
+ParamDesignator79=C100
+ParamVariation80=ParameterName=Supplier Part Number 1|VariantValue=399-1084-1-ND
+ParamDesignator80=C100
+ParamVariation81=ParameterName=Supplier Part Number 2|VariantValue=1414617
+ParamDesignator81=C100
+ParamVariation82=ParameterName=Supplier Part Number 4|VariantValue=754
+ParamDesignator82=C100
+ParamVariation83=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
+ParamDesignator83=C100
+ParamVariation84=ParameterName=Value|VariantValue=1.5nF
+ParamDesignator84=C100
+Variation8=Designator=R3|UniqueId=\MBGGRQSP\SFMLBAWL|Kind=1|AlternatePart= 
+ParamVariationCount=84
 
 [ProjectVariant5]
-UniqueID=DF89EFEB-0A79-4802-B004-462FB6D6AA40
+UniqueID=6C6E81C7-C2CC-4EB5-BF4A-C032088A530F
 Description=Option_3_P60_(8V_2S-4P and 16V_4S-2P)
 AllowFabrication=0
 ParameterCount=0
@@ -393,7 +442,7 @@ Variation5=Designator=CXTAL2|UniqueId=\DQTFNHYW\MVLTKCWY|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant6]
-UniqueID=08180E6F-5B2D-42B8-B0F4-EFD406840BC2
+UniqueID=59465FA7-6ABB-455B-B24A-85DF106078DA
 Description=Option_3_P60_(32V_8S-1P)
 AllowFabrication=0
 ParameterCount=0
@@ -577,27 +626,7 @@ ParamDesignator84=C100
 ParamVariationCount=84
 
 [GeneratedDocument1]
-DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_default_SMD.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_Option_1_P31U_(8V_2S-4P and 16V_4S-2P).xls
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_Option_2_P60_(8V_2S-4P and 16V_4S-2P).xls
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_Option_2_P60_(32V_8S-1P).xls
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_Option_3_P60_(8V_2S-4P and 16V_4S-2P).xls
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_Option_3_P60_(32V_8S-1P).xls
 DItemRevisionGUID=
 
 [SearchPath1]
