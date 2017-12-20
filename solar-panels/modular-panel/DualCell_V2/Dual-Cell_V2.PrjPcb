@@ -106,6 +106,37 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCRFWESH
 
+[Document5]
+DocumentPath=..\..\..\..\library\gomspace\template\Gomspace_vault4.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=35782AB4-525F-46AE-9A50-84278A5C6128
+Description=NoSens_NoFlex
+AllowFabrication=0
+ParameterCount=0
+VariationCount=6
+Variation1=Designator=J2|UniqueId=\WLTQSPGK|Kind=1|AlternatePart= 
+Variation2=Designator=J1|UniqueId=\RBFRHRDH|Kind=1|AlternatePart= 
+Variation3=Designator=D1|UniqueId=\OQVHNCOD|Kind=1|AlternatePart= 
+Variation4=Designator=TR1|UniqueId=\ATKFJUFB|Kind=1|AlternatePart= 
+Variation5=Designator=PCB1|UniqueId=\YOKEDGLG|Kind=1|AlternatePart= 
+Variation6=Designator=PCB2|UniqueId=\ECRKSUKG|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Dual-Cell_V2\Design Rule Check - Dual-Cell_V2.html
 DItemRevisionGUID=
@@ -1014,6 +1045,7 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+MultiChannelAlternate=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
