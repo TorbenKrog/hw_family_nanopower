@@ -248,10 +248,10 @@ Description=NOR-FLASH variant
 AllowFabrication=0
 ParameterCount=0
 VariationCount=4
-Variation1=Designator=MicroSD|UniqueId=\UDDNIHHK|Kind=1|AlternatePart= 
-Variation2=Designator=BT1|UniqueId=\XLNRSIQL|Kind=1|AlternatePart= 
-Variation3=Designator=C24|UniqueId=\YILQKDWA|Kind=1|AlternatePart= 
-Variation4=Designator=C29|UniqueId=\CNYFFEYK|Kind=1|AlternatePart= 
+Variation1=Designator=C24|UniqueId=\FQUBUWCG\BJDYDHXT\AQDRCYXQ|Kind=1|AlternatePart= 
+Variation2=Designator=C29|UniqueId=\FQUBUWCG\BJDYDHXT\PSDMVSDK|Kind=1|AlternatePart= 
+Variation3=Designator=R397|UniqueId=\FQUBUWCG\FGGSHWWA\FIBVRCTU|Kind=1|AlternatePart= 
+Variation4=Designator=R398|UniqueId=\FQUBUWCG\FGGSHWWA\BIKKJHYH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [SearchPath1]
