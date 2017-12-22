@@ -101,14 +101,18 @@ Variation3=Designator=R5|UniqueId=\MCLPNYGN|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=..\..\..\solar-panels\modular-panel\gssb\CAM\BOM\gs-bomIFS-Release_Main-[No Variations].csv
+DocumentPath=Project Outputs for Release_Main\Design Rule Check - Release_Main.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Release_Main\BOM\gs-bomIFS-Release_Main-[No Variations].csv
+DocumentPath=..\..\..\solar-panels\modular-panel\gssb\CAM\BOM\gs-bomIFS-Release_Main-[No Variations].csv
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for Release_Main\BOM\gs-bomIFS-Release_Main-[No Variations].csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Release_Main\BOM\Release_Main.csv
 DItemRevisionGUID=
 

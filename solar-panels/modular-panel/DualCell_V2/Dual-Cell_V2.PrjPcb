@@ -73,23 +73,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FVUQTDCM
 
 [Document3]
-DocumentPath=Dual-Cell_V2.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=Dual-Cell_V2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,8 +89,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCRFWESH
 
-[Document5]
+[Document4]
 DocumentPath=..\..\..\..\library\gomspace\template\Gomspace_vault4.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=Dual-Cell_V2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -143,6 +143,10 @@ DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=..\..\..\..\interstage-gssb\V2.1\Project Outputs for interstageV2.1\Bill of Materials\gs-bom-Dual-Cell_Project-[No Variations].xls.xls
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Dual-Cell_V2\gs-bom-Dual-Cell_V2-NoSens_NoFlex.csv
 DItemRevisionGUID=
 
 [Configuration1]
