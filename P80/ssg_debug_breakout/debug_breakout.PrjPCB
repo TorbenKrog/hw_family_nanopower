@@ -72,6 +72,47 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPBIPKCO
 
+[ProjectVariant1]
+UniqueID=70E55C39-AA9B-4408-AC6E-44B59C658F6B
+Description=test
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=R1|UniqueId=\EWAQWYXE|Kind=2|AlternatePart=100k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0097-2|AltLibLink_DesignItemID=CMP-005-0097-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=88680DC7-8758-4B7A-B83A-16A8DC35E06B|AltLibLink_RevisionGUID=93A5CE98-B50A-432C-889A-A6B4909F5260|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=100k
+ParamDesignator1=R1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=R1
+ParamVariation3=ParameterName=Description|VariantValue=RES SMD 100K OHM 1% 1/16W 0402
+ParamDesignator3=R1
+ParamVariation4=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator4=R1
+ParamVariation5=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator5=R1
+ParamVariation6=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator6=R1
+ParamVariation7=ParameterName=InternalID|VariantValue=105203
+ParamDesignator7=R1
+ParamVariation8=ParameterName=Library Reference|VariantValue=CMP-005-0097-2
+ParamDesignator8=R1
+ParamVariation9=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator9=R1
+ParamVariation10=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF1003X
+ParamDesignator10=R1
+ParamVariation11=ParameterName=Part Number|VariantValue=ERJ-2RKF1003X
+ParamDesignator11=R1
+ParamVariation12=ParameterName=PCB3D|VariantValue= 
+ParamDesignator12=R1
+ParamVariation13=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator13=R1
+ParamVariation14=ParameterName=Simulation|VariantValue= 
+ParamDesignator14=R1
+ParamVariation15=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator15=R1
+ParamVariation16=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator16=R1
+ParamVariationCount=16
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for debug_breakout\Design Rule Check - ssg_breakout.html
 DItemRevisionGUID=
@@ -391,6 +432,10 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=oss","Thick Cross","Small Cross",Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|???
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
