@@ -1,0 +1,10 @@
+* Changes for revision 2
+This document describes the changes that needs to be done going toward revision 2.
+All TODOS and IN PROGRESS needs to checked before routing.
+
+* IN PROGRESS Correct the footprint for TVS diode
+  - Diode body way to small in footprint.
+  - Footprint corrected, needs to be updated from Vault in schematics/PCB
+* IN PROGRESS Centre of MSS1P6 diode footprint is not correct
+  - Footprint corrected, needs to be updated from Vault in schematics/PCB
+

@@ -1,0 +1,5 @@
+* Changes needed
+This document describes the necessary changes that needs to happen going to revision 2.
+All TODOS and IN PROGRESS needs to checked before routing.
+
+* TODO 
