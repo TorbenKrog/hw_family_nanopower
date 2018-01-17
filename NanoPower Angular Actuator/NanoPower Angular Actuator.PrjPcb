@@ -224,7 +224,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TUXSCDUN
+DocumentUniqueId=BWUYRURM
 
 [Document12]
 DocumentPath=Gomspace_vault3.OutJob
@@ -254,26 +254,6 @@ Variation2=Designator=R610|UniqueId=\RISYBWSK\YFSKDHIR|Kind=1|AlternatePart=
 Variation3=Designator=R604|UniqueId=\RISYBWSK\SDBILETK|Kind=1|AlternatePart= 
 Variation4=Designator=R605|UniqueId=\RISYBWSK\KJXDYUVY|Kind=1|AlternatePart= 
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for SunTracker\Bill of Materials\gs-bom-NanoPower Angular Actuator-Default_SMD.xls.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for SunTracker\BOM\Import_to_inventory-NanoPower Angular Actuator(Default_SMD).txt
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for SunTracker\Pick Place\Pick Place for NanoPower Angular Actuator Main(Default_SMD).csv
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for SunTracker\BOM\Single_line_BOM-NanoPower Angular Actuator(Default_SMD).txt
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for SunTracker\BOM\Structure_to_IFS-NanoPower Angular Actuator(Default_SMD).csv
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
