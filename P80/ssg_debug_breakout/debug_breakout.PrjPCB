@@ -28,10 +28,9 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for debug_breakout
 LogFolderPath=
 ManagedProjectGUID=
-LinkedManagedProjectGUID=
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -49,7 +48,7 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -72,49 +71,165 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPBIPKCO
 
-[ProjectVariant1]
-UniqueID=70E55C39-AA9B-4408-AC6E-44B59C658F6B
-Description=test
-AllowFabrication=0
-ParameterCount=0
-VariationCount=1
-Variation1=Designator=R1|UniqueId=\EWAQWYXE|Kind=2|AlternatePart=100k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0097-2|AltLibLink_DesignItemID=CMP-005-0097-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=88680DC7-8758-4B7A-B83A-16A8DC35E06B|AltLibLink_RevisionGUID=93A5CE98-B50A-432C-889A-A6B4909F5260|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue=100k
-ParamDesignator1=R1
-ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator2=R1
-ParamVariation3=ParameterName=Description|VariantValue=RES SMD 100K OHM 1% 1/16W 0402
-ParamDesignator3=R1
-ParamVariation4=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
-ParamDesignator4=R1
-ParamVariation5=ParameterName=Height|VariantValue=0.40mm
-ParamDesignator5=R1
-ParamVariation6=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator6=R1
-ParamVariation7=ParameterName=InternalID|VariantValue=105203
-ParamDesignator7=R1
-ParamVariation8=ParameterName=Library Reference|VariantValue=CMP-005-0097-2
-ParamDesignator8=R1
-ParamVariation9=ParameterName=Manufacturer|VariantValue=6
-ParamDesignator9=R1
-ParamVariation10=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF1003X
-ParamDesignator10=R1
-ParamVariation11=ParameterName=Part Number|VariantValue=ERJ-2RKF1003X
-ParamDesignator11=R1
-ParamVariation12=ParameterName=PCB3D|VariantValue= 
-ParamDesignator12=R1
-ParamVariation13=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator13=R1
-ParamVariation14=ParameterName=Simulation|VariantValue= 
-ParamDesignator14=R1
-ParamVariation15=ParameterName=Symbol Name|VariantValue=Res
-ParamDesignator15=R1
-ParamVariation16=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
-ParamDesignator16=R1
-ParamVariationCount=16
+[Document3]
+DocumentPath=Gomspace_vault4.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project_Outputs\NC Drill Files\debug_breakout_[No Variations]-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project_Outputs\NC Drill Files\debug_breakout_[No Variations].DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project_Outputs\Gerber Files\debug_breakout_[No Variations].EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project_Outputs\Gerber Files\debug_breakout_[No Variations].GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project_Outputs\Gerber Files\debug_breakout_[No Variations].GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project_Outputs\Gerber Files\debug_breakout_[No Variations].GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project_Outputs\Gerber Files\debug_breakout_[No Variations].GM4
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project_Outputs\Gerber Files\debug_breakout_[No Variations].GM5
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project_Outputs\Gerber Files\debug_breakout_[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project_Outputs\Gerber Files\debug_breakout_[No Variations].GTP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project_Outputs\Gerber Files\debug_breakout_[No Variations].GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project_Outputs\NC Drill Files\debug_breakout_[No Variations].LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project_Outputs\Gerber Files\debug_breakout_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project_Outputs\ODB++ Files\debug_breakout_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project_Outputs\Gerber Files\debug_breakout_[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for debug_breakout\Design Rule Check - ssg_breakout.html
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for debug_breakout\BOM\gs-bomIFS-debug_breakout-[No Variations].csv
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for debug_breakout\BOM\gs-bomPp-debug_breakout-[No Variations].txt
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for debug_breakout\gs-Pp-debug_breakout-[No Variations].csv
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -126,6 +241,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for debug_breakout
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -232,22 +350,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=XSpice Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=\\SAFEQ01\SkyPrint
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -314,18 +422,6 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType11=Wave Print
-OutputName11=Wave Prints
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=WaveSim Print
-OutputName12=WaveSim Prints
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -731,6 +827,11 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Web ReviewOutputName
+OutputName10=Web Review Data
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -834,6 +935,27 @@ Type87=1
 Type88=1
 Type89=1
 Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
 
 [Difference Levels]
 Type1=1
@@ -885,6 +1007,19 @@ Type46=1
 Type47=1
 Type48=1
 Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1000,7 +1135,14 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
 MultiChannelAlternate=2
+AlternateItemFail=3
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
