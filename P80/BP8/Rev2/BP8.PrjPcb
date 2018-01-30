@@ -384,7 +384,7 @@ Description=default
 AllowFabrication=0
 ParameterCount=0
 VariationCount=8
-Variation1=Designator=R6|UniqueId=\WWNVWCMB\SNWCBEVT|Kind=1|AlternatePart= 
+Variation1=Designator=R6|UniqueId=\WWNVWCMB\VJWAIEVG|Kind=1|AlternatePart= 
 Variation2=Designator=R7|UniqueId=\WWNVWCMB\CWLHFNKX|Kind=1|AlternatePart= 
 Variation3=Designator=R5|UniqueId=\WWNVWCMB\JPYWMJKM|Kind=1|AlternatePart= 
 Variation4=Designator=C2|UniqueId=\WWNVWCMB\WODFFLOR|Kind=1|AlternatePart= 
@@ -410,7 +410,7 @@ ParameterCount=0
 VariationCount=9
 Variation1=Designator=C2|UniqueId=\WWNVWCMB\WODFFLOR|Kind=1|AlternatePart= 
 Variation2=Designator=R5|UniqueId=\WWNVWCMB\JPYWMJKM|Kind=1|AlternatePart= 
-Variation3=Designator=R6|UniqueId=\WWNVWCMB\SNWCBEVT|Kind=1|AlternatePart= 
+Variation3=Designator=R6|UniqueId=\WWNVWCMB\VJWAIEVG|Kind=1|AlternatePart= 
 Variation4=Designator=Rscl1|UniqueId=\MWAPYDBB\JINHLYMO|Kind=1|AlternatePart= 
 Variation5=Designator=R7|UniqueId=\WWNVWCMB\CWLHFNKX|Kind=1|AlternatePart= 
 Variation6=Designator=Rsda1|UniqueId=\MWAPYDBB\YCJMDGCI|Kind=1|AlternatePart= 
@@ -427,7 +427,7 @@ ParameterCount=0
 VariationCount=9
 Variation1=Designator=C2|UniqueId=\WWNVWCMB\WODFFLOR|Kind=1|AlternatePart= 
 Variation2=Designator=R5|UniqueId=\WWNVWCMB\JPYWMJKM|Kind=1|AlternatePart= 
-Variation3=Designator=R6|UniqueId=\WWNVWCMB\SNWCBEVT|Kind=1|AlternatePart= 
+Variation3=Designator=R6|UniqueId=\WWNVWCMB\VJWAIEVG|Kind=1|AlternatePart= 
 Variation4=Designator=Rscl1|UniqueId=\MWAPYDBB\JINHLYMO|Kind=1|AlternatePart= 
 Variation5=Designator=R7|UniqueId=\WWNVWCMB\CWLHFNKX|Kind=1|AlternatePart= 
 Variation6=Designator=Rsda1|UniqueId=\MWAPYDBB\YCJMDGCI|Kind=1|AlternatePart= 
@@ -705,12 +705,12 @@ DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\stack_1_top_coverl
 DItemRevisionGUID=
 
 [Parameter1]
-Name=PCB Revision
-Value=2
-
-[Parameter2]
 Name=Title
 Value=BP8
+
+[Parameter2]
+Name=PCB Revision
+Value=2
 
 [Configuration1]
 Name=Sources
@@ -1580,11 +1580,11 @@ Type6=2
 Type7=1
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=2
 Type13=2
-Type14=1
+Type14=0
 Type15=1
 Type16=1
 Type17=1
