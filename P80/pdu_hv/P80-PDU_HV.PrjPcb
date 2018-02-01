@@ -242,20 +242,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[ProjectVariant1]
-UniqueID=99AB7524-76B8-42C9-B6DB-6288FF207660
-Description=NOR-FLASH variant
-AllowFabrication=0
-ParameterCount=0
-VariationCount=6
-Variation1=Designator=C24|UniqueId=\FQUBUWCG\BJDYDHXT\AQDRCYXQ|Kind=1|AlternatePart= 
-Variation2=Designator=C29|UniqueId=\FQUBUWCG\FNYDUJRY\FSKSRIAV|Kind=1|AlternatePart= 
-Variation3=Designator=R397|UniqueId=\FQUBUWCG\FGGSHWWA\FIBVRCTU|Kind=1|AlternatePart= 
-Variation4=Designator=R398|UniqueId=\FQUBUWCG\FGGSHWWA\BIKKJHYH|Kind=1|AlternatePart= 
-Variation5=Designator=R14|UniqueId=\FQUBUWCG\UMRPITIN\PMMTGQVH|Kind=1|AlternatePart= 
-Variation6=Designator=R17|UniqueId=\FQUBUWCG\UMRPITIN\SNXPHLCN|Kind=1|AlternatePart= 
-ParamVariationCount=0
-
 [SearchPath1]
 Path=C:\Program Files\Altium Designer Summer 09\Library\*.*
 IncludeSubFolders=1
