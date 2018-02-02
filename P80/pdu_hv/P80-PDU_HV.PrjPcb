@@ -873,42 +873,42 @@ ParamVariation255=ParameterName=Simulation|VariantValue=
 ParamDesignator255=R343
 ParamVariation256=ParameterName=Temperature|VariantValue= 
 ParamDesignator256=R343
-Variation80=Designator=U91|UniqueId=\FQUBUWCG\BNBRYQUB\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-1|AltLibLink_DesignItemID=CMP-020-0183-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=308C4220-7272-4D6B-BD25-AE63FDE9A2D4|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
-ParamVariation257=ParameterName=Comment|VariantValue=LT6106
+Variation80=Designator=U91|UniqueId=\FQUBUWCG\BNBRYQUB\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-2|AltLibLink_DesignItemID=CMP-020-0183-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=3FA33E81-DA81-4CC7-A42F-C1C0AC59B8E3|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
+ParamVariation257=ParameterName=Footprint|VariantValue=SOT-23-5
 ParamDesignator257=U91
-ParamVariation258=ParameterName=Component Kind|VariantValue=Standard
+ParamVariation258=ParameterName=Height|VariantValue= 
 ParamDesignator258=U91
-ParamVariation259=ParameterName=Description|VariantValue=IC OPAMP CURR SENSE TSOT23-5
+ParamVariation259=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator259=U91
-ParamVariation260=ParameterName=Footprint|VariantValue=SOT-23-5
+ParamVariation260=ParameterName=InternalID|VariantValue=101059
 ParamDesignator260=U91
-ParamVariation261=ParameterName=Height|VariantValue= 
+ParamVariation261=ParameterName=Manufacturer|VariantValue=Linear Technology
 ParamDesignator261=U91
-ParamVariation262=ParameterName=Ibis Model|VariantValue= 
+ParamVariation262=ParameterName=Manufacturer number|VariantValue=LT6106HS5#TRPBF
 ParamDesignator262=U91
-ParamVariation263=ParameterName=InternalID|VariantValue=-
+ParamVariation263=ParameterName=Old DB Number|VariantValue= 
 ParamDesignator263=U91
-ParamVariation264=ParameterName=Library Reference|VariantValue=CMP-020-0183-1
+ParamVariation264=ParameterName=Part Number|VariantValue=LT6106HS5#TRPBF
 ParamDesignator264=U91
-ParamVariation265=ParameterName=Manufacturer|VariantValue=Linear Technology
+ParamVariation265=ParameterName=Part status|VariantValue= 
 ParamDesignator265=U91
-ParamVariation266=ParameterName=Manufacturer number|VariantValue=LT6106HS5#TRPBF
+ParamVariation266=ParameterName=PCB3D|VariantValue= 
 ParamDesignator266=U91
-ParamVariation267=ParameterName=Old DB Number|VariantValue= 
+ParamVariation267=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator267=U91
-ParamVariation268=ParameterName=Part Number|VariantValue=LT6106HS5#TRPBF
+ParamVariation268=ParameterName=Simulation|VariantValue= 
 ParamDesignator268=U91
-ParamVariation269=ParameterName=Part status|VariantValue= 
+ParamVariation269=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
 ParamDesignator269=U91
-ParamVariation270=ParameterName=PCB3D|VariantValue= 
+ParamVariation270=ParameterName=Comment|VariantValue=LT6106
 ParamDesignator270=U91
-ParamVariation271=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation271=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator271=U91
-ParamVariation272=ParameterName=Simulation|VariantValue= 
+ParamVariation272=ParameterName=Description|VariantValue=IC OPAMP CURR SENSE TSOT23-5
 ParamDesignator272=U91
-ParamVariation273=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
+ParamVariation273=ParameterName=Library Reference|VariantValue=CMP-020-0183-2
 ParamDesignator273=U91
-Variation81=Designator=U101|UniqueId=\FQUBUWCG\RSDEHPCV\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-1|AltLibLink_DesignItemID=CMP-020-0183-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=308C4220-7272-4D6B-BD25-AE63FDE9A2D4|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
+Variation81=Designator=U101|UniqueId=\FQUBUWCG\RSDEHPCV\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-2|AltLibLink_DesignItemID=CMP-020-0183-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=3FA33E81-DA81-4CC7-A42F-C1C0AC59B8E3|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
 ParamVariation274=ParameterName=Comment|VariantValue=LT6106
 ParamDesignator274=U101
 ParamVariation275=ParameterName=Component Kind|VariantValue=Standard
@@ -921,9 +921,9 @@ ParamVariation278=ParameterName=Height|VariantValue=
 ParamDesignator278=U101
 ParamVariation279=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator279=U101
-ParamVariation280=ParameterName=InternalID|VariantValue=-
+ParamVariation280=ParameterName=InternalID|VariantValue=101059
 ParamDesignator280=U101
-ParamVariation281=ParameterName=Library Reference|VariantValue=CMP-020-0183-1
+ParamVariation281=ParameterName=Library Reference|VariantValue=CMP-020-0183-2
 ParamDesignator281=U101
 ParamVariation282=ParameterName=Manufacturer|VariantValue=Linear Technology
 ParamDesignator282=U101
@@ -943,7 +943,7 @@ ParamVariation289=ParameterName=Simulation|VariantValue=
 ParamDesignator289=U101
 ParamVariation290=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
 ParamDesignator290=U101
-Variation82=Designator=U79|UniqueId=\FQUBUWCG\QNJNBTBY\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-1|AltLibLink_DesignItemID=CMP-020-0183-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=308C4220-7272-4D6B-BD25-AE63FDE9A2D4|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
+Variation82=Designator=U79|UniqueId=\FQUBUWCG\QNJNBTBY\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-2|AltLibLink_DesignItemID=CMP-020-0183-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=3FA33E81-DA81-4CC7-A42F-C1C0AC59B8E3|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
 ParamVariation291=ParameterName=Comment|VariantValue=LT6106
 ParamDesignator291=U79
 ParamVariation292=ParameterName=Component Kind|VariantValue=Standard
@@ -956,9 +956,9 @@ ParamVariation295=ParameterName=Height|VariantValue=
 ParamDesignator295=U79
 ParamVariation296=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator296=U79
-ParamVariation297=ParameterName=InternalID|VariantValue=-
+ParamVariation297=ParameterName=InternalID|VariantValue=101059
 ParamDesignator297=U79
-ParamVariation298=ParameterName=Library Reference|VariantValue=CMP-020-0183-1
+ParamVariation298=ParameterName=Library Reference|VariantValue=CMP-020-0183-2
 ParamDesignator298=U79
 ParamVariation299=ParameterName=Manufacturer|VariantValue=Linear Technology
 ParamDesignator299=U79
@@ -978,7 +978,7 @@ ParamVariation306=ParameterName=Simulation|VariantValue=
 ParamDesignator306=U79
 ParamVariation307=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
 ParamDesignator307=U79
-Variation83=Designator=U81|UniqueId=\FQUBUWCG\WOBTLSFD\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-1|AltLibLink_DesignItemID=CMP-020-0183-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=308C4220-7272-4D6B-BD25-AE63FDE9A2D4|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
+Variation83=Designator=U81|UniqueId=\FQUBUWCG\WOBTLSFD\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-2|AltLibLink_DesignItemID=CMP-020-0183-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=3FA33E81-DA81-4CC7-A42F-C1C0AC59B8E3|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
 ParamVariation308=ParameterName=Comment|VariantValue=LT6106
 ParamDesignator308=U81
 ParamVariation309=ParameterName=Component Kind|VariantValue=Standard
@@ -991,9 +991,9 @@ ParamVariation312=ParameterName=Height|VariantValue=
 ParamDesignator312=U81
 ParamVariation313=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator313=U81
-ParamVariation314=ParameterName=InternalID|VariantValue=-
+ParamVariation314=ParameterName=InternalID|VariantValue=101059
 ParamDesignator314=U81
-ParamVariation315=ParameterName=Library Reference|VariantValue=CMP-020-0183-1
+ParamVariation315=ParameterName=Library Reference|VariantValue=CMP-020-0183-2
 ParamDesignator315=U81
 ParamVariation316=ParameterName=Manufacturer|VariantValue=Linear Technology
 ParamDesignator316=U81
@@ -1013,7 +1013,7 @@ ParamVariation323=ParameterName=Simulation|VariantValue=
 ParamDesignator323=U81
 ParamVariation324=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
 ParamDesignator324=U81
-Variation84=Designator=U89|UniqueId=\FQUBUWCG\GAXHQWGS\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-1|AltLibLink_DesignItemID=CMP-020-0183-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=308C4220-7272-4D6B-BD25-AE63FDE9A2D4|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
+Variation84=Designator=U89|UniqueId=\FQUBUWCG\GAXHQWGS\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-2|AltLibLink_DesignItemID=CMP-020-0183-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=3FA33E81-DA81-4CC7-A42F-C1C0AC59B8E3|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
 ParamVariation325=ParameterName=Comment|VariantValue=LT6106
 ParamDesignator325=U89
 ParamVariation326=ParameterName=Component Kind|VariantValue=Standard
@@ -1026,9 +1026,9 @@ ParamVariation329=ParameterName=Height|VariantValue=
 ParamDesignator329=U89
 ParamVariation330=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator330=U89
-ParamVariation331=ParameterName=InternalID|VariantValue=-
+ParamVariation331=ParameterName=InternalID|VariantValue=101059
 ParamDesignator331=U89
-ParamVariation332=ParameterName=Library Reference|VariantValue=CMP-020-0183-1
+ParamVariation332=ParameterName=Library Reference|VariantValue=CMP-020-0183-2
 ParamDesignator332=U89
 ParamVariation333=ParameterName=Manufacturer|VariantValue=Linear Technology
 ParamDesignator333=U89
@@ -1048,7 +1048,7 @@ ParamVariation340=ParameterName=Simulation|VariantValue=
 ParamDesignator340=U89
 ParamVariation341=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
 ParamDesignator341=U89
-Variation85=Designator=U99|UniqueId=\FQUBUWCG\AGGBXTEK\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-1|AltLibLink_DesignItemID=CMP-020-0183-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=308C4220-7272-4D6B-BD25-AE63FDE9A2D4|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
+Variation85=Designator=U99|UniqueId=\FQUBUWCG\AGGBXTEK\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-2|AltLibLink_DesignItemID=CMP-020-0183-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=3FA33E81-DA81-4CC7-A42F-C1C0AC59B8E3|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
 ParamVariation342=ParameterName=Comment|VariantValue=LT6106
 ParamDesignator342=U99
 ParamVariation343=ParameterName=Component Kind|VariantValue=Standard
@@ -1061,9 +1061,9 @@ ParamVariation346=ParameterName=Height|VariantValue=
 ParamDesignator346=U99
 ParamVariation347=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator347=U99
-ParamVariation348=ParameterName=InternalID|VariantValue=-
+ParamVariation348=ParameterName=InternalID|VariantValue=101059
 ParamDesignator348=U99
-ParamVariation349=ParameterName=Library Reference|VariantValue=CMP-020-0183-1
+ParamVariation349=ParameterName=Library Reference|VariantValue=CMP-020-0183-2
 ParamDesignator349=U99
 ParamVariation350=ParameterName=Manufacturer|VariantValue=Linear Technology
 ParamDesignator350=U99
@@ -1083,7 +1083,7 @@ ParamVariation357=ParameterName=Simulation|VariantValue=
 ParamDesignator357=U99
 ParamVariation358=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
 ParamDesignator358=U99
-Variation86=Designator=U87|UniqueId=\FQUBUWCG\SGREGKYC\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-1|AltLibLink_DesignItemID=CMP-020-0183-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=308C4220-7272-4D6B-BD25-AE63FDE9A2D4|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
+Variation86=Designator=U87|UniqueId=\FQUBUWCG\SGREGKYC\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-2|AltLibLink_DesignItemID=CMP-020-0183-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=3FA33E81-DA81-4CC7-A42F-C1C0AC59B8E3|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
 ParamVariation359=ParameterName=Comment|VariantValue=LT6106
 ParamDesignator359=U87
 ParamVariation360=ParameterName=Component Kind|VariantValue=Standard
@@ -1096,9 +1096,9 @@ ParamVariation363=ParameterName=Height|VariantValue=
 ParamDesignator363=U87
 ParamVariation364=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator364=U87
-ParamVariation365=ParameterName=InternalID|VariantValue=-
+ParamVariation365=ParameterName=InternalID|VariantValue=101059
 ParamDesignator365=U87
-ParamVariation366=ParameterName=Library Reference|VariantValue=CMP-020-0183-1
+ParamVariation366=ParameterName=Library Reference|VariantValue=CMP-020-0183-2
 ParamDesignator366=U87
 ParamVariation367=ParameterName=Manufacturer|VariantValue=Linear Technology
 ParamDesignator367=U87
@@ -1118,7 +1118,7 @@ ParamVariation374=ParameterName=Simulation|VariantValue=
 ParamDesignator374=U87
 ParamVariation375=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
 ParamDesignator375=U87
-Variation87=Designator=U97|UniqueId=\FQUBUWCG\GCXYBXGW\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-1|AltLibLink_DesignItemID=CMP-020-0183-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=308C4220-7272-4D6B-BD25-AE63FDE9A2D4|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
+Variation87=Designator=U97|UniqueId=\FQUBUWCG\GCXYBXGW\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-2|AltLibLink_DesignItemID=CMP-020-0183-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=3FA33E81-DA81-4CC7-A42F-C1C0AC59B8E3|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
 ParamVariation376=ParameterName=Comment|VariantValue=LT6106
 ParamDesignator376=U97
 ParamVariation377=ParameterName=Component Kind|VariantValue=Standard
@@ -1131,9 +1131,9 @@ ParamVariation380=ParameterName=Height|VariantValue=
 ParamDesignator380=U97
 ParamVariation381=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator381=U97
-ParamVariation382=ParameterName=InternalID|VariantValue=-
+ParamVariation382=ParameterName=InternalID|VariantValue=101059
 ParamDesignator382=U97
-ParamVariation383=ParameterName=Library Reference|VariantValue=CMP-020-0183-1
+ParamVariation383=ParameterName=Library Reference|VariantValue=CMP-020-0183-2
 ParamDesignator383=U97
 ParamVariation384=ParameterName=Manufacturer|VariantValue=Linear Technology
 ParamDesignator384=U97
@@ -1153,7 +1153,7 @@ ParamVariation391=ParameterName=Simulation|VariantValue=
 ParamDesignator391=U97
 ParamVariation392=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
 ParamDesignator392=U97
-Variation88=Designator=U85|UniqueId=\FQUBUWCG\UQHHJSTC\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-1|AltLibLink_DesignItemID=CMP-020-0183-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=308C4220-7272-4D6B-BD25-AE63FDE9A2D4|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
+Variation88=Designator=U85|UniqueId=\FQUBUWCG\UQHHJSTC\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-2|AltLibLink_DesignItemID=CMP-020-0183-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=3FA33E81-DA81-4CC7-A42F-C1C0AC59B8E3|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
 ParamVariation393=ParameterName=Comment|VariantValue=LT6106
 ParamDesignator393=U85
 ParamVariation394=ParameterName=Component Kind|VariantValue=Standard
@@ -1166,9 +1166,9 @@ ParamVariation397=ParameterName=Height|VariantValue=
 ParamDesignator397=U85
 ParamVariation398=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator398=U85
-ParamVariation399=ParameterName=InternalID|VariantValue=-
+ParamVariation399=ParameterName=InternalID|VariantValue=101059
 ParamDesignator399=U85
-ParamVariation400=ParameterName=Library Reference|VariantValue=CMP-020-0183-1
+ParamVariation400=ParameterName=Library Reference|VariantValue=CMP-020-0183-2
 ParamDesignator400=U85
 ParamVariation401=ParameterName=Manufacturer|VariantValue=Linear Technology
 ParamDesignator401=U85
@@ -1188,7 +1188,7 @@ ParamVariation408=ParameterName=Simulation|VariantValue=
 ParamDesignator408=U85
 ParamVariation409=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
 ParamDesignator409=U85
-Variation89=Designator=U95|UniqueId=\FQUBUWCG\IPBRAGXI\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-1|AltLibLink_DesignItemID=CMP-020-0183-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=308C4220-7272-4D6B-BD25-AE63FDE9A2D4|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
+Variation89=Designator=U95|UniqueId=\FQUBUWCG\IPBRAGXI\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-2|AltLibLink_DesignItemID=CMP-020-0183-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=3FA33E81-DA81-4CC7-A42F-C1C0AC59B8E3|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
 ParamVariation410=ParameterName=Comment|VariantValue=LT6106
 ParamDesignator410=U95
 ParamVariation411=ParameterName=Component Kind|VariantValue=Standard
@@ -1201,9 +1201,9 @@ ParamVariation414=ParameterName=Height|VariantValue=
 ParamDesignator414=U95
 ParamVariation415=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator415=U95
-ParamVariation416=ParameterName=InternalID|VariantValue=-
+ParamVariation416=ParameterName=InternalID|VariantValue=101059
 ParamDesignator416=U95
-ParamVariation417=ParameterName=Library Reference|VariantValue=CMP-020-0183-1
+ParamVariation417=ParameterName=Library Reference|VariantValue=CMP-020-0183-2
 ParamDesignator417=U95
 ParamVariation418=ParameterName=Manufacturer|VariantValue=Linear Technology
 ParamDesignator418=U95
@@ -1223,7 +1223,7 @@ ParamVariation425=ParameterName=Simulation|VariantValue=
 ParamDesignator425=U95
 ParamVariation426=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
 ParamDesignator426=U95
-Variation90=Designator=U83|UniqueId=\FQUBUWCG\TCNWWWKW\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-1|AltLibLink_DesignItemID=CMP-020-0183-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=308C4220-7272-4D6B-BD25-AE63FDE9A2D4|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
+Variation90=Designator=U83|UniqueId=\FQUBUWCG\TCNWWWKW\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-2|AltLibLink_DesignItemID=CMP-020-0183-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=3FA33E81-DA81-4CC7-A42F-C1C0AC59B8E3|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
 ParamVariation427=ParameterName=Comment|VariantValue=LT6106
 ParamDesignator427=U83
 ParamVariation428=ParameterName=Component Kind|VariantValue=Standard
@@ -1236,9 +1236,9 @@ ParamVariation431=ParameterName=Height|VariantValue=
 ParamDesignator431=U83
 ParamVariation432=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator432=U83
-ParamVariation433=ParameterName=InternalID|VariantValue=-
+ParamVariation433=ParameterName=InternalID|VariantValue=101059
 ParamDesignator433=U83
-ParamVariation434=ParameterName=Library Reference|VariantValue=CMP-020-0183-1
+ParamVariation434=ParameterName=Library Reference|VariantValue=CMP-020-0183-2
 ParamDesignator434=U83
 ParamVariation435=ParameterName=Manufacturer|VariantValue=Linear Technology
 ParamDesignator435=U83
@@ -1258,7 +1258,7 @@ ParamVariation442=ParameterName=Simulation|VariantValue=
 ParamDesignator442=U83
 ParamVariation443=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
 ParamDesignator443=U83
-Variation91=Designator=U93|UniqueId=\FQUBUWCG\LHFOPRKJ\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-1|AltLibLink_DesignItemID=CMP-020-0183-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=308C4220-7272-4D6B-BD25-AE63FDE9A2D4|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
+Variation91=Designator=U93|UniqueId=\FQUBUWCG\LHFOPRKJ\NEYVOYFC|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-2|AltLibLink_DesignItemID=CMP-020-0183-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=3FA33E81-DA81-4CC7-A42F-C1C0AC59B8E3|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
 ParamVariation444=ParameterName=Comment|VariantValue=LT6106
 ParamDesignator444=U93
 ParamVariation445=ParameterName=Component Kind|VariantValue=Standard
@@ -1271,9 +1271,9 @@ ParamVariation448=ParameterName=Height|VariantValue=
 ParamDesignator448=U93
 ParamVariation449=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator449=U93
-ParamVariation450=ParameterName=InternalID|VariantValue=-
+ParamVariation450=ParameterName=InternalID|VariantValue=101059
 ParamDesignator450=U93
-ParamVariation451=ParameterName=Library Reference|VariantValue=CMP-020-0183-1
+ParamVariation451=ParameterName=Library Reference|VariantValue=CMP-020-0183-2
 ParamDesignator451=U93
 ParamVariation452=ParameterName=Manufacturer|VariantValue=Linear Technology
 ParamDesignator452=U93
@@ -1293,36 +1293,36 @@ ParamVariation459=ParameterName=Simulation|VariantValue=
 ParamDesignator459=U93
 ParamVariation460=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
 ParamDesignator460=U93
-Variation92=Designator=R304|UniqueId=\FQUBUWCG\PUKKSUAS\MMWUODEG|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-1|AltLibLink_DesignItemID=CMP-018-0104-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=375BA03C-F6A6-4943-B7EA-B6E42CD90A4D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
-ParamVariation461=ParameterName=Comment|VariantValue=0.027 R
+Variation92=Designator=R304|UniqueId=\FQUBUWCG\PUKKSUAS\MMWUODEG|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-2|AltLibLink_DesignItemID=CMP-018-0104-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=4E47E937-160A-48BD-AC14-812E740EDE21|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+ParamVariation461=ParameterName=Footprint|VariantValue=RESC0805(2012)_N
 ParamDesignator461=R304
-ParamVariation462=ParameterName=Component Kind|VariantValue=Standard
+ParamVariation462=ParameterName=Height|VariantValue= 
 ParamDesignator462=R304
-ParamVariation463=ParameterName=Description|VariantValue=RES 0.027 OHM 1% 1/2W 0805
+ParamVariation463=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator463=R304
-ParamVariation464=ParameterName=Footprint|VariantValue=RESC0805(2012)_N
+ParamVariation464=ParameterName=InternalID|VariantValue=101067
 ParamDesignator464=R304
-ParamVariation465=ParameterName=Height|VariantValue= 
+ParamVariation465=ParameterName=Manufacturer|VariantValue=Susumu
 ParamDesignator465=R304
-ParamVariation466=ParameterName=Ibis Model|VariantValue= 
+ParamVariation466=ParameterName=Manufacturer Number|VariantValue=KRL1220E-M-R027-F-T5
 ParamDesignator466=R304
-ParamVariation467=ParameterName=InternalID|VariantValue=NA
+ParamVariation467=ParameterName=PCB3D|VariantValue= 
 ParamDesignator467=R304
-ParamVariation468=ParameterName=Library Reference|VariantValue=CMP-018-0104-1
+ParamVariation468=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator468=R304
-ParamVariation469=ParameterName=Manufacturer|VariantValue=Susumu
+ParamVariation469=ParameterName=Simulation|VariantValue= 
 ParamDesignator469=R304
-ParamVariation470=ParameterName=Manufacturer Number|VariantValue=KRL1220E-M-R027-F-T5
+ParamVariation470=ParameterName=Temperature|VariantValue= 
 ParamDesignator470=R304
-ParamVariation471=ParameterName=PCB3D|VariantValue= 
+ParamVariation471=ParameterName=Comment|VariantValue=0.027 R
 ParamDesignator471=R304
-ParamVariation472=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation472=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator472=R304
-ParamVariation473=ParameterName=Simulation|VariantValue= 
+ParamVariation473=ParameterName=Description|VariantValue=RES 0.027 OHM 1% 1/2W 0805
 ParamDesignator473=R304
-ParamVariation474=ParameterName=Temperature|VariantValue= 
+ParamVariation474=ParameterName=Library Reference|VariantValue=CMP-018-0104-2
 ParamDesignator474=R304
-Variation93=Designator=R226|UniqueId=\FQUBUWCG\KYNDMPXX\MMWUODEG|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-1|AltLibLink_DesignItemID=CMP-018-0104-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=375BA03C-F6A6-4943-B7EA-B6E42CD90A4D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+Variation93=Designator=R226|UniqueId=\FQUBUWCG\KYNDMPXX\MMWUODEG|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-2|AltLibLink_DesignItemID=CMP-018-0104-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=4E47E937-160A-48BD-AC14-812E740EDE21|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
 ParamVariation475=ParameterName=Comment|VariantValue=0.027 R
 ParamDesignator475=R226
 ParamVariation476=ParameterName=Component Kind|VariantValue=Standard
@@ -1335,9 +1335,9 @@ ParamVariation479=ParameterName=Height|VariantValue=
 ParamDesignator479=R226
 ParamVariation480=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator480=R226
-ParamVariation481=ParameterName=InternalID|VariantValue=NA
+ParamVariation481=ParameterName=InternalID|VariantValue=101067
 ParamDesignator481=R226
-ParamVariation482=ParameterName=Library Reference|VariantValue=CMP-018-0104-1
+ParamVariation482=ParameterName=Library Reference|VariantValue=CMP-018-0104-2
 ParamDesignator482=R226
 ParamVariation483=ParameterName=Manufacturer|VariantValue=Susumu
 ParamDesignator483=R226
@@ -1351,7 +1351,7 @@ ParamVariation487=ParameterName=Simulation|VariantValue=
 ParamDesignator487=R226
 ParamVariation488=ParameterName=Temperature|VariantValue= 
 ParamDesignator488=R226
-Variation94=Designator=R186|UniqueId=\FQUBUWCG\RXYKVDBH\MMWUODEG|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-1|AltLibLink_DesignItemID=CMP-018-0104-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=375BA03C-F6A6-4943-B7EA-B6E42CD90A4D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+Variation94=Designator=R186|UniqueId=\FQUBUWCG\RXYKVDBH\MMWUODEG|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-2|AltLibLink_DesignItemID=CMP-018-0104-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=4E47E937-160A-48BD-AC14-812E740EDE21|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
 ParamVariation489=ParameterName=Comment|VariantValue=0.027 R
 ParamDesignator489=R186
 ParamVariation490=ParameterName=Component Kind|VariantValue=Standard
@@ -1364,9 +1364,9 @@ ParamVariation493=ParameterName=Height|VariantValue=
 ParamDesignator493=R186
 ParamVariation494=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator494=R186
-ParamVariation495=ParameterName=InternalID|VariantValue=NA
+ParamVariation495=ParameterName=InternalID|VariantValue=101067
 ParamDesignator495=R186
-ParamVariation496=ParameterName=Library Reference|VariantValue=CMP-018-0104-1
+ParamVariation496=ParameterName=Library Reference|VariantValue=CMP-018-0104-2
 ParamDesignator496=R186
 ParamVariation497=ParameterName=Manufacturer|VariantValue=Susumu
 ParamDesignator497=R186
@@ -1380,7 +1380,7 @@ ParamVariation501=ParameterName=Simulation|VariantValue=
 ParamDesignator501=R186
 ParamVariation502=ParameterName=Temperature|VariantValue= 
 ParamDesignator502=R186
-Variation95=Designator=R146|UniqueId=\FQUBUWCG\LOKCWVTK\MMWUODEG|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-1|AltLibLink_DesignItemID=CMP-018-0104-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=375BA03C-F6A6-4943-B7EA-B6E42CD90A4D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+Variation95=Designator=R146|UniqueId=\FQUBUWCG\LOKCWVTK\MMWUODEG|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-2|AltLibLink_DesignItemID=CMP-018-0104-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=4E47E937-160A-48BD-AC14-812E740EDE21|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
 ParamVariation503=ParameterName=Comment|VariantValue=0.027 R
 ParamDesignator503=R146
 ParamVariation504=ParameterName=Component Kind|VariantValue=Standard
@@ -1393,9 +1393,9 @@ ParamVariation507=ParameterName=Height|VariantValue=
 ParamDesignator507=R146
 ParamVariation508=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator508=R146
-ParamVariation509=ParameterName=InternalID|VariantValue=NA
+ParamVariation509=ParameterName=InternalID|VariantValue=101067
 ParamDesignator509=R146
-ParamVariation510=ParameterName=Library Reference|VariantValue=CMP-018-0104-1
+ParamVariation510=ParameterName=Library Reference|VariantValue=CMP-018-0104-2
 ParamDesignator510=R146
 ParamVariation511=ParameterName=Manufacturer|VariantValue=Susumu
 ParamDesignator511=R146
@@ -1409,7 +1409,7 @@ ParamVariation515=ParameterName=Simulation|VariantValue=
 ParamDesignator515=R146
 ParamVariation516=ParameterName=Temperature|VariantValue= 
 ParamDesignator516=R146
-Variation96=Designator=R118|UniqueId=\FQUBUWCG\CXDCCTYG\MMWUODEG|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-1|AltLibLink_DesignItemID=CMP-018-0104-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=375BA03C-F6A6-4943-B7EA-B6E42CD90A4D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+Variation96=Designator=R118|UniqueId=\FQUBUWCG\CXDCCTYG\MMWUODEG|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-2|AltLibLink_DesignItemID=CMP-018-0104-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=4E47E937-160A-48BD-AC14-812E740EDE21|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
 ParamVariation517=ParameterName=Comment|VariantValue=0.027 R
 ParamDesignator517=R118
 ParamVariation518=ParameterName=Component Kind|VariantValue=Standard
@@ -1422,9 +1422,9 @@ ParamVariation521=ParameterName=Height|VariantValue=
 ParamDesignator521=R118
 ParamVariation522=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator522=R118
-ParamVariation523=ParameterName=InternalID|VariantValue=NA
+ParamVariation523=ParameterName=InternalID|VariantValue=101067
 ParamDesignator523=R118
-ParamVariation524=ParameterName=Library Reference|VariantValue=CMP-018-0104-1
+ParamVariation524=ParameterName=Library Reference|VariantValue=CMP-018-0104-2
 ParamDesignator524=R118
 ParamVariation525=ParameterName=Manufacturer|VariantValue=Susumu
 ParamDesignator525=R118
@@ -1438,7 +1438,7 @@ ParamVariation529=ParameterName=Simulation|VariantValue=
 ParamDesignator529=R118
 ParamVariation530=ParameterName=Temperature|VariantValue= 
 ParamDesignator530=R118
-Variation97=Designator=R100|UniqueId=\FQUBUWCG\BJDYDHXT\MMWUODEG|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-1|AltLibLink_DesignItemID=CMP-018-0104-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=375BA03C-F6A6-4943-B7EA-B6E42CD90A4D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+Variation97=Designator=R100|UniqueId=\FQUBUWCG\BJDYDHXT\MMWUODEG|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-2|AltLibLink_DesignItemID=CMP-018-0104-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=4E47E937-160A-48BD-AC14-812E740EDE21|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
 ParamVariation531=ParameterName=Comment|VariantValue=0.027 R
 ParamDesignator531=R100
 ParamVariation532=ParameterName=Component Kind|VariantValue=Standard
@@ -1451,9 +1451,9 @@ ParamVariation535=ParameterName=Height|VariantValue=
 ParamDesignator535=R100
 ParamVariation536=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator536=R100
-ParamVariation537=ParameterName=InternalID|VariantValue=NA
+ParamVariation537=ParameterName=InternalID|VariantValue=101067
 ParamDesignator537=R100
-ParamVariation538=ParameterName=Library Reference|VariantValue=CMP-018-0104-1
+ParamVariation538=ParameterName=Library Reference|VariantValue=CMP-018-0104-2
 ParamDesignator538=R100
 ParamVariation539=ParameterName=Manufacturer|VariantValue=Susumu
 ParamDesignator539=R100
@@ -1467,36 +1467,36 @@ ParamVariation543=ParameterName=Simulation|VariantValue=
 ParamDesignator543=R100
 ParamVariation544=ParameterName=Temperature|VariantValue= 
 ParamDesignator544=R100
-Variation98=Designator=R109|UniqueId=\FQUBUWCG\BJDYDHXT\QBBXSRCE|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-1|AltLibLink_DesignItemID=CMP-018-0104-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=375BA03C-F6A6-4943-B7EA-B6E42CD90A4D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
-ParamVariation545=ParameterName=Comment|VariantValue=0.027 R
+Variation98=Designator=R109|UniqueId=\FQUBUWCG\BJDYDHXT\QBBXSRCE|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-2|AltLibLink_DesignItemID=CMP-018-0104-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=4E47E937-160A-48BD-AC14-812E740EDE21|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+ParamVariation545=ParameterName=Footprint|VariantValue=RESC0805(2012)_N
 ParamDesignator545=R109
-ParamVariation546=ParameterName=Component Kind|VariantValue=Standard
+ParamVariation546=ParameterName=Height|VariantValue= 
 ParamDesignator546=R109
-ParamVariation547=ParameterName=Description|VariantValue=RES 0.027 OHM 1% 1/2W 0805
+ParamVariation547=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator547=R109
-ParamVariation548=ParameterName=Footprint|VariantValue=RESC0805(2012)_N
+ParamVariation548=ParameterName=InternalID|VariantValue=101067
 ParamDesignator548=R109
-ParamVariation549=ParameterName=Height|VariantValue= 
+ParamVariation549=ParameterName=Manufacturer|VariantValue=Susumu
 ParamDesignator549=R109
-ParamVariation550=ParameterName=Ibis Model|VariantValue= 
+ParamVariation550=ParameterName=Manufacturer Number|VariantValue=KRL1220E-M-R027-F-T5
 ParamDesignator550=R109
-ParamVariation551=ParameterName=InternalID|VariantValue=NA
+ParamVariation551=ParameterName=PCB3D|VariantValue= 
 ParamDesignator551=R109
-ParamVariation552=ParameterName=Library Reference|VariantValue=CMP-018-0104-1
+ParamVariation552=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator552=R109
-ParamVariation553=ParameterName=Manufacturer|VariantValue=Susumu
+ParamVariation553=ParameterName=Simulation|VariantValue= 
 ParamDesignator553=R109
-ParamVariation554=ParameterName=Manufacturer Number|VariantValue=KRL1220E-M-R027-F-T5
+ParamVariation554=ParameterName=Temperature|VariantValue= 
 ParamDesignator554=R109
-ParamVariation555=ParameterName=PCB3D|VariantValue= 
+ParamVariation555=ParameterName=Comment|VariantValue=0.027 R
 ParamDesignator555=R109
-ParamVariation556=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation556=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator556=R109
-ParamVariation557=ParameterName=Simulation|VariantValue= 
+ParamVariation557=ParameterName=Description|VariantValue=RES 0.027 OHM 1% 1/2W 0805
 ParamDesignator557=R109
-ParamVariation558=ParameterName=Temperature|VariantValue= 
+ParamVariation558=ParameterName=Library Reference|VariantValue=CMP-018-0104-2
 ParamDesignator558=R109
-Variation99=Designator=R127|UniqueId=\FQUBUWCG\CXDCCTYG\QBBXSRCE|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-1|AltLibLink_DesignItemID=CMP-018-0104-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=375BA03C-F6A6-4943-B7EA-B6E42CD90A4D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+Variation99=Designator=R127|UniqueId=\FQUBUWCG\CXDCCTYG\QBBXSRCE|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-2|AltLibLink_DesignItemID=CMP-018-0104-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=4E47E937-160A-48BD-AC14-812E740EDE21|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
 ParamVariation559=ParameterName=Comment|VariantValue=0.027 R
 ParamDesignator559=R127
 ParamVariation560=ParameterName=Component Kind|VariantValue=Standard
@@ -1509,9 +1509,9 @@ ParamVariation563=ParameterName=Height|VariantValue=
 ParamDesignator563=R127
 ParamVariation564=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator564=R127
-ParamVariation565=ParameterName=InternalID|VariantValue=NA
+ParamVariation565=ParameterName=InternalID|VariantValue=101067
 ParamDesignator565=R127
-ParamVariation566=ParameterName=Library Reference|VariantValue=CMP-018-0104-1
+ParamVariation566=ParameterName=Library Reference|VariantValue=CMP-018-0104-2
 ParamDesignator566=R127
 ParamVariation567=ParameterName=Manufacturer|VariantValue=Susumu
 ParamDesignator567=R127
@@ -1525,7 +1525,7 @@ ParamVariation571=ParameterName=Simulation|VariantValue=
 ParamDesignator571=R127
 ParamVariation572=ParameterName=Temperature|VariantValue= 
 ParamDesignator572=R127
-Variation100=Designator=R166|UniqueId=\FQUBUWCG\LOKCWVTK\QBBXSRCE|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-1|AltLibLink_DesignItemID=CMP-018-0104-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=375BA03C-F6A6-4943-B7EA-B6E42CD90A4D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+Variation100=Designator=R166|UniqueId=\FQUBUWCG\LOKCWVTK\QBBXSRCE|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-2|AltLibLink_DesignItemID=CMP-018-0104-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=4E47E937-160A-48BD-AC14-812E740EDE21|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
 ParamVariation573=ParameterName=Comment|VariantValue=0.027 R
 ParamDesignator573=R166
 ParamVariation574=ParameterName=Component Kind|VariantValue=Standard
@@ -1538,9 +1538,9 @@ ParamVariation577=ParameterName=Height|VariantValue=
 ParamDesignator577=R166
 ParamVariation578=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator578=R166
-ParamVariation579=ParameterName=InternalID|VariantValue=NA
+ParamVariation579=ParameterName=InternalID|VariantValue=101067
 ParamDesignator579=R166
-ParamVariation580=ParameterName=Library Reference|VariantValue=CMP-018-0104-1
+ParamVariation580=ParameterName=Library Reference|VariantValue=CMP-018-0104-2
 ParamDesignator580=R166
 ParamVariation581=ParameterName=Manufacturer|VariantValue=Susumu
 ParamDesignator581=R166
@@ -1554,7 +1554,7 @@ ParamVariation585=ParameterName=Simulation|VariantValue=
 ParamDesignator585=R166
 ParamVariation586=ParameterName=Temperature|VariantValue= 
 ParamDesignator586=R166
-Variation101=Designator=R206|UniqueId=\FQUBUWCG\RXYKVDBH\QBBXSRCE|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-1|AltLibLink_DesignItemID=CMP-018-0104-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=375BA03C-F6A6-4943-B7EA-B6E42CD90A4D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+Variation101=Designator=R206|UniqueId=\FQUBUWCG\RXYKVDBH\QBBXSRCE|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-2|AltLibLink_DesignItemID=CMP-018-0104-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=4E47E937-160A-48BD-AC14-812E740EDE21|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
 ParamVariation587=ParameterName=Comment|VariantValue=0.027 R
 ParamDesignator587=R206
 ParamVariation588=ParameterName=Component Kind|VariantValue=Standard
@@ -1567,9 +1567,9 @@ ParamVariation591=ParameterName=Height|VariantValue=
 ParamDesignator591=R206
 ParamVariation592=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator592=R206
-ParamVariation593=ParameterName=InternalID|VariantValue=NA
+ParamVariation593=ParameterName=InternalID|VariantValue=101067
 ParamDesignator593=R206
-ParamVariation594=ParameterName=Library Reference|VariantValue=CMP-018-0104-1
+ParamVariation594=ParameterName=Library Reference|VariantValue=CMP-018-0104-2
 ParamDesignator594=R206
 ParamVariation595=ParameterName=Manufacturer|VariantValue=Susumu
 ParamDesignator595=R206
@@ -1583,7 +1583,7 @@ ParamVariation599=ParameterName=Simulation|VariantValue=
 ParamDesignator599=R206
 ParamVariation600=ParameterName=Temperature|VariantValue= 
 ParamDesignator600=R206
-Variation102=Designator=R246|UniqueId=\FQUBUWCG\KYNDMPXX\QBBXSRCE|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-1|AltLibLink_DesignItemID=CMP-018-0104-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=375BA03C-F6A6-4943-B7EA-B6E42CD90A4D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+Variation102=Designator=R246|UniqueId=\FQUBUWCG\KYNDMPXX\QBBXSRCE|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-2|AltLibLink_DesignItemID=CMP-018-0104-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=4E47E937-160A-48BD-AC14-812E740EDE21|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
 ParamVariation601=ParameterName=Comment|VariantValue=0.027 R
 ParamDesignator601=R246
 ParamVariation602=ParameterName=Component Kind|VariantValue=Standard
@@ -1596,9 +1596,9 @@ ParamVariation605=ParameterName=Height|VariantValue=
 ParamDesignator605=R246
 ParamVariation606=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator606=R246
-ParamVariation607=ParameterName=InternalID|VariantValue=NA
+ParamVariation607=ParameterName=InternalID|VariantValue=101067
 ParamDesignator607=R246
-ParamVariation608=ParameterName=Library Reference|VariantValue=CMP-018-0104-1
+ParamVariation608=ParameterName=Library Reference|VariantValue=CMP-018-0104-2
 ParamDesignator608=R246
 ParamVariation609=ParameterName=Manufacturer|VariantValue=Susumu
 ParamDesignator609=R246
@@ -1612,7 +1612,7 @@ ParamVariation613=ParameterName=Simulation|VariantValue=
 ParamDesignator613=R246
 ParamVariation614=ParameterName=Temperature|VariantValue= 
 ParamDesignator614=R246
-Variation103=Designator=R306|UniqueId=\FQUBUWCG\PUKKSUAS\QBBXSRCE|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-1|AltLibLink_DesignItemID=CMP-018-0104-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=375BA03C-F6A6-4943-B7EA-B6E42CD90A4D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+Variation103=Designator=R306|UniqueId=\FQUBUWCG\PUKKSUAS\QBBXSRCE|Kind=2|AlternatePart=0.027 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0104-2|AltLibLink_DesignItemID=CMP-018-0104-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=44EEA3F1-B59B-4193-865F-3D97E2D9278A|AltLibLink_RevisionGUID=4E47E937-160A-48BD-AC14-812E740EDE21|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
 ParamVariation615=ParameterName=Comment|VariantValue=0.027 R
 ParamDesignator615=R306
 ParamVariation616=ParameterName=Component Kind|VariantValue=Standard
@@ -1625,9 +1625,9 @@ ParamVariation619=ParameterName=Height|VariantValue=
 ParamDesignator619=R306
 ParamVariation620=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator620=R306
-ParamVariation621=ParameterName=InternalID|VariantValue=NA
+ParamVariation621=ParameterName=InternalID|VariantValue=101067
 ParamDesignator621=R306
-ParamVariation622=ParameterName=Library Reference|VariantValue=CMP-018-0104-1
+ParamVariation622=ParameterName=Library Reference|VariantValue=CMP-018-0104-2
 ParamDesignator622=R306
 ParamVariation623=ParameterName=Manufacturer|VariantValue=Susumu
 ParamDesignator623=R306
@@ -2836,40 +2836,40 @@ ParamVariation1206=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator1206=R209
 ParamVariation1207=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator1207=R209
-Variation141=Designator=U54|UniqueId=\CLLQHXNW\IRSVIRQF|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-020-0183-1|AltLibLink_DesignItemID=CMP-020-0183-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=308C4220-7272-4D6B-BD25-AE63FDE9A2D4|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
-ParamVariation1208=ParameterName=Comment|VariantValue=LT6106
+Variation141=Designator=U54|UniqueId=\CLLQHXNW\IRSVIRQF|Kind=2|AlternatePart=LT6106|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=LTC6101|AltLibLink_DesignItemID=CMP-020-0183-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=0971A039-D627-4349-8475-91962C0CEBE4|AltLibLink_RevisionGUID=3FA33E81-DA81-4CC7-A42F-C1C0AC59B8E3|AltLibLink_Footprint=SOT-23-5|AltLibLink_IsSameFootprint=False
+ParamVariation1208=ParameterName=Footprint|VariantValue=SOT-23-5
 ParamDesignator1208=U54
-ParamVariation1209=ParameterName=Component Kind|VariantValue=Standard
+ParamVariation1209=ParameterName=Height|VariantValue= 
 ParamDesignator1209=U54
-ParamVariation1210=ParameterName=Description|VariantValue=IC OPAMP CURR SENSE TSOT23-5
+ParamVariation1210=ParameterName=Ibis Model|VariantValue= 
 ParamDesignator1210=U54
-ParamVariation1211=ParameterName=Footprint|VariantValue=SOT-23-5
+ParamVariation1211=ParameterName=InternalID|VariantValue=101059
 ParamDesignator1211=U54
-ParamVariation1212=ParameterName=Height|VariantValue= 
+ParamVariation1212=ParameterName=Manufacturer|VariantValue=Linear Technology
 ParamDesignator1212=U54
-ParamVariation1213=ParameterName=Ibis Model|VariantValue= 
+ParamVariation1213=ParameterName=Manufacturer number|VariantValue=LT6106HS5#TRPBF
 ParamDesignator1213=U54
-ParamVariation1214=ParameterName=InternalID|VariantValue=-
+ParamVariation1214=ParameterName=Old DB Number|VariantValue= 
 ParamDesignator1214=U54
-ParamVariation1215=ParameterName=Library Reference|VariantValue=CMP-020-0183-1
+ParamVariation1215=ParameterName=Part Number|VariantValue=LT6106HS5#TRPBF
 ParamDesignator1215=U54
-ParamVariation1216=ParameterName=Manufacturer|VariantValue=Linear Technology
+ParamVariation1216=ParameterName=Part status|VariantValue= 
 ParamDesignator1216=U54
-ParamVariation1217=ParameterName=Manufacturer number|VariantValue=LT6106HS5#TRPBF
+ParamVariation1217=ParameterName=PCB3D|VariantValue= 
 ParamDesignator1217=U54
-ParamVariation1218=ParameterName=Old DB Number|VariantValue= 
+ParamVariation1218=ParameterName=Signal Integrity|VariantValue= 
 ParamDesignator1218=U54
-ParamVariation1219=ParameterName=Part Number|VariantValue=LT6106HS5#TRPBF
+ParamVariation1219=ParameterName=Simulation|VariantValue= 
 ParamDesignator1219=U54
-ParamVariation1220=ParameterName=Part status|VariantValue= 
+ParamVariation1220=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
 ParamDesignator1220=U54
-ParamVariation1221=ParameterName=PCB3D|VariantValue= 
+ParamVariation1221=ParameterName=Comment|VariantValue=LT6106
 ParamDesignator1221=U54
-ParamVariation1222=ParameterName=Signal Integrity|VariantValue= 
+ParamVariation1222=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator1222=U54
-ParamVariation1223=ParameterName=Simulation|VariantValue= 
+ParamVariation1223=ParameterName=Description|VariantValue=IC OPAMP CURR SENSE TSOT23-5
 ParamDesignator1223=U54
-ParamVariation1224=ParameterName=Temperature|VariantValue=-40°C ~ 125°C
+ParamVariation1224=ParameterName=Library Reference|VariantValue=CMP-020-0183-2
 ParamDesignator1224=U54
 Variation142=Designator=R348|UniqueId=\CLLQHXNW\QMJMIHDF|Kind=2|AlternatePart=15k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0077-2|AltLibLink_DesignItemID=CMP-005-0077-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A03E6934-7180-4BA8-ABC8-4F183A2A2950|AltLibLink_RevisionGUID=4C9A2DDB-30C0-47A8-94B3-A4995AFF1868|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
 ParamVariation1225=ParameterName=Comment|VariantValue=15k
