@@ -629,6 +629,10 @@ ParamVariationCount=84
 DocumentPath=Project_Outputs\EMS_BOM\gs-bom-nanopower-bpx_Option_1_P31U_(8V_2S-4P and 16V_4S-2P).xls
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project_Outputs\Generates pick and place files\Pick Place for nanopower-bpx(default_SMD).csv
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\GitHub\Hardware\library\altium\*.*
 IncludeSubFolders=1
