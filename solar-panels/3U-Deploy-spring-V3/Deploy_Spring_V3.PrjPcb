@@ -39,23 +39,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\library\gomspace\template\Gomspace_vault3.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document2]
 DocumentPath=Deploy_spring1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -72,7 +55,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DOXMCOHN
 
-[Document3]
+[Document2]
 DocumentPath=Deploy_spring.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +72,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document3]
 DocumentPath=Deploy_spring_V2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBAHPUAM
 
-[Document5]
+[Document4]
 DocumentPath=Deploy_spring_V3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,9 +104,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=USPWOMSY
+DocumentUniqueId=TARTWIPQ
 
-[Document6]
+[Document5]
 DocumentPath=Deploy_Spring_V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +121,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DUBRIXQQ
+DocumentUniqueId=JRTJKFUB
+
+[Document6]
+DocumentPath=..\..\..\library\gomspace\template\Gomspace_vault4.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=F3F13D4A-F59C-481E-A8F3-42291B4B2B9D
@@ -154,14 +154,14 @@ Description=A
 AllowFabrication=0
 ParameterCount=0
 VariationCount=8
-Variation1=Designator=R2c|UniqueId=\NMMJBVYN|Kind=1|AlternatePart= 
-Variation2=Designator=R2d|UniqueId=\KXLRRMXE|Kind=1|AlternatePart= 
-Variation3=Designator=R2b|UniqueId=\QWPLJPMA|Kind=1|AlternatePart= 
-Variation4=Designator=R1b|UniqueId=\CGKHWAVS|Kind=1|AlternatePart= 
-Variation5=Designator=R1d|UniqueId=\WEWXGRLF|Kind=1|AlternatePart= 
-Variation6=Designator=R1c|UniqueId=\OKVTUUAM|Kind=1|AlternatePart= 
-Variation7=Designator=J1|UniqueId=\URVTDUJO|Kind=1|AlternatePart= 
-Variation8=Designator=C1a|UniqueId=\GOJLXXCB|Kind=1|AlternatePart= 
+Variation1=Designator=R2c|UniqueId=\VWRMCEFE|Kind=1|AlternatePart= 
+Variation2=Designator=R2d|UniqueId=\FOEJQCRQ|Kind=1|AlternatePart= 
+Variation3=Designator=R2b|UniqueId=\JUSWNHHU|Kind=1|AlternatePart= 
+Variation4=Designator=R1b|UniqueId=\IHTQVGRD|Kind=1|AlternatePart= 
+Variation5=Designator=R1d|UniqueId=\YWLRXAXN|Kind=1|AlternatePart= 
+Variation6=Designator=R1c|UniqueId=\QEFKAUAK|Kind=1|AlternatePart= 
+Variation7=Designator=J1|UniqueId=\JFMNVGHY|Kind=1|AlternatePart= 
+Variation8=Designator=S2a|UniqueId=\VTXPWBBI|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant3]
@@ -170,14 +170,14 @@ Description=B
 AllowFabrication=0
 ParameterCount=0
 VariationCount=8
-Variation1=Designator=R2d|UniqueId=\KXLRRMXE|Kind=1|AlternatePart= 
-Variation2=Designator=R2c|UniqueId=\NMMJBVYN|Kind=1|AlternatePart= 
-Variation3=Designator=R2a|UniqueId=\HFWQCHFJ|Kind=1|AlternatePart= 
-Variation4=Designator=R1d|UniqueId=\WEWXGRLF|Kind=1|AlternatePart= 
-Variation5=Designator=R1c|UniqueId=\OKVTUUAM|Kind=1|AlternatePart= 
-Variation6=Designator=R1a|UniqueId=\SWCNIHYG|Kind=1|AlternatePart= 
-Variation7=Designator=J1|UniqueId=\URVTDUJO|Kind=1|AlternatePart= 
-Variation8=Designator=C1a|UniqueId=\GOJLXXCB|Kind=1|AlternatePart= 
+Variation1=Designator=R2d|UniqueId=\FOEJQCRQ|Kind=1|AlternatePart= 
+Variation2=Designator=R2c|UniqueId=\VWRMCEFE|Kind=1|AlternatePart= 
+Variation3=Designator=R2a|UniqueId=\PUVLBGOL|Kind=1|AlternatePart= 
+Variation4=Designator=R1d|UniqueId=\YWLRXAXN|Kind=1|AlternatePart= 
+Variation5=Designator=R1c|UniqueId=\QEFKAUAK|Kind=1|AlternatePart= 
+Variation6=Designator=R1a|UniqueId=\CGGXRKUH|Kind=1|AlternatePart= 
+Variation7=Designator=J1|UniqueId=\JFMNVGHY|Kind=1|AlternatePart= 
+Variation8=Designator=S2a|UniqueId=\VTXPWBBI|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant4]
@@ -186,14 +186,14 @@ Description=C
 AllowFabrication=0
 ParameterCount=0
 VariationCount=8
-Variation1=Designator=R2d|UniqueId=\KXLRRMXE|Kind=1|AlternatePart= 
-Variation2=Designator=R2a|UniqueId=\HFWQCHFJ|Kind=1|AlternatePart= 
-Variation3=Designator=R1a|UniqueId=\SWCNIHYG|Kind=1|AlternatePart= 
-Variation4=Designator=R1d|UniqueId=\WEWXGRLF|Kind=1|AlternatePart= 
-Variation5=Designator=R1b|UniqueId=\CGKHWAVS|Kind=1|AlternatePart= 
-Variation6=Designator=R2b|UniqueId=\QWPLJPMA|Kind=1|AlternatePart= 
-Variation7=Designator=J1|UniqueId=\URVTDUJO|Kind=1|AlternatePart= 
-Variation8=Designator=C1a|UniqueId=\GOJLXXCB|Kind=1|AlternatePart= 
+Variation1=Designator=R2d|UniqueId=\FOEJQCRQ|Kind=1|AlternatePart= 
+Variation2=Designator=R2a|UniqueId=\PUVLBGOL|Kind=1|AlternatePart= 
+Variation3=Designator=R1a|UniqueId=\CGGXRKUH|Kind=1|AlternatePart= 
+Variation4=Designator=R1d|UniqueId=\YWLRXAXN|Kind=1|AlternatePart= 
+Variation5=Designator=R1b|UniqueId=\IHTQVGRD|Kind=1|AlternatePart= 
+Variation6=Designator=R2b|UniqueId=\JUSWNHHU|Kind=1|AlternatePart= 
+Variation7=Designator=J1|UniqueId=\JFMNVGHY|Kind=1|AlternatePart= 
+Variation8=Designator=S2a|UniqueId=\VTXPWBBI|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant5]
@@ -202,18 +202,34 @@ Description=D
 AllowFabrication=0
 ParameterCount=0
 VariationCount=8
-Variation1=Designator=R2c|UniqueId=\NMMJBVYN|Kind=1|AlternatePart= 
-Variation2=Designator=R2a|UniqueId=\HFWQCHFJ|Kind=1|AlternatePart= 
-Variation3=Designator=R1a|UniqueId=\SWCNIHYG|Kind=1|AlternatePart= 
-Variation4=Designator=R1c|UniqueId=\OKVTUUAM|Kind=1|AlternatePart= 
-Variation5=Designator=R1b|UniqueId=\CGKHWAVS|Kind=1|AlternatePart= 
-Variation6=Designator=R2b|UniqueId=\QWPLJPMA|Kind=1|AlternatePart= 
-Variation7=Designator=J1|UniqueId=\URVTDUJO|Kind=1|AlternatePart= 
-Variation8=Designator=C1a|UniqueId=\GOJLXXCB|Kind=1|AlternatePart= 
+Variation1=Designator=R2c|UniqueId=\VWRMCEFE|Kind=1|AlternatePart= 
+Variation2=Designator=R2a|UniqueId=\PUVLBGOL|Kind=1|AlternatePart= 
+Variation3=Designator=R1a|UniqueId=\CGGXRKUH|Kind=1|AlternatePart= 
+Variation4=Designator=R1c|UniqueId=\QEFKAUAK|Kind=1|AlternatePart= 
+Variation5=Designator=R1b|UniqueId=\IHTQVGRD|Kind=1|AlternatePart= 
+Variation6=Designator=R2b|UniqueId=\JUSWNHHU|Kind=1|AlternatePart= 
+Variation7=Designator=J1|UniqueId=\JFMNVGHY|Kind=1|AlternatePart= 
+Variation8=Designator=S2a|UniqueId=\VTXPWBBI|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Deploy_Spring_V2\Design Rule Check - Deploy_spring_V3.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Deploy_Spring_V2\BOM\gs-bomIFS-Deploy_Spring_V3-A.csv
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Deploy_Spring_V2\BOM\gs-bomIFS-Deploy_Spring_V3-B.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Deploy_Spring_V2\BOM\gs-bomIFS-Deploy_Spring_V3-C.csv
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Deploy_Spring_V2\BOM\gs-bomIFS-Deploy_Spring_V3-D.csv
 DItemRevisionGUID=
 
 [Configuration1]
