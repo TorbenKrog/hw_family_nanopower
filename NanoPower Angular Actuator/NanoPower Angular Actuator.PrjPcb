@@ -278,10 +278,6 @@ ParamVariationCount=0
 DocumentPath=Project Outputs for NanoPower Angular Actuator\Design Rule Check - NanoPower-AAU.html
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for NanoPower Angular Actuator\BOM\gs-bomIFS-NanoPower Angular Actuator-Default_SMD.csv
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
