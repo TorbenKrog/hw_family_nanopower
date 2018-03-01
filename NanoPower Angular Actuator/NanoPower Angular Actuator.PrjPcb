@@ -275,7 +275,259 @@ Variation6=Designator=C614|UniqueId=\RISYBWSK\SEODAJEV|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for NanoPower Angular Actuator\Design Rule Check - NanoPower-AAU.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_13\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_17\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_7\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_8\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\silkscreen_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for NanoPower Angular Actuator\NanoPower-AAU.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for NanoPower Angular Actuator\NanoPower-AAU.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for NanoPower Angular Actuator\NanoPower-AAU.REP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for NanoPower Angular Actuator\NanoPower-AAU.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD-RoundHoles-Plated.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD-RoundHoles-Plated.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD-RoundHoles-Plated.TX3
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G1
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G2
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G3
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G4
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G5
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G6
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G7
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G8
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.REP
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project_Outputs\ODB++ Files\NanoPower Angular Actuator_Default_SMD.REP
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\tools
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -606,74 +858,76 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft XPS Document Writer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=CompositeDrill
-OutputName1=Composite Drill Drawing
+OutputType1=Drill
+OutputName1=Drill Drawing/Guides
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType2=Drill
-OutputName2=Drill Drawing/Guides
+OutputType2=Final
+OutputName2=Final Artwork Prints
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType3=Final
-OutputName3=Final Artwork Prints
+OutputType3=CompositeDrill
+OutputName3=Composite Drill Drawing
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType4=Gerber
-OutputName4=Gerber Files
+OutputType4=Mask
+OutputName4=Solder/Paste Mask Prints
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-OutputType5=Mask
-OutputName5=Solder/Paste Mask Prints
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType5=NC Drill
+OutputName5=NC Drill Files
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType6=NC Drill
-OutputName6=NC Drill Files
+OutputType6=Board Stack Report
+OutputName6=Report Board Stack
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=ODB
-OutputName7=ODB++ Files
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Plane
+OutputName7=Power-Plane Prints
 OutputDocumentPath7=
-OutputVariantName7=[No Variations]
+OutputVariantName7=
 OutputDefault7=0
-OutputType8=Plane
-OutputName8=Power-Plane Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType8=Test Points
+OutputName8=Test Point Report
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType9=Test Points
-OutputName9=Test Point Report
+OutputType9=ODB
+OutputName9=ODB++ Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-OutputType10=Board Stack Report
-OutputName10=Report Board Stack
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Gerber X2
-OutputName11=Gerber X2 Files
+OutputType11=IPC2581
+OutputName11=IPC-2581 Files
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=IPC2581
-OutputName12=IPC-2581 Files
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=OutputConfigurationParameter1
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908292~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
@@ -995,6 +1249,46 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad SDT Schematic
+OutputName12=Orcad SDT Schematic (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Orcad v7 Capture Design
+OutputName13=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD ASCII
+OutputName14=P-CAD ASCII (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD V16 Schematic Design
+OutputName15=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Protel PCB 2.8 ASCII
+OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
