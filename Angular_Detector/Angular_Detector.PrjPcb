@@ -87,7 +87,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JRTJKFUB
 
 [Document4]
 DocumentPath=..\..\library\gomspace\template\Gomspace_vault4.OutJob
@@ -177,6 +177,306 @@ Variation6=Designator=R2b|UniqueId=\JUSWNHHU|Kind=1|AlternatePart=
 Variation7=Designator=J1|UniqueId=\JFMNVGHY|Kind=1|AlternatePart= 
 Variation8=Designator=S2a|UniqueId=\VTXPWBBI|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project_Outputs\NC Drill Files\Angular_Detector_[No Variations]-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project_Outputs\Generates pick and place files\Angular_Detector_[No Variations].csv
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project_Outputs\NC Drill Files\Angular_Detector_[No Variations].DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project_Outputs\Gerber Files\Angular_Detector_[No Variations].EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project_Outputs\Gerber Files\Angular_Detector_[No Variations].G1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project_Outputs\Gerber Files\Angular_Detector_[No Variations].G2
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project_Outputs\Gerber Files\Angular_Detector_[No Variations].GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project_Outputs\Gerber Files\Angular_Detector_[No Variations].GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project_Outputs\Gerber Files\Angular_Detector_[No Variations].GM4
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project_Outputs\Gerber Files\Angular_Detector_[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project_Outputs\NC Drill Files\Angular_Detector_[No Variations].LDP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project_Outputs\Gerber Files\Angular_Detector_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project_Outputs\ODB++ Files\Angular_Detector_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project_Outputs\Gerber Files\Angular_Detector_[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Deploy_Spring_V2\Design Rule Check - Angular_Detector.html
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_13\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_17\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\signal_layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\signal_layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_13\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_17\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\signal_layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\signal_layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\NC Drill Files\Stack_Breakout_ADSB_MagSens_2_[No Variations]-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\Generates pick and place files\Stack_Breakout_ADSB_MagSens_2_[No Variations].csv
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\NC Drill Files\Stack_Breakout_ADSB_MagSens_2_[No Variations].DRR
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\Gerber Files\Stack_Breakout_ADSB_MagSens_2_[No Variations].EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\Gerber Files\Stack_Breakout_ADSB_MagSens_2_[No Variations].G1
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\Gerber Files\Stack_Breakout_ADSB_MagSens_2_[No Variations].G2
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\Gerber Files\Stack_Breakout_ADSB_MagSens_2_[No Variations].GBL
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\Gerber Files\Stack_Breakout_ADSB_MagSens_2_[No Variations].GBP
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\Gerber Files\Stack_Breakout_ADSB_MagSens_2_[No Variations].GM4
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\Gerber Files\Stack_Breakout_ADSB_MagSens_2_[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\NC Drill Files\Stack_Breakout_ADSB_MagSens_2_[No Variations].LDP
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\Gerber Files\Stack_Breakout_ADSB_MagSens_2_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\Stack_Breakout_ADSB_MagSens_2_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\Gerber Files\Stack_Breakout_ADSB_MagSens_2_[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=..\..\stack_breakout\Stack_Breakout_ADSB_MagSens\2\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -1049,46 +1349,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad SDT Schematic
-OutputName12=Orcad SDT Schematic (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Orcad v7 Capture Design
-OutputName13=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD ASCII
-OutputName14=P-CAD ASCII (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD V16 Schematic Design
-OutputName15=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Protel PCB 2.8 ASCII
-OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
