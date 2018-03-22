@@ -122,13 +122,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Parameter1]
-Name=Title
-Value=BP8 GND Breaker
+[Document6]
+DocumentPath=stackup.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[Parameter2]
+[Parameter1]
 Name=PCB Revision
 Value=1
+
+[Parameter2]
+Name=Title
+Value=BP8 GND Breaker
 
 [Configuration1]
 Name=Sources
