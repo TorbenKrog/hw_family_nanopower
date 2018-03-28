@@ -66,7 +66,7 @@ OutputType2=BOM_PartType
 OutputName2=Bill of Materials
 OutputCategory2=Report
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=default
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
@@ -75,7 +75,7 @@ OutputEnabled2_OutputMedium4=0
 OutputEnabled2_OutputMedium5=1
 OutputEnabled2_OutputMedium6=0
 OutputEnabled2_OutputMedium7=0
-OutputEnabled2_OutputMedium8=0
+OutputEnabled2_OutputMedium8=1
 OutputEnabled2_OutputMedium9=0
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
@@ -84,7 +84,7 @@ Configuration2_Item1=CaptionAsName
 Configuration2_Name2=Filter
 Configuration2_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration2_Name3=General
-Configuration2_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Mogn\Documents\GitHub\Hardware\library\gomspace\template\EMS_BOM_Vault31.xlt|BatchMode=5|FormWidth=4055|FormHeight=825|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration2_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Mogn\Documents\GitHub\Hardware\library\gomspace\template\EMS_BOM_Vault31.xlt|BatchMode=5|FormWidth=2012|FormHeight=816|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
 Configuration2_Name4=GroupOrder
 Configuration2_Item4=Manufacturer number=True|Part Number=True
 Configuration2_Name5=OutputConfigurationParameter1
@@ -92,7 +92,7 @@ Configuration2_Item5=?
 Configuration2_Name6=SortOrder
 Configuration2_Item6=Designator=Up|Comment=Up|Footprint=Up
 Configuration2_Name7=VisibleOrder
-Configuration2_Item7=Designator=78|Comment=75|Description=297|Manufacturer=206|Manufacturer number=138|Quantity=41|Manufacturer 1=62|Supplier 1=58|Supplier Currency 1=75|Supplier Order Qty 1=79|Supplier Part Number 1=88|Supplier Stock 1=64|Supplier Subtotal 1=73|Supplier Unit Price 1=78
+Configuration2_Item7=Comment=144|Designator=440|Description=569|Quantity=78
 OutputType3=PCB 3D Print
 OutputName3=PCB 3D Print TOP
 OutputCategory3=Documentation
@@ -310,7 +310,7 @@ OutputEnabled12_OutputMedium4=0
 OutputEnabled12_OutputMedium5=0
 OutputEnabled12_OutputMedium6=0
 OutputEnabled12_OutputMedium7=0
-OutputEnabled12_OutputMedium8=1
+OutputEnabled12_OutputMedium8=0
 OutputEnabled12_OutputMedium9=0
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
@@ -319,7 +319,7 @@ Configuration12_Item1=CaptionAsName
 Configuration12_Name2=Filter
 Configuration12_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration12_Name3=General
-Configuration12_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=1|FormWidth=2355|FormHeight=1643|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration12_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=0|FormWidth=2355|FormHeight=816|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
 Configuration12_Name4=GroupOrder
 Configuration12_Item4=Designator=True|Manufacturer Part Number 1=True
 Configuration12_Name5=OutputConfigurationParameter1
@@ -327,7 +327,7 @@ Configuration12_Item5=??
 Configuration12_Name6=SortOrder
 Configuration12_Item6=Designator=Up|Comment=Up|Footprint=Up
 Configuration12_Name7=VisibleOrder
-Configuration12_Item7=Supplier Part Number 1=220|Manufacturer Part Number 1=210|Designator=316|Quantity=174
+Configuration12_Item7=Comment=202|Description=202|Designator=272|Quantity=966
 OutputType13=BOM_PartType
 OutputName13=Bill of Materials with stock
 OutputCategory13=Report
@@ -455,7 +455,7 @@ OutputFileNameMulti5=='gs-bom-' + ProjectName + '-' +VariantName+'.xls'
 UseOutputNameForMulti5=0
 OutputFileNameSpecial5=
 OpenOutput5=1
-OutputFilePath6=C:\Users\Mogn\Documents\GitHub\Hardware\nanopower\P80\BP8\Rev2\Project_Outputs\
+OutputFilePath6=C:\Users\Mogn\Documents\GitHub\Hardware\nanopower\BP8\Rev3\Project_Outputs\
 ReleaseManaged6=0
 OutputBasePath6=Project_Outputs\
 OutputPathMedia6=
@@ -481,7 +481,7 @@ OutputFileNameMulti7=
 UseOutputNameForMulti7=1
 OutputFileNameSpecial7=
 OpenOutput7=1
-OutputFilePath8=C:\Users\bgs\dev\Hardware\nanopower\P80\BP-testboard\Project Outputs for BP-testboard\
+OutputFilePath8=C:\Users\Mogn\Documents\GitHub\Hardware\nanopower\BP8\Rev3\Project Outputs for BP8\
 ReleaseManaged8=1
 OutputBasePath8=Project Outputs for BP8
 OutputPathMedia8=
@@ -525,7 +525,7 @@ OpenGerberOutput5=0
 OpenNCDrillOutput5=0
 OpenIPCOutput5=0
 EnableReload5=0
-RelativeOutputPath6=C:\Users\Mogn\Documents\GitHub\Hardware\nanopower\P80\BP8\Rev2\Project_Outputs\
+RelativeOutputPath6=C:\Users\Mogn\Documents\GitHub\Hardware\nanopower\BP8\Rev3\Project_Outputs\
 OpenOutputs6=1
 AddToProject6=1
 TimestampFolder6=0
@@ -545,7 +545,7 @@ OpenGerberOutput7=0
 OpenNCDrillOutput7=0
 OpenIPCOutput7=0
 EnableReload7=0
-RelativeOutputPath8=C:\Users\bgs\dev\Hardware\nanopower\P80\BP-testboard\Project Outputs for BP-testboard\
+RelativeOutputPath8=C:\Users\Mogn\Documents\GitHub\Hardware\nanopower\BP8\Rev3\Project Outputs for BP8\
 OpenOutputs8=1
 AddToProject8=1
 TimestampFolder8=0
