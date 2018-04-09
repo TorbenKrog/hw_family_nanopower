@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for pmu
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -1034,7 +1034,7 @@ UniqueID=E87E08A7-A39E-4C5E-99D4-772850C0A618
 Description=ThroughHole
 AllowFabrication=0
 ParameterCount=0
-VariationCount=492
+VariationCount=495
 Variation1=Designator=C1|UniqueId=\XRFIDGBS\ANCSPEME|Kind=1|AlternatePart= 
 Variation2=Designator=C8|UniqueId=\XRFIDGBS\FUJDSCDD|Kind=1|AlternatePart= 
 Variation3=Designator=R65|UniqueId=\DAFDJDFH\CJEFXSHR|Kind=1|AlternatePart= 
@@ -1527,6 +1527,9 @@ Variation489=Designator=U42|UniqueId=\AVKSISEX\JDLEJGUL|Kind=1|AlternatePart=
 Variation490=Designator=U43|UniqueId=\AVKSISEX\HJEVPCGC|Kind=1|AlternatePart= 
 Variation491=Designator=X1|UniqueId=\IXOYSCOO\YVMTFDOA|Kind=1|AlternatePart= 
 Variation492=Designator=Y1|UniqueId=\IXOYSCOO\PQWLFSJJ|Kind=1|AlternatePart= 
+Variation493=Designator=R150|UniqueId=\XDCMSTNV\SKQGBKIG|Kind=1|AlternatePart= 
+Variation494=Designator=R151|UniqueId=\XDCMSTNV\VYNJEBEA|Kind=1|AlternatePart= 
+Variation495=Designator=R152|UniqueId=\XDCMSTNV\SPCWHGOL|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -1550,12 +1553,12 @@ Name=Pcb_Revision
 Value=1
 
 [Parameter2]
-Name=Year
-Value=2017
-
-[Parameter3]
 Name=Title
 Value=P80 - Power Management Unit
+
+[Parameter3]
+Name=Year
+Value=2017
 
 [Configuration1]
 Name=Sources
@@ -1604,7 +1607,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for pmu
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -2768,7 +2771,7 @@ UpdateVariants=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=NetC100_2|NetColor=$006E6EFF
+Net1=NetName=VBAT|NetColor=$006E6EFF
 Net2=NetName=NetC77_2|NetColor=$006E6EFF
 Net3=NetName=NetJ12_1|NetColor=$006E6EFF
 Net4=NetName=NetJ12_2|NetColor=$006E6EFF
@@ -2783,7 +2786,7 @@ Net12=NetName=Vio_2|NetColor=$006E6EFF
 Net13=NetName=NetQ1_2|NetColor=$006E6EFF
 Net14=NetName=NetTP6_1|NetColor=$006E6EFF
 Net15=NetName=NetJ11_1|NetColor=$006E6EFF
-Net16=NetName=VBAT|NetColor=$006E6EFF
+Net16=NetName=NetC100_2|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
