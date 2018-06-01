@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=..\gs-hn-NanoHarness-SA_PV_E\SA_PV_E_102565_01.SchDoc
+DocumentPath=SA_Data_F_102566_01.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UEUOCYGV
+DocumentUniqueId=SXXGLXNB
 
 [Configuration1]
 Name=Sources
