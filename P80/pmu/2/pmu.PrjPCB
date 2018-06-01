@@ -344,23 +344,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BPHPBXJB
 
 [Document19]
-DocumentPath=deploy_gan.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=21
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FWQXBIFA
-
-[Document20]
 DocumentPath=pmu.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQSQNRFT
 
-[Document21]
+[Document20]
 DocumentPath=Gomspace_vault4.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=int_vcc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COKLMISI
 
-[Document23]
+[Document22]
 DocumentPath=lsw_latching.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XALYDQGR
 
-[Document24]
+[Document23]
 DocumentPath=lsw_retrying.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -444,6 +427,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DPSVKGOU
+
+[Document24]
+DocumentPath=deploy.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WAQALGLE
 
 [ProjectVariant1]
 UniqueID=1B4056A8-C1EA-4242-B9E1-47070E4BB9F0
