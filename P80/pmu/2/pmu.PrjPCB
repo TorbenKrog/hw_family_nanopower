@@ -2199,7 +2199,7 @@ UpdateVariants=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=NetC100_2|NetColor=$006E6EFF
+Net1=NetName=VBAT|NetColor=$006E6EFF
 Net2=NetName=NetC77_2|NetColor=$006E6EFF
 Net3=NetName=NetJ12_1|NetColor=$006E6EFF
 Net4=NetName=NetJ12_2|NetColor=$006E6EFF
@@ -2214,7 +2214,7 @@ Net12=NetName=Vio_2|NetColor=$006E6EFF
 Net13=NetName=NetQ1_2|NetColor=$006E6EFF
 Net14=NetName=NetTP6_1|NetColor=$006E6EFF
 Net15=NetName=NetJ11_1|NetColor=$006E6EFF
-Net16=NetName=VBAT|NetColor=$006E6EFF
+Net16=NetName=NetC100_2|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
