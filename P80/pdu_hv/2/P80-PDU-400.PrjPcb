@@ -309,6 +309,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKEHPNLA
 
+[Document17]
+DocumentPath=Gomspace_vault4.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=5870F61A-DDB8-419E-82F8-BAB9BC30C683
 Description=Default
@@ -3057,6 +3074,10 @@ Variation259=Designator=R1|UniqueId=\FQUBUWCG\FNYDUJRY\WVPNQJAQ|Kind=1|Alternate
 Variation260=Designator=R50|UniqueId=\CLLQHXNW\KFPJSSLD|Kind=1|AlternatePart= 
 ParamVariationCount=1240
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ax600\Bill of Materials\gs-bom-P80-PDU-400-default.xls.xls
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=C:\Program Files\Altium Designer Summer 09\Library\*.*
 IncludeSubFolders=1
@@ -4194,6 +4215,11 @@ Type108=1
 Type109=1
 Type110=1
 Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
 
 [Difference Levels]
 Type1=1
@@ -4258,6 +4284,9 @@ Type59=1
 Type60=1
 Type61=1
 Type62=1
+Type63=1
+Type64=1
+Type65=1
 
 [Electrical Rules Check]
 Type1=1
@@ -4381,6 +4410,7 @@ Type118=3
 Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
+Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
