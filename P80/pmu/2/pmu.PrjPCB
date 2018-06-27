@@ -475,7 +475,7 @@ UniqueID=C5CFFF4D-00A4-4689-9449-94FF1E949902
 Description=default_SMD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=20
+VariationCount=78
 Variation1=Designator=R126|UniqueId=\IXOYSCOO\FPOJODIE|Kind=1|AlternatePart= 
 Variation2=Designator=R100|UniqueId=\IXOYSCOO\QRHGIBEH|Kind=1|AlternatePart= 
 Variation3=Designator=R77|UniqueId=\IXOYSCOO\AEOBGEKD|Kind=1|AlternatePart= 
@@ -562,23 +562,1823 @@ ParamVariation33=ParameterName=Temperature|VariantValue=
 ParamDesignator33=R303
 Variation19=Designator=R274|UniqueId=\KRNWSBDH\FTTEBIMY\MEOGQUMY|Kind=1|AlternatePart= 
 Variation20=Designator=R315|UniqueId=\OQCLNRAS\VDWHKTMF|Kind=1|AlternatePart= 
-ParamVariationCount=33
+Variation21=Designator=R270|UniqueId=\KRNWSBDH\FTTEBIMY\YCVOXSSU|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation34=ParameterName=Comment|VariantValue=51
+ParamDesignator34=R270
+ParamVariation35=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator35=R270
+ParamVariation36=ParameterName=Description|VariantValue=RES SMD 51 OHM 1% 1/16W 0402
+ParamDesignator36=R270
+ParamVariation37=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator37=R270
+ParamVariation38=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator38=R270
+ParamVariation39=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator39=R270
+ParamVariation40=ParameterName=InternalID|VariantValue=105124
+ParamDesignator40=R270
+ParamVariation41=ParameterName=Library Reference|VariantValue=CMP-005-0017-2
+ParamDesignator41=R270
+ParamVariation42=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator42=R270
+ParamVariation43=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF51R0X
+ParamDesignator43=R270
+ParamVariation44=ParameterName=Part Number|VariantValue=ERJ-2RKF51R0X
+ParamDesignator44=R270
+ParamVariation45=ParameterName=PCB3D|VariantValue= 
+ParamDesignator45=R270
+ParamVariation46=ParameterName=Pin Info|VariantValue= 
+ParamDesignator46=R270
+ParamVariation47=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator47=R270
+ParamVariation48=ParameterName=Simulation|VariantValue= 
+ParamDesignator48=R270
+ParamVariation49=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator49=R270
+ParamVariation50=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator50=R270
+Variation22=Designator=R279|UniqueId=\KRNWSBDH\FTTEBIMY\BNFKCJGH|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation51=ParameterName=Comment|VariantValue=1k
+ParamDesignator51=R279
+ParamVariation52=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator52=R279
+ParamVariation53=ParameterName=Description|VariantValue=RES SMD 1K OHM 1% 1/16W 0402
+ParamDesignator53=R279
+ParamVariation54=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator54=R279
+ParamVariation55=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator55=R279
+ParamVariation56=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator56=R279
+ParamVariation57=ParameterName=InternalID|VariantValue=105155
+ParamDesignator57=R279
+ParamVariation58=ParameterName=Library Reference|VariantValue=CMP-005-0048-3
+ParamDesignator58=R279
+ParamVariation59=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator59=R279
+ParamVariation60=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF1001X
+ParamDesignator60=R279
+ParamVariation61=ParameterName=Part Number|VariantValue=ERJ-2RKF1001X
+ParamDesignator61=R279
+ParamVariation62=ParameterName=PCB3D|VariantValue= 
+ParamDesignator62=R279
+ParamVariation63=ParameterName=Pin Info|VariantValue= 
+ParamDesignator63=R279
+ParamVariation64=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator64=R279
+ParamVariation65=ParameterName=Simulation|VariantValue= 
+ParamDesignator65=R279
+ParamVariation66=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator66=R279
+ParamVariation67=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator67=R279
+Variation23=Designator=C171|UniqueId=\KRNWSBDH\FTTEBIMY\YLRMNSEM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=False
+ParamVariation68=ParameterName=Comment|VariantValue=0.022µF
+ParamDesignator68=C171
+ParamVariation69=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator69=C171
+ParamVariation70=ParameterName=Description|VariantValue=CAP CER 0.022UF 50V X7R 0603
+ParamDesignator70=C171
+ParamVariation71=ParameterName=Footprint|VariantValue=CAPC0603(1608)_N
+ParamDesignator71=C171
+ParamVariation72=ParameterName=Height|VariantValue=0.87mm
+ParamDesignator72=C171
+ParamVariation73=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator73=C171
+ParamVariation74=ParameterName=InternalID|VariantValue=105730
+ParamDesignator74=C171
+ParamVariation75=ParameterName=Library Reference|VariantValue=CMP-009-0051-2
+ParamDesignator75=C171
+ParamVariation76=ParameterName=Manufacturer|VariantValue=91
+ParamDesignator76=C171
+ParamVariation77=ParameterName=Manufacturer number|VariantValue=CGJ3E2X7R1H223K080AA
+ParamDesignator77=C171
+ParamVariation78=ParameterName=Part Number|VariantValue=CGJ3E2X7R1H223K080AA
+ParamDesignator78=C171
+ParamVariation79=ParameterName=PCB3D|VariantValue= 
+ParamDesignator79=C171
+ParamVariation80=ParameterName=Pin Info|VariantValue= 
+ParamDesignator80=C171
+ParamVariation81=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator81=C171
+ParamVariation82=ParameterName=Simulation|VariantValue= 
+ParamDesignator82=C171
+ParamVariation83=ParameterName=Symbol Name|VariantValue=Capacitor np
+ParamDesignator83=C171
+ParamVariation84=ParameterName=Temparature|VariantValue= 
+ParamDesignator84=C171
+ParamVariation85=ParameterName=Tolerance|VariantValue=±10%
+ParamDesignator85=C171
+Variation24=Designator=R280|UniqueId=\KRNWSBDH\FTTEBIMY\WUGIEKRN|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation86=ParameterName=Comment|VariantValue=4.3k
+ParamDesignator86=R280
+ParamVariation87=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator87=R280
+ParamVariation88=ParameterName=Description|VariantValue=RES SMD 4.3K OHM 1% 1/16W 0402
+ParamDesignator88=R280
+ParamVariation89=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator89=R280
+ParamVariation90=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator90=R280
+ParamVariation91=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator91=R280
+ParamVariation92=ParameterName=InternalID|VariantValue=105170
+ParamDesignator92=R280
+ParamVariation93=ParameterName=Library Reference|VariantValue=CMP-005-0064-2
+ParamDesignator93=R280
+ParamVariation94=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator94=R280
+ParamVariation95=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF4301X
+ParamDesignator95=R280
+ParamVariation96=ParameterName=Part Number|VariantValue=ERJ-2RKF4301X
+ParamDesignator96=R280
+ParamVariation97=ParameterName=PCB3D|VariantValue= 
+ParamDesignator97=R280
+ParamVariation98=ParameterName=Pin Info|VariantValue= 
+ParamDesignator98=R280
+ParamVariation99=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator99=R280
+ParamVariation100=ParameterName=Simulation|VariantValue= 
+ParamDesignator100=R280
+ParamVariation101=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator101=R280
+ParamVariation102=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator102=R280
+Variation25=Designator=C172|UniqueId=\KRNWSBDH\FTTEBIMY\TCLNKJXE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation103=ParameterName=Comment|VariantValue=0.10µF
+ParamDesignator103=C172
+ParamVariation104=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator104=C172
+ParamVariation105=ParameterName=Description|VariantValue=CAP CER 0.1UF 25V X7R 0402
+ParamDesignator105=C172
+ParamVariation106=ParameterName=Footprint|VariantValue=CAPC0402(1005)_N
+ParamDesignator106=C172
+ParamVariation107=ParameterName=Height|VariantValue=0.50mm
+ParamDesignator107=C172
+ParamVariation108=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator108=C172
+ParamVariation109=ParameterName=InternalID|VariantValue=105678
+ParamDesignator109=C172
+ParamVariation110=ParameterName=Library Reference|VariantValue=CMP-008-0049-4
+ParamDesignator110=C172
+ParamVariation111=ParameterName=Manufacturer|VariantValue=91
+ParamDesignator111=C172
+ParamVariation112=ParameterName=Manufacturer number|VariantValue=CGJ2B3X7R1E104K050BB
+ParamDesignator112=C172
+ParamVariation113=ParameterName=Part Number|VariantValue=CGJ2B3X7R1E104K050BB
+ParamDesignator113=C172
+ParamVariation114=ParameterName=PCB3D|VariantValue= 
+ParamDesignator114=C172
+ParamVariation115=ParameterName=Pin Info|VariantValue= 
+ParamDesignator115=C172
+ParamVariation116=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator116=C172
+ParamVariation117=ParameterName=Simulation|VariantValue= 
+ParamDesignator117=C172
+ParamVariation118=ParameterName=Symbol Name|VariantValue=Capacitor np
+ParamDesignator118=C172
+ParamVariation119=ParameterName=Temparature|VariantValue= 
+ParamDesignator119=C172
+ParamVariation120=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
+ParamDesignator120=C172
+ParamVariation121=ParameterName=Tolerance|VariantValue=±10%
+ParamDesignator121=C172
+Variation26=Designator=R281|UniqueId=\KRNWSBDH\FTTEBIMY\VTFLBAKJ|Kind=2|AlternatePart=3.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0061-2|AltLibLink_DesignItemID=CMP-005-0061-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=6C4407C0-5015-4B4D-8467-F68BD7BA5D37|AltLibLink_RevisionGUID=4DF2EE69-A3E3-4B5F-8F09-D14D150D8D4C|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation122=ParameterName=Comment|VariantValue=3.3k
+ParamDesignator122=R281
+ParamVariation123=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator123=R281
+ParamVariation124=ParameterName=Description|VariantValue=RES SMD 3.3K OHM 1% 1/16W 0402
+ParamDesignator124=R281
+ParamVariation125=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator125=R281
+ParamVariation126=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator126=R281
+ParamVariation127=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator127=R281
+ParamVariation128=ParameterName=InternalID|VariantValue=105167
+ParamDesignator128=R281
+ParamVariation129=ParameterName=Library Reference|VariantValue=CMP-005-0061-2
+ParamDesignator129=R281
+ParamVariation130=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator130=R281
+ParamVariation131=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF3301X
+ParamDesignator131=R281
+ParamVariation132=ParameterName=Part Number|VariantValue=ERJ-2RKF3301X
+ParamDesignator132=R281
+ParamVariation133=ParameterName=PCB3D|VariantValue= 
+ParamDesignator133=R281
+ParamVariation134=ParameterName=Pin Info|VariantValue= 
+ParamDesignator134=R281
+ParamVariation135=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator135=R281
+ParamVariation136=ParameterName=Simulation|VariantValue= 
+ParamDesignator136=R281
+ParamVariation137=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator137=R281
+ParamVariation138=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator138=R281
+Variation27=Designator=R310|UniqueId=\KRNWSBDH\FTTEBIMY\QAXPPOPC|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation139=ParameterName=Comment|VariantValue=39
+ParamDesignator139=R310
+ParamVariation140=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator140=R310
+ParamVariation141=ParameterName=Description|VariantValue=RES SMD 39 OHM 1% 1/16W 0402
+ParamDesignator141=R310
+ParamVariation142=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator142=R310
+ParamVariation143=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator143=R310
+ParamVariation144=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator144=R310
+ParamVariation145=ParameterName=InternalID|VariantValue=105121
+ParamDesignator145=R310
+ParamVariation146=ParameterName=Library Reference|VariantValue=CMP-005-0014-2
+ParamDesignator146=R310
+ParamVariation147=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator147=R310
+ParamVariation148=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF39R0X
+ParamDesignator148=R310
+ParamVariation149=ParameterName=Part Number|VariantValue=ERJ-2RKF39R0X
+ParamDesignator149=R310
+ParamVariation150=ParameterName=PCB3D|VariantValue= 
+ParamDesignator150=R310
+ParamVariation151=ParameterName=Pin Info|VariantValue= 
+ParamDesignator151=R310
+ParamVariation152=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator152=R310
+ParamVariation153=ParameterName=Simulation|VariantValue= 
+ParamDesignator153=R310
+ParamVariation154=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator154=R310
+ParamVariation155=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator155=R310
+Variation28=Designator=R273|UniqueId=\KRNWSBDH\FTTEBIMY\TWXHCQIQ|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation156=ParameterName=Comment|VariantValue=0R
+ParamDesignator156=R273
+ParamVariation157=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator157=R273
+ParamVariation158=ParameterName=Description|VariantValue=RES SMD 0 OHM 1% 1/10W 0402
+ParamDesignator158=R273
+ParamVariation159=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator159=R273
+ParamVariation160=ParameterName=Height|VariantValue= 
+ParamDesignator160=R273
+ParamVariation161=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator161=R273
+ParamVariation162=ParameterName=InternalID|VariantValue=105887
+ParamDesignator162=R273
+ParamVariation163=ParameterName=Library Reference|VariantValue=CMP-018-0040-3
+ParamDesignator163=R273
+ParamVariation164=ParameterName=Manufacturer|VariantValue=Panasonic
+ParamDesignator164=R273
+ParamVariation165=ParameterName=Manufacturer number|VariantValue=ERJ2GE0R00X
+ParamDesignator165=R273
+ParamVariation166=ParameterName=Manufacturer Part Number|VariantValue=ERJ2GE0R00X
+ParamDesignator166=R273
+ParamVariation167=ParameterName=PCB3D|VariantValue= 
+ParamDesignator167=R273
+ParamVariation168=ParameterName=Pin Info|VariantValue= 
+ParamDesignator168=R273
+ParamVariation169=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator169=R273
+ParamVariation170=ParameterName=Simulation|VariantValue= 
+ParamDesignator170=R273
+ParamVariation171=ParameterName=Temperature|VariantValue= 
+ParamDesignator171=R273
+Variation29=Designator=R278|UniqueId=\KRNWSBDH\FTTEBIMY\LJUQFOEN|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation172=ParameterName=Comment|VariantValue=43k
+ParamDesignator172=R278
+ParamVariation173=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator173=R278
+ParamVariation174=ParameterName=Description|VariantValue=RES SMD 43K OHM 1% 1/16W 0402
+ParamDesignator174=R278
+ParamVariation175=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator175=R278
+ParamVariation176=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator176=R278
+ParamVariation177=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator177=R278
+ParamVariation178=ParameterName=InternalID|VariantValue=105194
+ParamDesignator178=R278
+ParamVariation179=ParameterName=Library Reference|VariantValue=CMP-005-0088-2
+ParamDesignator179=R278
+ParamVariation180=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator180=R278
+ParamVariation181=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF4302X
+ParamDesignator181=R278
+ParamVariation182=ParameterName=Part Number|VariantValue=ERJ-2RKF4302X
+ParamDesignator182=R278
+ParamVariation183=ParameterName=PCB3D|VariantValue= 
+ParamDesignator183=R278
+ParamVariation184=ParameterName=Pin Info|VariantValue= 
+ParamDesignator184=R278
+ParamVariation185=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator185=R278
+ParamVariation186=ParameterName=Simulation|VariantValue= 
+ParamDesignator186=R278
+ParamVariation187=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator187=R278
+ParamVariation188=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator188=R278
+Variation30=Designator=R255|UniqueId=\WLGLTEPP\TMOHWVEL|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation189=ParameterName=Comment|VariantValue=51
+ParamDesignator189=R255
+ParamVariation190=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator190=R255
+ParamVariation191=ParameterName=Description|VariantValue=RES SMD 51 OHM 1% 1/16W 0402
+ParamDesignator191=R255
+ParamVariation192=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator192=R255
+ParamVariation193=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator193=R255
+ParamVariation194=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator194=R255
+ParamVariation195=ParameterName=InternalID|VariantValue=105124
+ParamDesignator195=R255
+ParamVariation196=ParameterName=Library Reference|VariantValue=CMP-005-0017-2
+ParamDesignator196=R255
+ParamVariation197=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator197=R255
+ParamVariation198=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF51R0X
+ParamDesignator198=R255
+ParamVariation199=ParameterName=Part Number|VariantValue=ERJ-2RKF51R0X
+ParamDesignator199=R255
+ParamVariation200=ParameterName=PCB3D|VariantValue= 
+ParamDesignator200=R255
+ParamVariation201=ParameterName=Pin Info|VariantValue= 
+ParamDesignator201=R255
+ParamVariation202=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator202=R255
+ParamVariation203=ParameterName=Simulation|VariantValue= 
+ParamDesignator203=R255
+ParamVariation204=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator204=R255
+ParamVariation205=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator205=R255
+Variation31=Designator=R266|UniqueId=\WLGLTEPP\KBLBQIUY|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation206=ParameterName=Comment|VariantValue=4.3k
+ParamDesignator206=R266
+ParamVariation207=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator207=R266
+ParamVariation208=ParameterName=Description|VariantValue=RES SMD 4.3K OHM 1% 1/16W 0402
+ParamDesignator208=R266
+ParamVariation209=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator209=R266
+ParamVariation210=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator210=R266
+ParamVariation211=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator211=R266
+ParamVariation212=ParameterName=InternalID|VariantValue=105170
+ParamDesignator212=R266
+ParamVariation213=ParameterName=Library Reference|VariantValue=CMP-005-0064-2
+ParamDesignator213=R266
+ParamVariation214=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator214=R266
+ParamVariation215=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF4301X
+ParamDesignator215=R266
+ParamVariation216=ParameterName=Part Number|VariantValue=ERJ-2RKF4301X
+ParamDesignator216=R266
+ParamVariation217=ParameterName=PCB3D|VariantValue= 
+ParamDesignator217=R266
+ParamVariation218=ParameterName=Pin Info|VariantValue= 
+ParamDesignator218=R266
+ParamVariation219=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator219=R266
+ParamVariation220=ParameterName=Simulation|VariantValue= 
+ParamDesignator220=R266
+ParamVariation221=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator221=R266
+ParamVariation222=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator222=R266
+Variation32=Designator=R265|UniqueId=\WLGLTEPP\DERBHSXI|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation223=ParameterName=Comment|VariantValue=1k
+ParamDesignator223=R265
+ParamVariation224=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator224=R265
+ParamVariation225=ParameterName=Description|VariantValue=RES SMD 1K OHM 1% 1/16W 0402
+ParamDesignator225=R265
+ParamVariation226=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator226=R265
+ParamVariation227=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator227=R265
+ParamVariation228=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator228=R265
+ParamVariation229=ParameterName=InternalID|VariantValue=105155
+ParamDesignator229=R265
+ParamVariation230=ParameterName=Library Reference|VariantValue=CMP-005-0048-3
+ParamDesignator230=R265
+ParamVariation231=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator231=R265
+ParamVariation232=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF1001X
+ParamDesignator232=R265
+ParamVariation233=ParameterName=Part Number|VariantValue=ERJ-2RKF1001X
+ParamDesignator233=R265
+ParamVariation234=ParameterName=PCB3D|VariantValue= 
+ParamDesignator234=R265
+ParamVariation235=ParameterName=Pin Info|VariantValue= 
+ParamDesignator235=R265
+ParamVariation236=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator236=R265
+ParamVariation237=ParameterName=Simulation|VariantValue= 
+ParamDesignator237=R265
+ParamVariation238=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator238=R265
+ParamVariation239=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator239=R265
+Variation33=Designator=C162|UniqueId=\WLGLTEPP\YFBDNTVM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=False
+ParamVariation240=ParameterName=Comment|VariantValue=0.022µF
+ParamDesignator240=C162
+ParamVariation241=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator241=C162
+ParamVariation242=ParameterName=Description|VariantValue=CAP CER 0.022UF 50V X7R 0603
+ParamDesignator242=C162
+ParamVariation243=ParameterName=Footprint|VariantValue=CAPC0603(1608)_N
+ParamDesignator243=C162
+ParamVariation244=ParameterName=Height|VariantValue=0.87mm
+ParamDesignator244=C162
+ParamVariation245=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator245=C162
+ParamVariation246=ParameterName=InternalID|VariantValue=105730
+ParamDesignator246=C162
+ParamVariation247=ParameterName=Library Reference|VariantValue=CMP-009-0051-2
+ParamDesignator247=C162
+ParamVariation248=ParameterName=Manufacturer|VariantValue=91
+ParamDesignator248=C162
+ParamVariation249=ParameterName=Manufacturer number|VariantValue=CGJ3E2X7R1H223K080AA
+ParamDesignator249=C162
+ParamVariation250=ParameterName=Part Number|VariantValue=CGJ3E2X7R1H223K080AA
+ParamDesignator250=C162
+ParamVariation251=ParameterName=PCB3D|VariantValue= 
+ParamDesignator251=C162
+ParamVariation252=ParameterName=Pin Info|VariantValue= 
+ParamDesignator252=C162
+ParamVariation253=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator253=C162
+ParamVariation254=ParameterName=Simulation|VariantValue= 
+ParamDesignator254=C162
+ParamVariation255=ParameterName=Symbol Name|VariantValue=Capacitor np
+ParamDesignator255=C162
+ParamVariation256=ParameterName=Temparature|VariantValue= 
+ParamDesignator256=C162
+ParamVariation257=ParameterName=Tolerance|VariantValue=±10%
+ParamDesignator257=C162
+Variation34=Designator=C163|UniqueId=\WLGLTEPP\VUQPLGJE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation258=ParameterName=Comment|VariantValue=0.10µF
+ParamDesignator258=C163
+ParamVariation259=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator259=C163
+ParamVariation260=ParameterName=Description|VariantValue=CAP CER 0.1UF 25V X7R 0402
+ParamDesignator260=C163
+ParamVariation261=ParameterName=Footprint|VariantValue=CAPC0402(1005)_N
+ParamDesignator261=C163
+ParamVariation262=ParameterName=Height|VariantValue=0.50mm
+ParamDesignator262=C163
+ParamVariation263=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator263=C163
+ParamVariation264=ParameterName=InternalID|VariantValue=105678
+ParamDesignator264=C163
+ParamVariation265=ParameterName=Library Reference|VariantValue=CMP-008-0049-4
+ParamDesignator265=C163
+ParamVariation266=ParameterName=Manufacturer|VariantValue=91
+ParamDesignator266=C163
+ParamVariation267=ParameterName=Manufacturer number|VariantValue=CGJ2B3X7R1E104K050BB
+ParamDesignator267=C163
+ParamVariation268=ParameterName=Part Number|VariantValue=CGJ2B3X7R1E104K050BB
+ParamDesignator268=C163
+ParamVariation269=ParameterName=PCB3D|VariantValue= 
+ParamDesignator269=C163
+ParamVariation270=ParameterName=Pin Info|VariantValue= 
+ParamDesignator270=C163
+ParamVariation271=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator271=C163
+ParamVariation272=ParameterName=Simulation|VariantValue= 
+ParamDesignator272=C163
+ParamVariation273=ParameterName=Symbol Name|VariantValue=Capacitor np
+ParamDesignator273=C163
+ParamVariation274=ParameterName=Temparature|VariantValue= 
+ParamDesignator274=C163
+ParamVariation275=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
+ParamDesignator275=C163
+ParamVariation276=ParameterName=Tolerance|VariantValue=±10%
+ParamDesignator276=C163
+Variation35=Designator=R267|UniqueId=\WLGLTEPP\QMNLOPEG|Kind=2|AlternatePart=3.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0061-2|AltLibLink_DesignItemID=CMP-005-0061-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=6C4407C0-5015-4B4D-8467-F68BD7BA5D37|AltLibLink_RevisionGUID=4DF2EE69-A3E3-4B5F-8F09-D14D150D8D4C|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation277=ParameterName=Comment|VariantValue=3.3k
+ParamDesignator277=R267
+ParamVariation278=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator278=R267
+ParamVariation279=ParameterName=Description|VariantValue=RES SMD 3.3K OHM 1% 1/16W 0402
+ParamDesignator279=R267
+ParamVariation280=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator280=R267
+ParamVariation281=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator281=R267
+ParamVariation282=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator282=R267
+ParamVariation283=ParameterName=InternalID|VariantValue=105167
+ParamDesignator283=R267
+ParamVariation284=ParameterName=Library Reference|VariantValue=CMP-005-0061-2
+ParamDesignator284=R267
+ParamVariation285=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator285=R267
+ParamVariation286=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF3301X
+ParamDesignator286=R267
+ParamVariation287=ParameterName=Part Number|VariantValue=ERJ-2RKF3301X
+ParamDesignator287=R267
+ParamVariation288=ParameterName=PCB3D|VariantValue= 
+ParamDesignator288=R267
+ParamVariation289=ParameterName=Pin Info|VariantValue= 
+ParamDesignator289=R267
+ParamVariation290=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator290=R267
+ParamVariation291=ParameterName=Simulation|VariantValue= 
+ParamDesignator291=R267
+ParamVariation292=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator292=R267
+ParamVariation293=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator293=R267
+Variation36=Designator=R250|UniqueId=\YLDWALTE\DERBHSXI|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation294=ParameterName=Comment|VariantValue=1k
+ParamDesignator294=R250
+ParamVariation295=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator295=R250
+ParamVariation296=ParameterName=Description|VariantValue=RES SMD 1K OHM 1% 1/16W 0402
+ParamDesignator296=R250
+ParamVariation297=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator297=R250
+ParamVariation298=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator298=R250
+ParamVariation299=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator299=R250
+ParamVariation300=ParameterName=InternalID|VariantValue=105155
+ParamDesignator300=R250
+ParamVariation301=ParameterName=Library Reference|VariantValue=CMP-005-0048-3
+ParamDesignator301=R250
+ParamVariation302=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator302=R250
+ParamVariation303=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF1001X
+ParamDesignator303=R250
+ParamVariation304=ParameterName=Part Number|VariantValue=ERJ-2RKF1001X
+ParamDesignator304=R250
+ParamVariation305=ParameterName=PCB3D|VariantValue= 
+ParamDesignator305=R250
+ParamVariation306=ParameterName=Pin Info|VariantValue= 
+ParamDesignator306=R250
+ParamVariation307=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator307=R250
+ParamVariation308=ParameterName=Simulation|VariantValue= 
+ParamDesignator308=R250
+ParamVariation309=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator309=R250
+ParamVariation310=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator310=R250
+Variation37=Designator=C153|UniqueId=\YLDWALTE\YFBDNTVM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=False
+ParamVariation311=ParameterName=Comment|VariantValue=0.022µF
+ParamDesignator311=C153
+ParamVariation312=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator312=C153
+ParamVariation313=ParameterName=Description|VariantValue=CAP CER 0.022UF 50V X7R 0603
+ParamDesignator313=C153
+ParamVariation314=ParameterName=Footprint|VariantValue=CAPC0603(1608)_N
+ParamDesignator314=C153
+ParamVariation315=ParameterName=Height|VariantValue=0.87mm
+ParamDesignator315=C153
+ParamVariation316=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator316=C153
+ParamVariation317=ParameterName=InternalID|VariantValue=105730
+ParamDesignator317=C153
+ParamVariation318=ParameterName=Library Reference|VariantValue=CMP-009-0051-2
+ParamDesignator318=C153
+ParamVariation319=ParameterName=Manufacturer|VariantValue=91
+ParamDesignator319=C153
+ParamVariation320=ParameterName=Manufacturer number|VariantValue=CGJ3E2X7R1H223K080AA
+ParamDesignator320=C153
+ParamVariation321=ParameterName=Part Number|VariantValue=CGJ3E2X7R1H223K080AA
+ParamDesignator321=C153
+ParamVariation322=ParameterName=PCB3D|VariantValue= 
+ParamDesignator322=C153
+ParamVariation323=ParameterName=Pin Info|VariantValue= 
+ParamDesignator323=C153
+ParamVariation324=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator324=C153
+ParamVariation325=ParameterName=Simulation|VariantValue= 
+ParamDesignator325=C153
+ParamVariation326=ParameterName=Symbol Name|VariantValue=Capacitor np
+ParamDesignator326=C153
+ParamVariation327=ParameterName=Temparature|VariantValue= 
+ParamDesignator327=C153
+ParamVariation328=ParameterName=Tolerance|VariantValue=±10%
+ParamDesignator328=C153
+Variation38=Designator=R251|UniqueId=\YLDWALTE\KBLBQIUY|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation329=ParameterName=Comment|VariantValue=4.3k
+ParamDesignator329=R251
+ParamVariation330=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator330=R251
+ParamVariation331=ParameterName=Description|VariantValue=RES SMD 4.3K OHM 1% 1/16W 0402
+ParamDesignator331=R251
+ParamVariation332=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator332=R251
+ParamVariation333=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator333=R251
+ParamVariation334=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator334=R251
+ParamVariation335=ParameterName=InternalID|VariantValue=105170
+ParamDesignator335=R251
+ParamVariation336=ParameterName=Library Reference|VariantValue=CMP-005-0064-2
+ParamDesignator336=R251
+ParamVariation337=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator337=R251
+ParamVariation338=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF4301X
+ParamDesignator338=R251
+ParamVariation339=ParameterName=Part Number|VariantValue=ERJ-2RKF4301X
+ParamDesignator339=R251
+ParamVariation340=ParameterName=PCB3D|VariantValue= 
+ParamDesignator340=R251
+ParamVariation341=ParameterName=Pin Info|VariantValue= 
+ParamDesignator341=R251
+ParamVariation342=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator342=R251
+ParamVariation343=ParameterName=Simulation|VariantValue= 
+ParamDesignator343=R251
+ParamVariation344=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator344=R251
+ParamVariation345=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator345=R251
+Variation39=Designator=C154|UniqueId=\YLDWALTE\VUQPLGJE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation346=ParameterName=Comment|VariantValue=0.10µF
+ParamDesignator346=C154
+ParamVariation347=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator347=C154
+ParamVariation348=ParameterName=Description|VariantValue=CAP CER 0.1UF 25V X7R 0402
+ParamDesignator348=C154
+ParamVariation349=ParameterName=Footprint|VariantValue=CAPC0402(1005)_N
+ParamDesignator349=C154
+ParamVariation350=ParameterName=Height|VariantValue=0.50mm
+ParamDesignator350=C154
+ParamVariation351=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator351=C154
+ParamVariation352=ParameterName=InternalID|VariantValue=105678
+ParamDesignator352=C154
+ParamVariation353=ParameterName=Library Reference|VariantValue=CMP-008-0049-4
+ParamDesignator353=C154
+ParamVariation354=ParameterName=Manufacturer|VariantValue=91
+ParamDesignator354=C154
+ParamVariation355=ParameterName=Manufacturer number|VariantValue=CGJ2B3X7R1E104K050BB
+ParamDesignator355=C154
+ParamVariation356=ParameterName=Part Number|VariantValue=CGJ2B3X7R1E104K050BB
+ParamDesignator356=C154
+ParamVariation357=ParameterName=PCB3D|VariantValue= 
+ParamDesignator357=C154
+ParamVariation358=ParameterName=Pin Info|VariantValue= 
+ParamDesignator358=C154
+ParamVariation359=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator359=C154
+ParamVariation360=ParameterName=Simulation|VariantValue= 
+ParamDesignator360=C154
+ParamVariation361=ParameterName=Symbol Name|VariantValue=Capacitor np
+ParamDesignator361=C154
+ParamVariation362=ParameterName=Temparature|VariantValue= 
+ParamDesignator362=C154
+ParamVariation363=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
+ParamDesignator363=C154
+ParamVariation364=ParameterName=Tolerance|VariantValue=±10%
+ParamDesignator364=C154
+Variation40=Designator=R252|UniqueId=\YLDWALTE\QMNLOPEG|Kind=2|AlternatePart=3.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0061-2|AltLibLink_DesignItemID=CMP-005-0061-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=6C4407C0-5015-4B4D-8467-F68BD7BA5D37|AltLibLink_RevisionGUID=4DF2EE69-A3E3-4B5F-8F09-D14D150D8D4C|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation365=ParameterName=Comment|VariantValue=3.3k
+ParamDesignator365=R252
+ParamVariation366=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator366=R252
+ParamVariation367=ParameterName=Description|VariantValue=RES SMD 3.3K OHM 1% 1/16W 0402
+ParamDesignator367=R252
+ParamVariation368=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator368=R252
+ParamVariation369=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator369=R252
+ParamVariation370=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator370=R252
+ParamVariation371=ParameterName=InternalID|VariantValue=105167
+ParamDesignator371=R252
+ParamVariation372=ParameterName=Library Reference|VariantValue=CMP-005-0061-2
+ParamDesignator372=R252
+ParamVariation373=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator373=R252
+ParamVariation374=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF3301X
+ParamDesignator374=R252
+ParamVariation375=ParameterName=Part Number|VariantValue=ERJ-2RKF3301X
+ParamDesignator375=R252
+ParamVariation376=ParameterName=PCB3D|VariantValue= 
+ParamDesignator376=R252
+ParamVariation377=ParameterName=Pin Info|VariantValue= 
+ParamDesignator377=R252
+ParamVariation378=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator378=R252
+ParamVariation379=ParameterName=Simulation|VariantValue= 
+ParamDesignator379=R252
+ParamVariation380=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator380=R252
+ParamVariation381=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator381=R252
+Variation41=Designator=R240|UniqueId=\YLDWALTE\TMOHWVEL|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation382=ParameterName=Comment|VariantValue=51
+ParamDesignator382=R240
+ParamVariation383=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator383=R240
+ParamVariation384=ParameterName=Description|VariantValue=RES SMD 51 OHM 1% 1/16W 0402
+ParamDesignator384=R240
+ParamVariation385=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator385=R240
+ParamVariation386=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator386=R240
+ParamVariation387=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator387=R240
+ParamVariation388=ParameterName=InternalID|VariantValue=105124
+ParamDesignator388=R240
+ParamVariation389=ParameterName=Library Reference|VariantValue=CMP-005-0017-2
+ParamDesignator389=R240
+ParamVariation390=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator390=R240
+ParamVariation391=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF51R0X
+ParamDesignator391=R240
+ParamVariation392=ParameterName=Part Number|VariantValue=ERJ-2RKF51R0X
+ParamDesignator392=R240
+ParamVariation393=ParameterName=PCB3D|VariantValue= 
+ParamDesignator393=R240
+ParamVariation394=ParameterName=Pin Info|VariantValue= 
+ParamDesignator394=R240
+ParamVariation395=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator395=R240
+ParamVariation396=ParameterName=Simulation|VariantValue= 
+ParamDesignator396=R240
+ParamVariation397=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator397=R240
+ParamVariation398=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator398=R240
+Variation42=Designator=R258|UniqueId=\WLGLTEPP\NOSBHUDG|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation399=ParameterName=Comment|VariantValue=0R
+ParamDesignator399=R258
+ParamVariation400=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator400=R258
+ParamVariation401=ParameterName=Description|VariantValue=RES SMD 0 OHM 1% 1/10W 0402
+ParamDesignator401=R258
+ParamVariation402=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator402=R258
+ParamVariation403=ParameterName=Height|VariantValue= 
+ParamDesignator403=R258
+ParamVariation404=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator404=R258
+ParamVariation405=ParameterName=InternalID|VariantValue=105887
+ParamDesignator405=R258
+ParamVariation406=ParameterName=Library Reference|VariantValue=CMP-018-0040-3
+ParamDesignator406=R258
+ParamVariation407=ParameterName=Manufacturer|VariantValue=Panasonic
+ParamDesignator407=R258
+ParamVariation408=ParameterName=Manufacturer number|VariantValue=ERJ2GE0R00X
+ParamDesignator408=R258
+ParamVariation409=ParameterName=Manufacturer Part Number|VariantValue=ERJ2GE0R00X
+ParamDesignator409=R258
+ParamVariation410=ParameterName=PCB3D|VariantValue= 
+ParamDesignator410=R258
+ParamVariation411=ParameterName=Pin Info|VariantValue= 
+ParamDesignator411=R258
+ParamVariation412=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator412=R258
+ParamVariation413=ParameterName=Simulation|VariantValue= 
+ParamDesignator413=R258
+ParamVariation414=ParameterName=Temperature|VariantValue= 
+ParamDesignator414=R258
+Variation43=Designator=R264|UniqueId=\WLGLTEPP\LOUVFLKM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation415=ParameterName=Comment|VariantValue=43k
+ParamDesignator415=R264
+ParamVariation416=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator416=R264
+ParamVariation417=ParameterName=Description|VariantValue=RES SMD 43K OHM 1% 1/16W 0402
+ParamDesignator417=R264
+ParamVariation418=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator418=R264
+ParamVariation419=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator419=R264
+ParamVariation420=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator420=R264
+ParamVariation421=ParameterName=InternalID|VariantValue=105194
+ParamDesignator421=R264
+ParamVariation422=ParameterName=Library Reference|VariantValue=CMP-005-0088-2
+ParamDesignator422=R264
+ParamVariation423=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator423=R264
+ParamVariation424=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF4302X
+ParamDesignator424=R264
+ParamVariation425=ParameterName=Part Number|VariantValue=ERJ-2RKF4302X
+ParamDesignator425=R264
+ParamVariation426=ParameterName=PCB3D|VariantValue= 
+ParamDesignator426=R264
+ParamVariation427=ParameterName=Pin Info|VariantValue= 
+ParamDesignator427=R264
+ParamVariation428=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator428=R264
+ParamVariation429=ParameterName=Simulation|VariantValue= 
+ParamDesignator429=R264
+ParamVariation430=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator430=R264
+ParamVariation431=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator431=R264
+Variation44=Designator=R243|UniqueId=\YLDWALTE\NOSBHUDG|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation432=ParameterName=Comment|VariantValue=0R
+ParamDesignator432=R243
+ParamVariation433=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator433=R243
+ParamVariation434=ParameterName=Description|VariantValue=RES SMD 0 OHM 1% 1/10W 0402
+ParamDesignator434=R243
+ParamVariation435=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator435=R243
+ParamVariation436=ParameterName=Height|VariantValue= 
+ParamDesignator436=R243
+ParamVariation437=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator437=R243
+ParamVariation438=ParameterName=InternalID|VariantValue=105887
+ParamDesignator438=R243
+ParamVariation439=ParameterName=Library Reference|VariantValue=CMP-018-0040-3
+ParamDesignator439=R243
+ParamVariation440=ParameterName=Manufacturer|VariantValue=Panasonic
+ParamDesignator440=R243
+ParamVariation441=ParameterName=Manufacturer number|VariantValue=ERJ2GE0R00X
+ParamDesignator441=R243
+ParamVariation442=ParameterName=Manufacturer Part Number|VariantValue=ERJ2GE0R00X
+ParamDesignator442=R243
+ParamVariation443=ParameterName=PCB3D|VariantValue= 
+ParamDesignator443=R243
+ParamVariation444=ParameterName=Pin Info|VariantValue= 
+ParamDesignator444=R243
+ParamVariation445=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator445=R243
+ParamVariation446=ParameterName=Simulation|VariantValue= 
+ParamDesignator446=R243
+ParamVariation447=ParameterName=Temperature|VariantValue= 
+ParamDesignator447=R243
+Variation45=Designator=R249|UniqueId=\YLDWALTE\LOUVFLKM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation448=ParameterName=Comment|VariantValue=43k
+ParamDesignator448=R249
+ParamVariation449=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator449=R249
+ParamVariation450=ParameterName=Description|VariantValue=RES SMD 43K OHM 1% 1/16W 0402
+ParamDesignator450=R249
+ParamVariation451=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator451=R249
+ParamVariation452=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator452=R249
+ParamVariation453=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator453=R249
+ParamVariation454=ParameterName=InternalID|VariantValue=105194
+ParamDesignator454=R249
+ParamVariation455=ParameterName=Library Reference|VariantValue=CMP-005-0088-2
+ParamDesignator455=R249
+ParamVariation456=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator456=R249
+ParamVariation457=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF4302X
+ParamDesignator457=R249
+ParamVariation458=ParameterName=Part Number|VariantValue=ERJ-2RKF4302X
+ParamDesignator458=R249
+ParamVariation459=ParameterName=PCB3D|VariantValue= 
+ParamDesignator459=R249
+ParamVariation460=ParameterName=Pin Info|VariantValue= 
+ParamDesignator460=R249
+ParamVariation461=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator461=R249
+ParamVariation462=ParameterName=Simulation|VariantValue= 
+ParamDesignator462=R249
+ParamVariation463=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator463=R249
+ParamVariation464=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator464=R249
+Variation46=Designator=R225|UniqueId=\CUSUIAWM\TMOHWVEL|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation465=ParameterName=Comment|VariantValue=51
+ParamDesignator465=R225
+ParamVariation466=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator466=R225
+ParamVariation467=ParameterName=Description|VariantValue=RES SMD 51 OHM 1% 1/16W 0402
+ParamDesignator467=R225
+ParamVariation468=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator468=R225
+ParamVariation469=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator469=R225
+ParamVariation470=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator470=R225
+ParamVariation471=ParameterName=InternalID|VariantValue=105124
+ParamDesignator471=R225
+ParamVariation472=ParameterName=Library Reference|VariantValue=CMP-005-0017-2
+ParamDesignator472=R225
+ParamVariation473=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator473=R225
+ParamVariation474=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF51R0X
+ParamDesignator474=R225
+ParamVariation475=ParameterName=Part Number|VariantValue=ERJ-2RKF51R0X
+ParamDesignator475=R225
+ParamVariation476=ParameterName=PCB3D|VariantValue= 
+ParamDesignator476=R225
+ParamVariation477=ParameterName=Pin Info|VariantValue= 
+ParamDesignator477=R225
+ParamVariation478=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator478=R225
+ParamVariation479=ParameterName=Simulation|VariantValue= 
+ParamDesignator479=R225
+ParamVariation480=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator480=R225
+ParamVariation481=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator481=R225
+Variation47=Designator=R235|UniqueId=\CUSUIAWM\DERBHSXI|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation482=ParameterName=Comment|VariantValue=1k
+ParamDesignator482=R235
+ParamVariation483=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator483=R235
+ParamVariation484=ParameterName=Description|VariantValue=RES SMD 1K OHM 1% 1/16W 0402
+ParamDesignator484=R235
+ParamVariation485=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator485=R235
+ParamVariation486=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator486=R235
+ParamVariation487=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator487=R235
+ParamVariation488=ParameterName=InternalID|VariantValue=105155
+ParamDesignator488=R235
+ParamVariation489=ParameterName=Library Reference|VariantValue=CMP-005-0048-3
+ParamDesignator489=R235
+ParamVariation490=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator490=R235
+ParamVariation491=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF1001X
+ParamDesignator491=R235
+ParamVariation492=ParameterName=Part Number|VariantValue=ERJ-2RKF1001X
+ParamDesignator492=R235
+ParamVariation493=ParameterName=PCB3D|VariantValue= 
+ParamDesignator493=R235
+ParamVariation494=ParameterName=Pin Info|VariantValue= 
+ParamDesignator494=R235
+ParamVariation495=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator495=R235
+ParamVariation496=ParameterName=Simulation|VariantValue= 
+ParamDesignator496=R235
+ParamVariation497=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator497=R235
+ParamVariation498=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator498=R235
+Variation48=Designator=C144|UniqueId=\CUSUIAWM\YFBDNTVM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=False
+ParamVariation499=ParameterName=Comment|VariantValue=0.022µF
+ParamDesignator499=C144
+ParamVariation500=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator500=C144
+ParamVariation501=ParameterName=Description|VariantValue=CAP CER 0.022UF 50V X7R 0603
+ParamDesignator501=C144
+ParamVariation502=ParameterName=Footprint|VariantValue=CAPC0603(1608)_N
+ParamDesignator502=C144
+ParamVariation503=ParameterName=Height|VariantValue=0.87mm
+ParamDesignator503=C144
+ParamVariation504=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator504=C144
+ParamVariation505=ParameterName=InternalID|VariantValue=105730
+ParamDesignator505=C144
+ParamVariation506=ParameterName=Library Reference|VariantValue=CMP-009-0051-2
+ParamDesignator506=C144
+ParamVariation507=ParameterName=Manufacturer|VariantValue=91
+ParamDesignator507=C144
+ParamVariation508=ParameterName=Manufacturer number|VariantValue=CGJ3E2X7R1H223K080AA
+ParamDesignator508=C144
+ParamVariation509=ParameterName=Part Number|VariantValue=CGJ3E2X7R1H223K080AA
+ParamDesignator509=C144
+ParamVariation510=ParameterName=PCB3D|VariantValue= 
+ParamDesignator510=C144
+ParamVariation511=ParameterName=Pin Info|VariantValue= 
+ParamDesignator511=C144
+ParamVariation512=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator512=C144
+ParamVariation513=ParameterName=Simulation|VariantValue= 
+ParamDesignator513=C144
+ParamVariation514=ParameterName=Symbol Name|VariantValue=Capacitor np
+ParamDesignator514=C144
+ParamVariation515=ParameterName=Temparature|VariantValue= 
+ParamDesignator515=C144
+ParamVariation516=ParameterName=Tolerance|VariantValue=±10%
+ParamDesignator516=C144
+Variation49=Designator=R236|UniqueId=\CUSUIAWM\KBLBQIUY|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation517=ParameterName=Comment|VariantValue=4.3k
+ParamDesignator517=R236
+ParamVariation518=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator518=R236
+ParamVariation519=ParameterName=Description|VariantValue=RES SMD 4.3K OHM 1% 1/16W 0402
+ParamDesignator519=R236
+ParamVariation520=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator520=R236
+ParamVariation521=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator521=R236
+ParamVariation522=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator522=R236
+ParamVariation523=ParameterName=InternalID|VariantValue=105170
+ParamDesignator523=R236
+ParamVariation524=ParameterName=Library Reference|VariantValue=CMP-005-0064-2
+ParamDesignator524=R236
+ParamVariation525=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator525=R236
+ParamVariation526=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF4301X
+ParamDesignator526=R236
+ParamVariation527=ParameterName=Part Number|VariantValue=ERJ-2RKF4301X
+ParamDesignator527=R236
+ParamVariation528=ParameterName=PCB3D|VariantValue= 
+ParamDesignator528=R236
+ParamVariation529=ParameterName=Pin Info|VariantValue= 
+ParamDesignator529=R236
+ParamVariation530=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator530=R236
+ParamVariation531=ParameterName=Simulation|VariantValue= 
+ParamDesignator531=R236
+ParamVariation532=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator532=R236
+ParamVariation533=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator533=R236
+Variation50=Designator=C145|UniqueId=\CUSUIAWM\VUQPLGJE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation534=ParameterName=Comment|VariantValue=0.10µF
+ParamDesignator534=C145
+ParamVariation535=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator535=C145
+ParamVariation536=ParameterName=Description|VariantValue=CAP CER 0.1UF 25V X7R 0402
+ParamDesignator536=C145
+ParamVariation537=ParameterName=Footprint|VariantValue=CAPC0402(1005)_N
+ParamDesignator537=C145
+ParamVariation538=ParameterName=Height|VariantValue=0.50mm
+ParamDesignator538=C145
+ParamVariation539=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator539=C145
+ParamVariation540=ParameterName=InternalID|VariantValue=105678
+ParamDesignator540=C145
+ParamVariation541=ParameterName=Library Reference|VariantValue=CMP-008-0049-4
+ParamDesignator541=C145
+ParamVariation542=ParameterName=Manufacturer|VariantValue=91
+ParamDesignator542=C145
+ParamVariation543=ParameterName=Manufacturer number|VariantValue=CGJ2B3X7R1E104K050BB
+ParamDesignator543=C145
+ParamVariation544=ParameterName=Part Number|VariantValue=CGJ2B3X7R1E104K050BB
+ParamDesignator544=C145
+ParamVariation545=ParameterName=PCB3D|VariantValue= 
+ParamDesignator545=C145
+ParamVariation546=ParameterName=Pin Info|VariantValue= 
+ParamDesignator546=C145
+ParamVariation547=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator547=C145
+ParamVariation548=ParameterName=Simulation|VariantValue= 
+ParamDesignator548=C145
+ParamVariation549=ParameterName=Symbol Name|VariantValue=Capacitor np
+ParamDesignator549=C145
+ParamVariation550=ParameterName=Temparature|VariantValue= 
+ParamDesignator550=C145
+ParamVariation551=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
+ParamDesignator551=C145
+ParamVariation552=ParameterName=Tolerance|VariantValue=±10%
+ParamDesignator552=C145
+Variation51=Designator=R237|UniqueId=\CUSUIAWM\QMNLOPEG|Kind=2|AlternatePart=3.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0061-2|AltLibLink_DesignItemID=CMP-005-0061-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=6C4407C0-5015-4B4D-8467-F68BD7BA5D37|AltLibLink_RevisionGUID=4DF2EE69-A3E3-4B5F-8F09-D14D150D8D4C|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation553=ParameterName=Comment|VariantValue=3.3k
+ParamDesignator553=R237
+ParamVariation554=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator554=R237
+ParamVariation555=ParameterName=Description|VariantValue=RES SMD 3.3K OHM 1% 1/16W 0402
+ParamDesignator555=R237
+ParamVariation556=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator556=R237
+ParamVariation557=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator557=R237
+ParamVariation558=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator558=R237
+ParamVariation559=ParameterName=InternalID|VariantValue=105167
+ParamDesignator559=R237
+ParamVariation560=ParameterName=Library Reference|VariantValue=CMP-005-0061-2
+ParamDesignator560=R237
+ParamVariation561=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator561=R237
+ParamVariation562=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF3301X
+ParamDesignator562=R237
+ParamVariation563=ParameterName=Part Number|VariantValue=ERJ-2RKF3301X
+ParamDesignator563=R237
+ParamVariation564=ParameterName=PCB3D|VariantValue= 
+ParamDesignator564=R237
+ParamVariation565=ParameterName=Pin Info|VariantValue= 
+ParamDesignator565=R237
+ParamVariation566=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator566=R237
+ParamVariation567=ParameterName=Simulation|VariantValue= 
+ParamDesignator567=R237
+ParamVariation568=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator568=R237
+ParamVariation569=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator569=R237
+Variation52=Designator=R228|UniqueId=\CUSUIAWM\NOSBHUDG|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation570=ParameterName=Comment|VariantValue=0R
+ParamDesignator570=R228
+ParamVariation571=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator571=R228
+ParamVariation572=ParameterName=Description|VariantValue=RES SMD 0 OHM 1% 1/10W 0402
+ParamDesignator572=R228
+ParamVariation573=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator573=R228
+ParamVariation574=ParameterName=Height|VariantValue= 
+ParamDesignator574=R228
+ParamVariation575=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator575=R228
+ParamVariation576=ParameterName=InternalID|VariantValue=105887
+ParamDesignator576=R228
+ParamVariation577=ParameterName=Library Reference|VariantValue=CMP-018-0040-3
+ParamDesignator577=R228
+ParamVariation578=ParameterName=Manufacturer|VariantValue=Panasonic
+ParamDesignator578=R228
+ParamVariation579=ParameterName=Manufacturer number|VariantValue=ERJ2GE0R00X
+ParamDesignator579=R228
+ParamVariation580=ParameterName=Manufacturer Part Number|VariantValue=ERJ2GE0R00X
+ParamDesignator580=R228
+ParamVariation581=ParameterName=PCB3D|VariantValue= 
+ParamDesignator581=R228
+ParamVariation582=ParameterName=Pin Info|VariantValue= 
+ParamDesignator582=R228
+ParamVariation583=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator583=R228
+ParamVariation584=ParameterName=Simulation|VariantValue= 
+ParamDesignator584=R228
+ParamVariation585=ParameterName=Temperature|VariantValue= 
+ParamDesignator585=R228
+Variation53=Designator=R234|UniqueId=\CUSUIAWM\LOUVFLKM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation586=ParameterName=Comment|VariantValue=43k
+ParamDesignator586=R234
+ParamVariation587=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator587=R234
+ParamVariation588=ParameterName=Description|VariantValue=RES SMD 43K OHM 1% 1/16W 0402
+ParamDesignator588=R234
+ParamVariation589=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator589=R234
+ParamVariation590=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator590=R234
+ParamVariation591=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator591=R234
+ParamVariation592=ParameterName=InternalID|VariantValue=105194
+ParamDesignator592=R234
+ParamVariation593=ParameterName=Library Reference|VariantValue=CMP-005-0088-2
+ParamDesignator593=R234
+ParamVariation594=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator594=R234
+ParamVariation595=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF4302X
+ParamDesignator595=R234
+ParamVariation596=ParameterName=Part Number|VariantValue=ERJ-2RKF4302X
+ParamDesignator596=R234
+ParamVariation597=ParameterName=PCB3D|VariantValue= 
+ParamDesignator597=R234
+ParamVariation598=ParameterName=Pin Info|VariantValue= 
+ParamDesignator598=R234
+ParamVariation599=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator599=R234
+ParamVariation600=ParameterName=Simulation|VariantValue= 
+ParamDesignator600=R234
+ParamVariation601=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator601=R234
+ParamVariation602=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator602=R234
+Variation54=Designator=R210|UniqueId=\LSFLSXLF\TMOHWVEL|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation603=ParameterName=Comment|VariantValue=51
+ParamDesignator603=R210
+ParamVariation604=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator604=R210
+ParamVariation605=ParameterName=Description|VariantValue=RES SMD 51 OHM 1% 1/16W 0402
+ParamDesignator605=R210
+ParamVariation606=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator606=R210
+ParamVariation607=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator607=R210
+ParamVariation608=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator608=R210
+ParamVariation609=ParameterName=InternalID|VariantValue=105124
+ParamDesignator609=R210
+ParamVariation610=ParameterName=Library Reference|VariantValue=CMP-005-0017-2
+ParamDesignator610=R210
+ParamVariation611=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator611=R210
+ParamVariation612=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF51R0X
+ParamDesignator612=R210
+ParamVariation613=ParameterName=Part Number|VariantValue=ERJ-2RKF51R0X
+ParamDesignator613=R210
+ParamVariation614=ParameterName=PCB3D|VariantValue= 
+ParamDesignator614=R210
+ParamVariation615=ParameterName=Pin Info|VariantValue= 
+ParamDesignator615=R210
+ParamVariation616=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator616=R210
+ParamVariation617=ParameterName=Simulation|VariantValue= 
+ParamDesignator617=R210
+ParamVariation618=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator618=R210
+ParamVariation619=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator619=R210
+Variation55=Designator=R220|UniqueId=\LSFLSXLF\DERBHSXI|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation620=ParameterName=Comment|VariantValue=1k
+ParamDesignator620=R220
+ParamVariation621=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator621=R220
+ParamVariation622=ParameterName=Description|VariantValue=RES SMD 1K OHM 1% 1/16W 0402
+ParamDesignator622=R220
+ParamVariation623=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator623=R220
+ParamVariation624=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator624=R220
+ParamVariation625=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator625=R220
+ParamVariation626=ParameterName=InternalID|VariantValue=105155
+ParamDesignator626=R220
+ParamVariation627=ParameterName=Library Reference|VariantValue=CMP-005-0048-3
+ParamDesignator627=R220
+ParamVariation628=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator628=R220
+ParamVariation629=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF1001X
+ParamDesignator629=R220
+ParamVariation630=ParameterName=Part Number|VariantValue=ERJ-2RKF1001X
+ParamDesignator630=R220
+ParamVariation631=ParameterName=PCB3D|VariantValue= 
+ParamDesignator631=R220
+ParamVariation632=ParameterName=Pin Info|VariantValue= 
+ParamDesignator632=R220
+ParamVariation633=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator633=R220
+ParamVariation634=ParameterName=Simulation|VariantValue= 
+ParamDesignator634=R220
+ParamVariation635=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator635=R220
+ParamVariation636=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator636=R220
+Variation56=Designator=C98|UniqueId=\LSFLSXLF\YFBDNTVM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=False
+ParamVariation637=ParameterName=Comment|VariantValue=0.022µF
+ParamDesignator637=C98
+ParamVariation638=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator638=C98
+ParamVariation639=ParameterName=Description|VariantValue=CAP CER 0.022UF 50V X7R 0603
+ParamDesignator639=C98
+ParamVariation640=ParameterName=Footprint|VariantValue=CAPC0603(1608)_N
+ParamDesignator640=C98
+ParamVariation641=ParameterName=Height|VariantValue=0.87mm
+ParamDesignator641=C98
+ParamVariation642=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator642=C98
+ParamVariation643=ParameterName=InternalID|VariantValue=105730
+ParamDesignator643=C98
+ParamVariation644=ParameterName=Library Reference|VariantValue=CMP-009-0051-2
+ParamDesignator644=C98
+ParamVariation645=ParameterName=Manufacturer|VariantValue=91
+ParamDesignator645=C98
+ParamVariation646=ParameterName=Manufacturer number|VariantValue=CGJ3E2X7R1H223K080AA
+ParamDesignator646=C98
+ParamVariation647=ParameterName=Part Number|VariantValue=CGJ3E2X7R1H223K080AA
+ParamDesignator647=C98
+ParamVariation648=ParameterName=PCB3D|VariantValue= 
+ParamDesignator648=C98
+ParamVariation649=ParameterName=Pin Info|VariantValue= 
+ParamDesignator649=C98
+ParamVariation650=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator650=C98
+ParamVariation651=ParameterName=Simulation|VariantValue= 
+ParamDesignator651=C98
+ParamVariation652=ParameterName=Symbol Name|VariantValue=Capacitor np
+ParamDesignator652=C98
+ParamVariation653=ParameterName=Temparature|VariantValue= 
+ParamDesignator653=C98
+ParamVariation654=ParameterName=Tolerance|VariantValue=±10%
+ParamDesignator654=C98
+Variation57=Designator=R221|UniqueId=\LSFLSXLF\KBLBQIUY|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation655=ParameterName=Comment|VariantValue=4.3k
+ParamDesignator655=R221
+ParamVariation656=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator656=R221
+ParamVariation657=ParameterName=Description|VariantValue=RES SMD 4.3K OHM 1% 1/16W 0402
+ParamDesignator657=R221
+ParamVariation658=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator658=R221
+ParamVariation659=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator659=R221
+ParamVariation660=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator660=R221
+ParamVariation661=ParameterName=InternalID|VariantValue=105170
+ParamDesignator661=R221
+ParamVariation662=ParameterName=Library Reference|VariantValue=CMP-005-0064-2
+ParamDesignator662=R221
+ParamVariation663=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator663=R221
+ParamVariation664=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF4301X
+ParamDesignator664=R221
+ParamVariation665=ParameterName=Part Number|VariantValue=ERJ-2RKF4301X
+ParamDesignator665=R221
+ParamVariation666=ParameterName=PCB3D|VariantValue= 
+ParamDesignator666=R221
+ParamVariation667=ParameterName=Pin Info|VariantValue= 
+ParamDesignator667=R221
+ParamVariation668=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator668=R221
+ParamVariation669=ParameterName=Simulation|VariantValue= 
+ParamDesignator669=R221
+ParamVariation670=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator670=R221
+ParamVariation671=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator671=R221
+Variation58=Designator=C99|UniqueId=\LSFLSXLF\VUQPLGJE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation672=ParameterName=Comment|VariantValue=0.10µF
+ParamDesignator672=C99
+ParamVariation673=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator673=C99
+ParamVariation674=ParameterName=Description|VariantValue=CAP CER 0.1UF 25V X7R 0402
+ParamDesignator674=C99
+ParamVariation675=ParameterName=Footprint|VariantValue=CAPC0402(1005)_N
+ParamDesignator675=C99
+ParamVariation676=ParameterName=Height|VariantValue=0.50mm
+ParamDesignator676=C99
+ParamVariation677=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator677=C99
+ParamVariation678=ParameterName=InternalID|VariantValue=105678
+ParamDesignator678=C99
+ParamVariation679=ParameterName=Library Reference|VariantValue=CMP-008-0049-4
+ParamDesignator679=C99
+ParamVariation680=ParameterName=Manufacturer|VariantValue=91
+ParamDesignator680=C99
+ParamVariation681=ParameterName=Manufacturer number|VariantValue=CGJ2B3X7R1E104K050BB
+ParamDesignator681=C99
+ParamVariation682=ParameterName=Part Number|VariantValue=CGJ2B3X7R1E104K050BB
+ParamDesignator682=C99
+ParamVariation683=ParameterName=PCB3D|VariantValue= 
+ParamDesignator683=C99
+ParamVariation684=ParameterName=Pin Info|VariantValue= 
+ParamDesignator684=C99
+ParamVariation685=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator685=C99
+ParamVariation686=ParameterName=Simulation|VariantValue= 
+ParamDesignator686=C99
+ParamVariation687=ParameterName=Symbol Name|VariantValue=Capacitor np
+ParamDesignator687=C99
+ParamVariation688=ParameterName=Temparature|VariantValue= 
+ParamDesignator688=C99
+ParamVariation689=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
+ParamDesignator689=C99
+ParamVariation690=ParameterName=Tolerance|VariantValue=±10%
+ParamDesignator690=C99
+Variation59=Designator=R222|UniqueId=\LSFLSXLF\QMNLOPEG|Kind=2|AlternatePart=8.2k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0071-2|AltLibLink_DesignItemID=CMP-005-0071-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A710838A-EDF9-490C-A278-05A5416535F1|AltLibLink_RevisionGUID=8A21913F-07A6-4D54-A83E-0B0AB0EF9014|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation691=ParameterName=Comment|VariantValue=8.2k
+ParamDesignator691=R222
+ParamVariation692=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator692=R222
+ParamVariation693=ParameterName=Description|VariantValue=RES SMD 8.2K OHM 1% 1/16W 0402
+ParamDesignator693=R222
+ParamVariation694=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator694=R222
+ParamVariation695=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator695=R222
+ParamVariation696=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator696=R222
+ParamVariation697=ParameterName=InternalID|VariantValue=105177
+ParamDesignator697=R222
+ParamVariation698=ParameterName=Library Reference|VariantValue=CMP-005-0071-2
+ParamDesignator698=R222
+ParamVariation699=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator699=R222
+ParamVariation700=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF8201X
+ParamDesignator700=R222
+ParamVariation701=ParameterName=Part Number|VariantValue=ERJ-2RKF8201X
+ParamDesignator701=R222
+ParamVariation702=ParameterName=PCB3D|VariantValue= 
+ParamDesignator702=R222
+ParamVariation703=ParameterName=Pin Info|VariantValue= 
+ParamDesignator703=R222
+ParamVariation704=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator704=R222
+ParamVariation705=ParameterName=Simulation|VariantValue= 
+ParamDesignator705=R222
+ParamVariation706=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator706=R222
+ParamVariation707=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator707=R222
+Variation60=Designator=R213|UniqueId=\LSFLSXLF\NOSBHUDG|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation708=ParameterName=Comment|VariantValue=0R
+ParamDesignator708=R213
+ParamVariation709=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator709=R213
+ParamVariation710=ParameterName=Description|VariantValue=RES SMD 0 OHM 1% 1/10W 0402
+ParamDesignator710=R213
+ParamVariation711=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator711=R213
+ParamVariation712=ParameterName=Height|VariantValue= 
+ParamDesignator712=R213
+ParamVariation713=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator713=R213
+ParamVariation714=ParameterName=InternalID|VariantValue=105887
+ParamDesignator714=R213
+ParamVariation715=ParameterName=Library Reference|VariantValue=CMP-018-0040-3
+ParamDesignator715=R213
+ParamVariation716=ParameterName=Manufacturer|VariantValue=Panasonic
+ParamDesignator716=R213
+ParamVariation717=ParameterName=Manufacturer number|VariantValue=ERJ2GE0R00X
+ParamDesignator717=R213
+ParamVariation718=ParameterName=Manufacturer Part Number|VariantValue=ERJ2GE0R00X
+ParamDesignator718=R213
+ParamVariation719=ParameterName=PCB3D|VariantValue= 
+ParamDesignator719=R213
+ParamVariation720=ParameterName=Pin Info|VariantValue= 
+ParamDesignator720=R213
+ParamVariation721=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator721=R213
+ParamVariation722=ParameterName=Simulation|VariantValue= 
+ParamDesignator722=R213
+ParamVariation723=ParameterName=Temperature|VariantValue= 
+ParamDesignator723=R213
+Variation61=Designator=R219|UniqueId=\LSFLSXLF\LOUVFLKM|Kind=2|AlternatePart=20k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0080-2|AltLibLink_DesignItemID=CMP-005-0080-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=5658AFD0-807B-4F51-B10F-661619A539A8|AltLibLink_RevisionGUID=A38FDF21-6072-49D8-B817-B7AA17A8328E|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation724=ParameterName=Comment|VariantValue=20k
+ParamDesignator724=R219
+ParamVariation725=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator725=R219
+ParamVariation726=ParameterName=Description|VariantValue=RES SMD 20K OHM 1% 1/16W 0402
+ParamDesignator726=R219
+ParamVariation727=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator727=R219
+ParamVariation728=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator728=R219
+ParamVariation729=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator729=R219
+ParamVariation730=ParameterName=InternalID|VariantValue=105186
+ParamDesignator730=R219
+ParamVariation731=ParameterName=Library Reference|VariantValue=CMP-005-0080-2
+ParamDesignator731=R219
+ParamVariation732=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator732=R219
+ParamVariation733=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF2002X
+ParamDesignator733=R219
+ParamVariation734=ParameterName=Part Number|VariantValue=ERJ-2RKF2002X
+ParamDesignator734=R219
+ParamVariation735=ParameterName=PCB3D|VariantValue= 
+ParamDesignator735=R219
+ParamVariation736=ParameterName=Pin Info|VariantValue= 
+ParamDesignator736=R219
+ParamVariation737=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator737=R219
+ParamVariation738=ParameterName=Simulation|VariantValue= 
+ParamDesignator738=R219
+ParamVariation739=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator739=R219
+ParamVariation740=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator740=R219
+Variation62=Designator=R177|UniqueId=\ULAPOLOW\HUPCNVQT|Kind=1|AlternatePart= 
+Variation63=Designator=R172|UniqueId=\ULAPOLOW\BEBRHLPL|Kind=1|AlternatePart= 
+Variation64=Designator=R190|UniqueId=\SOYRUULX\BEBRHLPL|Kind=1|AlternatePart= 
+Variation65=Designator=R195|UniqueId=\SOYRUULX\HUPCNVQT|Kind=1|AlternatePart= 
+Variation66=Designator=R183|UniqueId=\ULAPOLOW\QLTUWKBK|Kind=2|AlternatePart=130k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0100-2|AltLibLink_DesignItemID=CMP-005-0100-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=C22D0F72-6017-4176-8ABB-697E398D3ACA|AltLibLink_RevisionGUID=FAEC0F79-B185-49DC-B25B-11DC699A71F0|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation741=ParameterName=Comment|VariantValue=130k
+ParamDesignator741=R183
+ParamVariation742=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator742=R183
+ParamVariation743=ParameterName=Description|VariantValue=RES SMD 130K OHM 1% 1/16W 0402
+ParamDesignator743=R183
+ParamVariation744=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator744=R183
+ParamVariation745=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator745=R183
+ParamVariation746=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator746=R183
+ParamVariation747=ParameterName=InternalID|VariantValue=105206
+ParamDesignator747=R183
+ParamVariation748=ParameterName=Library Reference|VariantValue=CMP-005-0100-2
+ParamDesignator748=R183
+ParamVariation749=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator749=R183
+ParamVariation750=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF1303X
+ParamDesignator750=R183
+ParamVariation751=ParameterName=PCB3D|VariantValue= 
+ParamDesignator751=R183
+ParamVariation752=ParameterName=Pin Info|VariantValue= 
+ParamDesignator752=R183
+ParamVariation753=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator753=R183
+ParamVariation754=ParameterName=Simulation|VariantValue= 
+ParamDesignator754=R183
+ParamVariation755=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator755=R183
+ParamVariation756=ParameterName=Part Number|VariantValue=ERJ-2RKF1303X
+ParamDesignator756=R183
+ParamVariation757=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator757=R183
+Variation67=Designator=R201|UniqueId=\SOYRUULX\QLTUWKBK|Kind=2|AlternatePart=130k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0100-2|AltLibLink_DesignItemID=CMP-005-0100-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=C22D0F72-6017-4176-8ABB-697E398D3ACA|AltLibLink_RevisionGUID=FAEC0F79-B185-49DC-B25B-11DC699A71F0|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation758=ParameterName=Comment|VariantValue=130k
+ParamDesignator758=R201
+ParamVariation759=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator759=R201
+ParamVariation760=ParameterName=Description|VariantValue=RES SMD 130K OHM 1% 1/16W 0402
+ParamDesignator760=R201
+ParamVariation761=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator761=R201
+ParamVariation762=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator762=R201
+ParamVariation763=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator763=R201
+ParamVariation764=ParameterName=InternalID|VariantValue=105206
+ParamDesignator764=R201
+ParamVariation765=ParameterName=Library Reference|VariantValue=CMP-005-0100-2
+ParamDesignator765=R201
+ParamVariation766=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator766=R201
+ParamVariation767=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF1303X
+ParamDesignator767=R201
+ParamVariation768=ParameterName=PCB3D|VariantValue= 
+ParamDesignator768=R201
+ParamVariation769=ParameterName=Pin Info|VariantValue= 
+ParamDesignator769=R201
+ParamVariation770=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator770=R201
+ParamVariation771=ParameterName=Simulation|VariantValue= 
+ParamDesignator771=R201
+ParamVariation772=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator772=R201
+ParamVariation773=ParameterName=Part Number|VariantValue=ERJ-2RKF1303X
+ParamDesignator773=R201
+ParamVariation774=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator774=R201
+Variation68=Designator=R170|UniqueId=\ULAPOLOW\XMWPKDRP|Kind=2|AlternatePart=0.13 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0098-1|AltLibLink_DesignItemID=CMP-018-0098-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=554EC336-B308-486B-BDF7-A76F84277744|AltLibLink_RevisionGUID=B0EBBB47-3B5F-4C97-B385-3E306E9AF90D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+ParamVariation775=ParameterName=Comment|VariantValue=0.13 R
+ParamDesignator775=R170
+ParamVariation776=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator776=R170
+ParamVariation777=ParameterName=Description|VariantValue=RES 0.13 OHM 1% 1/2W 0805
+ParamDesignator777=R170
+ParamVariation778=ParameterName=Footprint|VariantValue=RESC0805(2012)_N
+ParamDesignator778=R170
+ParamVariation779=ParameterName=Height|VariantValue= 
+ParamDesignator779=R170
+ParamVariation780=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator780=R170
+ParamVariation781=ParameterName=InternalID|VariantValue=100587
+ParamDesignator781=R170
+ParamVariation782=ParameterName=Library Reference|VariantValue=CMP-018-0098-1
+ParamDesignator782=R170
+ParamVariation783=ParameterName=Manufacturer|VariantValue=Panasonic
+ParamDesignator783=R170
+ParamVariation784=ParameterName=Manufacturer Number|VariantValue=ERJ-6DSFR13V
+ParamDesignator784=R170
+ParamVariation785=ParameterName=PCB3D|VariantValue= 
+ParamDesignator785=R170
+ParamVariation786=ParameterName=Pin Info|VariantValue= 
+ParamDesignator786=R170
+ParamVariation787=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator787=R170
+ParamVariation788=ParameterName=Simulation|VariantValue= 
+ParamDesignator788=R170
+ParamVariation789=ParameterName=Temperature|VariantValue= 
+ParamDesignator789=R170
+Variation69=Designator=R188|UniqueId=\SOYRUULX\XMWPKDRP|Kind=2|AlternatePart=0.13 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0098-1|AltLibLink_DesignItemID=CMP-018-0098-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=554EC336-B308-486B-BDF7-A76F84277744|AltLibLink_RevisionGUID=B0EBBB47-3B5F-4C97-B385-3E306E9AF90D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=False
+ParamVariation790=ParameterName=Comment|VariantValue=0.13 R
+ParamDesignator790=R188
+ParamVariation791=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator791=R188
+ParamVariation792=ParameterName=Description|VariantValue=RES 0.13 OHM 1% 1/2W 0805
+ParamDesignator792=R188
+ParamVariation793=ParameterName=Footprint|VariantValue=RESC0805(2012)_N
+ParamDesignator793=R188
+ParamVariation794=ParameterName=Height|VariantValue= 
+ParamDesignator794=R188
+ParamVariation795=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator795=R188
+ParamVariation796=ParameterName=InternalID|VariantValue=100587
+ParamDesignator796=R188
+ParamVariation797=ParameterName=Library Reference|VariantValue=CMP-018-0098-1
+ParamDesignator797=R188
+ParamVariation798=ParameterName=Manufacturer|VariantValue=Panasonic
+ParamDesignator798=R188
+ParamVariation799=ParameterName=Manufacturer Number|VariantValue=ERJ-6DSFR13V
+ParamDesignator799=R188
+ParamVariation800=ParameterName=PCB3D|VariantValue= 
+ParamDesignator800=R188
+ParamVariation801=ParameterName=Pin Info|VariantValue= 
+ParamDesignator801=R188
+ParamVariation802=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator802=R188
+ParamVariation803=ParameterName=Simulation|VariantValue= 
+ParamDesignator803=R188
+ParamVariation804=ParameterName=Temperature|VariantValue= 
+ParamDesignator804=R188
+Variation70=Designator=R174|UniqueId=\ULAPOLOW\UGFKSKUO|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation805=ParameterName=Comment|VariantValue=0R
+ParamDesignator805=R174
+ParamVariation806=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator806=R174
+ParamVariation807=ParameterName=Description|VariantValue=RES SMD 0 OHM 1% 1/10W 0402
+ParamDesignator807=R174
+ParamVariation808=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator808=R174
+ParamVariation809=ParameterName=Height|VariantValue= 
+ParamDesignator809=R174
+ParamVariation810=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator810=R174
+ParamVariation811=ParameterName=InternalID|VariantValue=105887
+ParamDesignator811=R174
+ParamVariation812=ParameterName=Library Reference|VariantValue=CMP-018-0040-3
+ParamDesignator812=R174
+ParamVariation813=ParameterName=Manufacturer|VariantValue=Panasonic
+ParamDesignator813=R174
+ParamVariation814=ParameterName=Manufacturer number|VariantValue=ERJ2GE0R00X
+ParamDesignator814=R174
+ParamVariation815=ParameterName=Manufacturer Part Number|VariantValue=ERJ2GE0R00X
+ParamDesignator815=R174
+ParamVariation816=ParameterName=PCB3D|VariantValue= 
+ParamDesignator816=R174
+ParamVariation817=ParameterName=Pin Info|VariantValue= 
+ParamDesignator817=R174
+ParamVariation818=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator818=R174
+ParamVariation819=ParameterName=Simulation|VariantValue= 
+ParamDesignator819=R174
+ParamVariation820=ParameterName=Temperature|VariantValue= 
+ParamDesignator820=R174
+Variation71=Designator=R180|UniqueId=\ULAPOLOW\FDWVEQAM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation821=ParameterName=Comment|VariantValue=43k
+ParamDesignator821=R180
+ParamVariation822=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator822=R180
+ParamVariation823=ParameterName=Description|VariantValue=RES SMD 43K OHM 1% 1/16W 0402
+ParamDesignator823=R180
+ParamVariation824=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator824=R180
+ParamVariation825=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator825=R180
+ParamVariation826=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator826=R180
+ParamVariation827=ParameterName=InternalID|VariantValue=105194
+ParamDesignator827=R180
+ParamVariation828=ParameterName=Library Reference|VariantValue=CMP-005-0088-2
+ParamDesignator828=R180
+ParamVariation829=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator829=R180
+ParamVariation830=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF4302X
+ParamDesignator830=R180
+ParamVariation831=ParameterName=Part Number|VariantValue=ERJ-2RKF4302X
+ParamDesignator831=R180
+ParamVariation832=ParameterName=PCB3D|VariantValue= 
+ParamDesignator832=R180
+ParamVariation833=ParameterName=Pin Info|VariantValue= 
+ParamDesignator833=R180
+ParamVariation834=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator834=R180
+ParamVariation835=ParameterName=Simulation|VariantValue= 
+ParamDesignator835=R180
+ParamVariation836=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator836=R180
+ParamVariation837=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator837=R180
+Variation72=Designator=R298|UniqueId=\ULAPOLOW\UKRPVAAQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation838=ParameterName=Comment|VariantValue=39
+ParamDesignator838=R298
+ParamVariation839=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator839=R298
+ParamVariation840=ParameterName=Description|VariantValue=RES SMD 39 OHM 1% 1/16W 0402
+ParamDesignator840=R298
+ParamVariation841=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator841=R298
+ParamVariation842=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator842=R298
+ParamVariation843=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator843=R298
+ParamVariation844=ParameterName=InternalID|VariantValue=105121
+ParamDesignator844=R298
+ParamVariation845=ParameterName=Library Reference|VariantValue=CMP-005-0014-2
+ParamDesignator845=R298
+ParamVariation846=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator846=R298
+ParamVariation847=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF39R0X
+ParamDesignator847=R298
+ParamVariation848=ParameterName=Part Number|VariantValue=ERJ-2RKF39R0X
+ParamDesignator848=R298
+ParamVariation849=ParameterName=PCB3D|VariantValue= 
+ParamDesignator849=R298
+ParamVariation850=ParameterName=Pin Info|VariantValue= 
+ParamDesignator850=R298
+ParamVariation851=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator851=R298
+ParamVariation852=ParameterName=Simulation|VariantValue= 
+ParamDesignator852=R298
+ParamVariation853=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator853=R298
+ParamVariation854=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator854=R298
+Variation73=Designator=R299|UniqueId=\SOYRUULX\UKRPVAAQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation855=ParameterName=Comment|VariantValue=39
+ParamDesignator855=R299
+ParamVariation856=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator856=R299
+ParamVariation857=ParameterName=Description|VariantValue=RES SMD 39 OHM 1% 1/16W 0402
+ParamDesignator857=R299
+ParamVariation858=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator858=R299
+ParamVariation859=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator859=R299
+ParamVariation860=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator860=R299
+ParamVariation861=ParameterName=InternalID|VariantValue=105121
+ParamDesignator861=R299
+ParamVariation862=ParameterName=Library Reference|VariantValue=CMP-005-0014-2
+ParamDesignator862=R299
+ParamVariation863=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator863=R299
+ParamVariation864=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF39R0X
+ParamDesignator864=R299
+ParamVariation865=ParameterName=Part Number|VariantValue=ERJ-2RKF39R0X
+ParamDesignator865=R299
+ParamVariation866=ParameterName=PCB3D|VariantValue= 
+ParamDesignator866=R299
+ParamVariation867=ParameterName=Pin Info|VariantValue= 
+ParamDesignator867=R299
+ParamVariation868=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator868=R299
+ParamVariation869=ParameterName=Simulation|VariantValue= 
+ParamDesignator869=R299
+ParamVariation870=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator870=R299
+ParamVariation871=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator871=R299
+Variation74=Designator=R192|UniqueId=\SOYRUULX\UGFKSKUO|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation872=ParameterName=Comment|VariantValue=0R
+ParamDesignator872=R192
+ParamVariation873=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator873=R192
+ParamVariation874=ParameterName=Description|VariantValue=RES SMD 0 OHM 1% 1/10W 0402
+ParamDesignator874=R192
+ParamVariation875=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator875=R192
+ParamVariation876=ParameterName=Height|VariantValue= 
+ParamDesignator876=R192
+ParamVariation877=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator877=R192
+ParamVariation878=ParameterName=InternalID|VariantValue=105887
+ParamDesignator878=R192
+ParamVariation879=ParameterName=Library Reference|VariantValue=CMP-018-0040-3
+ParamDesignator879=R192
+ParamVariation880=ParameterName=Manufacturer|VariantValue=Panasonic
+ParamDesignator880=R192
+ParamVariation881=ParameterName=Manufacturer number|VariantValue=ERJ2GE0R00X
+ParamDesignator881=R192
+ParamVariation882=ParameterName=Manufacturer Part Number|VariantValue=ERJ2GE0R00X
+ParamDesignator882=R192
+ParamVariation883=ParameterName=PCB3D|VariantValue= 
+ParamDesignator883=R192
+ParamVariation884=ParameterName=Pin Info|VariantValue= 
+ParamDesignator884=R192
+ParamVariation885=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator885=R192
+ParamVariation886=ParameterName=Simulation|VariantValue= 
+ParamDesignator886=R192
+ParamVariation887=ParameterName=Temperature|VariantValue= 
+ParamDesignator887=R192
+Variation75=Designator=R198|UniqueId=\SOYRUULX\FDWVEQAM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation888=ParameterName=Comment|VariantValue=43k
+ParamDesignator888=R198
+ParamVariation889=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator889=R198
+ParamVariation890=ParameterName=Description|VariantValue=RES SMD 43K OHM 1% 1/16W 0402
+ParamDesignator890=R198
+ParamVariation891=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator891=R198
+ParamVariation892=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator892=R198
+ParamVariation893=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator893=R198
+ParamVariation894=ParameterName=InternalID|VariantValue=105194
+ParamDesignator894=R198
+ParamVariation895=ParameterName=Library Reference|VariantValue=CMP-005-0088-2
+ParamDesignator895=R198
+ParamVariation896=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator896=R198
+ParamVariation897=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF4302X
+ParamDesignator897=R198
+ParamVariation898=ParameterName=Part Number|VariantValue=ERJ-2RKF4302X
+ParamDesignator898=R198
+ParamVariation899=ParameterName=PCB3D|VariantValue= 
+ParamDesignator899=R198
+ParamVariation900=ParameterName=Pin Info|VariantValue= 
+ParamDesignator900=R198
+ParamVariation901=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator901=R198
+ParamVariation902=ParameterName=Simulation|VariantValue= 
+ParamDesignator902=R198
+ParamVariation903=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator903=R198
+ParamVariation904=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator904=R198
+Variation76=Designator=R147|UniqueId=\EVBXCTUW\OECXTVTT|Kind=1|AlternatePart= 
+Variation77=Designator=C1|UniqueId=\XRFIDGBS\ANCSPEME|Kind=1|AlternatePart= 
+Variation78=Designator=C2|UniqueId=\XRFIDGBS\JJCJRIXU|Kind=1|AlternatePart= 
+ParamVariationCount=904
 
 [Parameter1]
-Name=Year
-Value=2017
+Name=Pcb_Revision
+Value=2
 
 [Parameter2]
-Name=Title
-Value=P80 - Power Management Unit
-
-[Parameter3]
 Name=ProjectRevision
 Value=2
 
+[Parameter3]
+Name=Title
+Value=P80 - Power Management Unit
+
 [Parameter4]
-Name=Pcb_Revision
-Value=2
+Name=Year
+Value=2017
 
 [Configuration1]
 Name=Sources
@@ -1216,36 +3016,6 @@ OutputName10=Web Review Data
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=Ansoft Neutral
-OutputName11=Ansoft Neutral (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=HyperLynx
-OutputName12=HyperLynx (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Orcad v7 Capture Design
-OutputName13=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD ASCII
-OutputName14=P-CAD ASCII (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD V16 Schematic Design
-OutputName15=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=SiSoft
-OutputName16=SiSoft (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1870,7 +3640,7 @@ UpdateVariants=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=NetC100_2|NetColor=$006E6EFF
+Net1=NetName=VBAT|NetColor=$006E6EFF
 Net2=NetName=NetC77_2|NetColor=$006E6EFF
 Net3=NetName=NetJ12_1|NetColor=$006E6EFF
 Net4=NetName=NetJ12_2|NetColor=$006E6EFF
@@ -1885,7 +3655,7 @@ Net12=NetName=Vio_2|NetColor=$006E6EFF
 Net13=NetName=NetQ1_2|NetColor=$006E6EFF
 Net14=NetName=NetTP6_1|NetColor=$006E6EFF
 Net15=NetName=NetJ11_1|NetColor=$006E6EFF
-Net16=NetName=VBAT|NetColor=$006E6EFF
+Net16=NetName=NetC100_2|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
