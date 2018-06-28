@@ -3198,6 +3198,10 @@ ParamVariation1006=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator1006=R37
 ParamVariationCount=1006
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for pmu\BOM\gs-bomIFS-pmu-default_SMD.csv
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Pcb_Revision
 Value=2
