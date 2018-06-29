@@ -3078,6 +3078,10 @@ ParamVariationCount=1240
 DocumentPath=Project Outputs for ax600\Bill of Materials\gs-bom-P80-PDU-400-default.xls.xls
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ax600\BOM\gs-bomIFS-P80-PDU-400-[No Variations].csv
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=C:\Program Files\Altium Designer Summer 09\Library\*.*
 IncludeSubFolders=1
@@ -5955,6 +5959,23 @@ ComponentDesignItemID99=CMP-028-0008-1
 ComponentSymbolReference99=EPC2020
 ComponentUpdate99=1
 ComponentIsDeviceSheet99=0
+
+[NetInfos]
+Net1=NetName=NetR251_2|NetColor=$006E6EFF
+Net2=NetName=CAN_P|NetColor=clYellow
+Net3=NetName=NetU9_5|NetColor=$0000BE00
+Net4=NetName=CANL|NetColor=clYellow
+Net5=NetName=NetC19_2|NetColor=$006E6EFF
+Net6=NetName=SCL|NetColor=$0000BE00
+Net7=NetName=SDA|NetColor=$006EFF6E
+Net8=NetName=NetU28_4|NetColor=$006EFF6E
+Net9=NetName=NetR21_1|NetColor=$006E6EFF
+Net10=NetName=NetU28_5|NetColor=$0000BE00
+Net11=NetName=NetU9_4|NetColor=$006EFF6E
+Net12=NetName=CANH|NetColor=clYellow
+Net13=NetName=V_BAT|NetColor=$006E6EFF
+Net14=NetName=NetR152_1|NetColor=$006E6EFF
+Net15=NetName=CAN_N|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
