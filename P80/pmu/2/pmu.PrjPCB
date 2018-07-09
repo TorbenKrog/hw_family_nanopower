@@ -467,7 +467,7 @@ UniqueID=E87E08A7-A39E-4C5E-99D4-772850C0A618
 Description=ThroughHole
 AllowFabrication=0
 ParameterCount=0
-VariationCount=616
+VariationCount=628
 Variation1=Designator=C1|UniqueId=\XRFIDGBS\ANCSPEME|Kind=1|AlternatePart= 
 Variation2=Designator=C5|UniqueId=\XRFIDGBS\NRJGNXFU|Kind=1|AlternatePart= 
 Variation3=Designator=C4|UniqueId=\XRFIDGBS\SWCFFWUK|Kind=1|AlternatePart= 
@@ -1084,6 +1084,18 @@ Variation613=Designator=R303|UniqueId=\KRNWSBDH\MFJCWLFM|Kind=1|AlternatePart=
 Variation614=Designator=R299|UniqueId=\SOYRUULX\UKRPVAAQ|Kind=1|AlternatePart= 
 Variation615=Designator=R302|UniqueId=\KRNWSBDH\FLTHWNIA|Kind=1|AlternatePart= 
 Variation616=Designator=R252|UniqueId=\YLDWALTE\QMNLOPEG|Kind=1|AlternatePart= 
+Variation617=Designator=C181|UniqueId=\TLPLFTGV|Kind=1|AlternatePart= 
+Variation618=Designator=C182|UniqueId=\WKDXVVLX|Kind=1|AlternatePart= 
+Variation619=Designator=C183|UniqueId=\VCWBJKXI|Kind=1|AlternatePart= 
+Variation620=Designator=C184|UniqueId=\GDVIWLKB|Kind=1|AlternatePart= 
+Variation621=Designator=C185|UniqueId=\IAQAMVAR|Kind=1|AlternatePart= 
+Variation622=Designator=C186|UniqueId=\LTFWJUXV|Kind=1|AlternatePart= 
+Variation623=Designator=C187|UniqueId=\BRSFCHEM|Kind=1|AlternatePart= 
+Variation624=Designator=C188|UniqueId=\COKCEBGB|Kind=1|AlternatePart= 
+Variation625=Designator=C189|UniqueId=\XXLCIPCH|Kind=1|AlternatePart= 
+Variation626=Designator=C190|UniqueId=\GBBECEXB|Kind=1|AlternatePart= 
+Variation627=Designator=D13|UniqueId=\ULAPOLOW\QSLLXPUN|Kind=1|AlternatePart= 
+Variation628=Designator=D14|UniqueId=\SOYRUULX\QSLLXPUN|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -1091,7 +1103,7 @@ UniqueID=C5CFFF4D-00A4-4689-9449-94FF1E949902
 Description=default_SMD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=92
+VariationCount=93
 Variation1=Designator=R126|UniqueId=\IXOYSCOO\FPOJODIE|Kind=1|AlternatePart= 
 Variation2=Designator=R100|UniqueId=\IXOYSCOO\QRHGIBEH|Kind=1|AlternatePart= 
 Variation3=Designator=R77|UniqueId=\IXOYSCOO\AEOBGEKD|Kind=1|AlternatePart= 
@@ -3196,10 +3208,49 @@ ParamVariation1005=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator1005=R37
 ParamVariation1006=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator1006=R37
-ParamVariationCount=1006
+Variation93=Designator=R154|UniqueId=\BWCXDDWJ\JHTBIPQY|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation1007=ParameterName=Comment|VariantValue=1k
+ParamDesignator1007=R154
+ParamVariation1008=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator1008=R154
+ParamVariation1009=ParameterName=Description|VariantValue=RES SMD 1K OHM 1% 1/16W 0402
+ParamDesignator1009=R154
+ParamVariation1010=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator1010=R154
+ParamVariation1011=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator1011=R154
+ParamVariation1012=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator1012=R154
+ParamVariation1013=ParameterName=InternalID|VariantValue=105155
+ParamDesignator1013=R154
+ParamVariation1014=ParameterName=Library Reference|VariantValue=CMP-005-0048-3
+ParamDesignator1014=R154
+ParamVariation1015=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator1015=R154
+ParamVariation1016=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF1001X
+ParamDesignator1016=R154
+ParamVariation1017=ParameterName=Part Number|VariantValue=ERJ-2RKF1001X
+ParamDesignator1017=R154
+ParamVariation1018=ParameterName=PCB3D|VariantValue= 
+ParamDesignator1018=R154
+ParamVariation1019=ParameterName=Pin Info|VariantValue= 
+ParamDesignator1019=R154
+ParamVariation1020=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator1020=R154
+ParamVariation1021=ParameterName=Simulation|VariantValue= 
+ParamDesignator1021=R154
+ParamVariation1022=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator1022=R154
+ParamVariation1023=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator1023=R154
+ParamVariationCount=1023
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for pmu\BOM\gs-bomIFS-pmu-default_SMD.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for pmu\BOM\gs-bomIFS-pmu-ThroughHole.csv
 DItemRevisionGUID=
 
 [Parameter1]
@@ -4484,19 +4535,20 @@ Net3=NetName=NetC?_2|NetColor=$006E6EFF
 Net4=NetName=NetJ12_1|NetColor=$006E6EFF
 Net5=NetName=NetJ12_2|NetColor=$006E6EFF
 Net6=NetName=VBAT0|NetColor=$006E6EFF
-Net7=NetName=NetC78_2|NetColor=$006E6EFF
-Net8=NetName=NetC32_2|NetColor=$006E6EFF
-Net9=NetName=NetTP5_1|NetColor=$006E6EFF
-Net10=NetName=NetNT9_1|NetColor=$006E6EFF
-Net11=NetName=NetTP7_1|NetColor=$006E6EFF
-Net12=NetName=NetR115_2|NetColor=$006E6EFF
-Net13=NetName=Vio_2|NetColor=$006E6EFF
-Net14=NetName=NetR157_1|NetColor=$006E6EFF
-Net15=NetName=NetQ1_2|NetColor=$006E6EFF
-Net16=NetName=NetTP6_1|NetColor=$006E6EFF
-Net17=NetName=NetJ11_1|NetColor=$006E6EFF
-Net18=NetName=NetR67_2|NetColor=$006E6EFF
-Net19=NetName=NetC100_2|NetColor=$006E6EFF
+Net7=NetName=NetC130_2|NetColor=$006E6EFF
+Net8=NetName=NetC78_2|NetColor=$006E6EFF
+Net9=NetName=NetC32_2|NetColor=$006E6EFF
+Net10=NetName=NetTP5_1|NetColor=$006E6EFF
+Net11=NetName=NetNT9_1|NetColor=$006E6EFF
+Net12=NetName=NetTP7_1|NetColor=$006E6EFF
+Net13=NetName=NetR115_2|NetColor=$006E6EFF
+Net14=NetName=Vio_2|NetColor=$006E6EFF
+Net15=NetName=NetR157_1|NetColor=$006E6EFF
+Net16=NetName=NetQ1_2|NetColor=$006E6EFF
+Net17=NetName=NetTP6_1|NetColor=$006E6EFF
+Net18=NetName=NetJ11_1|NetColor=$006E6EFF
+Net19=NetName=NetR67_2|NetColor=$006E6EFF
+Net20=NetName=NetC100_2|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
