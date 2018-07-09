@@ -1236,7 +1236,7 @@ UniqueID=81030CAE-1515-4947-8ED5-4202E6B3A273
 Description=smd
 AllowFabrication=0
 ParameterCount=0
-VariationCount=119
+VariationCount=131
 Variation1=Designator=D5|UniqueId=\FQUBUWCG\PUKKSUAS\GVLOMNGU|Kind=1|AlternatePart= 
 Variation2=Designator=R165|UniqueId=\FQUBUWCG\PUKKSUAS\NUYAMPNG|Kind=1|AlternatePart= 
 Variation3=Designator=R170|UniqueId=\FQUBUWCG\PUKKSUAS\FQDKAQBV|Kind=1|AlternatePart= 
@@ -1554,7 +1554,87 @@ ParamVariation98=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator98=R220
 ParamVariation99=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator99=R220
-ParamVariationCount=99
+Variation120=Designator=J3|UniqueId=\FKNSLEHY|Kind=1|AlternatePart= 
+Variation121=Designator=J4|UniqueId=\KQYXLQWD|Kind=1|AlternatePart= 
+Variation122=Designator=J5|UniqueId=\TBMDGQPQ|Kind=1|AlternatePart= 
+Variation123=Designator=J7|UniqueId=\TTBMGAAA|Kind=1|AlternatePart= 
+Variation124=Designator=J8|UniqueId=\YVEPHMPH|Kind=1|AlternatePart= 
+Variation125=Designator=J9|UniqueId=\VOGCAMUK|Kind=1|AlternatePart= 
+Variation126=Designator=R81|UniqueId=\IKWVQKLL|Kind=1|AlternatePart= 
+Variation127=Designator=R82|UniqueId=\HGDCTXRB|Kind=1|AlternatePart= 
+Variation128=Designator=R80|UniqueId=\IMNXXIFP|Kind=1|AlternatePart= 
+Variation129=Designator=R79|UniqueId=\AWQLIIHS|Kind=1|AlternatePart= 
+Variation130=Designator=R60|UniqueId=\CLLQHXNW\TPLFSCXU|Kind=2|AlternatePart=390|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0038-2|AltLibLink_DesignItemID=CMP-005-0038-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=86F69469-EF89-48A9-A639-CBA067307EB0|AltLibLink_RevisionGUID=405D859B-5C49-4586-AFB8-FA4E520C4341|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation100=ParameterName=Comment|VariantValue=390
+ParamDesignator100=R60
+ParamVariation101=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator101=R60
+ParamVariation102=ParameterName=Description|VariantValue=RES SMD 390 OHM 1% 1/16W 0402
+ParamDesignator102=R60
+ParamVariation103=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator103=R60
+ParamVariation104=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator104=R60
+ParamVariation105=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator105=R60
+ParamVariation106=ParameterName=InternalID|VariantValue=105145
+ParamDesignator106=R60
+ParamVariation107=ParameterName=Library Reference|VariantValue=CMP-005-0038-2
+ParamDesignator107=R60
+ParamVariation108=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator108=R60
+ParamVariation109=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF3900X
+ParamDesignator109=R60
+ParamVariation110=ParameterName=Part Number|VariantValue=ERJ-2RKF3900X
+ParamDesignator110=R60
+ParamVariation111=ParameterName=PCB3D|VariantValue= 
+ParamDesignator111=R60
+ParamVariation112=ParameterName=Pin Info|VariantValue= 
+ParamDesignator112=R60
+ParamVariation113=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator113=R60
+ParamVariation114=ParameterName=Simulation|VariantValue= 
+ParamDesignator114=R60
+ParamVariation115=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator115=R60
+ParamVariation116=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator116=R60
+Variation131=Designator=R59|UniqueId=\CLLQHXNW\PVBBWUVU|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+ParamVariation117=ParameterName=Comment|VariantValue=43k
+ParamDesignator117=R59
+ParamVariation118=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator118=R59
+ParamVariation119=ParameterName=Description|VariantValue=RES SMD 43K OHM 1% 1/16W 0402
+ParamDesignator119=R59
+ParamVariation120=ParameterName=Footprint|VariantValue=RESC0402(1005)_N
+ParamDesignator120=R59
+ParamVariation121=ParameterName=Height|VariantValue=0.40mm
+ParamDesignator121=R59
+ParamVariation122=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator122=R59
+ParamVariation123=ParameterName=InternalID|VariantValue=105194
+ParamDesignator123=R59
+ParamVariation124=ParameterName=Library Reference|VariantValue=CMP-005-0088-2
+ParamDesignator124=R59
+ParamVariation125=ParameterName=Manufacturer|VariantValue=6
+ParamDesignator125=R59
+ParamVariation126=ParameterName=Manufacturer number|VariantValue=ERJ-2RKF4302X
+ParamDesignator126=R59
+ParamVariation127=ParameterName=Part Number|VariantValue=ERJ-2RKF4302X
+ParamDesignator127=R59
+ParamVariation128=ParameterName=PCB3D|VariantValue= 
+ParamDesignator128=R59
+ParamVariation129=ParameterName=Pin Info|VariantValue= 
+ParamDesignator129=R59
+ParamVariation130=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator130=R59
+ParamVariation131=ParameterName=Simulation|VariantValue= 
+ParamDesignator131=R59
+ParamVariation132=ParameterName=Symbol Name|VariantValue=Res
+ParamDesignator132=R59
+ParamVariation133=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
+ParamDesignator133=R59
+ParamVariationCount=133
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ax600\Bill of Materials\gs-bom-P80-PDU-400-default.xls.xls
