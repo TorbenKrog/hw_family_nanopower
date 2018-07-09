@@ -1,0 +1,6 @@
+[0618/124455:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0618/124455:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0618/124457:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0618/124457:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium NEXUS {1FA83CFA-1840-4A73-AA17-2A881F9BDAF9}\BrowserCache\GPUCache to C:\ProgramData\Altium\Altium NEXUS {1FA83CFA-1840-4A73-AA17-2A881F9BDAF9}\BrowserCache\old_GPUCache_000
+[0618/124457:ERROR:cache_creator.cc(129)] Unable to create cache
+[0618/124457:ERROR:shader_disk_cache.cc(589)] Shader Cache Creation failed: -2

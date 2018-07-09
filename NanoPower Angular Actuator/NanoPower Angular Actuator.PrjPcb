@@ -31,7 +31,6 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
-LinkedManagedProjectGUID=
 Template=C:\Users\Public\Documents\Altium\AD17\Templates\AT long bus (13.3 x 4.2 inches).PrjPCB
 IncludeDesignInRelease=0
 
@@ -207,7 +206,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PGHJNGOC
 
 [Document11]
 DocumentPath=NanoPower Angular Actuator Main.PCBDwf
@@ -273,262 +272,6 @@ Variation4=Designator=R605|UniqueId=\RISYBWSK\KJXDYUVY|Kind=1|AlternatePart=
 Variation5=Designator=R603|UniqueId=\RISYBWSK\BXYFILFA|Kind=1|AlternatePart= 
 Variation6=Designator=C614|UniqueId=\RISYBWSK\SEODAJEV|Kind=1|AlternatePart= 
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for NanoPower Angular Actuator\Design Rule Check - NanoPower-AAU.html
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_6\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_17\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_4\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_5\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_6\features
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_7\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_8\features
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\silkscreen_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for NanoPower Angular Actuator\NanoPower-AAU.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for NanoPower Angular Actuator\NanoPower-AAU.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for NanoPower Angular Actuator\NanoPower-AAU.REP
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for NanoPower Angular Actuator\NanoPower-AAU.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD-RoundHoles-Plated.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD-RoundHoles-Plated.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD-RoundHoles-Plated.TX3
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD-RoundHoles-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD-SlotHoles-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G1
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G2
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G3
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G4
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G5
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G6
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G7
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.G8
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project_Outputs\NC Drill Files\NanoPower Angular Actuator_Default_SMD.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.REP
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Project_Outputs\ODB++ Files\NanoPower Angular Actuator_Default_SMD.REP
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Project_Outputs\Gerber Files\NanoPower Angular Actuator_Default_SMD.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\tools
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -808,30 +551,18 @@ OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Wave Print
-OutputName9=Wave Prints
+OutputType9=PCBDrawing
+OutputName9=Draftsman
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=WaveSim Print
-OutputName10=WaveSim Prints
+OutputType10=PDF3D
+OutputName10=PDF3D
 OutputDocumentPath10=
-OutputVariantName10=
+OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PCBDrawing
-OutputName11=Draftsman
-OutputDocumentPath11=
-OutputVariantName11=[No Variations]
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=PDF3D
-OutputName12=PDF3D
-OutputDocumentPath12=
-OutputVariantName12=[No Variations]
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1249,6 +980,11 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Web ReviewOutputName
+OutputName10=Web Review Data
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1352,6 +1088,32 @@ Type87=1
 Type88=1
 Type89=1
 Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
 
 [Difference Levels]
 Type1=1
@@ -1403,6 +1165,22 @@ Type46=1
 Type47=1
 Type48=1
 Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1518,7 +1296,15 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
 MultiChannelAlternate=2
+AlternateItemFail=3
+Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
