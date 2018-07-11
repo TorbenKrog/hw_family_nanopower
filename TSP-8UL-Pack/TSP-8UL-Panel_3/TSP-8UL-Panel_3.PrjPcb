@@ -31,7 +31,6 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
-LinkedManagedProjectGUID=
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -56,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=TSP-8UL-Panel_2.PcbDoc
+DocumentPath=TSP-8UL-Panel_3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -73,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VSDEKROA
 
 [Document3]
-DocumentPath=TSP-8UL-Panel_2.SchDoc
+DocumentPath=TSP-8UL-Panel_3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -94,7 +93,7 @@ UniqueID=3F1585B2-3374-4022-B90D-144E55A46978
 Description=NoFSS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=19
+VariationCount=17
 Variation1=Designator=J7|UniqueId=\QFBLFVUI|Kind=1|AlternatePart= 
 Variation2=Designator=C2|UniqueId=\OIIGHJOH|Kind=1|AlternatePart= 
 Variation3=Designator=Rb1|UniqueId=\RISLNJWQ|Kind=1|AlternatePart= 
@@ -111,9 +110,7 @@ Variation13=Designator=U2|UniqueId=\MGTCQEXH|Kind=1|AlternatePart=
 Variation14=Designator=R15|UniqueId=\TYICRGHS|Kind=1|AlternatePart= 
 Variation15=Designator=R14|UniqueId=\BUMQBWQO|Kind=1|AlternatePart= 
 Variation16=Designator=R13|UniqueId=\MYNSSPMX|Kind=1|AlternatePart= 
-Variation17=Designator=R8|UniqueId=\TPMIMULA|Kind=1|AlternatePart= 
-Variation18=Designator=R7|UniqueId=\GYCKHUQY|Kind=1|AlternatePart= 
-Variation19=Designator=J8|UniqueId=\VDPIRQXG|Kind=1|AlternatePart= 
+Variation17=Designator=J8|UniqueId=\VDPIRQXG|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -121,14 +118,12 @@ UniqueID=CC218F41-CEFA-4BE4-B6BC-77957B606B76
 Description=FSS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
-Variation1=Designator=R8|UniqueId=\TPMIMULA|Kind=1|AlternatePart= 
-Variation2=Designator=R7|UniqueId=\GYCKHUQY|Kind=1|AlternatePart= 
-Variation3=Designator=J7|UniqueId=\QFBLFVUI|Kind=1|AlternatePart= 
-Variation4=Designator=C2|UniqueId=\OIIGHJOH|Kind=1|AlternatePart= 
-Variation5=Designator=R13|UniqueId=\MYNSSPMX|Kind=1|AlternatePart= 
-Variation6=Designator=R14|UniqueId=\BUMQBWQO|Kind=1|AlternatePart= 
-Variation7=Designator=J8|UniqueId=\VDPIRQXG|Kind=1|AlternatePart= 
+VariationCount=5
+Variation1=Designator=J7|UniqueId=\QFBLFVUI|Kind=1|AlternatePart= 
+Variation2=Designator=C2|UniqueId=\OIIGHJOH|Kind=1|AlternatePart= 
+Variation3=Designator=R13|UniqueId=\MYNSSPMX|Kind=1|AlternatePart= 
+Variation4=Designator=R14|UniqueId=\BUMQBWQO|Kind=1|AlternatePart= 
+Variation5=Designator=J8|UniqueId=\VDPIRQXG|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant3]
@@ -136,7 +131,7 @@ UniqueID=35F1BE1F-A8B0-4318-9D6D-61C95F8D6783
 Description=Axon_NoFSS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=25
+VariationCount=23
 Variation1=Designator=C2|UniqueId=\OIIGHJOH|Kind=1|AlternatePart= 
 Variation2=Designator=Ca1|UniqueId=\KISXGPHI|Kind=1|AlternatePart= 
 Variation3=Designator=Cb1|UniqueId=\WXLSXXAY|Kind=1|AlternatePart= 
@@ -146,158 +141,268 @@ Variation6=Designator=Cu1|UniqueId=\DGHGWLRN|Kind=1|AlternatePart=
 Variation7=Designator=D12|UniqueId=\LQKIINLI|Kind=1|AlternatePart= 
 Variation8=Designator=J7|UniqueId=\QFBLFVUI|Kind=1|AlternatePart= 
 Variation9=Designator=J8|UniqueId=\VDPIRQXG|Kind=1|AlternatePart= 
-Variation10=Designator=R7|UniqueId=\GYCKHUQY|Kind=1|AlternatePart= 
-Variation11=Designator=R8|UniqueId=\TPMIMULA|Kind=1|AlternatePart= 
-Variation12=Designator=R13|UniqueId=\MYNSSPMX|Kind=1|AlternatePart= 
-Variation13=Designator=R14|UniqueId=\BUMQBWQO|Kind=1|AlternatePart= 
-Variation14=Designator=R15|UniqueId=\TYICRGHS|Kind=1|AlternatePart= 
-Variation15=Designator=Ra1|UniqueId=\OMRIINWJ|Kind=1|AlternatePart= 
-Variation16=Designator=Rb1|UniqueId=\RISLNJWQ|Kind=1|AlternatePart= 
-Variation17=Designator=Rc1|UniqueId=\SIVCRGXY|Kind=1|AlternatePart= 
-Variation18=Designator=Rd1|UniqueId=\HCESPIOS|Kind=1|AlternatePart= 
-Variation19=Designator=U2|UniqueId=\MGTCQEXH|Kind=1|AlternatePart= 
-Variation20=Designator=J2|UniqueId=\PTFWEUYW|Kind=1|AlternatePart= 
-Variation21=Designator=J1|UniqueId=\XSNFWYRL|Kind=1|AlternatePart= 
-Variation22=Designator=J3|UniqueId=\SLXEDBKG|Kind=1|AlternatePart= 
-Variation23=Designator=J4|UniqueId=\XOBMAUNU|Kind=1|AlternatePart= 
-Variation24=Designator=J5|UniqueId=\HESMAWVT|Kind=1|AlternatePart= 
-Variation25=Designator=J6|UniqueId=\RGQDTEVT|Kind=1|AlternatePart= 
+Variation10=Designator=R13|UniqueId=\MYNSSPMX|Kind=1|AlternatePart= 
+Variation11=Designator=R14|UniqueId=\BUMQBWQO|Kind=1|AlternatePart= 
+Variation12=Designator=R15|UniqueId=\TYICRGHS|Kind=1|AlternatePart= 
+Variation13=Designator=Ra1|UniqueId=\OMRIINWJ|Kind=1|AlternatePart= 
+Variation14=Designator=Rb1|UniqueId=\RISLNJWQ|Kind=1|AlternatePart= 
+Variation15=Designator=Rc1|UniqueId=\SIVCRGXY|Kind=1|AlternatePart= 
+Variation16=Designator=Rd1|UniqueId=\HCESPIOS|Kind=1|AlternatePart= 
+Variation17=Designator=U2|UniqueId=\MGTCQEXH|Kind=1|AlternatePart= 
+Variation18=Designator=J2|UniqueId=\PTFWEUYW|Kind=1|AlternatePart= 
+Variation19=Designator=J1|UniqueId=\XSNFWYRL|Kind=1|AlternatePart= 
+Variation20=Designator=J3|UniqueId=\SLXEDBKG|Kind=1|AlternatePart= 
+Variation21=Designator=J4|UniqueId=\XOBMAUNU|Kind=1|AlternatePart= 
+Variation22=Designator=J5|UniqueId=\HESMAWVT|Kind=1|AlternatePart= 
+Variation23=Designator=J6|UniqueId=\RGQDTEVT|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for TSP-8UL-Panel_2\Design Rule Check - TSP-8UL-Panel_2.html
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\Panel-Release-Mechanism\Release_Main\Project Outputs for Release_Main\BOM\gs-bomIFS-TSP-8UL-Panel-NoFSS.csv
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for TSP-8UL-Panel_2\TSP-8UL-Panel_2.EXTREP
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for TSP-8UL-Panel_2\TSP-8UL-Panel_2.GM28
+DocumentPath=Project Outputs for TSP-8UL-Panel_3\Design Rule Check - TSP-8UL-Panel_3.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for TSP-8UL-Panel_2\TSP-8UL-Panel_2.GTO
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for TSP-8UL-Panel_2\TSP-8UL-Panel_2.REP
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for TSP-8UL-Panel_2\TSP-8UL-Panel_2.RUL
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].EXTREP
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].GBL
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].GBP
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].GBS
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].GM5
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].GM13
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\midlayer1\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].GM15
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\midlayer2\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].GPT
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\rout\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].GTL
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].GTO
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect23.622x39.3701_60\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].GTP
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect23.622x39.3701_120\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].GTS
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect23.622x39.3701_240\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].REP
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect23.622x39.3701_300\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_[No Variations].RUL
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect31.4961x137.7953_60\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_2_NoFSS-RoundHoles-NonPlated.TXT
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect31.4961x137.7953_120\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_2_NoFSS-RoundHoles-Plated.TX1
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect31.4961x137.7953_240\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_2_NoFSS-RoundHoles-Plated.TX2
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect31.4961x137.7953_300\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_2_NoFSS-RoundHoles-Plated.TXT
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect49.2126x70.8661_60\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_2_NoFSS-SlotHoles-NonPlated.TXT
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect49.2126x70.8661_120\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_2_NoFSS.DRR
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect49.2126x70.8661_240\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_NoFSS.EXTREP
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect49.2126x70.8661_300\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_NoFSS.GM5
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect82.6772x118.1102_60\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_NoFSS.GM28
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect82.6772x118.1102_120\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_NoFSS.GM30
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect82.6772x118.1102_240\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_2_NoFSS.LDP
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect82.6772x118.1102_300\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_NoFSS.REP
+DocumentPath=..\Panel-Release-Mechanism\Release_Main\Project Outputs for Release_Main\BOM\gs-bomIFS-TSP-8UL-Panel-NoFSS.csv
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_2_NoFSS.RUL
+DocumentPath=..\..\..\interstage-gssb\V5\Project_Outputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_3_Axon_NoFSS-RoundHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_3_Axon_NoFSS-RoundHoles-Plated.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_3_Axon_NoFSS-RoundHoles-Plated.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_3_Axon_NoFSS-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_3_Axon_NoFSS-SlotHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_3_Axon_NoFSS.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_3_Axon_NoFSS.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_3_Axon_NoFSS.G1
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_3_Axon_NoFSS.G2
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_3_Axon_NoFSS.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_3_Axon_NoFSS.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_3_Axon_NoFSS.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_3_Axon_NoFSS.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_3_Axon_NoFSS.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_3_Axon_NoFSS.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_3_Axon_NoFSS.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project_Outputs\NC Drill Files\TSP-8UL-Panel_3_Axon_NoFSS.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_3_Axon_NoFSS.REP
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project_Outputs\ODB++ Files\TSP-8UL-Panel_3_Axon_NoFSS.REP
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project_Outputs\Gerber Files\TSP-8UL-Panel_3_Axon_NoFSS.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -309,6 +414,42 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=0
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=Board Stack Report.XLT
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-4
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=Axon_NoFSS
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
 
 [Generic_EDE]
 OutputDir=
@@ -418,22 +559,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=XSpice Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -543,7 +674,7 @@ OutputName9=Schematic Prints
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.52|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=600|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.73|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
 Configuration9_Name1=OutputConfigurationParameter1
 Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType10=SimView Print
@@ -552,18 +683,6 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Wave Print
-OutputName11=Wave Prints
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=WaveSim Print
-OutputName12=WaveSim Prints
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -981,6 +1100,11 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Web ReviewOutputName
+OutputName10=Web Review Data
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1084,6 +1208,32 @@ Type87=1
 Type88=1
 Type89=1
 Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
 
 [Difference Levels]
 Type1=1
@@ -1135,6 +1285,22 @@ Type46=1
 Type47=1
 Type48=1
 Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1250,7 +1416,15 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
 MultiChannelAlternate=2
+AlternateItemFail=3
+Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
