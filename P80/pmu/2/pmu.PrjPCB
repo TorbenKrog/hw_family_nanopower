@@ -1103,7 +1103,7 @@ UniqueID=C5CFFF4D-00A4-4689-9449-94FF1E949902
 Description=default_SMD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=93
+VariationCount=99
 Variation1=Designator=R126|UniqueId=\IXOYSCOO\FPOJODIE|Kind=1|AlternatePart= 
 Variation2=Designator=R100|UniqueId=\IXOYSCOO\QRHGIBEH|Kind=1|AlternatePart= 
 Variation3=Designator=R77|UniqueId=\IXOYSCOO\AEOBGEKD|Kind=1|AlternatePart= 
@@ -3243,6 +3243,12 @@ ParamVariation1022=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator1022=R154
 ParamVariation1023=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator1023=R154
+Variation94=Designator=FD1|UniqueId=\HVSFLXEP|Kind=1|AlternatePart= 
+Variation95=Designator=FD3|UniqueId=\NFWGYJOP|Kind=1|AlternatePart= 
+Variation96=Designator=FD5|UniqueId=\WLSQAHFG|Kind=1|AlternatePart= 
+Variation97=Designator=FD2|UniqueId=\VSSVDSFV|Kind=1|AlternatePart= 
+Variation98=Designator=FD4|UniqueId=\NVDMJSNC|Kind=1|AlternatePart= 
+Variation99=Designator=FD6|UniqueId=\UPVIMDSB|Kind=1|AlternatePart= 
 ParamVariationCount=1023
 
 [GeneratedDocument1]
@@ -4531,7 +4537,7 @@ PartTypes=0
 [NetInfos]
 Net1=NetName=VBAT|NetColor=$006E6EFF
 Net2=NetName=NetC77_2|NetColor=$006E6EFF
-Net3=NetName=NetC?_2|NetColor=$006E6EFF
+Net3=NetName=NetC100_2|NetColor=$006E6EFF
 Net4=NetName=NetJ12_1|NetColor=$006E6EFF
 Net5=NetName=NetJ12_2|NetColor=$006E6EFF
 Net6=NetName=VBAT0|NetColor=$006E6EFF
@@ -4548,7 +4554,7 @@ Net16=NetName=NetQ1_2|NetColor=$006E6EFF
 Net17=NetName=NetTP6_1|NetColor=$006E6EFF
 Net18=NetName=NetJ11_1|NetColor=$006E6EFF
 Net19=NetName=NetR67_2|NetColor=$006E6EFF
-Net20=NetName=NetC100_2|NetColor=$006E6EFF
+Net20=NetName=NetC?_2|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
