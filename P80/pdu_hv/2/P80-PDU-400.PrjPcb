@@ -1236,7 +1236,7 @@ UniqueID=81030CAE-1515-4947-8ED5-4202E6B3A273
 Description=smd
 AllowFabrication=0
 ParameterCount=0
-VariationCount=131
+VariationCount=144
 Variation1=Designator=D5|UniqueId=\FQUBUWCG\PUKKSUAS\GVLOMNGU|Kind=1|AlternatePart= 
 Variation2=Designator=R165|UniqueId=\FQUBUWCG\PUKKSUAS\NUYAMPNG|Kind=1|AlternatePart= 
 Variation3=Designator=R170|UniqueId=\FQUBUWCG\PUKKSUAS\FQDKAQBV|Kind=1|AlternatePart= 
@@ -1302,7 +1302,7 @@ Variation62=Designator=C291|UniqueId=\FQUBUWCG\BPAQIPNA\BLPALWTQ|Kind=1|Alternat
 Variation63=Designator=R569|UniqueId=\FQUBUWCG\IESIPDFH\OMPOMTCA|Kind=1|AlternatePart= 
 Variation64=Designator=C300|UniqueId=\FQUBUWCG\IESIPDFH\BLPALWTQ|Kind=1|AlternatePart= 
 Variation65=Designator=R178|UniqueId=\FQUBUWCG\BNBRYQUB\ESAJMJGG|Kind=1|AlternatePart= 
-Variation66=Designator=R179|UniqueId=\FQUBUWCG\BNBRYQUB\NFIMXVLF|Kind=1|AlternatePart= 
+Variation66=Designator=R179|UniqueId=\FQUBUWCG\BNBRYQUB\NFIMXVLF|Kind=0|AlternatePart= 
 Variation67=Designator=R180|UniqueId=\FQUBUWCG\BNBRYQUB\HKJNAAKM|Kind=1|AlternatePart= 
 Variation68=Designator=R181|UniqueId=\FQUBUWCG\BNBRYQUB\RUJGHDSY|Kind=1|AlternatePart= 
 Variation69=Designator=R364|UniqueId=\FQUBUWCG\BWYMESUB\ESAJMJGG|Kind=1|AlternatePart= 
@@ -1634,6 +1634,19 @@ ParamVariation132=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator132=R59
 ParamVariation133=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator133=R59
+Variation132=Designator=R52|UniqueId=\FQUBUWCG\ESFWJGSV|Kind=1|AlternatePart= 
+Variation133=Designator=R185|UniqueId=\FQUBUWCG\FMEEQOEX|Kind=0|AlternatePart= 
+Variation134=Designator=R55|UniqueId=\FQUBUWCG\XAODJMVT|Kind=1|AlternatePart= 
+Variation135=Designator=R316|UniqueId=\FQUBUWCG\IYFFIGNC|Kind=1|AlternatePart= 
+Variation136=Designator=R186|UniqueId=\FQUBUWCG\CNMWXLFX|Kind=1|AlternatePart= 
+Variation137=Designator=R315|UniqueId=\FQUBUWCG\KTQGAGHV|Kind=1|AlternatePart= 
+Variation138=Designator=R65|UniqueId=\UNHXTBBT|Kind=1|AlternatePart= 
+Variation139=Designator=R67|UniqueId=\EVCLCCOR|Kind=1|AlternatePart= 
+Variation140=Designator=R69|UniqueId=\IJVRQLOW|Kind=1|AlternatePart= 
+Variation141=Designator=R70|UniqueId=\UYIDTBXU|Kind=1|AlternatePart= 
+Variation142=Designator=R71|UniqueId=\EDYMCQMT|Kind=1|AlternatePart= 
+Variation143=Designator=R72|UniqueId=\EOFRRCVJ|Kind=1|AlternatePart= 
+Variation144=Designator=R50|UniqueId=\CLLQHXNW\KFPJSSLD|Kind=1|AlternatePart= 
 ParamVariationCount=133
 
 [GeneratedDocument1]
