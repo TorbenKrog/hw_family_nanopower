@@ -541,330 +541,270 @@ Variation18=Designator=C129|UniqueId=\LKQJFNUT\KBTHCHQU|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].EXTREP
+DocumentPath=Project_Outputs\NC Drill Files\BP8_default-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].G1
+DocumentPath=Project_Outputs\NC Drill Files\BP8_default-RoundHoles-Plated.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].G2
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].G3
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].G4
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].G5
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].G6
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].GBL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].GBP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].GBP1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].GCB2
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].GCT2
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].GM4
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].GM6
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].GM7
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].GTL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].GTP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].GTP1
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].REP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project_Outputs\Gerber Files\BP8_[No Variations].RUL
-DItemRevisionGUID=
-
-[GeneratedDocument21]
 DocumentPath=Project_Outputs\NC Drill Files\BP8_default-RoundHoles-Plated.TX2
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument4]
+DocumentPath=Project_Outputs\NC Drill Files\BP8_default-RoundHoles-Plated.TX3
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project_Outputs\NC Drill Files\BP8_default-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project_Outputs\NC Drill Files\BP8_default-SlotHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument7]
 DocumentPath=Project_Outputs\Generates pick and place files\BP8_default.csv
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument8]
 DocumentPath=Project_Outputs\NC Drill Files\BP8_default.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument9]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument10]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.G1
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument11]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.G2
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument12]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.G3
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument13]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.G4
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument14]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.G5
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument15]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.G6
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument16]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument17]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument18]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.GBP1
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument19]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.GCB2
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument20]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.GCT2
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument21]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument22]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.GM6
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument23]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.GM7
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument24]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument25]
+DocumentPath=Project_Outputs\Gerber Files\BP8_default.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.GTP1
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument27]
 DocumentPath=Project_Outputs\NC Drill Files\BP8_default.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument28]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.REP
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument29]
 DocumentPath=Project_Outputs\ODB++ Files\BP8_default.REP
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument30]
 DocumentPath=Project_Outputs\Gerber Files\BP8_default.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument31]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument32]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument33]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument34]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument35]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_side_components\features
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument36]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottomcoverlay2_mask\features
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument37]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\cid+logo__mechanical_6_\features
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument38]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument39]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument40]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\features
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument41]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\features
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument42]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\features
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument43]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument44]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\id-text__mechanical_7_\features
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument45]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument46]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\outline__mechanical_4_\features
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument47]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\power_layer_1__vbat_\features
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument48]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\power_layer_2__gnd_\features
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument49]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\signal_layer_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument50]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\signal_layer_2\features
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument51]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\signal_layer_3\features
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument52]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\signal_layer_4\features
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument53]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\stack_1_bottom_coverlay_1__flex_stack_\features
 DItemRevisionGUID=
 
-[GeneratedDocument68]
+[GeneratedDocument54]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\stack_1_top_coverlay_1__flex_stack_\features
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument55]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument70]
+[GeneratedDocument56]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_side_components\features
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument57]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\topcoverlay2_mask\features
 DItemRevisionGUID=
 
-[GeneratedDocument72]
-DocumentPath=Project Outputs\gs-bomIFS-BP8-default.csv
-DItemRevisionGUID=
-
-[GeneratedDocument73]
+[GeneratedDocument58]
 DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument74]
+[GeneratedDocument59]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument60]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument76]
+[GeneratedDocument61]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument77]
+[GeneratedDocument62]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill1\tools
 DItemRevisionGUID=
 
-[GeneratedDocument78]
+[GeneratedDocument63]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill2\tools
 DItemRevisionGUID=
 
-[GeneratedDocument79]
+[GeneratedDocument64]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill3\tools
 DItemRevisionGUID=
 
-[GeneratedDocument80]
+[GeneratedDocument65]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
-[GeneratedDocument81]
+[GeneratedDocument66]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\stack_1_bottom_coverlay_1__flex_stack_\tools
 DItemRevisionGUID=
 
-[GeneratedDocument82]
+[GeneratedDocument67]
 DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\stack_1_top_coverlay_1__flex_stack_\tools
 DItemRevisionGUID=
 
