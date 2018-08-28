@@ -1236,7 +1236,7 @@ UniqueID=81030CAE-1515-4947-8ED5-4202E6B3A273
 Description=smd
 AllowFabrication=0
 ParameterCount=0
-VariationCount=149
+VariationCount=150
 Variation1=Designator=D5|UniqueId=\FQUBUWCG\PUKKSUAS\GVLOMNGU|Kind=1|AlternatePart= 
 Variation2=Designator=R165|UniqueId=\FQUBUWCG\PUKKSUAS\NUYAMPNG|Kind=1|AlternatePart= 
 Variation3=Designator=R170|UniqueId=\FQUBUWCG\PUKKSUAS\FQDKAQBV|Kind=1|AlternatePart= 
@@ -1756,9 +1756,9 @@ ParamDesignator184=C62
 ParamVariation185=ParameterName=Tolerance|VariantValue=±10%
 ParamDesignator185=C62
 Variation149=Designator=C63|UniqueId=\CLLQHXNW\JRXMITSH|Kind=2|AlternatePart=0.068µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0048-5|AltLibLink_DesignItemID=CMP-008-0048-5|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=FF2F253E-0186-4DE5-AD74-ECD43449D533|AltLibLink_RevisionGUID=4831701C-D49A-4084-999A-0329D3C60445|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=False
-ParamVariation186=ParameterName=CID|VariantValue= 
+ParamVariation186=ParameterName=Comment|VariantValue=0.068µF
 ParamDesignator186=C63
-ParamVariation187=ParameterName=Comment|VariantValue=0.068µF
+ParamVariation187=ParameterName=CID|VariantValue= 
 ParamDesignator187=C63
 ParamVariation188=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator188=C63
@@ -1796,6 +1796,7 @@ ParamVariation204=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
 ParamDesignator204=C63
 ParamVariation205=ParameterName=Tolerance|VariantValue=±10%
 ParamDesignator205=C63
+Variation150=Designator=R163|UniqueId=\FQUBUWCG\DAKGYWDI|Kind=1|AlternatePart= 
 ParamVariationCount=205
 
 [GeneratedDocument1]
