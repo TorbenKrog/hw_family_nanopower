@@ -72,6 +72,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEDAUUMC
 
+[Document3]
+DocumentPath=..\..\..\..\library\gomspace\template\Gomspace_vault4.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=ACBCD6C8-4639-4847-A1FF-435B7DC9F2AF
 Description=FRONT
@@ -82,191 +99,207 @@ Variation1=Designator=S3|UniqueId=\TUOHVNKR\MQJMVRFP|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.1
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.A
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.ABL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.ABO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.ABP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.ABP1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.ABS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.ABS1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.ACB2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.ACT2
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.AKO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.AM1
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.AM4
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.AM10
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.AML
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.ATL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.ATO
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.ATP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.ATS
-DItemRevisionGUID=
-
-[GeneratedDocument20]
 DocumentPath=Project Outputs for flex\Dual_Cell_flex.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for flex\Gerber\Dual_Cell_flex.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for flex\Gerber\Dual_Cell_flex.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for flex\Dual_Cell_flex.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for flex\Dual_Cell_flex.GBP1
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for flex\Dual_Cell_flex.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for flex\Dual_Cell_flex.GBS1
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.GCB2
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for flex\Gerber\Dual_Cell_flex.GCB2
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.GCT2
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for flex\Gerber\Dual_Cell_flex.GCT2
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument35]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for flex\Dual_Cell_flex.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=Project Outputs for flex\Gerber\Dual_Cell_flex.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.GM10
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for flex\Gerber\Dual_Cell_flex.GM10
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.GML
-DItemRevisionGUID=
-
-[GeneratedDocument40]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for flex\Dual_Cell_flex.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument41]
-DocumentPath=Project Outputs for flex\Gerber\Dual_Cell_flex.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument43]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for flex\Dual_Cell_flex.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument44]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument45]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for flex\Dual_Cell_flex.REP
 DItemRevisionGUID=
 
+[GeneratedDocument10]
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_[No Variations].EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_[No Variations].GCB2
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_[No Variations].GCT2
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_[No Variations].GKO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_[No Variations].GM4
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_[No Variations].GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_[No Variations].GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project_Outputs\ODB++ Files\Dual_Cell_flex_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GCB2
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GCT2
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GKO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GM4
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GTO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GTS
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\ODB++ Files\Dual_Cell_flex_short_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\board_outline__mechanical_4_\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\board_outline__mechanical_4_\features
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
 [GeneratedDocument46]
-DocumentPath=Project Outputs for flex\Gerber\Dual_Cell_flex.REP
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for flex\Gerber\Dual_Cell_flex.RUL
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=..\Dual_cell_Flex_Short\Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [Configuration1]
@@ -549,7 +582,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 OutputType12=PCBDrawing
 OutputName12=Draftsman
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
@@ -1245,6 +1278,46 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad SDT Schematic
+OutputName12=Orcad SDT Schematic (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Orcad v7 Capture Design
+OutputName13=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD ASCII
+OutputName14=P-CAD ASCII (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD V16 Schematic Design
+OutputName15=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Protel PCB 2.8 ASCII
+OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1514,6 +1587,7 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+MultiChannelAlternate=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

@@ -39,23 +39,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Gomspace.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document2]
 DocumentPath=Dual_Cell_flex_short.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -72,6 +55,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEDAUUMC
 
+[Document2]
+DocumentPath=..\..\..\..\library\gomspace\template\Gomspace_vault4.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=ACBCD6C8-4639-4847-A1FF-435B7DC9F2AF
 Description=FRONT
@@ -82,55 +82,171 @@ Variation1=Designator=S3|UniqueId=\TUOHVNKR\MQJMVRFP|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex_short.EXTREP
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex_short.GBO
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GCB2
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex_short.GBP
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GCT2
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex_short.GBP1
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GKO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex_short.GBS
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GM4
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex_short.GBS1
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GTL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex_short.GCB2
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GTO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex_short.GCT2
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].GTS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex_short.GM4
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].REP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex_short.GTL
+DocumentPath=Project_Outputs\ODB++ Files\Dual_Cell_flex_short_[No Variations].REP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex_short.GTP
+DocumentPath=Project_Outputs\Gerber Files\Dual_Cell_flex_short_[No Variations].RUL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex_short.GTS
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\board_outline__mechanical_4_\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for flex\Dual_Cell_flex_short.REP
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\board_outline__mechanical_4_\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mid-layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\Gerber Files\TSP-8UL-Panel_3_[No Variations].EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\Gerber Files\TSP-8UL-Panel_3_[No Variations].GCB2
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\Gerber Files\TSP-8UL-Panel_3_[No Variations].GCT2
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\Gerber Files\TSP-8UL-Panel_3_[No Variations].GKO
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\Gerber Files\TSP-8UL-Panel_3_[No Variations].GM4
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\Gerber Files\TSP-8UL-Panel_3_[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\Gerber Files\TSP-8UL-Panel_3_[No Variations].GTO
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\Gerber Files\TSP-8UL-Panel_3_[No Variations].GTS
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\Gerber Files\TSP-8UL-Panel_3_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\ODB++ Files\TSP-8UL-Panel_3_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=..\..\..\TSP-8UL-Pack\TSP-8UL-Panel_3\Project_Outputs\Gerber Files\TSP-8UL-Panel_3_[No Variations].RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -413,7 +529,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 OutputType12=PCBDrawing
 OutputName12=Draftsman
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
@@ -1109,46 +1225,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad SDT Schematic
-OutputName12=Orcad SDT Schematic (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Orcad v7 Capture Design
-OutputName13=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD ASCII
-OutputName14=P-CAD ASCII (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD V16 Schematic Design
-OutputName15=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Protel PCB 2.8 ASCII
-OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1418,6 +1494,7 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+MultiChannelAlternate=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
