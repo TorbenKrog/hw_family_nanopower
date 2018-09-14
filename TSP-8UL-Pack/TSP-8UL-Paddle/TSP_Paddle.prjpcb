@@ -90,478 +90,246 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for TSP_Paddle\Design Rule Check - TSP-Paddle.html
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\mechanical_4\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\mechanical_5\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\mechanical_7\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\mid-layer_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\mid-layer_4\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\mid-layer_5\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\mid-layer_6\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\midlayer1\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\midlayer2\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\rout\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect23.622x39.3701_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect23.622x39.3701_120\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect23.622x39.3701_240\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect23.622x39.3701_300\features
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect31.4961x137.7953_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect31.4961x137.7953_120\features
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect31.4961x137.7953_240\features
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect31.4961x137.7953_300\features
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect49.2126x70.8661_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect49.2126x70.8661_120\features
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect49.2126x70.8661_240\features
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect49.2126x70.8661_300\features
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect82.6772x118.1102_60\features
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect82.6772x118.1102_120\features
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect82.6772x118.1102_240\features
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\symbols\rect82.6772x118.1102_300\features
-DItemRevisionGUID=
-
-[GeneratedDocument40]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mechanical_4\features
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mechanical_5\features
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mechanical_7\features
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mid-layer_3\features
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mid-layer_4\features
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mid-layer_5\features
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mid-layer_6\features
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\midlayer1\features
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\midlayer2\features
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\rout\features
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect23.622x39.3701_60\features
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect23.622x39.3701_120\features
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect23.622x39.3701_240\features
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect23.622x39.3701_300\features
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect31.4961x137.7953_60\features
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect31.4961x137.7953_120\features
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect31.4961x137.7953_240\features
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect31.4961x137.7953_300\features
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect49.2126x70.8661_60\features
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect49.2126x70.8661_120\features
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect49.2126x70.8661_240\features
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect49.2126x70.8661_300\features
 DItemRevisionGUID=
 
-[GeneratedDocument68]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect82.6772x118.1102_60\features
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect82.6772x118.1102_120\features
 DItemRevisionGUID=
 
-[GeneratedDocument70]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect82.6772x118.1102_240\features
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect82.6772x118.1102_300\features
 DItemRevisionGUID=
 
-[GeneratedDocument72]
-DocumentPath=Project Outputs for Free Documents\NC Drill Files\Free Documents-[No Variations]-RoundHoles-NonPlated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument73]
-DocumentPath=Project Outputs for Free Documents\NC Drill Files\Free Documents-[No Variations]-RoundHoles-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument74]
-DocumentPath=Project Outputs for Free Documents\NC Drill Files\Free Documents-[No Variations]-SlotHoles-NonPlated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument75]
-DocumentPath=Project Outputs for Free Documents\NC Drill Files\Free Documents-[No Variations]-SlotHoles-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument76]
-DocumentPath=Project Outputs for Free Documents\NC Drill Files\Free Documents-[No Variations].DRR
-DItemRevisionGUID=
-
-[GeneratedDocument77]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\Free Documents-[No Variations].EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument78]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\Free Documents-[No Variations].G1
-DItemRevisionGUID=
-
-[GeneratedDocument79]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\Free Documents-[No Variations].G2
-DItemRevisionGUID=
-
-[GeneratedDocument80]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\Free Documents-[No Variations].GBL
-DItemRevisionGUID=
-
-[GeneratedDocument81]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\Free Documents-[No Variations].GBP
-DItemRevisionGUID=
-
-[GeneratedDocument82]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\Free Documents-[No Variations].GM4
-DItemRevisionGUID=
-
-[GeneratedDocument83]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\Free Documents-[No Variations].GTL
-DItemRevisionGUID=
-
-[GeneratedDocument84]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\Free Documents-[No Variations].GTP
-DItemRevisionGUID=
-
-[GeneratedDocument85]
-DocumentPath=Project Outputs for Free Documents\NC Drill Files\Free Documents-[No Variations].LDP
-DItemRevisionGUID=
-
-[GeneratedDocument86]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\Free Documents-[No Variations].REP
-DItemRevisionGUID=
-
-[GeneratedDocument87]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\Free Documents-[No Variations].REP
-DItemRevisionGUID=
-
-[GeneratedDocument88]
-DocumentPath=Project Outputs for Free Documents\Gerber Files\Free Documents-[No Variations].RUL
-DItemRevisionGUID=
-
-[GeneratedDocument89]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument90]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument91]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument92]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument93]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument94]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument95]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument96]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument97]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument98]
-DocumentPath=Project Outputs for Free Documents\ODB++ Files\odb\steps\pcb\layers\rout\tools
-DItemRevisionGUID=
-
-[GeneratedDocument99]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
-[GeneratedDocument100]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\rout\tools
 DItemRevisionGUID=
 
-[GeneratedDocument101]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations]-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument102]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations]-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument103]
+[GeneratedDocument45]
 DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations]-SlotHoles-NonPlated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument104]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations]-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument105]
+[GeneratedDocument47]
 DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations].DRR
 DItemRevisionGUID=
 
-[GeneratedDocument106]
+[GeneratedDocument48]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument107]
+[GeneratedDocument49]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].G1
 DItemRevisionGUID=
 
-[GeneratedDocument108]
+[GeneratedDocument50]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].G2
 DItemRevisionGUID=
 
-[GeneratedDocument109]
+[GeneratedDocument51]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GBL
 DItemRevisionGUID=
 
-[GeneratedDocument110]
+[GeneratedDocument52]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GBP
 DItemRevisionGUID=
 
-[GeneratedDocument111]
+[GeneratedDocument53]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GBS
 DItemRevisionGUID=
 
-[GeneratedDocument112]
+[GeneratedDocument54]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GM4
 DItemRevisionGUID=
 
-[GeneratedDocument113]
+[GeneratedDocument55]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTL
 DItemRevisionGUID=
 
-[GeneratedDocument114]
+[GeneratedDocument56]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTP
 DItemRevisionGUID=
 
-[GeneratedDocument115]
+[GeneratedDocument57]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTS
 DItemRevisionGUID=
 
-[GeneratedDocument116]
+[GeneratedDocument58]
 DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations].LDP
 DItemRevisionGUID=
 
-[GeneratedDocument117]
+[GeneratedDocument59]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].REP
 DItemRevisionGUID=
 
-[GeneratedDocument118]
+[GeneratedDocument60]
 DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\TSP_Paddle-[No Variations].REP
 DItemRevisionGUID=
 
-[GeneratedDocument119]
+[GeneratedDocument61]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].RUL
 DItemRevisionGUID=
 
@@ -1175,46 +943,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad SDT Schematic
-OutputName12=Orcad SDT Schematic (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Orcad v7 Capture Design
-OutputName13=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD ASCII
-OutputName14=P-CAD ASCII (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD V16 Schematic Design
-OutputName15=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Protel PCB 2.8 ASCII
-OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
