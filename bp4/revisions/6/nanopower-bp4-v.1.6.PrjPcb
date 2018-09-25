@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for nanopower-bp4-v.1.6
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -88,13 +88,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GILHIKDD
 
-[Parameter1]
-Name=Title
-Value=NanoPower BP4
+[Document4]
+DocumentPath=Gomspace_vault3.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[Parameter2]
+[Parameter1]
 Name=PCB Revision
 Value=1
+
+[Parameter2]
+Name=Title
+Value=NanoPower BP4
 
 [Configuration1]
 Name=Default Configuration
@@ -143,7 +160,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for nanopower-bp4-v.1.6
 
 [OutputGroup1]
 Name=Netlist Outputs
