@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for TSP_Paddle
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -74,6 +74,23 @@ DocumentUniqueId=UJYXSOLQ
 
 [Document3]
 DocumentPath=..\..\..\library\gomspace\template\Gomspace_vault5.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=..\..\..\library\gomspace\template\Gomspace_vault4.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -306,30 +323,38 @@ DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variatio
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTL
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GM5
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTP
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GM7
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTS
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTL
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations].LDP
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTP
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].REP
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTS
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\TSP_Paddle-[No Variations].REP
+DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations].LDP
 DItemRevisionGUID=
 
 [GeneratedDocument61]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\TSP_Paddle-[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument63]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].RUL
 DItemRevisionGUID=
 
@@ -342,6 +367,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for TSP_Paddle
 
 [OutputGroup1]
 Name=Netlist Outputs
