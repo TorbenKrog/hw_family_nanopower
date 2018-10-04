@@ -89,248 +89,644 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=..\..\..\library\gomspace\template\Gomspace_vault4.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=57FDBF9A-FA76-4DF0-BEC0-04F345191885
+Description=Default
+AllowFabrication=0
+ParameterCount=0
+VariationCount=23
+Variation1=Designator=R20|UniqueId=\EKJFHOUN|Kind=1|AlternatePart= 
+Variation2=Designator=R19|UniqueId=\WUQILUKU|Kind=1|AlternatePart= 
+Variation3=Designator=R18|UniqueId=\DINNYYWQ|Kind=1|AlternatePart= 
+Variation4=Designator=R7|UniqueId=\GYCKHUQY|Kind=1|AlternatePart= 
+Variation5=Designator=J101|UniqueId=\DAHFGYTJ|Kind=0|AlternatePart= 
+Variation6=Designator=J102|UniqueId=\PPOPNEQR|Kind=0|AlternatePart= 
+Variation7=Designator=J106|UniqueId=\MUULPVUG|Kind=0|AlternatePart= 
+Variation8=Designator=J105|UniqueId=\FHLGYANH|Kind=0|AlternatePart= 
+Variation9=Designator=J103|UniqueId=\UYXMFVVF|Kind=0|AlternatePart= 
+Variation10=Designator=J104|UniqueId=\EOWXVIFG|Kind=0|AlternatePart= 
+Variation11=Designator=R16A|UniqueId=\ETJFCVJC|Kind=1|AlternatePart= 
+Variation12=Designator=J6B|UniqueId=\NBWNQLCT|Kind=1|AlternatePart= 
+Variation13=Designator=J3|UniqueId=\SLXEDBKG|Kind=1|AlternatePart= 
+Variation14=Designator=J4|UniqueId=\XOBMAUNU|Kind=1|AlternatePart= 
+Variation15=Designator=J6|UniqueId=\RGQDTEVT|Kind=1|AlternatePart= 
+Variation16=Designator=J5|UniqueId=\HESMAWVT|Kind=1|AlternatePart= 
+Variation17=Designator=J2|UniqueId=\PTFWEUYW|Kind=1|AlternatePart= 
+Variation18=Designator=J1|UniqueId=\XSNFWYRL|Kind=1|AlternatePart= 
+Variation19=Designator=FD1|UniqueId=\QHVBJPFR|Kind=1|AlternatePart= 
+Variation20=Designator=FD2|UniqueId=\ICAOCEMK|Kind=1|AlternatePart= 
+Variation21=Designator=FD3|UniqueId=\LNGIWEMD|Kind=1|AlternatePart= 
+Variation22=Designator=FD4|UniqueId=\INCBBWWB|Kind=1|AlternatePart= 
+Variation23=Designator=J8|UniqueId=\VDPIRQXG|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for TSP_Paddle\Design Rule Check - TSP-Paddle.html
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for TSP_Paddle\Design Rule Check - TSP-Paddle.html
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\drill\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mechanical_4\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mechanical_5\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mechanical_7\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mid-layer_3\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\mechanical_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mid-layer_4\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\midlayer1\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mid-layer_5\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\midlayer2\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mid-layer_6\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\rout\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\midlayer1\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\midlayer2\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\rout\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect23.622x39.3701_60\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect23.622x39.3701_120\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect23.622x39.3701_240\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect23.622x39.3701_60\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect23.622x39.3701_300\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect23.622x39.3701_120\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect31.4961x137.7953_60\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect23.622x39.3701_240\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect31.4961x137.7953_120\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect23.622x39.3701_300\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect31.4961x137.7953_240\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect31.4961x137.7953_60\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect31.4961x137.7953_300\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect31.4961x137.7953_120\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect49.2126x70.8661_60\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect31.4961x137.7953_240\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect49.2126x70.8661_120\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect31.4961x137.7953_300\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect49.2126x70.8661_240\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect49.2126x70.8661_60\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect49.2126x70.8661_300\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect49.2126x70.8661_120\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect82.6772x118.1102_60\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect49.2126x70.8661_240\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect82.6772x118.1102_120\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect49.2126x70.8661_300\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect82.6772x118.1102_240\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect82.6772x118.1102_60\features
+DocumentPath=Project_Outputs\ODB++ Files\odb\symbols\rect82.6772x118.1102_300\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect82.6772x118.1102_120\features
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect82.6772x118.1102_240\features
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect82.6772x118.1102_300\features
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\matrix\matrix
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mechanical_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\profile
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mechanical_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mechanical_7\features
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\drill\tools
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mid-layer_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\rout\tools
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mid-layer_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations]-RoundHoles-NonPlated.TXT
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mid-layer_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations]-RoundHoles-Plated.TXT
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\mid-layer_6\features
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations]-SlotHoles-NonPlated.TXT
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\midlayer1\features
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations]-SlotHoles-Plated.TXT
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\midlayer2\features
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations].DRR
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\rout\features
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].EXTREP
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].G1
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].G2
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect23.622x39.3701_60\features
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GBL
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect23.622x39.3701_120\features
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GBP
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect23.622x39.3701_240\features
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GBS
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect23.622x39.3701_300\features
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GM4
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect31.4961x137.7953_60\features
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTL
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect31.4961x137.7953_120\features
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTP
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect31.4961x137.7953_240\features
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTS
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect31.4961x137.7953_300\features
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations].LDP
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect49.2126x70.8661_60\features
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].REP
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect49.2126x70.8661_120\features
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\TSP_Paddle-[No Variations].REP
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect49.2126x70.8661_240\features
 DItemRevisionGUID=
 
 [GeneratedDocument61]
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect49.2126x70.8661_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect82.6772x118.1102_60\features
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect82.6772x118.1102_120\features
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect82.6772x118.1102_240\features
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\symbols\rect82.6772x118.1102_300\features
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for TSP_Paddle\gs-bom-TSP_Paddle-Default.csv
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for TSP_Paddle\gs-bom_Pp-TSP_Paddle-[No Variations].csv
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for TSP_Paddle\gs-bom_Pp-TSP_Paddle-Default.csv
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for TSP_Paddle\gs-bom_Pp-TSP_Paddle-Default.txt
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for TSP_Paddle\BOM\gs-bomIFS-TSP_Paddle-Default.csv
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for TSP_Paddle\Pick Place\gs-bomPp-TSP_Paddle-Default.csv
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for TSP_Paddle\BOM\gs-bomPp-TSP_Paddle-Default.txt
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for TSP_Paddle\gs-stp-TSP_Paddle-[No Variations].EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for TSP_Paddle\gs-stp-TSP_Paddle-[No Variations].GM4
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for TSP_Paddle\gs-stp-TSP_Paddle-[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for TSP_Paddle\gs-stp-TSP_Paddle-[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project_Outputs\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project_Outputs\ODB++ Files\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations]-RoundHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations]-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations]-SlotHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations]-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations].DRR
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].G1
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].G2
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GBL
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GBP
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GBS
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GM4
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GM5
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GM7
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTP
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].GTS
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Project Outputs for TSP_Paddle\NC Drill Files\TSP_Paddle-[No Variations].LDP
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs for TSP_Paddle\ODB++ Files\TSP_Paddle-[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument109]
 DocumentPath=Project Outputs for TSP_Paddle\Gerber Files\TSP_Paddle-[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project_Outputs\NC Drill Files\TSP_Paddle_[No Variations]-RoundHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project_Outputs\NC Drill Files\TSP_Paddle_[No Variations]-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project_Outputs\NC Drill Files\TSP_Paddle_[No Variations]-SlotHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project_Outputs\NC Drill Files\TSP_Paddle_[No Variations]-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project_Outputs\NC Drill Files\TSP_Paddle_[No Variations].DRR
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_[No Variations].EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_[No Variations].G1
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_[No Variations].G2
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_[No Variations].GBL
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_[No Variations].GBP
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_[No Variations].GKO
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_[No Variations].GM4
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_[No Variations].GPB
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_[No Variations].GPT
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_[No Variations].GTP
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project_Outputs\NC Drill Files\TSP_Paddle_[No Variations].LDP
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project_Outputs\ODB++ Files\TSP_Paddle_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project_Outputs\NC Drill Files\TSP_Paddle_Default-RoundHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Project_Outputs\NC Drill Files\TSP_Paddle_Default-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project_Outputs\NC Drill Files\TSP_Paddle_Default-SlotHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=Project_Outputs\NC Drill Files\TSP_Paddle_Default-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Project_Outputs\NC Drill Files\TSP_Paddle_Default.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_Default.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_Default.G1
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_Default.G2
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_Default.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_Default.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_Default.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_Default.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_Default.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_Default.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_Default.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=Project_Outputs\NC Drill Files\TSP_Paddle_Default.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_Default.REP
+DItemRevisionGUID=
+
+[GeneratedDocument147]
+DocumentPath=Project_Outputs\ODB++ Files\TSP_Paddle_Default.REP
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=Project_Outputs\Gerber Files\TSP_Paddle_Default.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -342,6 +738,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1257,6 +1656,90 @@ NetClassSeparateForBusSections=0
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name Only
+ComponentLibraryIdentifier0=GomSpace Vault
+ComponentDesignItemID0=CMP-003-0004-4
+ComponentSymbolReference0=Res
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name Only
+ComponentLibraryIdentifier1=GomSpace Vault
+ComponentDesignItemID1=CMP-003-0072-4
+ComponentSymbolReference1=Res
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name Only
+ComponentLibraryIdentifier2=GomSpace Vault
+ComponentDesignItemID2=CMP-009-0025-2
+ComponentSymbolReference2=CMP-009-0025-2
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name Only
+ComponentLibraryIdentifier3=GomSpace Vault
+ComponentDesignItemID3=CMP-009-0055-2
+ComponentSymbolReference3=Capacitor np
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name Only
+ComponentLibraryIdentifier4=GomSpace Vault
+ComponentDesignItemID4=CMP-018-0046-6
+ComponentSymbolReference4=Res
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name Only
+ComponentLibraryIdentifier5=GomSpace Vault
+ComponentDesignItemID5=CMP-023-0007-2
+ComponentSymbolReference5=Component_1
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name Only
+ComponentLibraryIdentifier6=GomSpace Vault
+ComponentDesignItemID6=CMP-024-0008-7
+ComponentSymbolReference6=FIDUCIAL_ROUND_W_REF
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name Only
+ComponentLibraryIdentifier7=GomSpace Vault
+ComponentDesignItemID7=CMP-026-0054-2
+ComponentSymbolReference7=CMP-026-0054-2
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name Only
+ComponentLibraryIdentifier8=GomSpace Vault
+ComponentDesignItemID8=CMP-026-0054-2
+ComponentSymbolReference8=Header 6_GND
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name Only
+ComponentLibraryIdentifier9=GomSpace Vault
+ComponentDesignItemID9=CMP-026-0056-3
+ComponentSymbolReference9=Header 8_GND
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name Only
+ComponentLibraryIdentifier10=GomSpace Vault
+ComponentDesignItemID10=CMP-026-0132-7
+ComponentSymbolReference10=HEADER 26_GND
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name Only
+ComponentLibraryIdentifier11=GomSpace Vault
+ComponentDesignItemID11=CMP-026-0150-1
+ComponentSymbolReference11=Header 4_GND
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name Only
+ComponentLibraryIdentifier12=GomSpace Vault
+ComponentDesignItemID12=CMP-026-0195-3
+ComponentSymbolReference12=Header 6_GND
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name Only
+ComponentLibraryIdentifier13=GomSpace Vault
+ComponentDesignItemID13=CMP-026-0196-4
+ComponentSymbolReference13=Header 8_GND
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1270,11 +1753,161 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Author
+ParameterUpdate0=1
+ParameterName1=Comment
+ParameterUpdate1=1
+ParameterName2=Component Kind
+ParameterUpdate2=1
+ParameterName3=Description
+ParameterUpdate3=1
+ParameterName4=Height
+ParameterUpdate4=1
+ParameterName5=InternalID
+ParameterUpdate5=1
+ParameterName6=Library Reference
+ParameterUpdate6=1
+ParameterName7=Manufacturer
+ParameterUpdate7=1
+ParameterName8=Manufacturer number
+ParameterUpdate8=1
+ParameterName9=Manufacturer Part Number
+ParameterUpdate9=1
+ParameterName10=Old DB Number
+ParameterUpdate10=1
+ParameterName11=Part Number
+ParameterUpdate11=1
+ParameterName12=Part status
+ParameterUpdate12=1
+ParameterName13=Symbol Name
+ParameterUpdate13=1
+ParameterName14=Temparature
+ParameterUpdate14=1
+ParameterName15=Temperature
+ParameterUpdate15=1
+ParameterName16=Tolerance
+ParameterUpdate16=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=00-9188-004-020-62 - Mating Footprint
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=504050-0691
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=504050-0891
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=AXON6P
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=AXON8P
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=CAPC0603(1608)_N
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=FIDUCIAL_ROUND
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=HARWIN_G125-MH12605L1P
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=RESC0603(1608)_N
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=SOT23-6L
+ModelUpdate9=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name Only
+ComponentLibraryIdentifier0=GomSpace Vault
+ComponentDesignItemID0=CMP-003-0004-4
+ComponentSymbolReference0=Res
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name Only
+ComponentLibraryIdentifier1=GomSpace Vault
+ComponentDesignItemID1=CMP-003-0072-4
+ComponentSymbolReference1=Res
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name Only
+ComponentLibraryIdentifier2=GomSpace Vault
+ComponentDesignItemID2=CMP-009-0025-2
+ComponentSymbolReference2=CMP-009-0025-2
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name Only
+ComponentLibraryIdentifier3=GomSpace Vault
+ComponentDesignItemID3=CMP-009-0055-2
+ComponentSymbolReference3=Capacitor np
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name Only
+ComponentLibraryIdentifier4=GomSpace Vault
+ComponentDesignItemID4=CMP-018-0046-6
+ComponentSymbolReference4=Res
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name Only
+ComponentLibraryIdentifier5=GomSpace Vault
+ComponentDesignItemID5=CMP-023-0007-2
+ComponentSymbolReference5=Component_1
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name Only
+ComponentLibraryIdentifier6=GomSpace Vault
+ComponentDesignItemID6=CMP-024-0008-7
+ComponentSymbolReference6=FIDUCIAL_ROUND_W_REF
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name Only
+ComponentLibraryIdentifier7=GomSpace Vault
+ComponentDesignItemID7=CMP-026-0054-2
+ComponentSymbolReference7=CMP-026-0054-2
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name Only
+ComponentLibraryIdentifier8=GomSpace Vault
+ComponentDesignItemID8=CMP-026-0054-2
+ComponentSymbolReference8=Header 6_GND
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name Only
+ComponentLibraryIdentifier9=GomSpace Vault
+ComponentDesignItemID9=CMP-026-0056-3
+ComponentSymbolReference9=Header 8_GND
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name Only
+ComponentLibraryIdentifier10=GomSpace Vault
+ComponentDesignItemID10=CMP-026-0132-7
+ComponentSymbolReference10=HEADER 26_GND
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name Only
+ComponentLibraryIdentifier11=GomSpace Vault
+ComponentDesignItemID11=CMP-026-0150-1
+ComponentSymbolReference11=Header 4_GND
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name Only
+ComponentLibraryIdentifier12=GomSpace Vault
+ComponentDesignItemID12=CMP-026-0195-3
+ComponentSymbolReference12=Header 6_GND
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name Only
+ComponentLibraryIdentifier13=GomSpace Vault
+ComponentDesignItemID13=CMP-026-0196-4
+ComponentSymbolReference13=Header 8_GND
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
