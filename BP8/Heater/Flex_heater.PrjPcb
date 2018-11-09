@@ -105,23 +105,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
-DocumentPath=flex_heater_solderpads.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -715,36 +698,6 @@ OutputName10=Web Review Data
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=Ansoft Neutral
-OutputName11=Ansoft Neutral (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=HyperLynx
-OutputName12=HyperLynx (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Orcad v7 Capture Design
-OutputName13=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD ASCII
-OutputName14=P-CAD ASCII (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD V16 Schematic Design
-OutputName15=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=SiSoft
-OutputName16=SiSoft (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -869,6 +822,11 @@ Type108=1
 Type109=1
 Type110=1
 Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
 
 [Difference Levels]
 Type1=1
@@ -933,6 +891,9 @@ Type59=1
 Type60=1
 Type61=1
 Type62=1
+Type63=1
+Type64=1
+Type65=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1056,6 +1017,7 @@ Type118=3
 Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
+Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
