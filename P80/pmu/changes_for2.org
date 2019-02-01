@@ -1,6 +1,0 @@
-* Changes needed
-This document describes the necessary changes that needs to happen going to revision 2.
-All TODOS and IN PROGRESS needs to checked before routing.
-
-* TODO 
-- fix  12,13 og 16,17
