@@ -1,0 +1,77 @@
+Change Component DesignItemId : Designator=PV14 Old DesignItemId=3G30C-cathode New DesignItemId=3G30C-anode
+Change Component Footprint: Designator=PV14 Old Footprint=3G30C-cathode-nobypass New Footprint=3G30C-anode-nobypass
+Change Component Comment : Designator=PV14 Old Comment=3G30C-cathode New Comment=3G30C-anode
+Change Component Designator: OldDesignator=PV3 NewDesignator=PV2
+Change Component Designator: OldDesignator=PV4 NewDesignator=PV3
+Change Component Designator: OldDesignator=PV5 NewDesignator=PV4
+Change Component Designator: OldDesignator=PV6 NewDesignator=PV5
+Change Component Designator: OldDesignator=PV7 NewDesignator=PV6
+Change Component Designator: OldDesignator=PV8 NewDesignator=PV7
+Change Component Designator: OldDesignator=PV9 NewDesignator=PV8
+Change Component Designator: OldDesignator=PV10 NewDesignator=PV9
+Change Component Designator: OldDesignator=PV11 NewDesignator=PV10
+Change Component Designator: OldDesignator=PV12 NewDesignator=PV11
+Change Component Designator: OldDesignator=PV13 NewDesignator=PV12
+Change Component Designator: OldDesignator=PV15 NewDesignator=PV16
+Change Component Designator: OldDesignator=PV16 NewDesignator=PV17
+Change Component Designator: OldDesignator=PV17 NewDesignator=PV18
+Change Component Designator: OldDesignator=PV18 NewDesignator=PV19
+Change Component Designator: OldDesignator=PV19 NewDesignator=PV20
+Change Component Designator: OldDesignator=PV20 NewDesignator=PV21
+Change Component Designator: OldDesignator=PV21 NewDesignator=PV22
+Change Component Designator: OldDesignator=PV22 NewDesignator=PV23
+Change Component Designator: OldDesignator=PV23 NewDesignator=PV24
+Change Component Designator: OldDesignator=PV24 NewDesignator=PV25
+Change Component Designator: OldDesignator=PV25 NewDesignator=PV26
+Change Component Designator: OldDesignator=PV28 NewDesignator=PV13
+Added Component: Designator=*1(53398-4)
+Added Component: Designator=D1(ss10p4)
+Added Component: Designator=PV1(3G30C-cathode-nobypass)
+Added Component: Designator=PV15(3G30C-cathode-nobypass)
+Added Component: Designator=PV28(3G30C-anode-nobypass)
+Added Component: Designator=PV29(3G30C-cathode-nobypass)
+Added Component: Designator=PV30(3G30C-cathode-nobypass)
+Added Component: Designator=PV31(3G30C-cathode-nobypass)
+Added Component: Designator=PV32(3G30C-cathode-nobypass)
+Added Component: Designator=PV33(3G30C-cathode-nobypass)
+Added Component: Designator=PV34(3G30C-cathode-nobypass)
+Added Component: Designator=PV35(3G30C-cathode-nobypass)
+Added Component: Designator=PV36(3G30C-cathode-nobypass)
+Added Component: Designator=PV37(3G30C-cathode-nobypass)
+Added Component: Designator=PV38(3G30C-cathode-nobypass)
+Added Component: Designator=PV39(3G30C-cathode-nobypass)
+Added Component: Designator=PV40(3G30C-cathode-nobypass)
+Added Component: Designator=PV41(3G30C-cathode-nobypass)
+Added Component: Designator=PV42(3G30C-anode-nobypass)
+Added Component: Designator=S1(53398-4)
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=Net*1_1 Pin=*1-2
+Added Pin To Net: NetName=Net*1_1 Pin=S1-1
+Added Pin To Net: NetName=Net*1_1 Pin=S1-2
+Added Net: Name=Net*1_1
+Added Pin To Net: NetName=Net*1_3 Pin=*1-3
+Added Pin To Net: NetName=Net*1_3 Pin=*1-4
+Added Net: Name=Net*1_3
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=S1-3
+Added Pin To Net: NetName=NetD1_2 Pin=S1-4
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=Solar Member=Component *1 53398-4
+Added Member To Class: ClassName=Solar Member=Component D1 D Schottky
+Added Member To Class: ClassName=Solar Member=Component PV1 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV26 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV29 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV30 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV31 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV32 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV33 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV34 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV35 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV36 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV37 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV38 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV39 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV40 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV41 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component PV42 3G30C-anode
+Added Member To Class: ClassName=Solar Member=Component S1 53398-4

@@ -1,0 +1,8 @@
+Added Component: Designator=Sun(sunsensor)
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetPV4_C1 Pin=PV4-C1
+Added Pin To Net: NetName=NetPV4_C1 Pin=PV4-C2
+Added Pin To Net: NetName=NetPV4_C1 Pin=PV4-C3
+Added Net: Name=NetPV4_C1
+Added Member To Class: ClassName=Solar Member=Component Sun Header 4

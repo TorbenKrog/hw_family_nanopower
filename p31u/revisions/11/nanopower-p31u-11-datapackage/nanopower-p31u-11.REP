@@ -1,0 +1,90 @@
+*************************************************************
+FileName = nanopower-p31u-11.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\matrix\matrix
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\stephdr
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\toppaste\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\toppaste\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\top\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\top\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mid1\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mid1\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\plane1\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\plane1\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\plane2\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\plane2\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mid2\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mid2\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\bottom\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\bottom\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\bottompaste\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\bottompaste\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\drill\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\drill\tools
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mid3\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mid3\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mid4\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mid4\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mechanical2\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mechanical2\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mechanical3\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mechanical3\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mechanical4\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mechanical4\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mechanical6\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mechanical6\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mechanical7\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mechanical7\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mechanical8\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\mechanical8\attrlist
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\p31u\revisions\11\nanopower-p31u-11-datapackage\odb\steps\pcb\eda\data
+

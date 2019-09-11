@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Net*_1 Pin=S2-1
+Removed Pin From Net: NetName=Net*_1 Pin=S2-2
+Removed Member From Class: ClassName=Solar Member=S2
+Added Pin To Net: NetName=Net*_1 Pin=D3-2

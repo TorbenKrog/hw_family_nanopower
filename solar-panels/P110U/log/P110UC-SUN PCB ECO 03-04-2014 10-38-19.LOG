@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=NetH2_9 Pin=U2-1
+Removed Pin From Net: NetName=NetH2_10 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-18
+Removed Pin From Net: NetName=GND Pin=U2-19
+Removed Member From Class: ClassName=panel Member=C1
+Removed Member From Class: ClassName=panel Member=U2
+Added Component: Designator=Sun(sunsensor)
+Added Member To Class: ClassName=Solar Member=Component Sun Header 4

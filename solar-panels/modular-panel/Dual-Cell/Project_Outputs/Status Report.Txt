@@ -1,0 +1,20 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:06:12 On 10-05-2017
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Deploy_spring.PcbDoc]
+   Generated File[Dual-Cell_Project_[No Variations].GTL]
+   Generated File[Dual-Cell_Project_[No Variations].GBL]
+   Generated File[Dual-Cell_Project_[No Variations].GTP]
+   Generated File[Dual-Cell_Project_[No Variations].GBP]
+   Generated File[Dual-Cell_Project_[No Variations].RUL]
+   Generated File[Dual-Cell_Project_[No Variations].EXTREP]
+   Generated File[Dual-Cell_Project_[No Variations].REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 11:06:15 On 10-05-2017

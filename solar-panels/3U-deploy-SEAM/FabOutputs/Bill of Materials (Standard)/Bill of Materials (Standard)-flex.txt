@@ -1,0 +1,9 @@
+Comment	Designator	Quantity	Footprint
+
+"Header 10"	"P1"	"1"	"FPC-10POS-1MM"
+"3G28"	"S1"	"1"	"3G28-SEAM1"
+"3G28"	"S2, S6, S7"	"3"	"3G30C-plain"
+"3G28"	"S3"	"1"	"3G28-SEAM3"
+"3G28"	"S4"	"1"	"3G28-SEAM4"
+"3G28"	"S5"	"1"	"3G28-SEAM5"
+"3G28"	"S8"	"1"	"3G28-SEAM8"

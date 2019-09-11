@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Deploy_spring.PcbDoc]
+   Generated File[Deploy_Spring_XY_[No Variations]-Plated.TXT]
+   Generated File[Deploy_Spring_XY_[No Variations].LDP]
+   Generated File[Deploy_Spring_XY_[No Variations].DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:18:17 On 10-05-2017

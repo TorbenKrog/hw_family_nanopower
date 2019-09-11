@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: \\psf\Home\Documents\Dropbox (GomSpace)\git\hardware\nanopower\solar-panels\P110U\p110c-qb50\nanopower-p110c-qb50-1.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=6.69
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_3|Scope=Board|Minimum=9.84

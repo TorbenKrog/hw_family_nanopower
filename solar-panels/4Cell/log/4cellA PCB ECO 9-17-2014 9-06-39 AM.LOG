@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=Net*_1 Pin=S2-1
+Removed Pin From Net: NetName=Net*_1 Pin=S2-2
+Change Component Footprint: Designator=PV4 Old Footprint=3G30C-ANODE-NOBYPASS New Footprint=3G30C-anode
+Change Component Footprint: Designator=PV5 Old Footprint=3G30C-CATHODE-NOBYPASS New Footprint=3G30C-cathode
+Added Component: Designator=D2(ss10p4)
+Added Component: Designator=D4(ss10p4)
+Added Component: Designator=D5(ss10p4)
+Added Component: Designator=D6(ss10p4)
+Added Component: Designator=D7(ss10p4)
+Added Component: Designator=PV1(3G30C-anode)
+Added Component: Designator=PV2(3G30C-cathode)
+Added Component: Designator=Sun(sunsensor)
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=Net*_1 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=Net*_1 Pin=D5-2
+Added Pin To Net: NetName=Net*_1 Pin=D6-2
+Added Pin To Net: NetName=NetD3_1 Pin=D7-1
+Added Pin To Net: NetName=Net*_1 Pin=D7-2
+Added Pin To Net: NetName=GND Pin=PV2-C1
+Added Pin To Net: NetName=GND Pin=PV2-C2
+Added Pin To Net: NetName=GND Pin=PV2-C3
+Added Pin To Net: NetName=GND Pin=PV5-C1
+Added Pin To Net: NetName=GND Pin=PV5-C2
+Added Pin To Net: NetName=GND Pin=PV5-C3
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=H2-11
+Added Pin To Net: NetName=NetC2_2 Pin=U1-5
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=PV2-A
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=PV5-A
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=D6-1
+Added Pin To Net: NetName=NetD5_1 Pin=PV1-A1
+Added Pin To Net: NetName=NetD5_1 Pin=PV1-A2
+Added Pin To Net: NetName=NetD5_1 Pin=PV1-A3
+Added Net: Name=NetD5_1
+Added Member To Class: ClassName=panel Member=Component C1 Cap
+Added Member To Class: ClassName=panel Member=Component C2 Cap
+Added Member To Class: ClassName=Solar Member=Component D2 D Schottky
+Added Member To Class: ClassName=Solar Member=Component D4 D Schottky
+Added Member To Class: ClassName=Solar Member=Component D5 D Schottky
+Added Member To Class: ClassName=Solar Member=Component D6 D Schottky
+Added Member To Class: ClassName=Solar Member=Component D7 D Schottky
+Added Member To Class: ClassName=Solar Member=Component PV1 3G30C-anode
+Added Member To Class: ClassName=Solar Member=Component PV2 3G30C-cathode
+Added Member To Class: ClassName=Solar Member=Component Sun Header 4
