@@ -1,0 +1,18 @@
+Partlist exported from /Volumes/Groups/subsystems/SolarPanels/Eagle/P100UA/P100UA.sch at 08/08/11 13.35
+
+Part   Value                    Device                   Package                  Description                      
+C1     n.m                      C-EU                     C0603K                   Capacitor, European Symbol       
+C2     100n                     C-EU                     C0603K                   Capacitor, European Symbol       
+C3     100n                     C-EU                     C0603K                   Capacitor, European Symbol       
+C_SPF1 CUBESAT_SIDE_PANEL_FRAME CUBESAT_SIDE_PANEL_FRAME CUBESAT_SIDE_PANEL_FRAME Side Shear Panel Frame           
+C_SPR2 CUBESAT_SIDE_RIB2RIB01   CUBESAT_SIDE_RIB2RIB01   CUBESAT_SIDE_PANEL_RIB01 Side Shear Panel Rib             
+D1     n.m.                     CGRM4001SOD123           SOD123                   CGRM4001 DIODE rectifier         
+PH1    SLCD-61N8                SLCD-61N8                PLANAR_PHOTODIODE        Photodiode SLCD-61n8 from Silonex
+SL1    SOLAR_CELL53             SOLAR_CELL53             SOLAR_CELL8                                               
+SL2    SOLAR_CELL53             SOLAR_CELL53             SOLAR_CELL8                                               
+SRD1   SS10P4                   SCHOTTY_RECTIFIER        TO277A                   Schottky Rectifier ss10p4c-E3    
+U$1    LM70SMALL                LM70SMALL                MSOP8_SMALL                                               
+U$2    ADIS16251CC-20-1         ADIS16251CC-20-1         LGA                      ADIS16251 from Analog Device     
+X1     53398-12                 53398-12                 53398-12                 CONNECTOR                        
+X2     53398-02                 53398-02                 53398-02                 CONNECTOR                        
+X3     n.m.                     53398-02                 53398-02                 CONNECTOR                        

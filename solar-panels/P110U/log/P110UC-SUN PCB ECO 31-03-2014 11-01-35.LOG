@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=PV4 Old DesignItemId=3G30C-anode New DesignItemId=3G30C-cathode
+Added Member To Class: ClassName=panel Member=Component C1 Cap
+Added Member To Class: ClassName=panel Member=Component C2 Cap
+Added Member To Class: ClassName=Solar Member=Component S2 53398-4

@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=Solar Member=Sun
+Added Component: Designator=U2(11mm x 11mm LGA)
+Added Pin To Net: NetName=NetH2_9 Pin=U2-1
+Added Pin To Net: NetName=NetH2_10 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=NetC1_2 Pin=H2-4
+Added Pin To Net: NetName=NetC1_2 Pin=U2-16
+Added Pin To Net: NetName=NetC1_2 Pin=U2-17
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetH2_5 Pin=H2-5
+Added Pin To Net: NetName=NetH2_5 Pin=U2-4
+Added Net: Name=NetH2_5
+Added Pin To Net: NetName=NetH2_6 Pin=H2-6
+Added Pin To Net: NetName=NetH2_6 Pin=U2-3
+Added Net: Name=NetH2_6
+Added Member To Class: ClassName=panel Member=Component U2 ADIS16251

@@ -1,0 +1,89 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [nanopower-p31u-10.PcbDoc]
+   Generated File[nanopower-p31u-10.GTL]
+   Generated File[nanopower-p31u-10.G1]
+   Generated File[nanopower-p31u-10.GP1]
+   Generated File[nanopower-p31u-10.GP2]
+   Generated File[nanopower-p31u-10.G2]
+   Generated File[nanopower-p31u-10.GBL]
+   Generated File[nanopower-p31u-10.GTP]
+   Generated File[nanopower-p31u-10.GBP]
+   Generated File[nanopower-p31u-10.GM7]
+   Generated File[nanopower-p31u-10.GM10]
+   Generated File[nanopower-p31u-10.RUL]
+   Generated File[nanopower-p31u-10.EXTREP]
+   Generated File[nanopower-p31u-10.REP]
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [nanopower-p31u-10.PcbDoc]
+   Generated File[nanopower-p31u-10-Plated.TXT]
+   Generated File[nanopower-p31u-10.DRL]
+   Generated File[nanopower-p31u-10.LDP]
+   Generated File[nanopower-p31u-10.DRR]
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [nanopower-p31u-10.PcbDoc]
+   Generated File[Pick Place for nanopower-p31u-10.csv]
+
+Output: ODB++ Files
+Type  : ODB
+From  : PCB Document [nanopower-p31u-10.PcbDoc]
+   Generated File[matrix]
+   Generated File[stephdr]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[attrlist]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[nanopower-p31u-10.REP]
+
+
+Files Generated   : 68
+Documents Printed : 0
+
+Finished Output Generation At 13:44:03 On 20-10-2014

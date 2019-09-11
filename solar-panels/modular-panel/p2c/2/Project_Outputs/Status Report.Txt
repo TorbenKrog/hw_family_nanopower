@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [p2c.PcbDoc]
+   Generated File[p2c_[No Variations].GTL]
+   Generated File[p2c_[No Variations].GBL]
+   Generated File[p2c_[No Variations].GTP]
+   Generated File[p2c_[No Variations].GBP]
+   Generated File[p2c_[No Variations].GM4]
+   Generated File[p2c_[No Variations].GM6]
+   Generated File[p2c_[No Variations].GM10]
+   Generated File[p2c_[No Variations].RUL]
+   Generated File[p2c_[No Variations].EXTREP]
+   Generated File[p2c_[No Variations].REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 21:44:17 On 06-04-2017

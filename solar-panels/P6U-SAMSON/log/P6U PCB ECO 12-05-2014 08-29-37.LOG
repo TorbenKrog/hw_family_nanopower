@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=Solar Member=PV11
+Removed Member From Class: ClassName=Solar Member=PV12
+Removed Member From Class: ClassName=Solar Member=PV13
+Removed Member From Class: ClassName=Solar Member=PV18
+Removed Member From Class: ClassName=Solar Member=PV19
+Removed Member From Class: ClassName=Solar Member=PV20
+Removed Member From Class: ClassName=Solar Member=PV21
+Removed Member From Class: ClassName=Solar Member=PV22
+Removed Member From Class: ClassName=Solar Member=PV23
+Removed Member From Class: ClassName=Solar Member=PV24
+Removed Member From Class: ClassName=Solar Member=PV25
+Change Component DesignItemId : Designator=PV10 Old DesignItemId=3G30C-cathode New DesignItemId=3G30C-anode
+Change Component Footprint: Designator=PV10 Old Footprint=3G30C-cathode-nobypass New Footprint=3G30C-anode-nobypass
+Change Component Comment : Designator=PV10 Old Comment=3G30C-cathode New Comment=3G30C-anode
+Added Component: Designator=*(53398-4)
+Added Component: Designator=D3(ss10p4)
+Added Component: Designator=S2(53398-4)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=*-4
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=Net*_1 Pin=S2-1
+Added Pin To Net: NetName=Net*_1 Pin=S2-2
+Added Pin To Net: NetName=NetD3_2 Pin=S2-3
+Added Pin To Net: NetName=NetD3_2 Pin=S2-4
+Added Member To Class: ClassName=Solar Member=Component * 53398-4
+Added Member To Class: ClassName=Solar Member=Component D3 D Schottky
+Added Member To Class: ClassName=Solar Member=Component S2 53398-4

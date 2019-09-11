@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+C:\Users\Mogn\Documents\GitHub\Hardware\nanopower\bp4\revisions\6\Project_Outputs\Generates pick and place files\nanopower-bp4-v.1.6_[No Variations].csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       25-09-18
+Time:       09:02
+Revision:   f3c127f935ede027cb2700c14f9ab0d6e4d5847d
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U$10","","TopLayer","2X2MM","102.1922","47.3282","0",""
+"U$7","","TopLayer","4X2MM","30.2434","41.6005","90",""
+"U$6","","TopLayer","2X2MM","30.2434","100.7792","180",""
+"U$9","","BottomLayer","P30U-BATT-PACK","65.5066","47.2567","180",""
+"U$1","","BottomLayer","P30U-BATT-PACK","65.5066","90.8431","180",""
+"J1","","TopLayer","CUBESAT-KIT","72.0471","69.1642","0",""
+"R6","300k","TopLayer","R0603","27.2728","73.6092","180",""
+"R5","300k","TopLayer","R0603","31.5654","73.6092","180",""
+"T4","TN0200K","TopLayer","SOT-23","27.1526","76.0222","180",""
+"T3","TN0200K","TopLayer","SOT-23","31.5468","76.0730","180",""
+"U$5","","TopLayer","HEATER","72.0249","47.1932","180",""
+"U$4","","TopLayer","HEATER","72.0249","91.2114","180",""
+"R4","300k","TopLayer","R0603","29.3878","76.1424","270",""
+"R3","300k","TopLayer","R0603","33.8582","76.2440","270",""
+"T2","NDT456P","TopLayer","SOT223","29.8958","91.3511","180",""
+"T1","NDT456P","TopLayer","SOT223","29.8450","82.1563","180",""
+"C2","100n","TopLayer","C0603","29.6418","53.6516","90",""
+"C1","100n","TopLayer","C0603","34.3408","70.3766","270",""
+"R2","100k","TopLayer","R0603","35.8140","70.3648","90",""
+"R1","100k","TopLayer","R0603","28.1940","53.6888","270",""
+"U$3","TMP121","TopLayer","SSOT-6","43.3705","71.4375","270",""
+"U$2","TMP121","TopLayer","SSOT-6","44.2849","45.6819","270",""
+"J2","AUXILIARY-BATT-CON-16THROUGH","TopLayer","2X8HEADER","29.1926","63.9520","270",""
