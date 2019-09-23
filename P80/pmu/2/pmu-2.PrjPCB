@@ -293,23 +293,6 @@ GenerateClassCluster=0
 DocumentUniqueId=AFITOVSF
 
 [Document16]
-DocumentPath=pmu.Annotation
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document17]
 DocumentPath=i2c_isolator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOUCMJGB
 
-[Document18]
+[Document17]
 DocumentPath=ks.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPHPBXJB
 
-[Document19]
+[Document18]
 DocumentPath=pmu.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BQSQNRFT
 
-[Document20]
+[Document19]
 DocumentPath=Gomspace_vault4.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=int_vcc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COKLMISI
 
-[Document22]
+[Document21]
 DocumentPath=lsw_latching.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XALYDQGR
 
-[Document23]
+[Document22]
 DocumentPath=lsw_retrying.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DPSVKGOU
 
-[Document24]
+[Document23]
 DocumentPath=deploy.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WAQALGLE
 
-[Document25]
+[Document24]
 DocumentPath=jtag_vcc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -461,6 +444,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PXJUNWDH
+
+[Document25]
+DocumentPath=pmu-2.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=E87E08A7-A39E-4C5E-99D4-772850C0A618
@@ -5400,14 +5400,6 @@ Variation99=Designator=FD6|UniqueId=\UPVIMDSB|Kind=0|AlternatePart=
 Variation100=Designator=U25|UniqueId=\ADYUEVUX\WUMROYTY|Kind=1|AlternatePart= 
 ParamVariationCount=1023
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for pmu\BOM\gs-bomIFS-pmu-default_SMD.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for pmu\BOM\gs-bomIFS-pmu-ThroughHole.csv
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Pcb_Revision
 Value=2
@@ -5476,7 +5468,7 @@ OutputDir=Project Outputs for pmu
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000 (CDT)
+TargetPrinter=\\SAFEQ01\SkyPrint
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -5582,7 +5574,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Fax
+TargetPrinter=\\SAFEQ01\SkyPrint
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -5656,7 +5648,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000 (CDT)
+TargetPrinter=\\SAFEQ01\SkyPrint
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -5678,7 +5670,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000 (CDT)
+TargetPrinter=\\SAFEQ01\SkyPrint
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -5789,7 +5781,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000 (CDT)
+TargetPrinter=\\SAFEQ01\SkyPrint
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -5969,7 +5961,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000 (CDT)
+TargetPrinter=\\SAFEQ01\SkyPrint
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -6008,7 +6000,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000 (CDT)
+TargetPrinter=\\SAFEQ01\SkyPrint
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -6064,7 +6056,7 @@ OutputDefault10=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=RICOH Aficio MP C4000 (CDT)
+TargetPrinter=\\SAFEQ01\SkyPrint
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -6686,7 +6678,7 @@ PartTypes=0
 [NetInfos]
 Net1=NetName=VBAT|NetColor=$006E6EFF
 Net2=NetName=NetC77_2|NetColor=$006E6EFF
-Net3=NetName=NetC100_2|NetColor=$006E6EFF
+Net3=NetName=NetC?_2|NetColor=$006E6EFF
 Net4=NetName=NetJ12_1|NetColor=$006E6EFF
 Net5=NetName=NetJ12_2|NetColor=$006E6EFF
 Net6=NetName=VBAT0|NetColor=$006E6EFF
@@ -6703,7 +6695,7 @@ Net16=NetName=NetQ1_2|NetColor=$006E6EFF
 Net17=NetName=NetTP6_1|NetColor=$006E6EFF
 Net18=NetName=NetJ11_1|NetColor=$006E6EFF
 Net19=NetName=NetR67_2|NetColor=$006E6EFF
-Net20=NetName=NetC?_2|NetColor=$006E6EFF
+Net20=NetName=NetC100_2|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
