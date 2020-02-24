@@ -90,6 +90,131 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=Gomspace_vault5.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Dual_Flex_V2\NC Drill Files\Dual_Flex_V2-[No Variations].DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GBP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GM4
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GM5
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GTP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Dual_Flex_V2\NC Drill Files\Dual_Flex_V2-[No Variations].LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\Dual_Flex_V2-[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\layers\flex_bottom_coverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\layers\flex_top_coverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\layers\mechanical_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\layers\outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\symbols\rect32.4802x33.0627_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
