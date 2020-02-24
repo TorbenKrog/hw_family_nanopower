@@ -88,6 +88,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCRFWESH
 
+[Document4]
+DocumentPath=Prod data\Dual-Cell_V2.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=35782AB4-525F-46AE-9A50-84278A5C6128
 Description=NoSens_NoFlex
