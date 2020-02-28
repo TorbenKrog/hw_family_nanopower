@@ -55,23 +55,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FVUQTDCM
 
 [Document2]
-DocumentPath=..\Dual-Cell_V2.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document3]
 DocumentPath=Dual-Cell_V2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,6 +71,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCRFWESH
 
+[Document3]
+DocumentPath=Dual-Cell_V2.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=35782AB4-525F-46AE-9A50-84278A5C6128
 Description=NoSens_NoFlex
@@ -101,6 +101,10 @@ Variation4=Designator=TR1|UniqueId=\ATKFJUFB|Kind=1|AlternatePart=
 Variation5=Designator=PCB1|UniqueId=\YOKEDGLG|Kind=1|AlternatePart= 
 Variation6=Designator=PCB2|UniqueId=\ECRKSUKG|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Dual-Cell_V2\Design Rule Check - Dual-Cell_V2.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
