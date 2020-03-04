@@ -72,23 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WYGFWCDV
 
 [Document3]
-DocumentPath=..\Gomspace.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=..\Anode.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,8 +88,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=Anode_V2.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=Gomspace_vault5.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -129,6 +129,174 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=CAM\NC Drill Files\Anode_V2-FSS standard-Plated.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=CAM\NC Drill Files\Anode_V2-FSS standard-Plated.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=CAM\NC Drill Files\Anode_V2-FSS standard-Plated.TX3
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=CAM\NC Drill Files\Anode_V2-FSS standard.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=CAM\Gerber Files\Anode_V2-FSS standard.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=CAM\Gerber Files\Anode_V2-FSS standard.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=CAM\Gerber Files\Anode_V2-FSS standard.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=CAM\Gerber Files\Anode_V2-FSS standard.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=CAM\Gerber Files\Anode_V2-FSS standard.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=CAM\Gerber Files\Anode_V2-FSS standard.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=CAM\Gerber Files\Anode_V2-FSS standard.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=CAM\Gerber Files\Anode_V2-FSS standard.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=CAM\Gerber Files\Anode_V2-FSS standard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=CAM\Gerber Files\Anode_V2-FSS standard.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=CAM\NC Drill Files\Anode_V2-FSS standard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=CAM\Gerber Files\Anode_V2-FSS standard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=CAM\ODB++ Files\Anode_V2-FSS standard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=CAM\Gerber Files\Anode_V2-FSS standard.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\board_outline__m4_\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\bottom_coverlayer__m6_\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\drill1\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\drill2\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\drill3\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\mechanical_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\mechanics__m7_\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\midlayer1\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\midlayer2\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=CAM\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\drill1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\drill2\tools
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\drill3\tools
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -283,7 +451,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\SAFEQ01\SkyPrint
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1105,6 +1273,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
