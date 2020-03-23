@@ -107,114 +107,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Dual_Flex_V2\NC Drill Files\Dual_Flex_V2-[No Variations].DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GM4
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GM5
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GTL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GTO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GTP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].GTS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Dual_Flex_V2\NC Drill Files\Dual_Flex_V2-[No Variations].LDP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].REP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\Dual_Flex_V2-[No Variations].REP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Dual_Flex_V2\Gerber Files\Dual_Flex_V2-[No Variations].RUL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\layers\flex_bottom_coverlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\layers\flex_top_coverlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\layers\mechanical_5\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\layers\outline\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\symbols\rect32.4802x33.0627_315\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Dual_Flex_V2\ODB++ Files\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -334,7 +226,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\SAFEQ01\SkyPrint
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -812,16 +704,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MBAExportPARASOLID
-OutputName10=Export PARASOLID
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=MBAExportSTEP
-OutputName11=Export STEP
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
