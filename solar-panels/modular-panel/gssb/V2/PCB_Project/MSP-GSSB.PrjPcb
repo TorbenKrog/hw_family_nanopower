@@ -122,6 +122,155 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=..\Gomspace_vault5.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\board_outline__m4_\features
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\mechanical_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\mechanical_7__manufacture_number_\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\midlayer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for MSP-GSSB\NC Drill Files\MSP-GSSB-FSS standard-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for MSP-GSSB\NC Drill Files\MSP-GSSB-FSS standard.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.G1
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.G2
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for MSP-GSSB\NC Drill Files\MSP-GSSB-FSS standard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\MSP-GSSB-FSS standard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -241,7 +390,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\SAFEQ01\SkyPrint
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
