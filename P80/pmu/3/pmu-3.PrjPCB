@@ -450,7 +450,7 @@ UniqueID=E87E08A7-A39E-4C5E-99D4-772850C0A618
 Description=ThroughHole
 AllowFabrication=0
 ParameterCount=0
-VariationCount=604
+VariationCount=606
 Variation1=Designator=C1|UniqueId=\XRFIDGBS\ANCSPEME|Kind=1|AlternatePart= 
 Variation2=Designator=C5|UniqueId=\XRFIDGBS\NRJGNXFU|Kind=1|AlternatePart= 
 Variation3=Designator=C4|UniqueId=\XRFIDGBS\SWCFFWUK|Kind=1|AlternatePart= 
@@ -1055,6 +1055,8 @@ Variation601=Designator=FD3|UniqueId=\NFWGYJOP|Kind=1|AlternatePart=
 Variation602=Designator=FD4|UniqueId=\NVDMJSNC|Kind=1|AlternatePart= 
 Variation603=Designator=FD6|UniqueId=\UPVIMDSB|Kind=1|AlternatePart= 
 Variation604=Designator=FD5|UniqueId=\WLSQAHFG|Kind=1|AlternatePart= 
+Variation605=Designator=R8|UniqueId=\KRNWSBDH\VAWVCZJL|Kind=1|AlternatePart= 
+Variation606=Designator=R9|UniqueId=\KRNWSBDH\HQWUXWEH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -1062,16 +1064,12 @@ UniqueID=C5CFFF4D-00A4-4689-9449-94FF1E949902
 Description=default_SMD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=100
+VariationCount=97
 Variation1=Designator=R126|UniqueId=\IXOYSCOO\FPOJODIE|Kind=1|AlternatePart= 
 Variation2=Designator=R100|UniqueId=\IXOYSCOO\QRHGIBEH|Kind=1|AlternatePart= 
 Variation3=Designator=R77|UniqueId=\IXOYSCOO\AEOBGEKD|Kind=1|AlternatePart= 
-Variation4=Designator=R65|UniqueId=\IXOYSCOO\MUAIRHJR|Kind=1|AlternatePart= 
-Variation5=Designator=C118|UniqueId=\IXOYSCOO\VTVECVWB|Kind=1|AlternatePart= 
-Variation6=Designator=R66|UniqueId=\IXOYSCOO\UMQPFRAM|Kind=1|AlternatePart= 
-Variation7=Designator=R97|UniqueId=\IXOYSCOO\PDMBPOBN|Kind=1|AlternatePart= 
-Variation8=Designator=R143|UniqueId=\VHMVBYVN\FUDKSKXM|Kind=1|AlternatePart= 
-Variation9=Designator=R142|UniqueId=\VHMVBYVN\NFYWSNLU|Kind=2|AlternatePart=160k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0102-2|AltLibLink_DesignItemID=CMP-005-0102-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AC9C8F72-97D1-4781-B30C-43F7CB3F7546|AltLibLink_RevisionGUID=E9EB03BB-CCAC-44B0-9715-804AB4C0AAFB|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation4=Designator=R143|UniqueId=\VHMVBYVN\FUDKSKXM|Kind=1|AlternatePart= 
+Variation5=Designator=R142|UniqueId=\VHMVBYVN\NFYWSNLU|Kind=2|AlternatePart=160k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0102-2|AltLibLink_DesignItemID=CMP-005-0102-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AC9C8F72-97D1-4781-B30C-43F7CB3F7546|AltLibLink_RevisionGUID=E9EB03BB-CCAC-44B0-9715-804AB4C0AAFB|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue=160k
 ParamDesignator1=R142
 ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
@@ -1106,12 +1104,12 @@ ParamVariation16=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator16=R142
 ParamVariation17=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator17=R142
-Variation10=Designator=R67|UniqueId=\UDGJVUMK\OXHGGOKK|Kind=1|AlternatePart= 
-Variation11=Designator=R94|UniqueId=\UDGJVUMK\JSEJVBBW|Kind=1|AlternatePart= 
-Variation12=Designator=R115|UniqueId=\UDGJVUMK\GOMXFIKN|Kind=1|AlternatePart= 
-Variation13=Designator=R130|UniqueId=\UDGJVUMK\UEXMYUCE|Kind=1|AlternatePart= 
-Variation14=Designator=R319|UniqueId=\KRNWSBDH\EFXGAUGH|Kind=1|AlternatePart= 
-Variation15=Designator=C176|UniqueId=\KRNWSBDH\KDVEJDQU|Kind=2|AlternatePart=3.3µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-010-0039-4|AltLibLink_DesignItemID=CMP-010-0039-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3900382D-8D50-4008-AC81-D7D96C096091|AltLibLink_RevisionGUID=abdeae3c-69a2-4687-86fd-0660ff08f65c|AltLibLink_Footprint=CAPC0805(2012)_N|AltLibLink_IsSameFootprint=True
+Variation6=Designator=R67|UniqueId=\UDGJVUMK\OXHGGOKK|Kind=1|AlternatePart= 
+Variation7=Designator=R94|UniqueId=\UDGJVUMK\JSEJVBBW|Kind=1|AlternatePart= 
+Variation8=Designator=R115|UniqueId=\UDGJVUMK\GOMXFIKN|Kind=1|AlternatePart= 
+Variation9=Designator=R130|UniqueId=\UDGJVUMK\UEXMYUCE|Kind=1|AlternatePart= 
+Variation10=Designator=R319|UniqueId=\KRNWSBDH\EFXGAUGH|Kind=1|AlternatePart= 
+Variation11=Designator=C176|UniqueId=\KRNWSBDH\KDVEJDQU|Kind=2|AlternatePart=3.3µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-010-0039-4|AltLibLink_DesignItemID=CMP-010-0039-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3900382D-8D50-4008-AC81-D7D96C096091|AltLibLink_RevisionGUID=abdeae3c-69a2-4687-86fd-0660ff08f65c|AltLibLink_Footprint=CAPC0805(2012)_N|AltLibLink_IsSameFootprint=True
 ParamVariation18=ParameterName=Comment|VariantValue=3.3µF
 ParamDesignator18=C176
 ParamVariation19=ParameterName=Component Kind|VariantValue=Standard
@@ -1150,7 +1148,7 @@ ParamVariation35=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
 ParamDesignator35=C176
 ParamVariation36=ParameterName=Tolerance|VariantValue=±10%
 ParamDesignator36=C176
-Variation16=Designator=R303|UniqueId=\KRNWSBDH\MFJCWLFM|Kind=2|AlternatePart=100k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0097-2|AltLibLink_DesignItemID=CMP-005-0097-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=88680DC7-8758-4B7A-B83A-16A8DC35E06B|AltLibLink_RevisionGUID=93A5CE98-B50A-432C-889A-A6B4909F5260|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation12=Designator=R303|UniqueId=\KRNWSBDH\MFJCWLFM|Kind=2|AlternatePart=100k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0097-2|AltLibLink_DesignItemID=CMP-005-0097-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=88680DC7-8758-4B7A-B83A-16A8DC35E06B|AltLibLink_RevisionGUID=93A5CE98-B50A-432C-889A-A6B4909F5260|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation37=ParameterName=Comment|VariantValue=100k
 ParamDesignator37=R303
 ParamVariation38=ParameterName=Component Kind|VariantValue=Standard
@@ -1185,8 +1183,8 @@ ParamVariation52=ParameterName=Part Number|VariantValue=ERJ-2RKF1003X
 ParamDesignator52=R303
 ParamVariation53=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator53=R303
-Variation17=Designator=R274|UniqueId=\KRNWSBDH\FTTEBIMY\MEOGQUMY|Kind=1|AlternatePart= 
-Variation18=Designator=R270|UniqueId=\KRNWSBDH\FTTEBIMY\YCVOXSSU|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation13=Designator=R274|UniqueId=\KRNWSBDH\FTTEBIMY\MEOGQUMY|Kind=1|AlternatePart= 
+Variation14=Designator=R270|UniqueId=\KRNWSBDH\FTTEBIMY\YCVOXSSU|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation54=ParameterName=Comment|VariantValue=51
 ParamDesignator54=R270
 ParamVariation55=ParameterName=Component Kind|VariantValue=Standard
@@ -1221,7 +1219,7 @@ ParamVariation69=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator69=R270
 ParamVariation70=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator70=R270
-Variation19=Designator=R279|UniqueId=\KRNWSBDH\FTTEBIMY\BNFKCJGH|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation15=Designator=R279|UniqueId=\KRNWSBDH\FTTEBIMY\BNFKCJGH|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation71=ParameterName=Comment|VariantValue=1k
 ParamDesignator71=R279
 ParamVariation72=ParameterName=Component Kind|VariantValue=Standard
@@ -1256,7 +1254,7 @@ ParamVariation86=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator86=R279
 ParamVariation87=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator87=R279
-Variation20=Designator=C171|UniqueId=\KRNWSBDH\FTTEBIMY\YLRMNSEM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
+Variation16=Designator=C171|UniqueId=\KRNWSBDH\FTTEBIMY\YLRMNSEM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
 ParamVariation88=ParameterName=Comment|VariantValue=0.022µF
 ParamDesignator88=C171
 ParamVariation89=ParameterName=Component Kind|VariantValue=Standard
@@ -1293,7 +1291,7 @@ ParamVariation104=ParameterName=Temparature|VariantValue=
 ParamDesignator104=C171
 ParamVariation105=ParameterName=Tolerance|VariantValue=±10%
 ParamDesignator105=C171
-Variation21=Designator=R280|UniqueId=\KRNWSBDH\FTTEBIMY\WUGIEKRN|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation17=Designator=R280|UniqueId=\KRNWSBDH\FTTEBIMY\WUGIEKRN|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation106=ParameterName=Comment|VariantValue=4.3k
 ParamDesignator106=R280
 ParamVariation107=ParameterName=Component Kind|VariantValue=Standard
@@ -1328,7 +1326,7 @@ ParamVariation121=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator121=R280
 ParamVariation122=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator122=R280
-Variation22=Designator=C172|UniqueId=\KRNWSBDH\FTTEBIMY\TCLNKJXE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation18=Designator=C172|UniqueId=\KRNWSBDH\FTTEBIMY\TCLNKJXE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation123=ParameterName=Comment|VariantValue=0.10µF
 ParamDesignator123=C172
 ParamVariation124=ParameterName=Component Kind|VariantValue=Standard
@@ -1367,7 +1365,7 @@ ParamVariation140=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
 ParamDesignator140=C172
 ParamVariation141=ParameterName=Tolerance|VariantValue=±10%
 ParamDesignator141=C172
-Variation23=Designator=R281|UniqueId=\KRNWSBDH\FTTEBIMY\VTFLBAKJ|Kind=2|AlternatePart=3.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0061-2|AltLibLink_DesignItemID=CMP-005-0061-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=6C4407C0-5015-4B4D-8467-F68BD7BA5D37|AltLibLink_RevisionGUID=4DF2EE69-A3E3-4B5F-8F09-D14D150D8D4C|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation19=Designator=R281|UniqueId=\KRNWSBDH\FTTEBIMY\VTFLBAKJ|Kind=2|AlternatePart=3.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0061-2|AltLibLink_DesignItemID=CMP-005-0061-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=6C4407C0-5015-4B4D-8467-F68BD7BA5D37|AltLibLink_RevisionGUID=4DF2EE69-A3E3-4B5F-8F09-D14D150D8D4C|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation142=ParameterName=Comment|VariantValue=3.3k
 ParamDesignator142=R281
 ParamVariation143=ParameterName=Component Kind|VariantValue=Standard
@@ -1402,7 +1400,7 @@ ParamVariation157=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator157=R281
 ParamVariation158=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator158=R281
-Variation24=Designator=R310|UniqueId=\KRNWSBDH\FTTEBIMY\QAXPPOPC|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation20=Designator=R310|UniqueId=\KRNWSBDH\FTTEBIMY\QAXPPOPC|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation159=ParameterName=Comment|VariantValue=39
 ParamDesignator159=R310
 ParamVariation160=ParameterName=Component Kind|VariantValue=Standard
@@ -1437,7 +1435,7 @@ ParamVariation174=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator174=R310
 ParamVariation175=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator175=R310
-Variation25=Designator=R273|UniqueId=\KRNWSBDH\FTTEBIMY\TWXHCQIQ|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation21=Designator=R273|UniqueId=\KRNWSBDH\FTTEBIMY\TWXHCQIQ|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation176=ParameterName=Comment|VariantValue=0R
 ParamDesignator176=R273
 ParamVariation177=ParameterName=Component Kind|VariantValue=Standard
@@ -1470,7 +1468,7 @@ ParamVariation190=ParameterName=Simulation|VariantValue=
 ParamDesignator190=R273
 ParamVariation191=ParameterName=Temperature|VariantValue= 
 ParamDesignator191=R273
-Variation26=Designator=R278|UniqueId=\KRNWSBDH\FTTEBIMY\LJUQFOEN|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation22=Designator=R278|UniqueId=\KRNWSBDH\FTTEBIMY\LJUQFOEN|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation192=ParameterName=Comment|VariantValue=43k
 ParamDesignator192=R278
 ParamVariation193=ParameterName=Component Kind|VariantValue=Standard
@@ -1505,7 +1503,7 @@ ParamVariation207=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator207=R278
 ParamVariation208=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator208=R278
-Variation27=Designator=R255|UniqueId=\WLGLTEPP\TMOHWVEL|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation23=Designator=R255|UniqueId=\WLGLTEPP\TMOHWVEL|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation209=ParameterName=Comment|VariantValue=51
 ParamDesignator209=R255
 ParamVariation210=ParameterName=Component Kind|VariantValue=Standard
@@ -1540,7 +1538,7 @@ ParamVariation224=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator224=R255
 ParamVariation225=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator225=R255
-Variation28=Designator=R266|UniqueId=\WLGLTEPP\KBLBQIUY|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation24=Designator=R266|UniqueId=\WLGLTEPP\KBLBQIUY|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation226=ParameterName=Comment|VariantValue=4.3k
 ParamDesignator226=R266
 ParamVariation227=ParameterName=Component Kind|VariantValue=Standard
@@ -1575,7 +1573,7 @@ ParamVariation241=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator241=R266
 ParamVariation242=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator242=R266
-Variation29=Designator=R265|UniqueId=\WLGLTEPP\DERBHSXI|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation25=Designator=R265|UniqueId=\WLGLTEPP\DERBHSXI|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation243=ParameterName=Comment|VariantValue=1k
 ParamDesignator243=R265
 ParamVariation244=ParameterName=Component Kind|VariantValue=Standard
@@ -1610,7 +1608,7 @@ ParamVariation258=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator258=R265
 ParamVariation259=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator259=R265
-Variation30=Designator=C162|UniqueId=\WLGLTEPP\YFBDNTVM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
+Variation26=Designator=C162|UniqueId=\WLGLTEPP\YFBDNTVM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
 ParamVariation260=ParameterName=Comment|VariantValue=0.022µF
 ParamDesignator260=C162
 ParamVariation261=ParameterName=Component Kind|VariantValue=Standard
@@ -1647,7 +1645,7 @@ ParamVariation276=ParameterName=Temparature|VariantValue=
 ParamDesignator276=C162
 ParamVariation277=ParameterName=Tolerance|VariantValue=±10%
 ParamDesignator277=C162
-Variation31=Designator=C163|UniqueId=\WLGLTEPP\VUQPLGJE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation27=Designator=C163|UniqueId=\WLGLTEPP\VUQPLGJE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation278=ParameterName=Comment|VariantValue=0.10µF
 ParamDesignator278=C163
 ParamVariation279=ParameterName=Component Kind|VariantValue=Standard
@@ -1686,7 +1684,7 @@ ParamVariation295=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
 ParamDesignator295=C163
 ParamVariation296=ParameterName=Tolerance|VariantValue=±10%
 ParamDesignator296=C163
-Variation32=Designator=R267|UniqueId=\WLGLTEPP\QMNLOPEG|Kind=2|AlternatePart=3.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0061-2|AltLibLink_DesignItemID=CMP-005-0061-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=6C4407C0-5015-4B4D-8467-F68BD7BA5D37|AltLibLink_RevisionGUID=4DF2EE69-A3E3-4B5F-8F09-D14D150D8D4C|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation28=Designator=R267|UniqueId=\WLGLTEPP\QMNLOPEG|Kind=2|AlternatePart=3.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0061-2|AltLibLink_DesignItemID=CMP-005-0061-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=6C4407C0-5015-4B4D-8467-F68BD7BA5D37|AltLibLink_RevisionGUID=4DF2EE69-A3E3-4B5F-8F09-D14D150D8D4C|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation297=ParameterName=Comment|VariantValue=3.3k
 ParamDesignator297=R267
 ParamVariation298=ParameterName=Component Kind|VariantValue=Standard
@@ -1721,7 +1719,7 @@ ParamVariation312=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator312=R267
 ParamVariation313=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator313=R267
-Variation33=Designator=R250|UniqueId=\YLDWALTE\DERBHSXI|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation29=Designator=R250|UniqueId=\YLDWALTE\DERBHSXI|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation314=ParameterName=Comment|VariantValue=1k
 ParamDesignator314=R250
 ParamVariation315=ParameterName=Component Kind|VariantValue=Standard
@@ -1756,7 +1754,7 @@ ParamVariation329=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator329=R250
 ParamVariation330=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator330=R250
-Variation34=Designator=C153|UniqueId=\YLDWALTE\YFBDNTVM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
+Variation30=Designator=C153|UniqueId=\YLDWALTE\YFBDNTVM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
 ParamVariation331=ParameterName=Comment|VariantValue=0.022µF
 ParamDesignator331=C153
 ParamVariation332=ParameterName=Component Kind|VariantValue=Standard
@@ -1793,7 +1791,7 @@ ParamVariation347=ParameterName=Temparature|VariantValue=
 ParamDesignator347=C153
 ParamVariation348=ParameterName=Tolerance|VariantValue=±10%
 ParamDesignator348=C153
-Variation35=Designator=R251|UniqueId=\YLDWALTE\KBLBQIUY|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation31=Designator=R251|UniqueId=\YLDWALTE\KBLBQIUY|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation349=ParameterName=Comment|VariantValue=4.3k
 ParamDesignator349=R251
 ParamVariation350=ParameterName=Component Kind|VariantValue=Standard
@@ -1828,7 +1826,7 @@ ParamVariation364=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator364=R251
 ParamVariation365=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator365=R251
-Variation36=Designator=C154|UniqueId=\YLDWALTE\VUQPLGJE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation32=Designator=C154|UniqueId=\YLDWALTE\VUQPLGJE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation366=ParameterName=Comment|VariantValue=0.10µF
 ParamDesignator366=C154
 ParamVariation367=ParameterName=Component Kind|VariantValue=Standard
@@ -1867,7 +1865,7 @@ ParamVariation383=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
 ParamDesignator383=C154
 ParamVariation384=ParameterName=Tolerance|VariantValue=±10%
 ParamDesignator384=C154
-Variation37=Designator=R252|UniqueId=\YLDWALTE\QMNLOPEG|Kind=2|AlternatePart=3.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0061-2|AltLibLink_DesignItemID=CMP-005-0061-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=6C4407C0-5015-4B4D-8467-F68BD7BA5D37|AltLibLink_RevisionGUID=4DF2EE69-A3E3-4B5F-8F09-D14D150D8D4C|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation33=Designator=R252|UniqueId=\YLDWALTE\QMNLOPEG|Kind=2|AlternatePart=3.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0061-2|AltLibLink_DesignItemID=CMP-005-0061-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=6C4407C0-5015-4B4D-8467-F68BD7BA5D37|AltLibLink_RevisionGUID=4DF2EE69-A3E3-4B5F-8F09-D14D150D8D4C|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation385=ParameterName=Comment|VariantValue=3.3k
 ParamDesignator385=R252
 ParamVariation386=ParameterName=Component Kind|VariantValue=Standard
@@ -1902,7 +1900,7 @@ ParamVariation400=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator400=R252
 ParamVariation401=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator401=R252
-Variation38=Designator=R240|UniqueId=\YLDWALTE\TMOHWVEL|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation34=Designator=R240|UniqueId=\YLDWALTE\TMOHWVEL|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation402=ParameterName=Comment|VariantValue=51
 ParamDesignator402=R240
 ParamVariation403=ParameterName=Component Kind|VariantValue=Standard
@@ -1937,7 +1935,7 @@ ParamVariation417=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator417=R240
 ParamVariation418=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator418=R240
-Variation39=Designator=R258|UniqueId=\WLGLTEPP\NOSBHUDG|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation35=Designator=R258|UniqueId=\WLGLTEPP\NOSBHUDG|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation419=ParameterName=Comment|VariantValue=0R
 ParamDesignator419=R258
 ParamVariation420=ParameterName=Component Kind|VariantValue=Standard
@@ -1970,7 +1968,7 @@ ParamVariation433=ParameterName=Simulation|VariantValue=
 ParamDesignator433=R258
 ParamVariation434=ParameterName=Temperature|VariantValue= 
 ParamDesignator434=R258
-Variation40=Designator=R264|UniqueId=\WLGLTEPP\LOUVFLKM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation36=Designator=R264|UniqueId=\WLGLTEPP\LOUVFLKM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation435=ParameterName=Comment|VariantValue=43k
 ParamDesignator435=R264
 ParamVariation436=ParameterName=Component Kind|VariantValue=Standard
@@ -2005,7 +2003,7 @@ ParamVariation450=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator450=R264
 ParamVariation451=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator451=R264
-Variation41=Designator=R243|UniqueId=\YLDWALTE\NOSBHUDG|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation37=Designator=R243|UniqueId=\YLDWALTE\NOSBHUDG|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation452=ParameterName=Comment|VariantValue=0R
 ParamDesignator452=R243
 ParamVariation453=ParameterName=Component Kind|VariantValue=Standard
@@ -2038,7 +2036,7 @@ ParamVariation466=ParameterName=Simulation|VariantValue=
 ParamDesignator466=R243
 ParamVariation467=ParameterName=Temperature|VariantValue= 
 ParamDesignator467=R243
-Variation42=Designator=R249|UniqueId=\YLDWALTE\LOUVFLKM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation38=Designator=R249|UniqueId=\YLDWALTE\LOUVFLKM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation468=ParameterName=Comment|VariantValue=43k
 ParamDesignator468=R249
 ParamVariation469=ParameterName=Component Kind|VariantValue=Standard
@@ -2073,7 +2071,7 @@ ParamVariation483=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator483=R249
 ParamVariation484=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator484=R249
-Variation43=Designator=R225|UniqueId=\CUSUIAWM\TMOHWVEL|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation39=Designator=R225|UniqueId=\CUSUIAWM\TMOHWVEL|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation485=ParameterName=Comment|VariantValue=51
 ParamDesignator485=R225
 ParamVariation486=ParameterName=Component Kind|VariantValue=Standard
@@ -2108,7 +2106,7 @@ ParamVariation500=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator500=R225
 ParamVariation501=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator501=R225
-Variation44=Designator=R235|UniqueId=\CUSUIAWM\DERBHSXI|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation40=Designator=R235|UniqueId=\CUSUIAWM\DERBHSXI|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation502=ParameterName=Comment|VariantValue=1k
 ParamDesignator502=R235
 ParamVariation503=ParameterName=Component Kind|VariantValue=Standard
@@ -2143,7 +2141,7 @@ ParamVariation517=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator517=R235
 ParamVariation518=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator518=R235
-Variation45=Designator=C144|UniqueId=\CUSUIAWM\YFBDNTVM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
+Variation41=Designator=C144|UniqueId=\CUSUIAWM\YFBDNTVM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
 ParamVariation519=ParameterName=Comment|VariantValue=0.022µF
 ParamDesignator519=C144
 ParamVariation520=ParameterName=Component Kind|VariantValue=Standard
@@ -2180,7 +2178,7 @@ ParamVariation535=ParameterName=Temparature|VariantValue=
 ParamDesignator535=C144
 ParamVariation536=ParameterName=Tolerance|VariantValue=±10%
 ParamDesignator536=C144
-Variation46=Designator=R236|UniqueId=\CUSUIAWM\KBLBQIUY|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation42=Designator=R236|UniqueId=\CUSUIAWM\KBLBQIUY|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation537=ParameterName=Comment|VariantValue=4.3k
 ParamDesignator537=R236
 ParamVariation538=ParameterName=Component Kind|VariantValue=Standard
@@ -2215,7 +2213,7 @@ ParamVariation552=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator552=R236
 ParamVariation553=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator553=R236
-Variation47=Designator=C145|UniqueId=\CUSUIAWM\VUQPLGJE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation43=Designator=C145|UniqueId=\CUSUIAWM\VUQPLGJE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation554=ParameterName=Comment|VariantValue=0.10µF
 ParamDesignator554=C145
 ParamVariation555=ParameterName=Component Kind|VariantValue=Standard
@@ -2254,7 +2252,7 @@ ParamVariation571=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
 ParamDesignator571=C145
 ParamVariation572=ParameterName=Tolerance|VariantValue=±10%
 ParamDesignator572=C145
-Variation48=Designator=R237|UniqueId=\CUSUIAWM\QMNLOPEG|Kind=2|AlternatePart=3.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0061-2|AltLibLink_DesignItemID=CMP-005-0061-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=6C4407C0-5015-4B4D-8467-F68BD7BA5D37|AltLibLink_RevisionGUID=4DF2EE69-A3E3-4B5F-8F09-D14D150D8D4C|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation44=Designator=R237|UniqueId=\CUSUIAWM\QMNLOPEG|Kind=2|AlternatePart=3.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0061-2|AltLibLink_DesignItemID=CMP-005-0061-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=6C4407C0-5015-4B4D-8467-F68BD7BA5D37|AltLibLink_RevisionGUID=4DF2EE69-A3E3-4B5F-8F09-D14D150D8D4C|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation573=ParameterName=Comment|VariantValue=3.3k
 ParamDesignator573=R237
 ParamVariation574=ParameterName=Component Kind|VariantValue=Standard
@@ -2289,7 +2287,7 @@ ParamVariation588=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator588=R237
 ParamVariation589=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator589=R237
-Variation49=Designator=R228|UniqueId=\CUSUIAWM\NOSBHUDG|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation45=Designator=R228|UniqueId=\CUSUIAWM\NOSBHUDG|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation590=ParameterName=Comment|VariantValue=0R
 ParamDesignator590=R228
 ParamVariation591=ParameterName=Component Kind|VariantValue=Standard
@@ -2322,7 +2320,7 @@ ParamVariation604=ParameterName=Simulation|VariantValue=
 ParamDesignator604=R228
 ParamVariation605=ParameterName=Temperature|VariantValue= 
 ParamDesignator605=R228
-Variation50=Designator=R234|UniqueId=\CUSUIAWM\LOUVFLKM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation46=Designator=R234|UniqueId=\CUSUIAWM\LOUVFLKM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation606=ParameterName=Comment|VariantValue=43k
 ParamDesignator606=R234
 ParamVariation607=ParameterName=Component Kind|VariantValue=Standard
@@ -2357,7 +2355,7 @@ ParamVariation621=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator621=R234
 ParamVariation622=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator622=R234
-Variation51=Designator=R210|UniqueId=\LSFLSXLF\TMOHWVEL|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation47=Designator=R210|UniqueId=\LSFLSXLF\TMOHWVEL|Kind=2|AlternatePart=51|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0017-2|AltLibLink_DesignItemID=CMP-005-0017-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=3C49AFC4-2EB4-46E5-942B-B8D460AABEDC|AltLibLink_RevisionGUID=1BAEAC1C-B0C0-4F98-8BE2-6500A8094958|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation623=ParameterName=Comment|VariantValue=51
 ParamDesignator623=R210
 ParamVariation624=ParameterName=Component Kind|VariantValue=Standard
@@ -2392,7 +2390,7 @@ ParamVariation638=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator638=R210
 ParamVariation639=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator639=R210
-Variation52=Designator=R220|UniqueId=\LSFLSXLF\DERBHSXI|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation48=Designator=R220|UniqueId=\LSFLSXLF\DERBHSXI|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation640=ParameterName=Comment|VariantValue=1k
 ParamDesignator640=R220
 ParamVariation641=ParameterName=Component Kind|VariantValue=Standard
@@ -2427,7 +2425,7 @@ ParamVariation655=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator655=R220
 ParamVariation656=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator656=R220
-Variation53=Designator=C98|UniqueId=\LSFLSXLF\YFBDNTVM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
+Variation49=Designator=C98|UniqueId=\LSFLSXLF\YFBDNTVM|Kind=2|AlternatePart=0.022µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-009-0051-2|AltLibLink_DesignItemID=CMP-009-0051-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A80C52AA-0B49-4908-9D91-F7601ED19B85|AltLibLink_RevisionGUID=364B5C3A-3EA5-40AD-A8DF-1668838C790D|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=True
 ParamVariation657=ParameterName=Comment|VariantValue=0.022µF
 ParamDesignator657=C98
 ParamVariation658=ParameterName=Component Kind|VariantValue=Standard
@@ -2464,7 +2462,7 @@ ParamVariation673=ParameterName=Temparature|VariantValue=
 ParamDesignator673=C98
 ParamVariation674=ParameterName=Tolerance|VariantValue=±10%
 ParamDesignator674=C98
-Variation54=Designator=R221|UniqueId=\LSFLSXLF\KBLBQIUY|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation50=Designator=R221|UniqueId=\LSFLSXLF\KBLBQIUY|Kind=2|AlternatePart=4.3k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0064-2|AltLibLink_DesignItemID=CMP-005-0064-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=98ADA191-8117-42E5-A9AA-5F51E92DE59D|AltLibLink_RevisionGUID=81F6DA1C-8398-467B-BB2F-979F491DF1D1|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation675=ParameterName=Comment|VariantValue=4.3k
 ParamDesignator675=R221
 ParamVariation676=ParameterName=Component Kind|VariantValue=Standard
@@ -2499,7 +2497,7 @@ ParamVariation690=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator690=R221
 ParamVariation691=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator691=R221
-Variation55=Designator=C99|UniqueId=\LSFLSXLF\VUQPLGJE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation51=Designator=C99|UniqueId=\LSFLSXLF\VUQPLGJE|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0049-4|AltLibLink_DesignItemID=CMP-008-0049-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AEF15E5D-6A54-40E1-80A1-B0A0CF3F9E74|AltLibLink_RevisionGUID=086B2771-5D57-45B2-95F6-5CF17089C2C7|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation692=ParameterName=Comment|VariantValue=0.10µF
 ParamDesignator692=C99
 ParamVariation693=ParameterName=Component Kind|VariantValue=Standard
@@ -2538,7 +2536,7 @@ ParamVariation709=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
 ParamDesignator709=C99
 ParamVariation710=ParameterName=Tolerance|VariantValue=±10%
 ParamDesignator710=C99
-Variation56=Designator=R222|UniqueId=\LSFLSXLF\QMNLOPEG|Kind=2|AlternatePart=8.2k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0071-2|AltLibLink_DesignItemID=CMP-005-0071-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A710838A-EDF9-490C-A278-05A5416535F1|AltLibLink_RevisionGUID=8A21913F-07A6-4D54-A83E-0B0AB0EF9014|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation52=Designator=R222|UniqueId=\LSFLSXLF\QMNLOPEG|Kind=2|AlternatePart=8.2k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0071-2|AltLibLink_DesignItemID=CMP-005-0071-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=A710838A-EDF9-490C-A278-05A5416535F1|AltLibLink_RevisionGUID=8A21913F-07A6-4D54-A83E-0B0AB0EF9014|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation711=ParameterName=Comment|VariantValue=8.2k
 ParamDesignator711=R222
 ParamVariation712=ParameterName=Component Kind|VariantValue=Standard
@@ -2573,7 +2571,7 @@ ParamVariation726=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator726=R222
 ParamVariation727=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator727=R222
-Variation57=Designator=R213|UniqueId=\LSFLSXLF\NOSBHUDG|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation53=Designator=R213|UniqueId=\LSFLSXLF\NOSBHUDG|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation728=ParameterName=Comment|VariantValue=0R
 ParamDesignator728=R213
 ParamVariation729=ParameterName=Component Kind|VariantValue=Standard
@@ -2606,7 +2604,7 @@ ParamVariation742=ParameterName=Simulation|VariantValue=
 ParamDesignator742=R213
 ParamVariation743=ParameterName=Temperature|VariantValue= 
 ParamDesignator743=R213
-Variation58=Designator=R219|UniqueId=\LSFLSXLF\LOUVFLKM|Kind=2|AlternatePart=20k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0080-2|AltLibLink_DesignItemID=CMP-005-0080-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=5658AFD0-807B-4F51-B10F-661619A539A8|AltLibLink_RevisionGUID=A38FDF21-6072-49D8-B817-B7AA17A8328E|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation54=Designator=R219|UniqueId=\LSFLSXLF\LOUVFLKM|Kind=2|AlternatePart=20k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0080-2|AltLibLink_DesignItemID=CMP-005-0080-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=5658AFD0-807B-4F51-B10F-661619A539A8|AltLibLink_RevisionGUID=A38FDF21-6072-49D8-B817-B7AA17A8328E|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation744=ParameterName=Comment|VariantValue=20k
 ParamDesignator744=R219
 ParamVariation745=ParameterName=Component Kind|VariantValue=Standard
@@ -2641,11 +2639,11 @@ ParamVariation759=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator759=R219
 ParamVariation760=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator760=R219
-Variation59=Designator=R177|UniqueId=\ULAPOLOW\HUPCNVQT|Kind=1|AlternatePart= 
-Variation60=Designator=R172|UniqueId=\ULAPOLOW\BEBRHLPL|Kind=1|AlternatePart= 
-Variation61=Designator=R190|UniqueId=\SOYRUULX\BEBRHLPL|Kind=1|AlternatePart= 
-Variation62=Designator=R195|UniqueId=\SOYRUULX\HUPCNVQT|Kind=1|AlternatePart= 
-Variation63=Designator=R183|UniqueId=\ULAPOLOW\QLTUWKBK|Kind=2|AlternatePart=130k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0100-2|AltLibLink_DesignItemID=CMP-005-0100-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=C22D0F72-6017-4176-8ABB-697E398D3ACA|AltLibLink_RevisionGUID=FAEC0F79-B185-49DC-B25B-11DC699A71F0|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation55=Designator=R177|UniqueId=\ULAPOLOW\HUPCNVQT|Kind=1|AlternatePart= 
+Variation56=Designator=R172|UniqueId=\ULAPOLOW\BEBRHLPL|Kind=1|AlternatePart= 
+Variation57=Designator=R190|UniqueId=\SOYRUULX\BEBRHLPL|Kind=1|AlternatePart= 
+Variation58=Designator=R195|UniqueId=\SOYRUULX\HUPCNVQT|Kind=1|AlternatePart= 
+Variation59=Designator=R183|UniqueId=\ULAPOLOW\QLTUWKBK|Kind=2|AlternatePart=130k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0100-2|AltLibLink_DesignItemID=CMP-005-0100-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=C22D0F72-6017-4176-8ABB-697E398D3ACA|AltLibLink_RevisionGUID=FAEC0F79-B185-49DC-B25B-11DC699A71F0|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation761=ParameterName=Comment|VariantValue=130k
 ParamDesignator761=R183
 ParamVariation762=ParameterName=Component Kind|VariantValue=Standard
@@ -2680,7 +2678,7 @@ ParamVariation776=ParameterName=Part Number|VariantValue=ERJ-2RKF1303X
 ParamDesignator776=R183
 ParamVariation777=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator777=R183
-Variation64=Designator=R201|UniqueId=\SOYRUULX\QLTUWKBK|Kind=2|AlternatePart=130k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0100-2|AltLibLink_DesignItemID=CMP-005-0100-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=C22D0F72-6017-4176-8ABB-697E398D3ACA|AltLibLink_RevisionGUID=FAEC0F79-B185-49DC-B25B-11DC699A71F0|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation60=Designator=R201|UniqueId=\SOYRUULX\QLTUWKBK|Kind=2|AlternatePart=130k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0100-2|AltLibLink_DesignItemID=CMP-005-0100-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=C22D0F72-6017-4176-8ABB-697E398D3ACA|AltLibLink_RevisionGUID=FAEC0F79-B185-49DC-B25B-11DC699A71F0|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation778=ParameterName=Comment|VariantValue=130k
 ParamDesignator778=R201
 ParamVariation779=ParameterName=Component Kind|VariantValue=Standard
@@ -2715,7 +2713,7 @@ ParamVariation793=ParameterName=Part Number|VariantValue=ERJ-2RKF1303X
 ParamDesignator793=R201
 ParamVariation794=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator794=R201
-Variation65=Designator=R170|UniqueId=\ULAPOLOW\XMWPKDRP|Kind=2|AlternatePart=0.13 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0098-1|AltLibLink_DesignItemID=CMP-018-0098-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=554EC336-B308-486B-BDF7-A76F84277744|AltLibLink_RevisionGUID=B0EBBB47-3B5F-4C97-B385-3E306E9AF90D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=True
+Variation61=Designator=R170|UniqueId=\ULAPOLOW\XMWPKDRP|Kind=2|AlternatePart=0.13 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0098-1|AltLibLink_DesignItemID=CMP-018-0098-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=554EC336-B308-486B-BDF7-A76F84277744|AltLibLink_RevisionGUID=B0EBBB47-3B5F-4C97-B385-3E306E9AF90D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=True
 ParamVariation795=ParameterName=Comment|VariantValue=0.13 R
 ParamDesignator795=R170
 ParamVariation796=ParameterName=Component Kind|VariantValue=Standard
@@ -2746,7 +2744,7 @@ ParamVariation808=ParameterName=Simulation|VariantValue=
 ParamDesignator808=R170
 ParamVariation809=ParameterName=Temperature|VariantValue= 
 ParamDesignator809=R170
-Variation66=Designator=R188|UniqueId=\SOYRUULX\XMWPKDRP|Kind=2|AlternatePart=0.13 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0098-1|AltLibLink_DesignItemID=CMP-018-0098-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=554EC336-B308-486B-BDF7-A76F84277744|AltLibLink_RevisionGUID=B0EBBB47-3B5F-4C97-B385-3E306E9AF90D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=True
+Variation62=Designator=R188|UniqueId=\SOYRUULX\XMWPKDRP|Kind=2|AlternatePart=0.13 R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0098-1|AltLibLink_DesignItemID=CMP-018-0098-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=554EC336-B308-486B-BDF7-A76F84277744|AltLibLink_RevisionGUID=B0EBBB47-3B5F-4C97-B385-3E306E9AF90D|AltLibLink_Footprint=RESC0805(2012)_N|AltLibLink_IsSameFootprint=True
 ParamVariation810=ParameterName=Comment|VariantValue=0.13 R
 ParamDesignator810=R188
 ParamVariation811=ParameterName=Component Kind|VariantValue=Standard
@@ -2777,7 +2775,7 @@ ParamVariation823=ParameterName=Simulation|VariantValue=
 ParamDesignator823=R188
 ParamVariation824=ParameterName=Temperature|VariantValue= 
 ParamDesignator824=R188
-Variation67=Designator=R174|UniqueId=\ULAPOLOW\UGFKSKUO|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation63=Designator=R174|UniqueId=\ULAPOLOW\UGFKSKUO|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation825=ParameterName=Comment|VariantValue=0R
 ParamDesignator825=R174
 ParamVariation826=ParameterName=Component Kind|VariantValue=Standard
@@ -2810,7 +2808,7 @@ ParamVariation839=ParameterName=Simulation|VariantValue=
 ParamDesignator839=R174
 ParamVariation840=ParameterName=Temperature|VariantValue= 
 ParamDesignator840=R174
-Variation68=Designator=R180|UniqueId=\ULAPOLOW\FDWVEQAM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation64=Designator=R180|UniqueId=\ULAPOLOW\FDWVEQAM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation841=ParameterName=Comment|VariantValue=43k
 ParamDesignator841=R180
 ParamVariation842=ParameterName=Component Kind|VariantValue=Standard
@@ -2845,7 +2843,7 @@ ParamVariation856=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator856=R180
 ParamVariation857=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator857=R180
-Variation69=Designator=R298|UniqueId=\ULAPOLOW\UKRPVAAQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation65=Designator=R298|UniqueId=\ULAPOLOW\UKRPVAAQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation858=ParameterName=Comment|VariantValue=39
 ParamDesignator858=R298
 ParamVariation859=ParameterName=Component Kind|VariantValue=Standard
@@ -2880,7 +2878,7 @@ ParamVariation873=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator873=R298
 ParamVariation874=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator874=R298
-Variation70=Designator=R299|UniqueId=\SOYRUULX\UKRPVAAQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation66=Designator=R299|UniqueId=\SOYRUULX\UKRPVAAQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation875=ParameterName=Comment|VariantValue=39
 ParamDesignator875=R299
 ParamVariation876=ParameterName=Component Kind|VariantValue=Standard
@@ -2915,7 +2913,7 @@ ParamVariation890=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator890=R299
 ParamVariation891=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator891=R299
-Variation71=Designator=R192|UniqueId=\SOYRUULX\UGFKSKUO|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation67=Designator=R192|UniqueId=\SOYRUULX\UGFKSKUO|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-018-0040-3|AltLibLink_DesignItemID=CMP-018-0040-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=46796930-DE8D-4FBC-9DC2-9F47A6F83691|AltLibLink_RevisionGUID=21D0DEAA-B6F7-4708-B168-C36177725328|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation892=ParameterName=Comment|VariantValue=0R
 ParamDesignator892=R192
 ParamVariation893=ParameterName=Component Kind|VariantValue=Standard
@@ -2948,7 +2946,7 @@ ParamVariation906=ParameterName=Simulation|VariantValue=
 ParamDesignator906=R192
 ParamVariation907=ParameterName=Temperature|VariantValue= 
 ParamDesignator907=R192
-Variation72=Designator=R198|UniqueId=\SOYRUULX\FDWVEQAM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation68=Designator=R198|UniqueId=\SOYRUULX\FDWVEQAM|Kind=2|AlternatePart=43k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0088-2|AltLibLink_DesignItemID=CMP-005-0088-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=10B84D01-DE90-40BD-83C8-59DBF0D830A9|AltLibLink_RevisionGUID=C5A44DFB-FB84-483A-BCD1-3A4C7DBD590F|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation908=ParameterName=Comment|VariantValue=43k
 ParamDesignator908=R198
 ParamVariation909=ParameterName=Component Kind|VariantValue=Standard
@@ -2983,18 +2981,18 @@ ParamVariation923=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator923=R198
 ParamVariation924=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator924=R198
-Variation73=Designator=R147|UniqueId=\EVBXCTUW\OECXTVTT|Kind=1|AlternatePart= 
-Variation74=Designator=C1|UniqueId=\XRFIDGBS\ANCSPEME|Kind=1|AlternatePart= 
-Variation75=Designator=C2|UniqueId=\XRFIDGBS\JJCJRIXU|Kind=1|AlternatePart= 
-Variation76=Designator=J12|UniqueId=\QBOMVLMJ\SAHRUPBI|Kind=1|AlternatePart= 
-Variation77=Designator=J1|UniqueId=\JYBQFTHM\TLIIQMEK\LJYXMMBP|Kind=1|AlternatePart= 
-Variation78=Designator=J13|UniqueId=\JYBQFTHM\EUUMAJRC\LJYXMMBP|Kind=1|AlternatePart= 
-Variation79=Designator=J8|UniqueId=\UDGJVUMK\QPGHDHKU|Kind=1|AlternatePart= 
-Variation80=Designator=J9|UniqueId=\UDGJVUMK\SYQIVFEH|Kind=1|AlternatePart= 
-Variation81=Designator=R69|UniqueId=\CLCTGKCG|Kind=1|AlternatePart= 
-Variation82=Designator=R71|UniqueId=\RRNIHMPM|Kind=1|AlternatePart= 
-Variation83=Designator=R70|UniqueId=\OITKKTKD|Kind=1|AlternatePart= 
-Variation84=Designator=R306|UniqueId=\LSFLSXLF\VUYSNQSQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation69=Designator=R147|UniqueId=\EVBXCTUW\OECXTVTT|Kind=1|AlternatePart= 
+Variation70=Designator=C1|UniqueId=\XRFIDGBS\ANCSPEME|Kind=1|AlternatePart= 
+Variation71=Designator=C2|UniqueId=\XRFIDGBS\JJCJRIXU|Kind=1|AlternatePart= 
+Variation72=Designator=J12|UniqueId=\QBOMVLMJ\SAHRUPBI|Kind=1|AlternatePart= 
+Variation73=Designator=J1|UniqueId=\JYBQFTHM\TLIIQMEK\LJYXMMBP|Kind=1|AlternatePart= 
+Variation74=Designator=J13|UniqueId=\JYBQFTHM\EUUMAJRC\LJYXMMBP|Kind=1|AlternatePart= 
+Variation75=Designator=J8|UniqueId=\UDGJVUMK\QPGHDHKU|Kind=1|AlternatePart= 
+Variation76=Designator=J9|UniqueId=\UDGJVUMK\SYQIVFEH|Kind=1|AlternatePart= 
+Variation77=Designator=R69|UniqueId=\CLCTGKCG|Kind=1|AlternatePart= 
+Variation78=Designator=R71|UniqueId=\RRNIHMPM|Kind=1|AlternatePart= 
+Variation79=Designator=R70|UniqueId=\OITKKTKD|Kind=1|AlternatePart= 
+Variation80=Designator=R306|UniqueId=\LSFLSXLF\VUYSNQSQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation925=ParameterName=Comment|VariantValue=39
 ParamDesignator925=R306
 ParamVariation926=ParameterName=Component Kind|VariantValue=Standard
@@ -3029,7 +3027,7 @@ ParamVariation940=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator940=R306
 ParamVariation941=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator941=R306
-Variation85=Designator=R307|UniqueId=\CUSUIAWM\VUYSNQSQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation81=Designator=R307|UniqueId=\CUSUIAWM\VUYSNQSQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation942=ParameterName=Comment|VariantValue=39
 ParamDesignator942=R307
 ParamVariation943=ParameterName=Component Kind|VariantValue=Standard
@@ -3064,7 +3062,7 @@ ParamVariation957=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator957=R307
 ParamVariation958=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator958=R307
-Variation86=Designator=R308|UniqueId=\YLDWALTE\VUYSNQSQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation82=Designator=R308|UniqueId=\YLDWALTE\VUYSNQSQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation959=ParameterName=Comment|VariantValue=39
 ParamDesignator959=R308
 ParamVariation960=ParameterName=Component Kind|VariantValue=Standard
@@ -3099,7 +3097,7 @@ ParamVariation974=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator974=R308
 ParamVariation975=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator975=R308
-Variation87=Designator=R309|UniqueId=\WLGLTEPP\VUYSNQSQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation83=Designator=R309|UniqueId=\WLGLTEPP\VUYSNQSQ|Kind=2|AlternatePart=39|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0014-2|AltLibLink_DesignItemID=CMP-005-0014-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=AFF0EDD0-2239-416C-A17A-F1C130D81A76|AltLibLink_RevisionGUID=8CF53258-02A8-4B86-BB0B-49543EF5DE30|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation976=ParameterName=Comment|VariantValue=39
 ParamDesignator976=R309
 ParamVariation977=ParameterName=Component Kind|VariantValue=Standard
@@ -3134,7 +3132,7 @@ ParamVariation991=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator991=R309
 ParamVariation992=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator992=R309
-Variation88=Designator=R35|UniqueId=\VHMVBYVN\MKGNWPDQ\KFWKTGMJ|Kind=2|AlternatePart=82k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0095-2|AltLibLink_DesignItemID=CMP-005-0095-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=03064DE3-6EEB-48F2-BEB1-D67D3E098FC4|AltLibLink_RevisionGUID=8ECED002-BE36-4929-A335-F82A0E2216FF|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation84=Designator=R35|UniqueId=\VHMVBYVN\MKGNWPDQ\KFWKTGMJ|Kind=2|AlternatePart=82k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0095-2|AltLibLink_DesignItemID=CMP-005-0095-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=03064DE3-6EEB-48F2-BEB1-D67D3E098FC4|AltLibLink_RevisionGUID=8ECED002-BE36-4929-A335-F82A0E2216FF|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation993=ParameterName=Comment|VariantValue=82k
 ParamDesignator993=R35
 ParamVariation994=ParameterName=Component Kind|VariantValue=Standard
@@ -3169,7 +3167,7 @@ ParamVariation1008=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator1008=R35
 ParamVariation1009=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator1009=R35
-Variation89=Designator=R37|UniqueId=\VHMVBYVN\IFPIJPEL\KFWKTGMJ|Kind=2|AlternatePart=82k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0095-2|AltLibLink_DesignItemID=CMP-005-0095-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=03064DE3-6EEB-48F2-BEB1-D67D3E098FC4|AltLibLink_RevisionGUID=8ECED002-BE36-4929-A335-F82A0E2216FF|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation85=Designator=R37|UniqueId=\VHMVBYVN\IFPIJPEL\KFWKTGMJ|Kind=2|AlternatePart=82k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0095-2|AltLibLink_DesignItemID=CMP-005-0095-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=03064DE3-6EEB-48F2-BEB1-D67D3E098FC4|AltLibLink_RevisionGUID=8ECED002-BE36-4929-A335-F82A0E2216FF|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation1010=ParameterName=Comment|VariantValue=82k
 ParamDesignator1010=R37
 ParamVariation1011=ParameterName=Component Kind|VariantValue=Standard
@@ -3204,7 +3202,7 @@ ParamVariation1025=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator1025=R37
 ParamVariation1026=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator1026=R37
-Variation90=Designator=R154|UniqueId=\BWCXDDWJ\JHTBIPQY|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
+Variation86=Designator=R154|UniqueId=\BWCXDDWJ\JHTBIPQY|Kind=2|AlternatePart=1k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0048-3|AltLibLink_DesignItemID=CMP-005-0048-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=9448B7A3-0124-4889-985F-96460FE7F9B6|AltLibLink_RevisionGUID=CD7CE01A-937D-4EA7-8DC6-F785E1F96657|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation1027=ParameterName=Comment|VariantValue=1k
 ParamDesignator1027=R154
 ParamVariation1028=ParameterName=Component Kind|VariantValue=Standard
@@ -3239,14 +3237,14 @@ ParamVariation1042=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator1042=R154
 ParamVariation1043=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator1043=R154
-Variation91=Designator=FD1|UniqueId=\HVSFLXEP|Kind=1|AlternatePart= 
-Variation92=Designator=FD3|UniqueId=\NFWGYJOP|Kind=1|AlternatePart= 
-Variation93=Designator=FD5|UniqueId=\WLSQAHFG|Kind=1|AlternatePart= 
-Variation94=Designator=FD2|UniqueId=\VSSVDSFV|Kind=1|AlternatePart= 
-Variation95=Designator=FD4|UniqueId=\NVDMJSNC|Kind=1|AlternatePart= 
-Variation96=Designator=FD6|UniqueId=\UPVIMDSB|Kind=1|AlternatePart= 
-Variation97=Designator=U25|UniqueId=\ADYUEVUX\WUMROYTY|Kind=1|AlternatePart= 
-Variation98=Designator=R74|UniqueId=\JGGYRRPG|Kind=2|AlternatePart=100k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0097-2|AltLibLink_DesignItemID=CMP-005-0097-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=88680DC7-8758-4B7A-B83A-16A8DC35E06B|AltLibLink_RevisionGUID=93A5CE98-B50A-432C-889A-A6B4909F5260|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=False
+Variation87=Designator=FD1|UniqueId=\HVSFLXEP|Kind=1|AlternatePart= 
+Variation88=Designator=FD3|UniqueId=\NFWGYJOP|Kind=1|AlternatePart= 
+Variation89=Designator=FD5|UniqueId=\WLSQAHFG|Kind=1|AlternatePart= 
+Variation90=Designator=FD2|UniqueId=\VSSVDSFV|Kind=1|AlternatePart= 
+Variation91=Designator=FD4|UniqueId=\NVDMJSNC|Kind=1|AlternatePart= 
+Variation92=Designator=FD6|UniqueId=\UPVIMDSB|Kind=1|AlternatePart= 
+Variation93=Designator=U25|UniqueId=\ADYUEVUX\WUMROYTY|Kind=1|AlternatePart= 
+Variation94=Designator=R74|UniqueId=\JGGYRRPG|Kind=2|AlternatePart=100k|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-005-0097-2|AltLibLink_DesignItemID=CMP-005-0097-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=88680DC7-8758-4B7A-B83A-16A8DC35E06B|AltLibLink_RevisionGUID=93A5CE98-B50A-432C-889A-A6B4909F5260|AltLibLink_Footprint=RESC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation1044=ParameterName=Comment|VariantValue=100k
 ParamDesignator1044=R74
 ParamVariation1045=ParameterName=Component Kind|VariantValue=Standard
@@ -3281,7 +3279,7 @@ ParamVariation1059=ParameterName=Symbol Name|VariantValue=Res
 ParamDesignator1059=R74
 ParamVariation1060=ParameterName=Temperature|VariantValue=-55°C ~ 155°C
 ParamDesignator1060=R74
-Variation99=Designator=C82|UniqueId=\ULAPOLOW\WOMXJSJI|Kind=2|AlternatePart=10pF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0013-4|AltLibLink_DesignItemID=CMP-008-0013-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=26273D7F-3E1F-4AEE-A491-E92CA91606EE|AltLibLink_RevisionGUID=DC84D50C-DD47-451F-8E69-8418EDBC0FAC|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=False
+Variation95=Designator=C82|UniqueId=\ULAPOLOW\WOMXJSJI|Kind=2|AlternatePart=10pF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0013-4|AltLibLink_DesignItemID=CMP-008-0013-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=26273D7F-3E1F-4AEE-A491-E92CA91606EE|AltLibLink_RevisionGUID=DC84D50C-DD47-451F-8E69-8418EDBC0FAC|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation1061=ParameterName=Comment|VariantValue=10pF
 ParamDesignator1061=C82
 ParamVariation1062=ParameterName=Component Kind|VariantValue=Standard
@@ -3320,7 +3318,7 @@ ParamVariation1078=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
 ParamDesignator1078=C82
 ParamVariation1079=ParameterName=Tolerance|VariantValue=±0.5pF
 ParamDesignator1079=C82
-Variation100=Designator=C88|UniqueId=\SOYRUULX\WOMXJSJI|Kind=2|AlternatePart=10pF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0013-4|AltLibLink_DesignItemID=CMP-008-0013-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=26273D7F-3E1F-4AEE-A491-E92CA91606EE|AltLibLink_RevisionGUID=DC84D50C-DD47-451F-8E69-8418EDBC0FAC|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=False
+Variation96=Designator=C88|UniqueId=\SOYRUULX\WOMXJSJI|Kind=2|AlternatePart=10pF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-008-0013-4|AltLibLink_DesignItemID=CMP-008-0013-4|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=26273D7F-3E1F-4AEE-A491-E92CA91606EE|AltLibLink_RevisionGUID=DC84D50C-DD47-451F-8E69-8418EDBC0FAC|AltLibLink_Footprint=CAPC0402(1005)_N|AltLibLink_IsSameFootprint=True
 ParamVariation1080=ParameterName=Comment|VariantValue=10pF
 ParamDesignator1080=C88
 ParamVariation1081=ParameterName=Component Kind|VariantValue=Standard
@@ -3359,7 +3357,42 @@ ParamVariation1097=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
 ParamDesignator1097=C88
 ParamVariation1098=ParameterName=Tolerance|VariantValue=±0.5pF
 ParamDesignator1098=C88
-ParamVariationCount=1098
+Variation97=Designator=C83|UniqueId=\ULAPOLOW\NXTTTNPY|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-010-0049-3|AltLibLink_DesignItemID=CMP-010-0049-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=EE772D3C-07C0-4D99-867C-6CF43FA8988B|AltLibLink_RevisionGUID=0993CA9A-637D-4529-84CF-ACDC10588D29|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=False
+ParamVariation1099=ParameterName=Comment|VariantValue=0.10µF
+ParamDesignator1099=C83
+ParamVariation1100=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator1100=C83
+ParamVariation1101=ParameterName=Description|VariantValue=CAP CER 0.1UF 100V X7S 0603
+ParamDesignator1101=C83
+ParamVariation1102=ParameterName=Footprint|VariantValue=CAPC0603(1608)_N
+ParamDesignator1102=C83
+ParamVariation1103=ParameterName=Height|VariantValue=0.9mm
+ParamDesignator1103=C83
+ParamVariation1104=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator1104=C83
+ParamVariation1105=ParameterName=InternalID|VariantValue=106636
+ParamDesignator1105=C83
+ParamVariation1106=ParameterName=Library Reference|VariantValue=CMP-010-0049-3
+ParamDesignator1106=C83
+ParamVariation1107=ParameterName=Manufacturer|VariantValue=TDK
+ParamDesignator1107=C83
+ParamVariation1108=ParameterName=Manufacturer number|VariantValue=CGA3E3X7S2A104K080AB
+ParamDesignator1108=C83
+ParamVariation1109=ParameterName=PCB3D|VariantValue= 
+ParamDesignator1109=C83
+ParamVariation1110=ParameterName=Pin Info|VariantValue= 
+ParamDesignator1110=C83
+ParamVariation1111=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator1111=C83
+ParamVariation1112=ParameterName=Simulation|VariantValue= 
+ParamDesignator1112=C83
+ParamVariation1113=ParameterName=Temparature|VariantValue=-55<+125
+ParamDesignator1113=C83
+ParamVariation1114=ParameterName=Temperature|VariantValue=-55 to 125C
+ParamDesignator1114=C83
+ParamVariation1115=ParameterName=Tolerance|VariantValue=±10%
+ParamDesignator1115=C83
+ParamVariationCount=1115
 
 [ProjectVariant3]
 UniqueID=C5CFFF4D-00A4-4689-9449-94FF1E949902
@@ -5503,20 +5536,20 @@ Variation87=Designator=U25|UniqueId=\ADYUEVUX\WUMROYTY|Kind=1|AlternatePart=
 ParamVariationCount=1023
 
 [Parameter1]
-Name=Year
-Value=2017
+Name=Pcb_Revision
+Value=3
 
 [Parameter2]
-Name=Title
-Value=P80 - Power Management Unit
-
-[Parameter3]
 Name=ProjectRevision
 Value=3
 
+[Parameter3]
+Name=Title
+Value=P80 - Power Management Unit
+
 [Parameter4]
-Name=Pcb_Revision
-Value=3
+Name=Year
+Value=2017
 
 [Configuration1]
 Name=Sources
@@ -6782,7 +6815,7 @@ PartTypes=0
 [NetInfos]
 Net1=NetName=NetC?_2|NetColor=$006E6EFF
 Net2=NetName=NetC77_2|NetColor=$006E6EFF
-Net3=NetName=VBAT|NetColor=$006E6EFF
+Net3=NetName=NetC100_2|NetColor=$006E6EFF
 Net4=NetName=NetJ12_1|NetColor=$006E6EFF
 Net5=NetName=NetC130_2|NetColor=$006E6EFF
 Net6=NetName=NetJ12_2|NetColor=$006E6EFF
@@ -6799,7 +6832,7 @@ Net16=NetName=NetQ1_2|NetColor=$006E6EFF
 Net17=NetName=NetJ11_1|NetColor=$006E6EFF
 Net18=NetName=NetR67_2|NetColor=$006E6EFF
 Net19=NetName=NetTP6_1|NetColor=$006E6EFF
-Net20=NetName=NetC100_2|NetColor=$006E6EFF
+Net20=NetName=VBAT|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
