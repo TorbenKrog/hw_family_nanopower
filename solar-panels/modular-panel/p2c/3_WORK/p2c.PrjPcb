@@ -98,15 +98,179 @@ Variation1=Designator=S3|UniqueId=\TUOHVNKR\MQJMVRFP|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=CAM\Design Rule Check - p2c.html
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\gs-bom-Free Documents-[No Variations].csv
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\gs-bom_Pp-Free Documents-[No Variations].csv
+DocumentPath=CAM\Design Rule Check - p2c.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\board_outline__m4_\features
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\drill1\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\drill2\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\layer_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\layer_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\mechanical_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\mechanical_7\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\mid-layer_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\mid-layer_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\mid-layer_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\mid-layer_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=CAM\gs-bom_Pp-p2c-[No Variations].csv
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=CAM\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=CAM\NC Drill Files\p2c-[No Variations]-Plated.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=CAM\NC Drill Files\p2c-[No Variations]-Plated.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=CAM\NC Drill Files\p2c-[No Variations]-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=CAM\NC Drill Files\p2c-[No Variations].DRR
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=CAM\Gerber Files\p2c-[No Variations].EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=CAM\Gerber Files\p2c-[No Variations].G1
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=CAM\Gerber Files\p2c-[No Variations].G2
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=CAM\Gerber Files\p2c-[No Variations].GBL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=CAM\Gerber Files\p2c-[No Variations].GM4
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=CAM\Gerber Files\p2c-[No Variations].GM5
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=CAM\Gerber Files\p2c-[No Variations].GM7
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=CAM\Gerber Files\p2c-[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=CAM\Gerber Files\p2c-[No Variations].GTP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=CAM\NC Drill Files\p2c-[No Variations].LDP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=CAM\Gerber Files\p2c-[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=CAM\ODB++ Files\p2c-[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=CAM\Gerber Files\p2c-[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\drill1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\drill2\tools
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=CAM\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -262,7 +426,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\SAFEQ01\SkyPrint
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1084,6 +1248,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
