@@ -1055,8 +1055,8 @@ Variation601=Designator=FD3|UniqueId=\NFWGYJOP|Kind=1|AlternatePart=
 Variation602=Designator=FD4|UniqueId=\NVDMJSNC|Kind=1|AlternatePart= 
 Variation603=Designator=FD6|UniqueId=\UPVIMDSB|Kind=1|AlternatePart= 
 Variation604=Designator=FD5|UniqueId=\WLSQAHFG|Kind=1|AlternatePart= 
-Variation605=Designator=R8|UniqueId=\KRNWSBDH\VAWVCZJL|Kind=1|AlternatePart= 
-Variation606=Designator=R9|UniqueId=\KRNWSBDH\HQWUXWEH|Kind=1|AlternatePart= 
+Variation605=Designator=R75|UniqueId=\KRNWSBDH\VAWVCZJL|Kind=1|AlternatePart= 
+Variation606=Designator=R76|UniqueId=\KRNWSBDH\HQWUXWEH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -1064,7 +1064,7 @@ UniqueID=C5CFFF4D-00A4-4689-9449-94FF1E949902
 Description=default_SMD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=97
+VariationCount=96
 Variation1=Designator=R126|UniqueId=\IXOYSCOO\FPOJODIE|Kind=1|AlternatePart= 
 Variation2=Designator=R100|UniqueId=\IXOYSCOO\QRHGIBEH|Kind=1|AlternatePart= 
 Variation3=Designator=R77|UniqueId=\IXOYSCOO\AEOBGEKD|Kind=1|AlternatePart= 
@@ -3357,42 +3357,7 @@ ParamVariation1097=ParameterName=Temperature|VariantValue=-55°C ~ 125°C
 ParamDesignator1097=C88
 ParamVariation1098=ParameterName=Tolerance|VariantValue=±0.5pF
 ParamDesignator1098=C88
-Variation97=Designator=C83|UniqueId=\ULAPOLOW\NXTTTNPY|Kind=2|AlternatePart=0.10µF|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=GomSpace Vault|AltLibLink_SymbolReference=CMP-010-0049-3|AltLibLink_DesignItemID=CMP-010-0049-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=GomSpace Vault|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=BE383FA5-277E-4256-B036-CC1DA2F95C23|AltLibLink_ItemGUID=EE772D3C-07C0-4D99-867C-6CF43FA8988B|AltLibLink_RevisionGUID=0993CA9A-637D-4529-84CF-ACDC10588D29|AltLibLink_Footprint=CAPC0603(1608)_N|AltLibLink_IsSameFootprint=False
-ParamVariation1099=ParameterName=Comment|VariantValue=0.10µF
-ParamDesignator1099=C83
-ParamVariation1100=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator1100=C83
-ParamVariation1101=ParameterName=Description|VariantValue=CAP CER 0.1UF 100V X7S 0603
-ParamDesignator1101=C83
-ParamVariation1102=ParameterName=Footprint|VariantValue=CAPC0603(1608)_N
-ParamDesignator1102=C83
-ParamVariation1103=ParameterName=Height|VariantValue=0.9mm
-ParamDesignator1103=C83
-ParamVariation1104=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator1104=C83
-ParamVariation1105=ParameterName=InternalID|VariantValue=106636
-ParamDesignator1105=C83
-ParamVariation1106=ParameterName=Library Reference|VariantValue=CMP-010-0049-3
-ParamDesignator1106=C83
-ParamVariation1107=ParameterName=Manufacturer|VariantValue=TDK
-ParamDesignator1107=C83
-ParamVariation1108=ParameterName=Manufacturer number|VariantValue=CGA3E3X7S2A104K080AB
-ParamDesignator1108=C83
-ParamVariation1109=ParameterName=PCB3D|VariantValue= 
-ParamDesignator1109=C83
-ParamVariation1110=ParameterName=Pin Info|VariantValue= 
-ParamDesignator1110=C83
-ParamVariation1111=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator1111=C83
-ParamVariation1112=ParameterName=Simulation|VariantValue= 
-ParamDesignator1112=C83
-ParamVariation1113=ParameterName=Temparature|VariantValue=-55<+125
-ParamDesignator1113=C83
-ParamVariation1114=ParameterName=Temperature|VariantValue=-55 to 125C
-ParamDesignator1114=C83
-ParamVariation1115=ParameterName=Tolerance|VariantValue=±10%
-ParamDesignator1115=C83
-ParamVariationCount=1115
+ParamVariationCount=1098
 
 [ProjectVariant3]
 UniqueID=C5CFFF4D-00A4-4689-9449-94FF1E949902
@@ -6809,7 +6774,7 @@ PartTypes=0
 [NetInfos]
 Net1=NetName=NetC?_2|NetColor=$006E6EFF
 Net2=NetName=NetC77_2|NetColor=$006E6EFF
-Net3=NetName=NetC100_2|NetColor=$006E6EFF
+Net3=NetName=VBAT|NetColor=$006E6EFF
 Net4=NetName=NetJ12_1|NetColor=$006E6EFF
 Net5=NetName=NetC130_2|NetColor=$006E6EFF
 Net6=NetName=NetJ12_2|NetColor=$006E6EFF
@@ -6826,7 +6791,7 @@ Net16=NetName=NetQ1_2|NetColor=$006E6EFF
 Net17=NetName=NetJ11_1|NetColor=$006E6EFF
 Net18=NetName=NetR67_2|NetColor=$006E6EFF
 Net19=NetName=NetTP6_1|NetColor=$006E6EFF
-Net20=NetName=VBAT|NetColor=$006E6EFF
+Net20=NetName=NetC100_2|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
