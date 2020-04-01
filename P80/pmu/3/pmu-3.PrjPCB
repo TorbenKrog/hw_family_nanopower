@@ -5500,6 +5500,10 @@ ParamDesignator1023=R154
 Variation87=Designator=U25|UniqueId=\ADYUEVUX\WUMROYTY|Kind=1|AlternatePart= 
 ParamVariationCount=1023
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for pmu\Design Rule Check - pmu.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Pcb_Revision
 Value=3
@@ -5746,6 +5750,12 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -6154,6 +6164,16 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -6284,6 +6304,8 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
+Type118=1
+Type119=1
 
 [Difference Levels]
 Type1=1
@@ -6352,6 +6374,8 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
+Type67=1
+Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -6499,6 +6523,7 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
+ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -6751,6 +6776,7 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 FullReplace=1
 UpdateDesignatorLock=1
@@ -6769,29 +6795,30 @@ UpdateCurrentModels=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
 Net1=NetName=NetC?_2|NetColor=$006E6EFF
-Net2=NetName=NetC77_2|NetColor=$006E6EFF
-Net3=NetName=VBAT|NetColor=$006E6EFF
-Net4=NetName=NetJ12_1|NetColor=$006E6EFF
-Net5=NetName=NetC130_2|NetColor=$006E6EFF
-Net6=NetName=NetJ12_2|NetColor=$006E6EFF
-Net7=NetName=VBAT0|NetColor=$006E6EFF
-Net8=NetName=NetC78_2|NetColor=$006E6EFF
-Net9=NetName=NetC32_2|NetColor=$006E6EFF
+Net2=NetName=NetC100_2|NetColor=$006E6EFF
+Net3=NetName=NetC130_2|NetColor=$006E6EFF
+Net4=NetName=NetC32_2|NetColor=$006E6EFF
+Net5=NetName=NetC77_2|NetColor=$006E6EFF
+Net6=NetName=NetC78_2|NetColor=$006E6EFF
+Net7=NetName=NetJ11_1|NetColor=$006E6EFF
+Net8=NetName=NetJ12_1|NetColor=$006E6EFF
+Net9=NetName=NetJ12_2|NetColor=$006E6EFF
 Net10=NetName=NetNT9_1|NetColor=$006E6EFF
-Net11=NetName=NetTP5_1|NetColor=$006E6EFF
-Net12=NetName=NetTP7_1|NetColor=$006E6EFF
-Net13=NetName=NetR115_2|NetColor=$006E6EFF
-Net14=NetName=Vio_2|NetColor=$006E6EFF
-Net15=NetName=NetR157_1|NetColor=$006E6EFF
-Net16=NetName=NetQ1_2|NetColor=$006E6EFF
-Net17=NetName=NetJ11_1|NetColor=$006E6EFF
-Net18=NetName=NetR67_2|NetColor=$006E6EFF
-Net19=NetName=NetTP6_1|NetColor=$006E6EFF
-Net20=NetName=NetC100_2|NetColor=$006E6EFF
+Net11=NetName=NetQ1_2|NetColor=$006E6EFF
+Net12=NetName=NetR115_2|NetColor=$006E6EFF
+Net13=NetName=NetR157_1|NetColor=$006E6EFF
+Net14=NetName=NetR67_2|NetColor=$006E6EFF
+Net15=NetName=NetTP5_1|NetColor=$006E6EFF
+Net16=NetName=NetTP6_1|NetColor=$006E6EFF
+Net17=NetName=NetTP7_1|NetColor=$006E6EFF
+Net18=NetName=VBAT|NetColor=$006E6EFF
+Net19=NetName=VBAT0|NetColor=$006E6EFF
+Net20=NetName=Vio_2|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
