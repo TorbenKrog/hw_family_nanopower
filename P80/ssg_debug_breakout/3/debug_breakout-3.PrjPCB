@@ -99,6 +99,10 @@ Variation2=Designator=R4|UniqueId=\BKTJMQRA|Kind=1|AlternatePart=
 Variation3=Designator=J5|UniqueId=\YXKIVNQQ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for debug_breakout-3\Design Rule Check - ssg_breakout.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
