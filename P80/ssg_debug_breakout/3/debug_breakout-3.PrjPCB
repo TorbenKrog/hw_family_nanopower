@@ -93,10 +93,11 @@ UniqueID=42B24B87-2A7C-486E-8BF0-A12DDFDC8502
 Description=default_SMD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=3
+VariationCount=4
 Variation1=Designator=R2|UniqueId=\YHACDJAR|Kind=1|AlternatePart= 
 Variation2=Designator=R4|UniqueId=\BKTJMQRA|Kind=1|AlternatePart= 
 Variation3=Designator=J5|UniqueId=\YXKIVNQQ|Kind=1|AlternatePart= 
+Variation4=Designator=J6|UniqueId=\SURBRUGR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -105,7 +106,11 @@ DItemRevisionGUID=
 
 [Parameter1]
 Name=Title
-Value=SSG Debug Breakout Board
+Value=P80 Debug Breakout Board
+
+[Parameter2]
+Name=Pcb_Revision
+Value=3
 
 [Configuration1]
 Name=Sources
