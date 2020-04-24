@@ -99,6 +99,10 @@ Variation2=Designator=R4|UniqueId=\JBEXVCRI|Kind=1|AlternatePart=
 Variation3=Designator=R5|UniqueId=\MCLPNYGN|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for TSP_interstage\Design Rule Check - TCP_interstage.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\library\altium\Libraries\*.*
 IncludeSubFolders=1
