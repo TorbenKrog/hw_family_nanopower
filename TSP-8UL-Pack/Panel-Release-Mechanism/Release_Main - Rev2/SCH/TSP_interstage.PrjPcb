@@ -124,6 +124,58 @@ DItemRevisionGUID=
 Path=..\..\library\altium\Libraries\*.*
 IncludeSubFolders=1
 
+[Parameter1]
+Name=schematic_reviewer
+Value=BGS,KAMA,AMA,JBJ,RABN
+
+[Parameter2]
+Name=schematic_designer
+Value=SKHO
+
+[Parameter3]
+Name=schematic_approved_by
+Value=BGS,KAMA,AMA,JBJ,RABN
+
+[Parameter4]
+Name=ProjectTitle
+Value=TSP_Release_board
+
+[Parameter5]
+Name=pcb_reviewer
+Value=BGS,KAMA,AMA,JBJ,RABN
+
+[Parameter6]
+Name=pcb_designer
+Value=SKHO
+
+[Parameter7]
+Name=pcb_approved_by
+Value=BGS,KAMA,AMA,JBJ,RABN
+
+[Parameter8]
+Name=ifs_part_number_raw_pcb
+Value=108354
+
+[Parameter9]
+Name=ifs_part_number_bom
+Value=108355
+
+[Parameter10]
+Name=ifs_document_Number_schematic
+Value=1025669
+
+[Parameter11]
+Name=ifs_document_number_component_placement
+Value=1025670
+
+[Parameter12]
+Name=ifs_document_number_3d_pdf
+Value=1025671
+
+[Parameter13]
+Name=gomspace_project_phase
+Value=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -809,6 +861,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
