@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Dual-Cell_V2
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -106,210 +106,21 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [ProjectVariant1]
-UniqueID=35782AB4-525F-46AE-9A50-84278A5C6128
-Description=NoSens_NoFlex
+UniqueID=2C9418BA-AEE0-454E-B948-FDF0249960DC
+Description=Dual-Cell_V2 excl connector
 AllowFabrication=0
 ParameterCount=0
-VariationCount=6
-Variation1=Designator=J2|UniqueId=\WLTQSPGK|Kind=1|AlternatePart= 
-Variation2=Designator=J1|UniqueId=\RBFRHRDH|Kind=1|AlternatePart= 
-Variation3=Designator=D1|UniqueId=\OQVHNCOD|Kind=1|AlternatePart= 
-Variation4=Designator=TR1|UniqueId=\ATKFJUFB|Kind=1|AlternatePart= 
-Variation5=Designator=PCB1|UniqueId=\YOKEDGLG|Kind=1|AlternatePart= 
-Variation6=Designator=PCB2|UniqueId=\ECRKSUKG|Kind=1|AlternatePart= 
+VariationCount=1
+Variation1=Designator=J100|UniqueId=\OSULDJFP|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Dual-Cell_V2\Design Rule Check - Dual-Cell_V2.html
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Dual-Cell_V2\NC Drill Files\Dual-Cell_V2-FSS standard-Plated.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Dual-Cell_V2\NC Drill Files\Dual-Cell_V2-FSS standard-Plated.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Dual-Cell_V2\NC Drill Files\Dual-Cell_V2-FSS standard-Plated.TX3
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Dual-Cell_V2\NC Drill Files\Dual-Cell_V2-FSS standard-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Dual-Cell_V2\NC Drill Files\Dual-Cell_V2-FSS standard.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Dual-Cell_V2\Gerber Files\Dual-Cell_V2-FSS standard.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Dual-Cell_V2\Gerber Files\Dual-Cell_V2-FSS standard.G1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Dual-Cell_V2\Gerber Files\Dual-Cell_V2-FSS standard.G2
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Dual-Cell_V2\Gerber Files\Dual-Cell_V2-FSS standard.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Dual-Cell_V2\Gerber Files\Dual-Cell_V2-FSS standard.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Dual-Cell_V2\Gerber Files\Dual-Cell_V2-FSS standard.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Dual-Cell_V2\Gerber Files\Dual-Cell_V2-FSS standard.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Dual-Cell_V2\Gerber Files\Dual-Cell_V2-FSS standard.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Dual-Cell_V2\Gerber Files\Dual-Cell_V2-FSS standard.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Dual-Cell_V2\NC Drill Files\Dual-Cell_V2-FSS standard.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Dual-Cell_V2\Gerber Files\Dual-Cell_V2-FSS standard.REP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\Dual-Cell_V2-FSS standard.REP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Dual-Cell_V2\Gerber Files\Dual-Cell_V2-FSS standard.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\drill1\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\drill2\features
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\drill3\features
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\mechanical_4\features
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\mechanical_5\features
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\mechanical_7\features
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\mid-layer_3\features
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\mid-layer_4\features
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\mid-layer_5\features
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\mid-layer_6\features
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\midlayer1\features
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\midlayer2\features
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\drill1\tools
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\drill2\tools
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\drill3\tools
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for Dual-Cell_V2\ODB++ Files\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
+[ProjectVariant2]
+UniqueID=8A7F2274-853F-46A9-8FBD-83D77944B70E
+Description=Dual-Cell_V2 incl connector
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
 
 [Configuration1]
 Name=Sources
@@ -322,7 +133,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Dual-Cell_V2
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -941,36 +752,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
