@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -139,138 +139,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\board_outline__m4_\features
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\layer_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\mechanical_6\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\mechanical_7__manufacture_number_\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\midlayer_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for MSP-GSSB\NC Drill Files\MSP-GSSB-FSS standard-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for MSP-GSSB\NC Drill Files\MSP-GSSB-FSS standard.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.G1
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.G2
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for MSP-GSSB\NC Drill Files\MSP-GSSB-FSS standard.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.REP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\MSP-GSSB-FSS standard.REP
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for MSP-GSSB\Gerber Files\MSP-GSSB-FSS standard.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for MSP-GSSB\ODB++ Files\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -280,6 +148,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
